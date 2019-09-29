@@ -230,6 +230,33 @@ src/P0002_AddTwoNumbers.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0002_AddTwoNumbers.cpp.s
 .PHONY : src/P0002_AddTwoNumbers.cpp.s
 
+src/P0146_LRUCache.obj: src/P0146_LRUCache.cpp.obj
+
+.PHONY : src/P0146_LRUCache.obj
+
+# target to build an object file
+src/P0146_LRUCache.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0146_LRUCache.cpp.obj
+.PHONY : src/P0146_LRUCache.cpp.obj
+
+src/P0146_LRUCache.i: src/P0146_LRUCache.cpp.i
+
+.PHONY : src/P0146_LRUCache.i
+
+# target to preprocess a source file
+src/P0146_LRUCache.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0146_LRUCache.cpp.i
+.PHONY : src/P0146_LRUCache.cpp.i
+
+src/P0146_LRUCache.s: src/P0146_LRUCache.cpp.s
+
+.PHONY : src/P0146_LRUCache.s
+
+# target to generate assembly for a file
+src/P0146_LRUCache.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0146_LRUCache.cpp.s
+.PHONY : src/P0146_LRUCache.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -251,6 +278,9 @@ help:
 	@echo ... src/P0002_AddTwoNumbers.obj
 	@echo ... src/P0002_AddTwoNumbers.i
 	@echo ... src/P0002_AddTwoNumbers.s
+	@echo ... src/P0146_LRUCache.obj
+	@echo ... src/P0146_LRUCache.i
+	@echo ... src/P0146_LRUCache.s
 .PHONY : help
 
 

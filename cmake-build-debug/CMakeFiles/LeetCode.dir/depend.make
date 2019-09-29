@@ -6,12 +6,14 @@ CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0000_CommonHead.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0000_ProblemHead.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0001_TwoSum.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0002_AddTwoNumbers.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0146_LRUCache.h
 
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0000_CommonHead.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0000_ProblemHead.cpp
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0000_ProblemHead.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0001_TwoSum.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0002_AddTwoNumbers.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0146_LRUCache.h
 
 CMakeFiles/LeetCode.dir/src/P0001_TwoSum.cpp.obj: ../src/P0001_TwoSum.cpp
 CMakeFiles/LeetCode.dir/src/P0001_TwoSum.cpp.obj: ../src/P0001_TwoSum.h
@@ -19,4 +21,7 @@ CMakeFiles/LeetCode.dir/src/P0001_TwoSum.cpp.obj: ../src/P0001_TwoSum.h
 CMakeFiles/LeetCode.dir/src/P0002_AddTwoNumbers.cpp.obj: ../src/P0000_CommonHead.h
 CMakeFiles/LeetCode.dir/src/P0002_AddTwoNumbers.cpp.obj: ../src/P0002_AddTwoNumbers.cpp
 CMakeFiles/LeetCode.dir/src/P0002_AddTwoNumbers.cpp.obj: ../src/P0002_AddTwoNumbers.h
+
+CMakeFiles/LeetCode.dir/src/P0146_LRUCache.cpp.obj: ../src/P0146_LRUCache.cpp
+CMakeFiles/LeetCode.dir/src/P0146_LRUCache.cpp.obj: ../src/P0146_LRUCache.h
 

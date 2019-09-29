@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj"
   "CMakeFiles/LeetCode.dir/src/P0001_TwoSum.cpp.obj"
   "CMakeFiles/LeetCode.dir/src/P0002_AddTwoNumbers.cpp.obj"
+  "CMakeFiles/LeetCode.dir/src/P0146_LRUCache.cpp.obj"
   "LeetCode.pdb"
   "LeetCode.exe"
   "LeetCode.exe.manifest"

@@ -9,19 +9,20 @@ int Test_Problem(int number) {
         cout << "Number error!" << endl;
         return 0;
     }
-
-    switch (number) {
-        case 1:
-            P0001_TwoSum P0001;
-            P0001.test();
-            break;
-        case 2:
-            P0002_AddTwoNumbers P0002;
-            P0002.test();
-            break;
-        default:
-            cout << "Not find the number of problem!" << endl;
+    if(number == 1){
+        P0001_TwoSum P0001;
+        P0001.test();
     }
+    if(number == 2){
+        P0002_AddTwoNumbers P0002;
+        P0002.test();
+    }
+    if(number == 146){
+        P0146_LRUCache P0146;
+        P0146.test();
+    }
+
+    cout << "Not find the number of problem!" << endl;
     return 0;
 
 

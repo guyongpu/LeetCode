@@ -8,6 +8,7 @@
 #include <iostream>
 #include "P0001_TwoSum.h"
 #include "P0002_AddTwoNumbers.h"
+#include "P0146_LRUCache.h"
 
 using namespace std;
 
