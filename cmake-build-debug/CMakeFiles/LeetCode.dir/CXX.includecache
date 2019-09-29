@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/OneDrive/CodingInterview/LeetCode/src/P0001_TwoSum.cpp
+P0001_TwoSum.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0001_TwoSum.h
+
+E:/OneDrive/CodingInterview/LeetCode/src/P0001_TwoSum.h
+iostream
+-
+vector
+-
+algorithm
+-
+

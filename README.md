@@ -43,5 +43,5 @@ Process finished with exit code 0
 
 ## 4.刷题日志
 |<center>题号</center>|<center>题目名</center>|<center>完成日期</center>|<center>描述</center>|<center>备注</center>|
-|:---:|:---:|:---:|:---|:---|
+|:---:|:-----:|:---:|:---|:---|
 |P0001|两数之和|2019.9.29|描述：给定一个整数数组nums和target，求该数组中两个和为target的整数，返回下标.<br>思路：排序，然后使用双指针做法，最后计算下标.<br>复杂度：空间O(n),时间O(3n)|排序+首尾双指针|
