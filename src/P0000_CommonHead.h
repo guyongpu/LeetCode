@@ -1,0 +1,8 @@
+//
+// Created by yongpu on 2019/9/29.
+//
+
+#ifndef LEETCODE_P0000_COMMONHEAD_H
+#define LEETCODE_P0000_COMMONHEAD_H
+
+#endif //LEETCODE_P0000_COMMONHEAD_H
