@@ -203,6 +203,33 @@ src/P0001_TwoSum.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0001_TwoSum.cpp.s
 .PHONY : src/P0001_TwoSum.cpp.s
 
+src/P0002_AddTwoNumbers.obj: src/P0002_AddTwoNumbers.cpp.obj
+
+.PHONY : src/P0002_AddTwoNumbers.obj
+
+# target to build an object file
+src/P0002_AddTwoNumbers.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0002_AddTwoNumbers.cpp.obj
+.PHONY : src/P0002_AddTwoNumbers.cpp.obj
+
+src/P0002_AddTwoNumbers.i: src/P0002_AddTwoNumbers.cpp.i
+
+.PHONY : src/P0002_AddTwoNumbers.i
+
+# target to preprocess a source file
+src/P0002_AddTwoNumbers.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0002_AddTwoNumbers.cpp.i
+.PHONY : src/P0002_AddTwoNumbers.cpp.i
+
+src/P0002_AddTwoNumbers.s: src/P0002_AddTwoNumbers.cpp.s
+
+.PHONY : src/P0002_AddTwoNumbers.s
+
+# target to generate assembly for a file
+src/P0002_AddTwoNumbers.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0002_AddTwoNumbers.cpp.s
+.PHONY : src/P0002_AddTwoNumbers.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -221,6 +248,9 @@ help:
 	@echo ... src/P0001_TwoSum.obj
 	@echo ... src/P0001_TwoSum.i
 	@echo ... src/P0001_TwoSum.s
+	@echo ... src/P0002_AddTwoNumbers.obj
+	@echo ... src/P0002_AddTwoNumbers.i
+	@echo ... src/P0002_AddTwoNumbers.s
 .PHONY : help
 
 

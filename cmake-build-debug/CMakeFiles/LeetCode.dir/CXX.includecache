@@ -6,15 +6,15 @@
 
 #IncludeRegexTransform: 
 
-E:/OneDrive/CodingInterview/LeetCode/src/P0001_TwoSum.cpp
-P0001_TwoSum.h
-E:/OneDrive/CodingInterview/LeetCode/src/P0001_TwoSum.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0000_CommonHead.h
 
-E:/OneDrive/CodingInterview/LeetCode/src/P0001_TwoSum.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0002_AddTwoNumbers.cpp
+P0002_AddTwoNumbers.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0002_AddTwoNumbers.h
+
+E:/OneDrive/CodingInterview/LeetCode/src/P0002_AddTwoNumbers.h
 iostream
 -
-vector
--
-algorithm
--
+P0000_CommonHead.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0000_CommonHead.h
 

@@ -98,6 +98,12 @@
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0001_TwoSum.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0002_AddTwoNumbers.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0002_AddTwoNumbers.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

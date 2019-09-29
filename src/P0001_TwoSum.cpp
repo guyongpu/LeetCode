@@ -8,6 +8,13 @@
  * 题目：两数之和
  * 描述：给定一个整数数组nums和target，求该数组中两个和为target的整数，返回下标.
  * 思路：排序，然后使用双指针做法，最后计算下标.
+ * 备注：1.排序 2.首尾双指针做法 3.遍历查找下标
+ *
+ * 示例：
+ * 输入：nums = [2, 7, 11, 15], target = 9
+ * 返回：[0, 1]
+ * 因为 nums[0] + nums[1] = 2 + 7 = 9
+ *
  * @param nums      数组
  * @param target    目标和
  * @return          和为target的两个数的下标
@@ -40,6 +47,7 @@ vector<int> P0001_TwoSum::twoSum(vector<int> &nums, int target) {
                     break;
                 }
             }
+            //下标小数在前，大数在后
             int index_min = min(index_a,index_b);
             int index_max = max(index_a,index_b);
             result.push_back(index_min);
