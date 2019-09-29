@@ -102,8 +102,8 @@ int P0002_AddTwoNumbers::test() {
     p1->next = p2;
     p2->next = p3;
 
-    //p4->next = p5;
-    //p5->next = p6;
+    p4->next = p5;
+    p5->next = p6;
 
     ListNode *num_a = p1;
     ListNode *num_b = p4;
