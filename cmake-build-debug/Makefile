@@ -257,6 +257,33 @@ src/P0146_LRUCache.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0146_LRUCache.cpp.s
 .PHONY : src/P0146_LRUCache.cpp.s
 
+src/P147_InsertionSortList.obj: src/P147_InsertionSortList.cpp.obj
+
+.PHONY : src/P147_InsertionSortList.obj
+
+# target to build an object file
+src/P147_InsertionSortList.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P147_InsertionSortList.cpp.obj
+.PHONY : src/P147_InsertionSortList.cpp.obj
+
+src/P147_InsertionSortList.i: src/P147_InsertionSortList.cpp.i
+
+.PHONY : src/P147_InsertionSortList.i
+
+# target to preprocess a source file
+src/P147_InsertionSortList.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P147_InsertionSortList.cpp.i
+.PHONY : src/P147_InsertionSortList.cpp.i
+
+src/P147_InsertionSortList.s: src/P147_InsertionSortList.cpp.s
+
+.PHONY : src/P147_InsertionSortList.s
+
+# target to generate assembly for a file
+src/P147_InsertionSortList.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P147_InsertionSortList.cpp.s
+.PHONY : src/P147_InsertionSortList.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -281,6 +308,9 @@ help:
 	@echo ... src/P0146_LRUCache.obj
 	@echo ... src/P0146_LRUCache.i
 	@echo ... src/P0146_LRUCache.s
+	@echo ... src/P147_InsertionSortList.obj
+	@echo ... src/P147_InsertionSortList.i
+	@echo ... src/P147_InsertionSortList.s
 .PHONY : help
 
 

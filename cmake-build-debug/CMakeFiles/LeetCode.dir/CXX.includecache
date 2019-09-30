@@ -6,19 +6,15 @@
 
 #IncludeRegexTransform: 
 
-E:/OneDrive/CodingInterview/LeetCode/src/P0146_LRUCache.cpp
-P0146_LRUCache.h
-E:/OneDrive/CodingInterview/LeetCode/src/P0146_LRUCache.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0000_CommonHead.h
 
-E:/OneDrive/CodingInterview/LeetCode/src/P0146_LRUCache.h
+E:/OneDrive/CodingInterview/LeetCode/src/P147_InsertionSortList.cpp
+P147_InsertionSortList.h
+E:/OneDrive/CodingInterview/LeetCode/src/P147_InsertionSortList.h
+
+E:/OneDrive/CodingInterview/LeetCode/src/P147_InsertionSortList.h
 iostream
 -
-vector
--
-unordered_map
--
-list
--
-map
--
+P0000_CommonHead.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0000_CommonHead.h
 

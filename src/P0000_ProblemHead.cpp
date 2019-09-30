@@ -21,6 +21,11 @@ int Test_Problem(int number) {
         P0146_LRUCache P0146;
         P0146.test();
     }
+    if(number == 147){
+        P147_InsertionSortList P0147;
+        P0147.test();
+    }
+
 
     cout << "Not find the number of problem!" << endl;
     return 0;

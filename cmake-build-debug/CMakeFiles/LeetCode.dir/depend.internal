@@ -8,6 +8,7 @@ CMakeFiles/LeetCode.dir/main.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0001_TwoSum.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0002_AddTwoNumbers.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0146_LRUCache.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P147_InsertionSortList.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0000_CommonHead.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0000_ProblemHead.cpp
@@ -15,6 +16,7 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0001_TwoSum.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0002_AddTwoNumbers.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0146_LRUCache.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P147_InsertionSortList.h
 CMakeFiles/LeetCode.dir/src/P0001_TwoSum.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0001_TwoSum.cpp
  E:/OneDrive/CodingInterview/LeetCode/src/P0001_TwoSum.h
@@ -25,3 +27,7 @@ CMakeFiles/LeetCode.dir/src/P0002_AddTwoNumbers.cpp.obj
 CMakeFiles/LeetCode.dir/src/P0146_LRUCache.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0146_LRUCache.cpp
  E:/OneDrive/CodingInterview/LeetCode/src/P0146_LRUCache.h
+CMakeFiles/LeetCode.dir/src/P147_InsertionSortList.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0000_CommonHead.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P147_InsertionSortList.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P147_InsertionSortList.h
