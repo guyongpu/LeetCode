@@ -13,22 +13,24 @@ int Test_Problem(int number) {
         P0001_TwoSum P0001;
         P0001.test();
     }
-    if(number == 2){
+    else if(number == 2){
         P0002_AddTwoNumbers P0002;
         P0002.test();
     }
-    if(number == 146){
+    else if(number == 146){
         P0146_LRUCache P0146;
         P0146.test();
     }
-    if(number == 147){
-        P147_InsertionSortList P0147;
+    else if(number == 147){
+        P0147_InsertionSortList P0147;
         P0147.test();
     }
-
-
-    cout << "Not find the number of problem!" << endl;
+    else if(number == 148){
+        P0148_SortList P0148;
+        P0148.test();
+    }
+    else{
+        cout << "Not find the number of problem!" << endl;
+    }
     return 0;
-
-
 }

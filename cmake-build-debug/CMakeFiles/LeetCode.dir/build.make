@@ -121,18 +121,31 @@ CMakeFiles/LeetCode.dir/src/P0146_LRUCache.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0146_LRUCache.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0146_LRUCache.cpp -o CMakeFiles\LeetCode.dir\src\P0146_LRUCache.cpp.s
 
-CMakeFiles/LeetCode.dir/src/P147_InsertionSortList.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
-CMakeFiles/LeetCode.dir/src/P147_InsertionSortList.cpp.obj: ../src/P147_InsertionSortList.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/LeetCode.dir/src/P147_InsertionSortList.cpp.obj"
-	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P147_InsertionSortList.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P147_InsertionSortList.cpp
+CMakeFiles/LeetCode.dir/src/P0147_InsertionSortList.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0147_InsertionSortList.cpp.obj: ../src/P0147_InsertionSortList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/LeetCode.dir/src/P0147_InsertionSortList.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0147_InsertionSortList.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0147_InsertionSortList.cpp
 
-CMakeFiles/LeetCode.dir/src/P147_InsertionSortList.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P147_InsertionSortList.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P147_InsertionSortList.cpp > CMakeFiles\LeetCode.dir\src\P147_InsertionSortList.cpp.i
+CMakeFiles/LeetCode.dir/src/P0147_InsertionSortList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0147_InsertionSortList.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0147_InsertionSortList.cpp > CMakeFiles\LeetCode.dir\src\P0147_InsertionSortList.cpp.i
 
-CMakeFiles/LeetCode.dir/src/P147_InsertionSortList.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P147_InsertionSortList.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P147_InsertionSortList.cpp -o CMakeFiles\LeetCode.dir\src\P147_InsertionSortList.cpp.s
+CMakeFiles/LeetCode.dir/src/P0147_InsertionSortList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0147_InsertionSortList.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0147_InsertionSortList.cpp -o CMakeFiles\LeetCode.dir\src\P0147_InsertionSortList.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0148_SortList.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0148_SortList.cpp.obj: ../src/P0148_SortList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/LeetCode.dir/src/P0148_SortList.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0148_SortList.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0148_SortList.cpp
+
+CMakeFiles/LeetCode.dir/src/P0148_SortList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0148_SortList.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0148_SortList.cpp > CMakeFiles\LeetCode.dir\src\P0148_SortList.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0148_SortList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0148_SortList.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0148_SortList.cpp -o CMakeFiles\LeetCode.dir\src\P0148_SortList.cpp.s
 
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
@@ -141,7 +154,8 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/src/P0001_TwoSum.cpp.obj" \
 "CMakeFiles/LeetCode.dir/src/P0002_AddTwoNumbers.cpp.obj" \
 "CMakeFiles/LeetCode.dir/src/P0146_LRUCache.cpp.obj" \
-"CMakeFiles/LeetCode.dir/src/P147_InsertionSortList.cpp.obj"
+"CMakeFiles/LeetCode.dir/src/P0147_InsertionSortList.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0148_SortList.cpp.obj"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -151,12 +165,13 @@ LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0001_TwoSum.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0002_AddTwoNumbers.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0146_LRUCache.cpp.obj
-LeetCode.exe: CMakeFiles/LeetCode.dir/src/P147_InsertionSortList.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0147_InsertionSortList.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0148_SortList.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/build.make
 LeetCode.exe: CMakeFiles/LeetCode.dir/linklibs.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/objects1.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable LeetCode.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable LeetCode.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LeetCode.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

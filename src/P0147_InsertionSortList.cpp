@@ -2,7 +2,7 @@
 // Created by yongpu on 2019/9/30.
 //
 
-#include "P147_InsertionSortList.h"
+#include "P0147_InsertionSortList.h"
 
 /**
  * 题目：对链表进行插入排序
@@ -11,7 +11,7 @@
  * 每次对 NodeFront、NodeCurrent、NodeNext 进行更新，另外对于 NodeFront 的处理要分为发生插入或者不发生插入两种情况考虑.
  */
 
-ListNode *P147_InsertionSortList::insertionSortList(ListNode *head) {
+ListNode *P0147_InsertionSortList::insertionSortList(ListNode *head) {
     if (head == nullptr || head->next == nullptr)
         return head;
 
@@ -65,7 +65,7 @@ ListNode *P147_InsertionSortList::insertionSortList(ListNode *head) {
     return head;
 }
 
-int P147_InsertionSortList::test() {
+int P0147_InsertionSortList::test() {
     ListNode *p1 = new ListNode(7);
     ListNode *p2 = new ListNode(6);
     ListNode *p3 = new ListNode(5);
