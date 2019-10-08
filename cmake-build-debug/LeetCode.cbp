@@ -104,6 +104,12 @@
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0002_AddTwoNumbers.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0003_LongestSubstringWithoutRepeatingCharacters.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0003_LongestSubstringWithoutRepeatingCharacters.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0146_LRUCache.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
@@ -126,6 +132,18 @@
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0149_MaxPointsOnLine.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0150_EvaluateReversePolishNotation.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0150_EvaluateReversePolishNotation.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0151_ReverseWordsInAString.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0151_ReverseWordsInAString.h">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/CMakeLists.txt">

@@ -230,6 +230,33 @@ src/P0002_AddTwoNumbers.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0002_AddTwoNumbers.cpp.s
 .PHONY : src/P0002_AddTwoNumbers.cpp.s
 
+src/P0003_LongestSubstringWithoutRepeatingCharacters.obj: src/P0003_LongestSubstringWithoutRepeatingCharacters.cpp.obj
+
+.PHONY : src/P0003_LongestSubstringWithoutRepeatingCharacters.obj
+
+# target to build an object file
+src/P0003_LongestSubstringWithoutRepeatingCharacters.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0003_LongestSubstringWithoutRepeatingCharacters.cpp.obj
+.PHONY : src/P0003_LongestSubstringWithoutRepeatingCharacters.cpp.obj
+
+src/P0003_LongestSubstringWithoutRepeatingCharacters.i: src/P0003_LongestSubstringWithoutRepeatingCharacters.cpp.i
+
+.PHONY : src/P0003_LongestSubstringWithoutRepeatingCharacters.i
+
+# target to preprocess a source file
+src/P0003_LongestSubstringWithoutRepeatingCharacters.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0003_LongestSubstringWithoutRepeatingCharacters.cpp.i
+.PHONY : src/P0003_LongestSubstringWithoutRepeatingCharacters.cpp.i
+
+src/P0003_LongestSubstringWithoutRepeatingCharacters.s: src/P0003_LongestSubstringWithoutRepeatingCharacters.cpp.s
+
+.PHONY : src/P0003_LongestSubstringWithoutRepeatingCharacters.s
+
+# target to generate assembly for a file
+src/P0003_LongestSubstringWithoutRepeatingCharacters.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0003_LongestSubstringWithoutRepeatingCharacters.cpp.s
+.PHONY : src/P0003_LongestSubstringWithoutRepeatingCharacters.cpp.s
+
 src/P0146_LRUCache.obj: src/P0146_LRUCache.cpp.obj
 
 .PHONY : src/P0146_LRUCache.obj
@@ -338,6 +365,60 @@ src/P0149_MaxPointsOnLine.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0149_MaxPointsOnLine.cpp.s
 .PHONY : src/P0149_MaxPointsOnLine.cpp.s
 
+src/P0150_EvaluateReversePolishNotation.obj: src/P0150_EvaluateReversePolishNotation.cpp.obj
+
+.PHONY : src/P0150_EvaluateReversePolishNotation.obj
+
+# target to build an object file
+src/P0150_EvaluateReversePolishNotation.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0150_EvaluateReversePolishNotation.cpp.obj
+.PHONY : src/P0150_EvaluateReversePolishNotation.cpp.obj
+
+src/P0150_EvaluateReversePolishNotation.i: src/P0150_EvaluateReversePolishNotation.cpp.i
+
+.PHONY : src/P0150_EvaluateReversePolishNotation.i
+
+# target to preprocess a source file
+src/P0150_EvaluateReversePolishNotation.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0150_EvaluateReversePolishNotation.cpp.i
+.PHONY : src/P0150_EvaluateReversePolishNotation.cpp.i
+
+src/P0150_EvaluateReversePolishNotation.s: src/P0150_EvaluateReversePolishNotation.cpp.s
+
+.PHONY : src/P0150_EvaluateReversePolishNotation.s
+
+# target to generate assembly for a file
+src/P0150_EvaluateReversePolishNotation.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0150_EvaluateReversePolishNotation.cpp.s
+.PHONY : src/P0150_EvaluateReversePolishNotation.cpp.s
+
+src/P0151_ReverseWordsInAString.obj: src/P0151_ReverseWordsInAString.cpp.obj
+
+.PHONY : src/P0151_ReverseWordsInAString.obj
+
+# target to build an object file
+src/P0151_ReverseWordsInAString.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0151_ReverseWordsInAString.cpp.obj
+.PHONY : src/P0151_ReverseWordsInAString.cpp.obj
+
+src/P0151_ReverseWordsInAString.i: src/P0151_ReverseWordsInAString.cpp.i
+
+.PHONY : src/P0151_ReverseWordsInAString.i
+
+# target to preprocess a source file
+src/P0151_ReverseWordsInAString.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0151_ReverseWordsInAString.cpp.i
+.PHONY : src/P0151_ReverseWordsInAString.cpp.i
+
+src/P0151_ReverseWordsInAString.s: src/P0151_ReverseWordsInAString.cpp.s
+
+.PHONY : src/P0151_ReverseWordsInAString.s
+
+# target to generate assembly for a file
+src/P0151_ReverseWordsInAString.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0151_ReverseWordsInAString.cpp.s
+.PHONY : src/P0151_ReverseWordsInAString.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -359,6 +440,9 @@ help:
 	@echo ... src/P0002_AddTwoNumbers.obj
 	@echo ... src/P0002_AddTwoNumbers.i
 	@echo ... src/P0002_AddTwoNumbers.s
+	@echo ... src/P0003_LongestSubstringWithoutRepeatingCharacters.obj
+	@echo ... src/P0003_LongestSubstringWithoutRepeatingCharacters.i
+	@echo ... src/P0003_LongestSubstringWithoutRepeatingCharacters.s
 	@echo ... src/P0146_LRUCache.obj
 	@echo ... src/P0146_LRUCache.i
 	@echo ... src/P0146_LRUCache.s
@@ -371,6 +455,12 @@ help:
 	@echo ... src/P0149_MaxPointsOnLine.obj
 	@echo ... src/P0149_MaxPointsOnLine.i
 	@echo ... src/P0149_MaxPointsOnLine.s
+	@echo ... src/P0150_EvaluateReversePolishNotation.obj
+	@echo ... src/P0150_EvaluateReversePolishNotation.i
+	@echo ... src/P0150_EvaluateReversePolishNotation.s
+	@echo ... src/P0151_ReverseWordsInAString.obj
+	@echo ... src/P0151_ReverseWordsInAString.i
+	@echo ... src/P0151_ReverseWordsInAString.s
 .PHONY : help
 
 
