@@ -29,6 +29,10 @@ int Test_Problem(int number) {
         P0148_SortList P0148;
         P0148.test();
     }
+    else if(number == 149){
+        P0149_MaxPointsOnLine P0149;
+        P0149.test();
+    }
     else{
         cout << "Not find the number of problem!" << endl;
     }

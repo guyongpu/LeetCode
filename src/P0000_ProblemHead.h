@@ -11,6 +11,7 @@
 #include "P0146_LRUCache.h"
 #include "P0147_InsertionSortList.h"
 #include "P0148_SortList.h"
+#include "P0149_MaxPointsOnLine.h"
 
 using namespace std;
 

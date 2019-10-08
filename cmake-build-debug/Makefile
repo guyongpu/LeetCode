@@ -311,6 +311,33 @@ src/P0148_SortList.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0148_SortList.cpp.s
 .PHONY : src/P0148_SortList.cpp.s
 
+src/P0149_MaxPointsOnLine.obj: src/P0149_MaxPointsOnLine.cpp.obj
+
+.PHONY : src/P0149_MaxPointsOnLine.obj
+
+# target to build an object file
+src/P0149_MaxPointsOnLine.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0149_MaxPointsOnLine.cpp.obj
+.PHONY : src/P0149_MaxPointsOnLine.cpp.obj
+
+src/P0149_MaxPointsOnLine.i: src/P0149_MaxPointsOnLine.cpp.i
+
+.PHONY : src/P0149_MaxPointsOnLine.i
+
+# target to preprocess a source file
+src/P0149_MaxPointsOnLine.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0149_MaxPointsOnLine.cpp.i
+.PHONY : src/P0149_MaxPointsOnLine.cpp.i
+
+src/P0149_MaxPointsOnLine.s: src/P0149_MaxPointsOnLine.cpp.s
+
+.PHONY : src/P0149_MaxPointsOnLine.s
+
+# target to generate assembly for a file
+src/P0149_MaxPointsOnLine.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0149_MaxPointsOnLine.cpp.s
+.PHONY : src/P0149_MaxPointsOnLine.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -341,6 +368,9 @@ help:
 	@echo ... src/P0148_SortList.obj
 	@echo ... src/P0148_SortList.i
 	@echo ... src/P0148_SortList.s
+	@echo ... src/P0149_MaxPointsOnLine.obj
+	@echo ... src/P0149_MaxPointsOnLine.i
+	@echo ... src/P0149_MaxPointsOnLine.s
 .PHONY : help
 
 
