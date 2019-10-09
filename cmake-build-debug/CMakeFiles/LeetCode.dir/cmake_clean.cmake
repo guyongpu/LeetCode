@@ -10,6 +10,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/LeetCode.dir/src/P0150_EvaluateReversePolishNotation.cpp.obj"
   "CMakeFiles/LeetCode.dir/src/P0151_ReverseWordsInAString.cpp.obj"
   "CMakeFiles/LeetCode.dir/src/P0003_LongestSubstringWithoutRepeatingCharacters.cpp.obj"
+  "CMakeFiles/LeetCode.dir/src/P0152_MaximumProductSubarray.cpp.obj"
   "LeetCode.pdb"
   "LeetCode.exe"
   "LeetCode.exe.manifest"

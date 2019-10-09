@@ -36,6 +36,9 @@ int Test_Problem(int number) {
     } else if (number == 151) {
         P0151_ReverseWordsInAString P0151;
         P0151.test();
+    } else if (number == 152) {
+        P0152_MaximumProductSubarray P0152;
+        P0152.test();
     } else {
         cout << "Not find the number of problem!" << endl;
     }

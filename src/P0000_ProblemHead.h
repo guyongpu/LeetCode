@@ -15,6 +15,7 @@
 #include "P0149_MaxPointsOnLine.h"
 #include "P0150_EvaluateReversePolishNotation.h"
 #include "P0151_ReverseWordsInAString.h"
+#include "P0152_MaximumProductSubarray.h"
 
 using namespace std;
 

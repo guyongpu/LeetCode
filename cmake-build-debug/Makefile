@@ -419,6 +419,33 @@ src/P0151_ReverseWordsInAString.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0151_ReverseWordsInAString.cpp.s
 .PHONY : src/P0151_ReverseWordsInAString.cpp.s
 
+src/P0152_MaximumProductSubarray.obj: src/P0152_MaximumProductSubarray.cpp.obj
+
+.PHONY : src/P0152_MaximumProductSubarray.obj
+
+# target to build an object file
+src/P0152_MaximumProductSubarray.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0152_MaximumProductSubarray.cpp.obj
+.PHONY : src/P0152_MaximumProductSubarray.cpp.obj
+
+src/P0152_MaximumProductSubarray.i: src/P0152_MaximumProductSubarray.cpp.i
+
+.PHONY : src/P0152_MaximumProductSubarray.i
+
+# target to preprocess a source file
+src/P0152_MaximumProductSubarray.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0152_MaximumProductSubarray.cpp.i
+.PHONY : src/P0152_MaximumProductSubarray.cpp.i
+
+src/P0152_MaximumProductSubarray.s: src/P0152_MaximumProductSubarray.cpp.s
+
+.PHONY : src/P0152_MaximumProductSubarray.s
+
+# target to generate assembly for a file
+src/P0152_MaximumProductSubarray.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0152_MaximumProductSubarray.cpp.s
+.PHONY : src/P0152_MaximumProductSubarray.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -461,6 +488,9 @@ help:
 	@echo ... src/P0151_ReverseWordsInAString.obj
 	@echo ... src/P0151_ReverseWordsInAString.i
 	@echo ... src/P0151_ReverseWordsInAString.s
+	@echo ... src/P0152_MaximumProductSubarray.obj
+	@echo ... src/P0152_MaximumProductSubarray.i
+	@echo ... src/P0152_MaximumProductSubarray.s
 .PHONY : help
 
 
