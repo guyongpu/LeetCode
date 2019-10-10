@@ -446,6 +446,60 @@ src/P0152_MaximumProductSubarray.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0152_MaximumProductSubarray.cpp.s
 .PHONY : src/P0152_MaximumProductSubarray.cpp.s
 
+src/P0153_FindMinimumInRotatedSortedArray.obj: src/P0153_FindMinimumInRotatedSortedArray.cpp.obj
+
+.PHONY : src/P0153_FindMinimumInRotatedSortedArray.obj
+
+# target to build an object file
+src/P0153_FindMinimumInRotatedSortedArray.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0153_FindMinimumInRotatedSortedArray.cpp.obj
+.PHONY : src/P0153_FindMinimumInRotatedSortedArray.cpp.obj
+
+src/P0153_FindMinimumInRotatedSortedArray.i: src/P0153_FindMinimumInRotatedSortedArray.cpp.i
+
+.PHONY : src/P0153_FindMinimumInRotatedSortedArray.i
+
+# target to preprocess a source file
+src/P0153_FindMinimumInRotatedSortedArray.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0153_FindMinimumInRotatedSortedArray.cpp.i
+.PHONY : src/P0153_FindMinimumInRotatedSortedArray.cpp.i
+
+src/P0153_FindMinimumInRotatedSortedArray.s: src/P0153_FindMinimumInRotatedSortedArray.cpp.s
+
+.PHONY : src/P0153_FindMinimumInRotatedSortedArray.s
+
+# target to generate assembly for a file
+src/P0153_FindMinimumInRotatedSortedArray.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0153_FindMinimumInRotatedSortedArray.cpp.s
+.PHONY : src/P0153_FindMinimumInRotatedSortedArray.cpp.s
+
+src/P0154.obj: src/P0154.cpp.obj
+
+.PHONY : src/P0154.obj
+
+# target to build an object file
+src/P0154.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0154.cpp.obj
+.PHONY : src/P0154.cpp.obj
+
+src/P0154.i: src/P0154.cpp.i
+
+.PHONY : src/P0154.i
+
+# target to preprocess a source file
+src/P0154.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0154.cpp.i
+.PHONY : src/P0154.cpp.i
+
+src/P0154.s: src/P0154.cpp.s
+
+.PHONY : src/P0154.s
+
+# target to generate assembly for a file
+src/P0154.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0154.cpp.s
+.PHONY : src/P0154.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -491,6 +545,12 @@ help:
 	@echo ... src/P0152_MaximumProductSubarray.obj
 	@echo ... src/P0152_MaximumProductSubarray.i
 	@echo ... src/P0152_MaximumProductSubarray.s
+	@echo ... src/P0153_FindMinimumInRotatedSortedArray.obj
+	@echo ... src/P0153_FindMinimumInRotatedSortedArray.i
+	@echo ... src/P0153_FindMinimumInRotatedSortedArray.s
+	@echo ... src/P0154.obj
+	@echo ... src/P0154.i
+	@echo ... src/P0154.s
 .PHONY : help
 
 

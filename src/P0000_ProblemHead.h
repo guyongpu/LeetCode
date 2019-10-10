@@ -16,6 +16,7 @@
 #include "P0150_EvaluateReversePolishNotation.h"
 #include "P0151_ReverseWordsInAString.h"
 #include "P0152_MaximumProductSubarray.h"
+#include "P0153_FindMinimumInRotatedSortedArray.h"
 
 using namespace std;
 

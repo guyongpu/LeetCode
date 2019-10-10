@@ -11,6 +11,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/LeetCode.dir/src/P0151_ReverseWordsInAString.cpp.obj"
   "CMakeFiles/LeetCode.dir/src/P0003_LongestSubstringWithoutRepeatingCharacters.cpp.obj"
   "CMakeFiles/LeetCode.dir/src/P0152_MaximumProductSubarray.cpp.obj"
+  "CMakeFiles/LeetCode.dir/src/P0153_FindMinimumInRotatedSortedArray.cpp.obj"
+  "CMakeFiles/LeetCode.dir/src/P0154.cpp.obj"
   "LeetCode.pdb"
   "LeetCode.exe"
   "LeetCode.exe.manifest"

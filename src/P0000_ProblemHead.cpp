@@ -39,6 +39,9 @@ int Test_Problem(int number) {
     } else if (number == 152) {
         P0152_MaximumProductSubarray P0152;
         P0152.test();
+    } else if (number == 153) {
+        P0153_FindMinimumInRotatedSortedArray P0153;
+        P0153.test();
     } else {
         cout << "Not find the number of problem!" << endl;
     }
