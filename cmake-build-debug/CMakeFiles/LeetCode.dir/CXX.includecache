@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-E:/OneDrive/CodingInterview/LeetCode/src/P0153_FindMinimumInRotatedSortedArray.cpp
-P0153_FindMinimumInRotatedSortedArray.h
-E:/OneDrive/CodingInterview/LeetCode/src/P0153_FindMinimumInRotatedSortedArray.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0004_MedianOfTwoSortedArrays.cpp
+P0004_MedianOfTwoSortedArrays.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0004_MedianOfTwoSortedArrays.h
 
-E:/OneDrive/CodingInterview/LeetCode/src/P0153_FindMinimumInRotatedSortedArray.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0004_MedianOfTwoSortedArrays.h
 iostream
 -
 vector

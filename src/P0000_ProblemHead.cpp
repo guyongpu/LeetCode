@@ -18,6 +18,9 @@ int Test_Problem(int number) {
     } else if (number == 3) {
         P0003_LongestSubstringWithoutRepeatingCharacters P0003;
         P0003.test();
+    }else if (number == 4) {
+        P0004_MedianOfTwoSortedArrays P0004;
+        P0004.test();
     } else if (number == 146) {
         P0146_LRUCache P0146;
         P0146.test();
@@ -42,7 +45,14 @@ int Test_Problem(int number) {
     } else if (number == 153) {
         P0153_FindMinimumInRotatedSortedArray P0153;
         P0153.test();
-    } else {
+    } else if (number == 154) {
+        P0154_FindMinimumInRotatedSortedArrayII P0154;
+        P0154.test();
+    }else if(number == 155){
+        P0155_MinStack P0155;
+        P0155.test();
+    }
+    else {
         cout << "Not find the number of problem!" << endl;
     }
     return 0;

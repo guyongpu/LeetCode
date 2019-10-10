@@ -257,6 +257,33 @@ src/P0003_LongestSubstringWithoutRepeatingCharacters.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0003_LongestSubstringWithoutRepeatingCharacters.cpp.s
 .PHONY : src/P0003_LongestSubstringWithoutRepeatingCharacters.cpp.s
 
+src/P0004_MedianOfTwoSortedArrays.obj: src/P0004_MedianOfTwoSortedArrays.cpp.obj
+
+.PHONY : src/P0004_MedianOfTwoSortedArrays.obj
+
+# target to build an object file
+src/P0004_MedianOfTwoSortedArrays.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0004_MedianOfTwoSortedArrays.cpp.obj
+.PHONY : src/P0004_MedianOfTwoSortedArrays.cpp.obj
+
+src/P0004_MedianOfTwoSortedArrays.i: src/P0004_MedianOfTwoSortedArrays.cpp.i
+
+.PHONY : src/P0004_MedianOfTwoSortedArrays.i
+
+# target to preprocess a source file
+src/P0004_MedianOfTwoSortedArrays.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0004_MedianOfTwoSortedArrays.cpp.i
+.PHONY : src/P0004_MedianOfTwoSortedArrays.cpp.i
+
+src/P0004_MedianOfTwoSortedArrays.s: src/P0004_MedianOfTwoSortedArrays.cpp.s
+
+.PHONY : src/P0004_MedianOfTwoSortedArrays.s
+
+# target to generate assembly for a file
+src/P0004_MedianOfTwoSortedArrays.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0004_MedianOfTwoSortedArrays.cpp.s
+.PHONY : src/P0004_MedianOfTwoSortedArrays.cpp.s
+
 src/P0146_LRUCache.obj: src/P0146_LRUCache.cpp.obj
 
 .PHONY : src/P0146_LRUCache.obj
@@ -473,32 +500,59 @@ src/P0153_FindMinimumInRotatedSortedArray.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0153_FindMinimumInRotatedSortedArray.cpp.s
 .PHONY : src/P0153_FindMinimumInRotatedSortedArray.cpp.s
 
-src/P0154.obj: src/P0154.cpp.obj
+src/P0154_FindMinimumInRotatedSortedArrayII.obj: src/P0154_FindMinimumInRotatedSortedArrayII.cpp.obj
 
-.PHONY : src/P0154.obj
+.PHONY : src/P0154_FindMinimumInRotatedSortedArrayII.obj
 
 # target to build an object file
-src/P0154.cpp.obj:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0154.cpp.obj
-.PHONY : src/P0154.cpp.obj
+src/P0154_FindMinimumInRotatedSortedArrayII.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0154_FindMinimumInRotatedSortedArrayII.cpp.obj
+.PHONY : src/P0154_FindMinimumInRotatedSortedArrayII.cpp.obj
 
-src/P0154.i: src/P0154.cpp.i
+src/P0154_FindMinimumInRotatedSortedArrayII.i: src/P0154_FindMinimumInRotatedSortedArrayII.cpp.i
 
-.PHONY : src/P0154.i
+.PHONY : src/P0154_FindMinimumInRotatedSortedArrayII.i
 
 # target to preprocess a source file
-src/P0154.cpp.i:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0154.cpp.i
-.PHONY : src/P0154.cpp.i
+src/P0154_FindMinimumInRotatedSortedArrayII.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0154_FindMinimumInRotatedSortedArrayII.cpp.i
+.PHONY : src/P0154_FindMinimumInRotatedSortedArrayII.cpp.i
 
-src/P0154.s: src/P0154.cpp.s
+src/P0154_FindMinimumInRotatedSortedArrayII.s: src/P0154_FindMinimumInRotatedSortedArrayII.cpp.s
 
-.PHONY : src/P0154.s
+.PHONY : src/P0154_FindMinimumInRotatedSortedArrayII.s
 
 # target to generate assembly for a file
-src/P0154.cpp.s:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0154.cpp.s
-.PHONY : src/P0154.cpp.s
+src/P0154_FindMinimumInRotatedSortedArrayII.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0154_FindMinimumInRotatedSortedArrayII.cpp.s
+.PHONY : src/P0154_FindMinimumInRotatedSortedArrayII.cpp.s
+
+src/P0155_MinStack.obj: src/P0155_MinStack.cpp.obj
+
+.PHONY : src/P0155_MinStack.obj
+
+# target to build an object file
+src/P0155_MinStack.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0155_MinStack.cpp.obj
+.PHONY : src/P0155_MinStack.cpp.obj
+
+src/P0155_MinStack.i: src/P0155_MinStack.cpp.i
+
+.PHONY : src/P0155_MinStack.i
+
+# target to preprocess a source file
+src/P0155_MinStack.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0155_MinStack.cpp.i
+.PHONY : src/P0155_MinStack.cpp.i
+
+src/P0155_MinStack.s: src/P0155_MinStack.cpp.s
+
+.PHONY : src/P0155_MinStack.s
+
+# target to generate assembly for a file
+src/P0155_MinStack.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0155_MinStack.cpp.s
+.PHONY : src/P0155_MinStack.cpp.s
 
 # Help Target
 help:
@@ -524,6 +578,9 @@ help:
 	@echo ... src/P0003_LongestSubstringWithoutRepeatingCharacters.obj
 	@echo ... src/P0003_LongestSubstringWithoutRepeatingCharacters.i
 	@echo ... src/P0003_LongestSubstringWithoutRepeatingCharacters.s
+	@echo ... src/P0004_MedianOfTwoSortedArrays.obj
+	@echo ... src/P0004_MedianOfTwoSortedArrays.i
+	@echo ... src/P0004_MedianOfTwoSortedArrays.s
 	@echo ... src/P0146_LRUCache.obj
 	@echo ... src/P0146_LRUCache.i
 	@echo ... src/P0146_LRUCache.s
@@ -548,9 +605,12 @@ help:
 	@echo ... src/P0153_FindMinimumInRotatedSortedArray.obj
 	@echo ... src/P0153_FindMinimumInRotatedSortedArray.i
 	@echo ... src/P0153_FindMinimumInRotatedSortedArray.s
-	@echo ... src/P0154.obj
-	@echo ... src/P0154.i
-	@echo ... src/P0154.s
+	@echo ... src/P0154_FindMinimumInRotatedSortedArrayII.obj
+	@echo ... src/P0154_FindMinimumInRotatedSortedArrayII.i
+	@echo ... src/P0154_FindMinimumInRotatedSortedArrayII.s
+	@echo ... src/P0155_MinStack.obj
+	@echo ... src/P0155_MinStack.i
+	@echo ... src/P0155_MinStack.s
 .PHONY : help
 
 

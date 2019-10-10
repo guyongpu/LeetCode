@@ -110,6 +110,12 @@
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0003_LongestSubstringWithoutRepeatingCharacters.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0004_MedianOfTwoSortedArrays.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0004_MedianOfTwoSortedArrays.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0146_LRUCache.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
@@ -158,10 +164,16 @@
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0153_FindMinimumInRotatedSortedArray.h">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0154.cpp">
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0154_FindMinimumInRotatedSortedArrayII.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
-		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0154.h">
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0154_FindMinimumInRotatedSortedArrayII.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0155_MinStack.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0155_MinStack.h">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/CMakeLists.txt">

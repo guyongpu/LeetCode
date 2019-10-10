@@ -18,7 +18,7 @@ int P0153_FindMinimumInRotatedSortedArray::findMin(vector<int> &nums) {
         return nums[0];
 
     int len = nums.size();
-    if (nums[0] <= nums[len - 1]) {
+    if (nums[0] < nums[len - 1]) {
         return nums[0];
     }
 
@@ -27,7 +27,7 @@ int P0153_FindMinimumInRotatedSortedArray::findMin(vector<int> &nums) {
     int last = len - 1;
     int mid = (start + last) / 2;
     while (start < last && start != mid) {  //循环终止条件，start != mid必须要加上
-        if (nums[start] <= nums[mid]) {
+        if (nums[start] < nums[mid]) {
             start = mid;
         } else {
             last = mid;
@@ -40,7 +40,7 @@ int P0153_FindMinimumInRotatedSortedArray::findMin(vector<int> &nums) {
 }
 
 int P0153_FindMinimumInRotatedSortedArray::test() {
-    vector<int> nums = {4, 5, 6, 7, 0, 1, 2};
+    vector<int> nums = {2, 2};
     int result = findMin(nums);
     cout << result << endl;
     return 0;
