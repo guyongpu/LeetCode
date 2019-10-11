@@ -10,49 +10,54 @@ int Test_Problem(int number) {
         return 0;
     }
     if (number == 1) {
-        P0001_TwoSum P0001;
-        P0001.test();
+        P0001_TwoSum Solution;
+        Solution.test();
     } else if (number == 2) {
-        P0002_AddTwoNumbers P0002;
-        P0002.test();
+        P0002_AddTwoNumbers Solution;
+        Solution.test();
     } else if (number == 3) {
-        P0003_LongestSubstringWithoutRepeatingCharacters P0003;
-        P0003.test();
-    }else if (number == 4) {
-        P0004_MedianOfTwoSortedArrays P0004;
-        P0004.test();
+        P0003_LongestSubstringWithoutRepeatingCharacters Solution;
+        Solution.test();
+    } else if (number == 4) {
+        P0004_MedianOfTwoSortedArrays Solution;
+        Solution.test();
     } else if (number == 146) {
-        P0146_LRUCache P0146;
-        P0146.test();
+        P0146_LRUCache Solution;
+        Solution.test();
     } else if (number == 147) {
-        P0147_InsertionSortList P0147;
-        P0147.test();
+        P0147_InsertionSortList Solution;
+        Solution.test();
     } else if (number == 148) {
-        P0148_SortList P0148;
-        P0148.test();
+        P0148_SortList Solution;
+        Solution.test();
     } else if (number == 149) {
-        P0149_MaxPointsOnLine P0149;
-        P0149.test();
+        P0149_MaxPointsOnLine Solution;
+        Solution.test();
     } else if (number == 150) {
-        P0150_EvaluateReversePolishNotation P0150;
-        P0150.test();
+        P0150_EvaluateReversePolishNotation Solution;
+        Solution.test();
     } else if (number == 151) {
-        P0151_ReverseWordsInAString P0151;
-        P0151.test();
+        P0151_ReverseWordsInAString Solution;
+        Solution.test();
     } else if (number == 152) {
-        P0152_MaximumProductSubarray P0152;
-        P0152.test();
+        P0152_MaximumProductSubarray Solution;
+        Solution.test();
     } else if (number == 153) {
-        P0153_FindMinimumInRotatedSortedArray P0153;
-        P0153.test();
+        P0153_FindMinimumInRotatedSortedArray Solution;
+        Solution.test();
     } else if (number == 154) {
-        P0154_FindMinimumInRotatedSortedArrayII P0154;
-        P0154.test();
-    }else if(number == 155){
-        P0155_MinStack P0155;
-        P0155.test();
-    }
-    else {
+        P0154_FindMinimumInRotatedSortedArrayII Solution;
+        Solution.test();
+    } else if (number == 155) {
+        P0155_MinStack Solution;
+        Solution.test();
+    } else if (number == 160) {
+        P0160_IntersectionOfTwoLinkedLists Solution;
+        Solution.test();
+    } else if (number == 162) {
+        P0162_FindPeakElement Solution;
+        Solution.test();
+    } else {
         cout << "Not find the number of problem!" << endl;
     }
     return 0;

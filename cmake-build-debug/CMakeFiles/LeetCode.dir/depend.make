@@ -18,6 +18,8 @@ CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0152_MaximumProductSubarray.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0153_FindMinimumInRotatedSortedArray.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0154_FindMinimumInRotatedSortedArrayII.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0155_MinStack.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0160_IntersectionOfTwoLinkedLists.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0162_FindPeakElement.h
 
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0000_CommonHead.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0000_ProblemHead.cpp
@@ -36,6 +38,8 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0152_MaximumProdu
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0153_FindMinimumInRotatedSortedArray.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0154_FindMinimumInRotatedSortedArrayII.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0155_MinStack.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0160_IntersectionOfTwoLinkedLists.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0162_FindPeakElement.h
 
 CMakeFiles/LeetCode.dir/src/P0001_TwoSum.cpp.obj: ../src/P0001_TwoSum.cpp
 CMakeFiles/LeetCode.dir/src/P0001_TwoSum.cpp.obj: ../src/P0001_TwoSum.h
@@ -79,4 +83,11 @@ CMakeFiles/LeetCode.dir/src/P0154_FindMinimumInRotatedSortedArrayII.cpp.obj: ../
 
 CMakeFiles/LeetCode.dir/src/P0155_MinStack.cpp.obj: ../src/P0155_MinStack.cpp
 CMakeFiles/LeetCode.dir/src/P0155_MinStack.cpp.obj: ../src/P0155_MinStack.h
+
+CMakeFiles/LeetCode.dir/src/P0160_IntersectionOfTwoLinkedLists.cpp.obj: ../src/P0000_CommonHead.h
+CMakeFiles/LeetCode.dir/src/P0160_IntersectionOfTwoLinkedLists.cpp.obj: ../src/P0160_IntersectionOfTwoLinkedLists.cpp
+CMakeFiles/LeetCode.dir/src/P0160_IntersectionOfTwoLinkedLists.cpp.obj: ../src/P0160_IntersectionOfTwoLinkedLists.h
+
+CMakeFiles/LeetCode.dir/src/P0162_FindPeakElement.cpp.obj: ../src/P0162_FindPeakElement.cpp
+CMakeFiles/LeetCode.dir/src/P0162_FindPeakElement.cpp.obj: ../src/P0162_FindPeakElement.h
 

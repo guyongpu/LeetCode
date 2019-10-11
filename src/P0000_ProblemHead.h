@@ -20,6 +20,8 @@
 #include "P0153_FindMinimumInRotatedSortedArray.h"
 #include "P0154_FindMinimumInRotatedSortedArrayII.h"
 #include "P0155_MinStack.h"
+#include "P0160_IntersectionOfTwoLinkedLists.h"
+#include "P0162_FindPeakElement.h"
 
 using namespace std;
 

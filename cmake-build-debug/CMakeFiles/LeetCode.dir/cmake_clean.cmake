@@ -15,6 +15,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/LeetCode.dir/src/P0154_FindMinimumInRotatedSortedArrayII.cpp.obj"
   "CMakeFiles/LeetCode.dir/src/P0155_MinStack.cpp.obj"
   "CMakeFiles/LeetCode.dir/src/P0004_MedianOfTwoSortedArrays.cpp.obj"
+  "CMakeFiles/LeetCode.dir/src/P0160_IntersectionOfTwoLinkedLists.cpp.obj"
+  "CMakeFiles/LeetCode.dir/src/P0162_FindPeakElement.cpp.obj"
   "LeetCode.pdb"
   "LeetCode.exe"
   "LeetCode.exe.manifest"

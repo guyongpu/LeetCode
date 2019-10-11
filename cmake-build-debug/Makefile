@@ -554,6 +554,60 @@ src/P0155_MinStack.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0155_MinStack.cpp.s
 .PHONY : src/P0155_MinStack.cpp.s
 
+src/P0160_IntersectionOfTwoLinkedLists.obj: src/P0160_IntersectionOfTwoLinkedLists.cpp.obj
+
+.PHONY : src/P0160_IntersectionOfTwoLinkedLists.obj
+
+# target to build an object file
+src/P0160_IntersectionOfTwoLinkedLists.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0160_IntersectionOfTwoLinkedLists.cpp.obj
+.PHONY : src/P0160_IntersectionOfTwoLinkedLists.cpp.obj
+
+src/P0160_IntersectionOfTwoLinkedLists.i: src/P0160_IntersectionOfTwoLinkedLists.cpp.i
+
+.PHONY : src/P0160_IntersectionOfTwoLinkedLists.i
+
+# target to preprocess a source file
+src/P0160_IntersectionOfTwoLinkedLists.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0160_IntersectionOfTwoLinkedLists.cpp.i
+.PHONY : src/P0160_IntersectionOfTwoLinkedLists.cpp.i
+
+src/P0160_IntersectionOfTwoLinkedLists.s: src/P0160_IntersectionOfTwoLinkedLists.cpp.s
+
+.PHONY : src/P0160_IntersectionOfTwoLinkedLists.s
+
+# target to generate assembly for a file
+src/P0160_IntersectionOfTwoLinkedLists.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0160_IntersectionOfTwoLinkedLists.cpp.s
+.PHONY : src/P0160_IntersectionOfTwoLinkedLists.cpp.s
+
+src/P0162_FindPeakElement.obj: src/P0162_FindPeakElement.cpp.obj
+
+.PHONY : src/P0162_FindPeakElement.obj
+
+# target to build an object file
+src/P0162_FindPeakElement.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0162_FindPeakElement.cpp.obj
+.PHONY : src/P0162_FindPeakElement.cpp.obj
+
+src/P0162_FindPeakElement.i: src/P0162_FindPeakElement.cpp.i
+
+.PHONY : src/P0162_FindPeakElement.i
+
+# target to preprocess a source file
+src/P0162_FindPeakElement.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0162_FindPeakElement.cpp.i
+.PHONY : src/P0162_FindPeakElement.cpp.i
+
+src/P0162_FindPeakElement.s: src/P0162_FindPeakElement.cpp.s
+
+.PHONY : src/P0162_FindPeakElement.s
+
+# target to generate assembly for a file
+src/P0162_FindPeakElement.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0162_FindPeakElement.cpp.s
+.PHONY : src/P0162_FindPeakElement.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -611,6 +665,12 @@ help:
 	@echo ... src/P0155_MinStack.obj
 	@echo ... src/P0155_MinStack.i
 	@echo ... src/P0155_MinStack.s
+	@echo ... src/P0160_IntersectionOfTwoLinkedLists.obj
+	@echo ... src/P0160_IntersectionOfTwoLinkedLists.i
+	@echo ... src/P0160_IntersectionOfTwoLinkedLists.s
+	@echo ... src/P0162_FindPeakElement.obj
+	@echo ... src/P0162_FindPeakElement.i
+	@echo ... src/P0162_FindPeakElement.s
 .PHONY : help
 
 
