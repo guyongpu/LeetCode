@@ -5,11 +5,21 @@
 #ifndef LEETCODE_P0000_PROBLEMHEAD_H
 #define LEETCODE_P0000_PROBLEMHEAD_H
 
+
+
 #include <iostream>
 #include "P0001_TwoSum.h"
 #include "P0002_AddTwoNumbers.h"
 #include "P0003_LongestSubstringWithoutRepeatingCharacters.h"
 #include "P0004_MedianOfTwoSortedArrays.h"
+#include "P0005_LongestPalindromicSubstring.h"
+#include "P0015_3Sum.h"
+#include "P0016_3SumClosest.h"
+#include "P0017_LetterCombinationsOfAPhoneNumber.h"
+#include "P0018_4Sum.h"
+#include "P0081_SearchInRotatedSortedArrayII.h"
+#include "P0136_SingleNumber.h"
+#include "P0137_SingleNumberII.h"
 #include "P0146_LRUCache.h"
 #include "P0147_InsertionSortList.h"
 #include "P0148_SortList.h"
@@ -22,6 +32,15 @@
 #include "P0155_MinStack.h"
 #include "P0160_IntersectionOfTwoLinkedLists.h"
 #include "P0162_FindPeakElement.h"
+#include "P0164_MaximumGap.h"
+#include "P0165_CompareVersionNumbers.h"
+#include "P0166_FractionToRecurringDecimal.h"
+#include "P0167_TwoSumII_InputArrayIsSorted.h"
+#include "P0168_ExcelSheetColumnTitle.h"
+#include "P0169_MajorityElement.h"
+#include "P0171_ExcelSheetColumnNumber.h"
+#include "P0172_FactorialTrailingZeroes.h"
+#include "P0260_SingleNumberIII.h"
 
 using namespace std;
 

@@ -284,6 +284,222 @@ src/P0004_MedianOfTwoSortedArrays.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0004_MedianOfTwoSortedArrays.cpp.s
 .PHONY : src/P0004_MedianOfTwoSortedArrays.cpp.s
 
+src/P0005_LongestPalindromicSubstring.obj: src/P0005_LongestPalindromicSubstring.cpp.obj
+
+.PHONY : src/P0005_LongestPalindromicSubstring.obj
+
+# target to build an object file
+src/P0005_LongestPalindromicSubstring.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0005_LongestPalindromicSubstring.cpp.obj
+.PHONY : src/P0005_LongestPalindromicSubstring.cpp.obj
+
+src/P0005_LongestPalindromicSubstring.i: src/P0005_LongestPalindromicSubstring.cpp.i
+
+.PHONY : src/P0005_LongestPalindromicSubstring.i
+
+# target to preprocess a source file
+src/P0005_LongestPalindromicSubstring.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0005_LongestPalindromicSubstring.cpp.i
+.PHONY : src/P0005_LongestPalindromicSubstring.cpp.i
+
+src/P0005_LongestPalindromicSubstring.s: src/P0005_LongestPalindromicSubstring.cpp.s
+
+.PHONY : src/P0005_LongestPalindromicSubstring.s
+
+# target to generate assembly for a file
+src/P0005_LongestPalindromicSubstring.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0005_LongestPalindromicSubstring.cpp.s
+.PHONY : src/P0005_LongestPalindromicSubstring.cpp.s
+
+src/P0015_3Sum.obj: src/P0015_3Sum.cpp.obj
+
+.PHONY : src/P0015_3Sum.obj
+
+# target to build an object file
+src/P0015_3Sum.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0015_3Sum.cpp.obj
+.PHONY : src/P0015_3Sum.cpp.obj
+
+src/P0015_3Sum.i: src/P0015_3Sum.cpp.i
+
+.PHONY : src/P0015_3Sum.i
+
+# target to preprocess a source file
+src/P0015_3Sum.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0015_3Sum.cpp.i
+.PHONY : src/P0015_3Sum.cpp.i
+
+src/P0015_3Sum.s: src/P0015_3Sum.cpp.s
+
+.PHONY : src/P0015_3Sum.s
+
+# target to generate assembly for a file
+src/P0015_3Sum.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0015_3Sum.cpp.s
+.PHONY : src/P0015_3Sum.cpp.s
+
+src/P0016_3SumClosest.obj: src/P0016_3SumClosest.cpp.obj
+
+.PHONY : src/P0016_3SumClosest.obj
+
+# target to build an object file
+src/P0016_3SumClosest.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0016_3SumClosest.cpp.obj
+.PHONY : src/P0016_3SumClosest.cpp.obj
+
+src/P0016_3SumClosest.i: src/P0016_3SumClosest.cpp.i
+
+.PHONY : src/P0016_3SumClosest.i
+
+# target to preprocess a source file
+src/P0016_3SumClosest.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0016_3SumClosest.cpp.i
+.PHONY : src/P0016_3SumClosest.cpp.i
+
+src/P0016_3SumClosest.s: src/P0016_3SumClosest.cpp.s
+
+.PHONY : src/P0016_3SumClosest.s
+
+# target to generate assembly for a file
+src/P0016_3SumClosest.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0016_3SumClosest.cpp.s
+.PHONY : src/P0016_3SumClosest.cpp.s
+
+src/P0017_LetterCombinationsOfAPhoneNumber.obj: src/P0017_LetterCombinationsOfAPhoneNumber.cpp.obj
+
+.PHONY : src/P0017_LetterCombinationsOfAPhoneNumber.obj
+
+# target to build an object file
+src/P0017_LetterCombinationsOfAPhoneNumber.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0017_LetterCombinationsOfAPhoneNumber.cpp.obj
+.PHONY : src/P0017_LetterCombinationsOfAPhoneNumber.cpp.obj
+
+src/P0017_LetterCombinationsOfAPhoneNumber.i: src/P0017_LetterCombinationsOfAPhoneNumber.cpp.i
+
+.PHONY : src/P0017_LetterCombinationsOfAPhoneNumber.i
+
+# target to preprocess a source file
+src/P0017_LetterCombinationsOfAPhoneNumber.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0017_LetterCombinationsOfAPhoneNumber.cpp.i
+.PHONY : src/P0017_LetterCombinationsOfAPhoneNumber.cpp.i
+
+src/P0017_LetterCombinationsOfAPhoneNumber.s: src/P0017_LetterCombinationsOfAPhoneNumber.cpp.s
+
+.PHONY : src/P0017_LetterCombinationsOfAPhoneNumber.s
+
+# target to generate assembly for a file
+src/P0017_LetterCombinationsOfAPhoneNumber.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0017_LetterCombinationsOfAPhoneNumber.cpp.s
+.PHONY : src/P0017_LetterCombinationsOfAPhoneNumber.cpp.s
+
+src/P0018_4Sum.obj: src/P0018_4Sum.cpp.obj
+
+.PHONY : src/P0018_4Sum.obj
+
+# target to build an object file
+src/P0018_4Sum.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0018_4Sum.cpp.obj
+.PHONY : src/P0018_4Sum.cpp.obj
+
+src/P0018_4Sum.i: src/P0018_4Sum.cpp.i
+
+.PHONY : src/P0018_4Sum.i
+
+# target to preprocess a source file
+src/P0018_4Sum.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0018_4Sum.cpp.i
+.PHONY : src/P0018_4Sum.cpp.i
+
+src/P0018_4Sum.s: src/P0018_4Sum.cpp.s
+
+.PHONY : src/P0018_4Sum.s
+
+# target to generate assembly for a file
+src/P0018_4Sum.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0018_4Sum.cpp.s
+.PHONY : src/P0018_4Sum.cpp.s
+
+src/P0081_SearchInRotatedSortedArrayII.obj: src/P0081_SearchInRotatedSortedArrayII.cpp.obj
+
+.PHONY : src/P0081_SearchInRotatedSortedArrayII.obj
+
+# target to build an object file
+src/P0081_SearchInRotatedSortedArrayII.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0081_SearchInRotatedSortedArrayII.cpp.obj
+.PHONY : src/P0081_SearchInRotatedSortedArrayII.cpp.obj
+
+src/P0081_SearchInRotatedSortedArrayII.i: src/P0081_SearchInRotatedSortedArrayII.cpp.i
+
+.PHONY : src/P0081_SearchInRotatedSortedArrayII.i
+
+# target to preprocess a source file
+src/P0081_SearchInRotatedSortedArrayII.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0081_SearchInRotatedSortedArrayII.cpp.i
+.PHONY : src/P0081_SearchInRotatedSortedArrayII.cpp.i
+
+src/P0081_SearchInRotatedSortedArrayII.s: src/P0081_SearchInRotatedSortedArrayII.cpp.s
+
+.PHONY : src/P0081_SearchInRotatedSortedArrayII.s
+
+# target to generate assembly for a file
+src/P0081_SearchInRotatedSortedArrayII.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0081_SearchInRotatedSortedArrayII.cpp.s
+.PHONY : src/P0081_SearchInRotatedSortedArrayII.cpp.s
+
+src/P0136_SingleNumber.obj: src/P0136_SingleNumber.cpp.obj
+
+.PHONY : src/P0136_SingleNumber.obj
+
+# target to build an object file
+src/P0136_SingleNumber.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0136_SingleNumber.cpp.obj
+.PHONY : src/P0136_SingleNumber.cpp.obj
+
+src/P0136_SingleNumber.i: src/P0136_SingleNumber.cpp.i
+
+.PHONY : src/P0136_SingleNumber.i
+
+# target to preprocess a source file
+src/P0136_SingleNumber.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0136_SingleNumber.cpp.i
+.PHONY : src/P0136_SingleNumber.cpp.i
+
+src/P0136_SingleNumber.s: src/P0136_SingleNumber.cpp.s
+
+.PHONY : src/P0136_SingleNumber.s
+
+# target to generate assembly for a file
+src/P0136_SingleNumber.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0136_SingleNumber.cpp.s
+.PHONY : src/P0136_SingleNumber.cpp.s
+
+src/P0137_SingleNumberII.obj: src/P0137_SingleNumberII.cpp.obj
+
+.PHONY : src/P0137_SingleNumberII.obj
+
+# target to build an object file
+src/P0137_SingleNumberII.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0137_SingleNumberII.cpp.obj
+.PHONY : src/P0137_SingleNumberII.cpp.obj
+
+src/P0137_SingleNumberII.i: src/P0137_SingleNumberII.cpp.i
+
+.PHONY : src/P0137_SingleNumberII.i
+
+# target to preprocess a source file
+src/P0137_SingleNumberII.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0137_SingleNumberII.cpp.i
+.PHONY : src/P0137_SingleNumberII.cpp.i
+
+src/P0137_SingleNumberII.s: src/P0137_SingleNumberII.cpp.s
+
+.PHONY : src/P0137_SingleNumberII.s
+
+# target to generate assembly for a file
+src/P0137_SingleNumberII.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0137_SingleNumberII.cpp.s
+.PHONY : src/P0137_SingleNumberII.cpp.s
+
 src/P0146_LRUCache.obj: src/P0146_LRUCache.cpp.obj
 
 .PHONY : src/P0146_LRUCache.obj
@@ -608,6 +824,249 @@ src/P0162_FindPeakElement.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0162_FindPeakElement.cpp.s
 .PHONY : src/P0162_FindPeakElement.cpp.s
 
+src/P0164_MaximumGap.obj: src/P0164_MaximumGap.cpp.obj
+
+.PHONY : src/P0164_MaximumGap.obj
+
+# target to build an object file
+src/P0164_MaximumGap.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0164_MaximumGap.cpp.obj
+.PHONY : src/P0164_MaximumGap.cpp.obj
+
+src/P0164_MaximumGap.i: src/P0164_MaximumGap.cpp.i
+
+.PHONY : src/P0164_MaximumGap.i
+
+# target to preprocess a source file
+src/P0164_MaximumGap.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0164_MaximumGap.cpp.i
+.PHONY : src/P0164_MaximumGap.cpp.i
+
+src/P0164_MaximumGap.s: src/P0164_MaximumGap.cpp.s
+
+.PHONY : src/P0164_MaximumGap.s
+
+# target to generate assembly for a file
+src/P0164_MaximumGap.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0164_MaximumGap.cpp.s
+.PHONY : src/P0164_MaximumGap.cpp.s
+
+src/P0165_CompareVersionNumbers.obj: src/P0165_CompareVersionNumbers.cpp.obj
+
+.PHONY : src/P0165_CompareVersionNumbers.obj
+
+# target to build an object file
+src/P0165_CompareVersionNumbers.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0165_CompareVersionNumbers.cpp.obj
+.PHONY : src/P0165_CompareVersionNumbers.cpp.obj
+
+src/P0165_CompareVersionNumbers.i: src/P0165_CompareVersionNumbers.cpp.i
+
+.PHONY : src/P0165_CompareVersionNumbers.i
+
+# target to preprocess a source file
+src/P0165_CompareVersionNumbers.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0165_CompareVersionNumbers.cpp.i
+.PHONY : src/P0165_CompareVersionNumbers.cpp.i
+
+src/P0165_CompareVersionNumbers.s: src/P0165_CompareVersionNumbers.cpp.s
+
+.PHONY : src/P0165_CompareVersionNumbers.s
+
+# target to generate assembly for a file
+src/P0165_CompareVersionNumbers.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0165_CompareVersionNumbers.cpp.s
+.PHONY : src/P0165_CompareVersionNumbers.cpp.s
+
+src/P0166_FractionToRecurringDecimal.obj: src/P0166_FractionToRecurringDecimal.cpp.obj
+
+.PHONY : src/P0166_FractionToRecurringDecimal.obj
+
+# target to build an object file
+src/P0166_FractionToRecurringDecimal.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0166_FractionToRecurringDecimal.cpp.obj
+.PHONY : src/P0166_FractionToRecurringDecimal.cpp.obj
+
+src/P0166_FractionToRecurringDecimal.i: src/P0166_FractionToRecurringDecimal.cpp.i
+
+.PHONY : src/P0166_FractionToRecurringDecimal.i
+
+# target to preprocess a source file
+src/P0166_FractionToRecurringDecimal.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0166_FractionToRecurringDecimal.cpp.i
+.PHONY : src/P0166_FractionToRecurringDecimal.cpp.i
+
+src/P0166_FractionToRecurringDecimal.s: src/P0166_FractionToRecurringDecimal.cpp.s
+
+.PHONY : src/P0166_FractionToRecurringDecimal.s
+
+# target to generate assembly for a file
+src/P0166_FractionToRecurringDecimal.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0166_FractionToRecurringDecimal.cpp.s
+.PHONY : src/P0166_FractionToRecurringDecimal.cpp.s
+
+src/P0167_TwoSumII_InputArrayIsSorted.obj: src/P0167_TwoSumII_InputArrayIsSorted.cpp.obj
+
+.PHONY : src/P0167_TwoSumII_InputArrayIsSorted.obj
+
+# target to build an object file
+src/P0167_TwoSumII_InputArrayIsSorted.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0167_TwoSumII_InputArrayIsSorted.cpp.obj
+.PHONY : src/P0167_TwoSumII_InputArrayIsSorted.cpp.obj
+
+src/P0167_TwoSumII_InputArrayIsSorted.i: src/P0167_TwoSumII_InputArrayIsSorted.cpp.i
+
+.PHONY : src/P0167_TwoSumII_InputArrayIsSorted.i
+
+# target to preprocess a source file
+src/P0167_TwoSumII_InputArrayIsSorted.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0167_TwoSumII_InputArrayIsSorted.cpp.i
+.PHONY : src/P0167_TwoSumII_InputArrayIsSorted.cpp.i
+
+src/P0167_TwoSumII_InputArrayIsSorted.s: src/P0167_TwoSumII_InputArrayIsSorted.cpp.s
+
+.PHONY : src/P0167_TwoSumII_InputArrayIsSorted.s
+
+# target to generate assembly for a file
+src/P0167_TwoSumII_InputArrayIsSorted.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0167_TwoSumII_InputArrayIsSorted.cpp.s
+.PHONY : src/P0167_TwoSumII_InputArrayIsSorted.cpp.s
+
+src/P0168_ExcelSheetColumnTitle.obj: src/P0168_ExcelSheetColumnTitle.cpp.obj
+
+.PHONY : src/P0168_ExcelSheetColumnTitle.obj
+
+# target to build an object file
+src/P0168_ExcelSheetColumnTitle.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0168_ExcelSheetColumnTitle.cpp.obj
+.PHONY : src/P0168_ExcelSheetColumnTitle.cpp.obj
+
+src/P0168_ExcelSheetColumnTitle.i: src/P0168_ExcelSheetColumnTitle.cpp.i
+
+.PHONY : src/P0168_ExcelSheetColumnTitle.i
+
+# target to preprocess a source file
+src/P0168_ExcelSheetColumnTitle.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0168_ExcelSheetColumnTitle.cpp.i
+.PHONY : src/P0168_ExcelSheetColumnTitle.cpp.i
+
+src/P0168_ExcelSheetColumnTitle.s: src/P0168_ExcelSheetColumnTitle.cpp.s
+
+.PHONY : src/P0168_ExcelSheetColumnTitle.s
+
+# target to generate assembly for a file
+src/P0168_ExcelSheetColumnTitle.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0168_ExcelSheetColumnTitle.cpp.s
+.PHONY : src/P0168_ExcelSheetColumnTitle.cpp.s
+
+src/P0169_MajorityElement.obj: src/P0169_MajorityElement.cpp.obj
+
+.PHONY : src/P0169_MajorityElement.obj
+
+# target to build an object file
+src/P0169_MajorityElement.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0169_MajorityElement.cpp.obj
+.PHONY : src/P0169_MajorityElement.cpp.obj
+
+src/P0169_MajorityElement.i: src/P0169_MajorityElement.cpp.i
+
+.PHONY : src/P0169_MajorityElement.i
+
+# target to preprocess a source file
+src/P0169_MajorityElement.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0169_MajorityElement.cpp.i
+.PHONY : src/P0169_MajorityElement.cpp.i
+
+src/P0169_MajorityElement.s: src/P0169_MajorityElement.cpp.s
+
+.PHONY : src/P0169_MajorityElement.s
+
+# target to generate assembly for a file
+src/P0169_MajorityElement.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0169_MajorityElement.cpp.s
+.PHONY : src/P0169_MajorityElement.cpp.s
+
+src/P0171_ExcelSheetColumnNumber.obj: src/P0171_ExcelSheetColumnNumber.cpp.obj
+
+.PHONY : src/P0171_ExcelSheetColumnNumber.obj
+
+# target to build an object file
+src/P0171_ExcelSheetColumnNumber.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0171_ExcelSheetColumnNumber.cpp.obj
+.PHONY : src/P0171_ExcelSheetColumnNumber.cpp.obj
+
+src/P0171_ExcelSheetColumnNumber.i: src/P0171_ExcelSheetColumnNumber.cpp.i
+
+.PHONY : src/P0171_ExcelSheetColumnNumber.i
+
+# target to preprocess a source file
+src/P0171_ExcelSheetColumnNumber.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0171_ExcelSheetColumnNumber.cpp.i
+.PHONY : src/P0171_ExcelSheetColumnNumber.cpp.i
+
+src/P0171_ExcelSheetColumnNumber.s: src/P0171_ExcelSheetColumnNumber.cpp.s
+
+.PHONY : src/P0171_ExcelSheetColumnNumber.s
+
+# target to generate assembly for a file
+src/P0171_ExcelSheetColumnNumber.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0171_ExcelSheetColumnNumber.cpp.s
+.PHONY : src/P0171_ExcelSheetColumnNumber.cpp.s
+
+src/P0172_FactorialTrailingZeroes.obj: src/P0172_FactorialTrailingZeroes.cpp.obj
+
+.PHONY : src/P0172_FactorialTrailingZeroes.obj
+
+# target to build an object file
+src/P0172_FactorialTrailingZeroes.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0172_FactorialTrailingZeroes.cpp.obj
+.PHONY : src/P0172_FactorialTrailingZeroes.cpp.obj
+
+src/P0172_FactorialTrailingZeroes.i: src/P0172_FactorialTrailingZeroes.cpp.i
+
+.PHONY : src/P0172_FactorialTrailingZeroes.i
+
+# target to preprocess a source file
+src/P0172_FactorialTrailingZeroes.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0172_FactorialTrailingZeroes.cpp.i
+.PHONY : src/P0172_FactorialTrailingZeroes.cpp.i
+
+src/P0172_FactorialTrailingZeroes.s: src/P0172_FactorialTrailingZeroes.cpp.s
+
+.PHONY : src/P0172_FactorialTrailingZeroes.s
+
+# target to generate assembly for a file
+src/P0172_FactorialTrailingZeroes.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0172_FactorialTrailingZeroes.cpp.s
+.PHONY : src/P0172_FactorialTrailingZeroes.cpp.s
+
+src/P0260_SingleNumberIII.obj: src/P0260_SingleNumberIII.cpp.obj
+
+.PHONY : src/P0260_SingleNumberIII.obj
+
+# target to build an object file
+src/P0260_SingleNumberIII.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0260_SingleNumberIII.cpp.obj
+.PHONY : src/P0260_SingleNumberIII.cpp.obj
+
+src/P0260_SingleNumberIII.i: src/P0260_SingleNumberIII.cpp.i
+
+.PHONY : src/P0260_SingleNumberIII.i
+
+# target to preprocess a source file
+src/P0260_SingleNumberIII.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0260_SingleNumberIII.cpp.i
+.PHONY : src/P0260_SingleNumberIII.cpp.i
+
+src/P0260_SingleNumberIII.s: src/P0260_SingleNumberIII.cpp.s
+
+.PHONY : src/P0260_SingleNumberIII.s
+
+# target to generate assembly for a file
+src/P0260_SingleNumberIII.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0260_SingleNumberIII.cpp.s
+.PHONY : src/P0260_SingleNumberIII.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -635,6 +1094,30 @@ help:
 	@echo ... src/P0004_MedianOfTwoSortedArrays.obj
 	@echo ... src/P0004_MedianOfTwoSortedArrays.i
 	@echo ... src/P0004_MedianOfTwoSortedArrays.s
+	@echo ... src/P0005_LongestPalindromicSubstring.obj
+	@echo ... src/P0005_LongestPalindromicSubstring.i
+	@echo ... src/P0005_LongestPalindromicSubstring.s
+	@echo ... src/P0015_3Sum.obj
+	@echo ... src/P0015_3Sum.i
+	@echo ... src/P0015_3Sum.s
+	@echo ... src/P0016_3SumClosest.obj
+	@echo ... src/P0016_3SumClosest.i
+	@echo ... src/P0016_3SumClosest.s
+	@echo ... src/P0017_LetterCombinationsOfAPhoneNumber.obj
+	@echo ... src/P0017_LetterCombinationsOfAPhoneNumber.i
+	@echo ... src/P0017_LetterCombinationsOfAPhoneNumber.s
+	@echo ... src/P0018_4Sum.obj
+	@echo ... src/P0018_4Sum.i
+	@echo ... src/P0018_4Sum.s
+	@echo ... src/P0081_SearchInRotatedSortedArrayII.obj
+	@echo ... src/P0081_SearchInRotatedSortedArrayII.i
+	@echo ... src/P0081_SearchInRotatedSortedArrayII.s
+	@echo ... src/P0136_SingleNumber.obj
+	@echo ... src/P0136_SingleNumber.i
+	@echo ... src/P0136_SingleNumber.s
+	@echo ... src/P0137_SingleNumberII.obj
+	@echo ... src/P0137_SingleNumberII.i
+	@echo ... src/P0137_SingleNumberII.s
 	@echo ... src/P0146_LRUCache.obj
 	@echo ... src/P0146_LRUCache.i
 	@echo ... src/P0146_LRUCache.s
@@ -671,6 +1154,33 @@ help:
 	@echo ... src/P0162_FindPeakElement.obj
 	@echo ... src/P0162_FindPeakElement.i
 	@echo ... src/P0162_FindPeakElement.s
+	@echo ... src/P0164_MaximumGap.obj
+	@echo ... src/P0164_MaximumGap.i
+	@echo ... src/P0164_MaximumGap.s
+	@echo ... src/P0165_CompareVersionNumbers.obj
+	@echo ... src/P0165_CompareVersionNumbers.i
+	@echo ... src/P0165_CompareVersionNumbers.s
+	@echo ... src/P0166_FractionToRecurringDecimal.obj
+	@echo ... src/P0166_FractionToRecurringDecimal.i
+	@echo ... src/P0166_FractionToRecurringDecimal.s
+	@echo ... src/P0167_TwoSumII_InputArrayIsSorted.obj
+	@echo ... src/P0167_TwoSumII_InputArrayIsSorted.i
+	@echo ... src/P0167_TwoSumII_InputArrayIsSorted.s
+	@echo ... src/P0168_ExcelSheetColumnTitle.obj
+	@echo ... src/P0168_ExcelSheetColumnTitle.i
+	@echo ... src/P0168_ExcelSheetColumnTitle.s
+	@echo ... src/P0169_MajorityElement.obj
+	@echo ... src/P0169_MajorityElement.i
+	@echo ... src/P0169_MajorityElement.s
+	@echo ... src/P0171_ExcelSheetColumnNumber.obj
+	@echo ... src/P0171_ExcelSheetColumnNumber.i
+	@echo ... src/P0171_ExcelSheetColumnNumber.s
+	@echo ... src/P0172_FactorialTrailingZeroes.obj
+	@echo ... src/P0172_FactorialTrailingZeroes.i
+	@echo ... src/P0172_FactorialTrailingZeroes.s
+	@echo ... src/P0260_SingleNumberIII.obj
+	@echo ... src/P0260_SingleNumberIII.i
+	@echo ... src/P0260_SingleNumberIII.s
 .PHONY : help
 
 
