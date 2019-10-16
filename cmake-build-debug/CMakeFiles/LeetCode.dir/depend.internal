@@ -10,6 +10,15 @@ CMakeFiles/LeetCode.dir/main.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0003_LongestSubstringWithoutRepeatingCharacters.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0004_MedianOfTwoSortedArrays.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0005_LongestPalindromicSubstring.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0006_ZigZagConversion.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0007_ReverseInteger.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0008_StringToInteger_atoi.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0009_PalindromeNumber.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0010_RegularExpressionMatching.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0011_ContainerWithMostWater.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0012_IntegerToRoman.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0013_RomanToInteger.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0014_LongestCommonPrefix.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0015_3Sum.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0016_3SumClosest.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0017_LetterCombinationsOfAPhoneNumber.h
@@ -47,6 +56,15 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0003_LongestSubstringWithoutRepeatingCharacters.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0004_MedianOfTwoSortedArrays.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0005_LongestPalindromicSubstring.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0006_ZigZagConversion.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0007_ReverseInteger.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0008_StringToInteger_atoi.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0009_PalindromeNumber.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0010_RegularExpressionMatching.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0011_ContainerWithMostWater.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0012_IntegerToRoman.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0013_RomanToInteger.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0014_LongestCommonPrefix.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0015_3Sum.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0016_3SumClosest.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0017_LetterCombinationsOfAPhoneNumber.h
@@ -89,6 +107,33 @@ CMakeFiles/LeetCode.dir/src/P0004_MedianOfTwoSortedArrays.cpp.obj
 CMakeFiles/LeetCode.dir/src/P0005_LongestPalindromicSubstring.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0005_LongestPalindromicSubstring.cpp
  E:/OneDrive/CodingInterview/LeetCode/src/P0005_LongestPalindromicSubstring.h
+CMakeFiles/LeetCode.dir/src/P0006_ZigZagConversion.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0006_ZigZagConversion.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0006_ZigZagConversion.h
+CMakeFiles/LeetCode.dir/src/P0007_ReverseInteger.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0007_ReverseInteger.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0007_ReverseInteger.h
+CMakeFiles/LeetCode.dir/src/P0008_StringToInteger_atoi.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0008_StringToInteger_atoi.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0008_StringToInteger_atoi.h
+CMakeFiles/LeetCode.dir/src/P0009_PalindromeNumber.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0009_PalindromeNumber.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0009_PalindromeNumber.h
+CMakeFiles/LeetCode.dir/src/P0010_RegularExpressionMatching.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0010_RegularExpressionMatching.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0010_RegularExpressionMatching.h
+CMakeFiles/LeetCode.dir/src/P0011_ContainerWithMostWater.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0011_ContainerWithMostWater.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0011_ContainerWithMostWater.h
+CMakeFiles/LeetCode.dir/src/P0012_IntegerToRoman.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0012_IntegerToRoman.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0012_IntegerToRoman.h
+CMakeFiles/LeetCode.dir/src/P0013_RomanToInteger.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0013_RomanToInteger.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0013_RomanToInteger.h
+CMakeFiles/LeetCode.dir/src/P0014_LongestCommonPrefix.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0014_LongestCommonPrefix.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0014_LongestCommonPrefix.h
 CMakeFiles/LeetCode.dir/src/P0015_3Sum.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0015_3Sum.cpp
  E:/OneDrive/CodingInterview/LeetCode/src/P0015_3Sum.h

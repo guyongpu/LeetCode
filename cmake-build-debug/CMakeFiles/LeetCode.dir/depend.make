@@ -9,6 +9,15 @@ CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0002_AddTwoNumbers.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0003_LongestSubstringWithoutRepeatingCharacters.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0004_MedianOfTwoSortedArrays.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0005_LongestPalindromicSubstring.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0006_ZigZagConversion.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0007_ReverseInteger.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0008_StringToInteger_atoi.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0009_PalindromeNumber.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0010_RegularExpressionMatching.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0011_ContainerWithMostWater.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0012_IntegerToRoman.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0013_RomanToInteger.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0014_LongestCommonPrefix.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0015_3Sum.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0016_3SumClosest.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0017_LetterCombinationsOfAPhoneNumber.h
@@ -46,6 +55,15 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0002_AddTwoNumber
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0003_LongestSubstringWithoutRepeatingCharacters.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0004_MedianOfTwoSortedArrays.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0005_LongestPalindromicSubstring.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0006_ZigZagConversion.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0007_ReverseInteger.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0008_StringToInteger_atoi.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0009_PalindromeNumber.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0010_RegularExpressionMatching.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0011_ContainerWithMostWater.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0012_IntegerToRoman.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0013_RomanToInteger.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0014_LongestCommonPrefix.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0015_3Sum.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0016_3SumClosest.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0017_LetterCombinationsOfAPhoneNumber.h
@@ -88,6 +106,33 @@ CMakeFiles/LeetCode.dir/src/P0004_MedianOfTwoSortedArrays.cpp.obj: ../src/P0004_
 
 CMakeFiles/LeetCode.dir/src/P0005_LongestPalindromicSubstring.cpp.obj: ../src/P0005_LongestPalindromicSubstring.cpp
 CMakeFiles/LeetCode.dir/src/P0005_LongestPalindromicSubstring.cpp.obj: ../src/P0005_LongestPalindromicSubstring.h
+
+CMakeFiles/LeetCode.dir/src/P0006_ZigZagConversion.cpp.obj: ../src/P0006_ZigZagConversion.cpp
+CMakeFiles/LeetCode.dir/src/P0006_ZigZagConversion.cpp.obj: ../src/P0006_ZigZagConversion.h
+
+CMakeFiles/LeetCode.dir/src/P0007_ReverseInteger.cpp.obj: ../src/P0007_ReverseInteger.cpp
+CMakeFiles/LeetCode.dir/src/P0007_ReverseInteger.cpp.obj: ../src/P0007_ReverseInteger.h
+
+CMakeFiles/LeetCode.dir/src/P0008_StringToInteger_atoi.cpp.obj: ../src/P0008_StringToInteger_atoi.cpp
+CMakeFiles/LeetCode.dir/src/P0008_StringToInteger_atoi.cpp.obj: ../src/P0008_StringToInteger_atoi.h
+
+CMakeFiles/LeetCode.dir/src/P0009_PalindromeNumber.cpp.obj: ../src/P0009_PalindromeNumber.cpp
+CMakeFiles/LeetCode.dir/src/P0009_PalindromeNumber.cpp.obj: ../src/P0009_PalindromeNumber.h
+
+CMakeFiles/LeetCode.dir/src/P0010_RegularExpressionMatching.cpp.obj: ../src/P0010_RegularExpressionMatching.cpp
+CMakeFiles/LeetCode.dir/src/P0010_RegularExpressionMatching.cpp.obj: ../src/P0010_RegularExpressionMatching.h
+
+CMakeFiles/LeetCode.dir/src/P0011_ContainerWithMostWater.cpp.obj: ../src/P0011_ContainerWithMostWater.cpp
+CMakeFiles/LeetCode.dir/src/P0011_ContainerWithMostWater.cpp.obj: ../src/P0011_ContainerWithMostWater.h
+
+CMakeFiles/LeetCode.dir/src/P0012_IntegerToRoman.cpp.obj: ../src/P0012_IntegerToRoman.cpp
+CMakeFiles/LeetCode.dir/src/P0012_IntegerToRoman.cpp.obj: ../src/P0012_IntegerToRoman.h
+
+CMakeFiles/LeetCode.dir/src/P0013_RomanToInteger.cpp.obj: ../src/P0013_RomanToInteger.cpp
+CMakeFiles/LeetCode.dir/src/P0013_RomanToInteger.cpp.obj: ../src/P0013_RomanToInteger.h
+
+CMakeFiles/LeetCode.dir/src/P0014_LongestCommonPrefix.cpp.obj: ../src/P0014_LongestCommonPrefix.cpp
+CMakeFiles/LeetCode.dir/src/P0014_LongestCommonPrefix.cpp.obj: ../src/P0014_LongestCommonPrefix.h
 
 CMakeFiles/LeetCode.dir/src/P0015_3Sum.cpp.obj: ../src/P0015_3Sum.cpp
 CMakeFiles/LeetCode.dir/src/P0015_3Sum.cpp.obj: ../src/P0015_3Sum.h

@@ -511,6 +511,123 @@ CMakeFiles/LeetCode.dir/src/P0005_LongestPalindromicSubstring.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0005_LongestPalindromicSubstring.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0005_LongestPalindromicSubstring.cpp -o CMakeFiles\LeetCode.dir\src\P0005_LongestPalindromicSubstring.cpp.s
 
+CMakeFiles/LeetCode.dir/src/P0014_LongestCommonPrefix.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0014_LongestCommonPrefix.cpp.obj: ../src/P0014_LongestCommonPrefix.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/LeetCode.dir/src/P0014_LongestCommonPrefix.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0014_LongestCommonPrefix.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0014_LongestCommonPrefix.cpp
+
+CMakeFiles/LeetCode.dir/src/P0014_LongestCommonPrefix.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0014_LongestCommonPrefix.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0014_LongestCommonPrefix.cpp > CMakeFiles\LeetCode.dir\src\P0014_LongestCommonPrefix.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0014_LongestCommonPrefix.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0014_LongestCommonPrefix.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0014_LongestCommonPrefix.cpp -o CMakeFiles\LeetCode.dir\src\P0014_LongestCommonPrefix.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0006_ZigZagConversion.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0006_ZigZagConversion.cpp.obj: ../src/P0006_ZigZagConversion.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/LeetCode.dir/src/P0006_ZigZagConversion.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0006_ZigZagConversion.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0006_ZigZagConversion.cpp
+
+CMakeFiles/LeetCode.dir/src/P0006_ZigZagConversion.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0006_ZigZagConversion.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0006_ZigZagConversion.cpp > CMakeFiles\LeetCode.dir\src\P0006_ZigZagConversion.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0006_ZigZagConversion.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0006_ZigZagConversion.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0006_ZigZagConversion.cpp -o CMakeFiles\LeetCode.dir\src\P0006_ZigZagConversion.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0007_ReverseInteger.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0007_ReverseInteger.cpp.obj: ../src/P0007_ReverseInteger.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/LeetCode.dir/src/P0007_ReverseInteger.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0007_ReverseInteger.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0007_ReverseInteger.cpp
+
+CMakeFiles/LeetCode.dir/src/P0007_ReverseInteger.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0007_ReverseInteger.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0007_ReverseInteger.cpp > CMakeFiles\LeetCode.dir\src\P0007_ReverseInteger.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0007_ReverseInteger.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0007_ReverseInteger.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0007_ReverseInteger.cpp -o CMakeFiles\LeetCode.dir\src\P0007_ReverseInteger.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0008_StringToInteger_atoi.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0008_StringToInteger_atoi.cpp.obj: ../src/P0008_StringToInteger_atoi.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/LeetCode.dir/src/P0008_StringToInteger_atoi.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0008_StringToInteger_atoi.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0008_StringToInteger_atoi.cpp
+
+CMakeFiles/LeetCode.dir/src/P0008_StringToInteger_atoi.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0008_StringToInteger_atoi.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0008_StringToInteger_atoi.cpp > CMakeFiles\LeetCode.dir\src\P0008_StringToInteger_atoi.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0008_StringToInteger_atoi.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0008_StringToInteger_atoi.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0008_StringToInteger_atoi.cpp -o CMakeFiles\LeetCode.dir\src\P0008_StringToInteger_atoi.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0009_PalindromeNumber.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0009_PalindromeNumber.cpp.obj: ../src/P0009_PalindromeNumber.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/LeetCode.dir/src/P0009_PalindromeNumber.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0009_PalindromeNumber.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0009_PalindromeNumber.cpp
+
+CMakeFiles/LeetCode.dir/src/P0009_PalindromeNumber.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0009_PalindromeNumber.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0009_PalindromeNumber.cpp > CMakeFiles\LeetCode.dir\src\P0009_PalindromeNumber.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0009_PalindromeNumber.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0009_PalindromeNumber.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0009_PalindromeNumber.cpp -o CMakeFiles\LeetCode.dir\src\P0009_PalindromeNumber.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0011_ContainerWithMostWater.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0011_ContainerWithMostWater.cpp.obj: ../src/P0011_ContainerWithMostWater.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/LeetCode.dir/src/P0011_ContainerWithMostWater.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0011_ContainerWithMostWater.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0011_ContainerWithMostWater.cpp
+
+CMakeFiles/LeetCode.dir/src/P0011_ContainerWithMostWater.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0011_ContainerWithMostWater.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0011_ContainerWithMostWater.cpp > CMakeFiles\LeetCode.dir\src\P0011_ContainerWithMostWater.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0011_ContainerWithMostWater.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0011_ContainerWithMostWater.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0011_ContainerWithMostWater.cpp -o CMakeFiles\LeetCode.dir\src\P0011_ContainerWithMostWater.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0012_IntegerToRoman.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0012_IntegerToRoman.cpp.obj: ../src/P0012_IntegerToRoman.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/LeetCode.dir/src/P0012_IntegerToRoman.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0012_IntegerToRoman.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0012_IntegerToRoman.cpp
+
+CMakeFiles/LeetCode.dir/src/P0012_IntegerToRoman.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0012_IntegerToRoman.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0012_IntegerToRoman.cpp > CMakeFiles\LeetCode.dir\src\P0012_IntegerToRoman.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0012_IntegerToRoman.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0012_IntegerToRoman.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0012_IntegerToRoman.cpp -o CMakeFiles\LeetCode.dir\src\P0012_IntegerToRoman.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0013_RomanToInteger.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0013_RomanToInteger.cpp.obj: ../src/P0013_RomanToInteger.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/LeetCode.dir/src/P0013_RomanToInteger.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0013_RomanToInteger.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0013_RomanToInteger.cpp
+
+CMakeFiles/LeetCode.dir/src/P0013_RomanToInteger.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0013_RomanToInteger.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0013_RomanToInteger.cpp > CMakeFiles\LeetCode.dir\src\P0013_RomanToInteger.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0013_RomanToInteger.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0013_RomanToInteger.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0013_RomanToInteger.cpp -o CMakeFiles\LeetCode.dir\src\P0013_RomanToInteger.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0010_RegularExpressionMatching.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0010_RegularExpressionMatching.cpp.obj: ../src/P0010_RegularExpressionMatching.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/LeetCode.dir/src/P0010_RegularExpressionMatching.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0010_RegularExpressionMatching.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0010_RegularExpressionMatching.cpp
+
+CMakeFiles/LeetCode.dir/src/P0010_RegularExpressionMatching.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0010_RegularExpressionMatching.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0010_RegularExpressionMatching.cpp > CMakeFiles\LeetCode.dir\src\P0010_RegularExpressionMatching.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0010_RegularExpressionMatching.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0010_RegularExpressionMatching.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0010_RegularExpressionMatching.cpp -o CMakeFiles\LeetCode.dir\src\P0010_RegularExpressionMatching.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/main.cpp.obj" \
@@ -547,7 +664,16 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/src/P0169_MajorityElement.cpp.obj" \
 "CMakeFiles/LeetCode.dir/src/P0171_ExcelSheetColumnNumber.cpp.obj" \
 "CMakeFiles/LeetCode.dir/src/P0172_FactorialTrailingZeroes.cpp.obj" \
-"CMakeFiles/LeetCode.dir/src/P0005_LongestPalindromicSubstring.cpp.obj"
+"CMakeFiles/LeetCode.dir/src/P0005_LongestPalindromicSubstring.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0014_LongestCommonPrefix.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0006_ZigZagConversion.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0007_ReverseInteger.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0008_StringToInteger_atoi.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0009_PalindromeNumber.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0011_ContainerWithMostWater.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0012_IntegerToRoman.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0013_RomanToInteger.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0010_RegularExpressionMatching.cpp.obj"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -587,11 +713,20 @@ LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0169_MajorityElement.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0171_ExcelSheetColumnNumber.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0172_FactorialTrailingZeroes.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0005_LongestPalindromicSubstring.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0014_LongestCommonPrefix.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0006_ZigZagConversion.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0007_ReverseInteger.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0008_StringToInteger_atoi.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0009_PalindromeNumber.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0011_ContainerWithMostWater.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0012_IntegerToRoman.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0013_RomanToInteger.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0010_RegularExpressionMatching.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/build.make
 LeetCode.exe: CMakeFiles/LeetCode.dir/linklibs.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/objects1.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Linking CXX executable LeetCode.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Linking CXX executable LeetCode.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LeetCode.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

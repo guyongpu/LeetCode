@@ -21,19 +21,46 @@ int Test_Problem(int number) {
     } else if (number == 4) {
         P0004_MedianOfTwoSortedArrays Solution;
         Solution.test();
-    }else if (number == 5) {
+    } else if (number == 5) {
         P0005_LongestPalindromicSubstring Solution;
         Solution.test();
-    }else if (number == 15) {
+    } else if (number == 6) {
+        P0006_ZigZagConversion Solution;
+        Solution.test();
+    } else if (number == 7) {
+        P0007_ReverseInteger Solution;
+        Solution.test();
+    } else if (number == 8) {
+        P0008_StringToInteger_atoi Solution;
+        Solution.test();
+    } else if (number == 9) {
+        P0009_PalindromeNumber Solution;
+        Solution.test();
+    }else if (number == 10) {
+        P0010_RegularExpressionMatching Solution;
+        Solution.test();
+    } else if (number == 11) {
+        P0011_ContainerWithMostWater Solution;
+        Solution.test();
+    }else if (number == 12) {
+        P0012_IntegerToRoman Solution;
+        Solution.test();
+    }else if (number == 13) {
+        P0013_RomanToInteger Solution;
+        Solution.test();
+    }  else if (number == 14) {
+        P0014_LongestCommonPrefix Solution;
+        Solution.test();
+    } else if (number == 15) {
         P0015_3Sum Solution;
         Solution.test();
-    }else if (number == 16) {
+    } else if (number == 16) {
         P0016_3SumClosest Solution;
         Solution.test();
-    }else if (number == 17) {
+    } else if (number == 17) {
         P0017_LetterCombinationsOfAPhoneNumber Solution;
         Solution.test();
-    }else if (number == 18) {
+    } else if (number == 18) {
         P0018_4Sum Solution;
         Solution.test();
     } else if (number == 81) {
@@ -87,22 +114,22 @@ int Test_Problem(int number) {
     } else if (number == 165) {
         P0165_CompareVersionNumbers Solution;
         Solution.test();
-    }else if (number == 166) {
+    } else if (number == 166) {
         P0166_FractionToRecurringDecimal Solution;
         Solution.test();
-    }else if (number == 167) {
+    } else if (number == 167) {
         P0167_TwoSumII_InputArrayIsSorted Solution;
         Solution.test();
-    }else if (number == 168) {
+    } else if (number == 168) {
         P0168_ExcelSheetColumnTitle Solution;
         Solution.test();
-    }else if (number == 169) {
+    } else if (number == 169) {
         P0169_MajorityElement Solution;
         Solution.test();
-    }else if (number == 171) {
+    } else if (number == 171) {
         P0171_ExcelSheetColumnNumber Solution;
         Solution.test();
-    }else if (number == 172) {
+    } else if (number == 172) {
         P0172_FactorialTrailingZeroes Solution;
         Solution.test();
     } else if (number == 260) {

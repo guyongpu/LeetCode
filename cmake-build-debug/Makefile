@@ -311,6 +311,249 @@ src/P0005_LongestPalindromicSubstring.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0005_LongestPalindromicSubstring.cpp.s
 .PHONY : src/P0005_LongestPalindromicSubstring.cpp.s
 
+src/P0006_ZigZagConversion.obj: src/P0006_ZigZagConversion.cpp.obj
+
+.PHONY : src/P0006_ZigZagConversion.obj
+
+# target to build an object file
+src/P0006_ZigZagConversion.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0006_ZigZagConversion.cpp.obj
+.PHONY : src/P0006_ZigZagConversion.cpp.obj
+
+src/P0006_ZigZagConversion.i: src/P0006_ZigZagConversion.cpp.i
+
+.PHONY : src/P0006_ZigZagConversion.i
+
+# target to preprocess a source file
+src/P0006_ZigZagConversion.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0006_ZigZagConversion.cpp.i
+.PHONY : src/P0006_ZigZagConversion.cpp.i
+
+src/P0006_ZigZagConversion.s: src/P0006_ZigZagConversion.cpp.s
+
+.PHONY : src/P0006_ZigZagConversion.s
+
+# target to generate assembly for a file
+src/P0006_ZigZagConversion.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0006_ZigZagConversion.cpp.s
+.PHONY : src/P0006_ZigZagConversion.cpp.s
+
+src/P0007_ReverseInteger.obj: src/P0007_ReverseInteger.cpp.obj
+
+.PHONY : src/P0007_ReverseInteger.obj
+
+# target to build an object file
+src/P0007_ReverseInteger.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0007_ReverseInteger.cpp.obj
+.PHONY : src/P0007_ReverseInteger.cpp.obj
+
+src/P0007_ReverseInteger.i: src/P0007_ReverseInteger.cpp.i
+
+.PHONY : src/P0007_ReverseInteger.i
+
+# target to preprocess a source file
+src/P0007_ReverseInteger.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0007_ReverseInteger.cpp.i
+.PHONY : src/P0007_ReverseInteger.cpp.i
+
+src/P0007_ReverseInteger.s: src/P0007_ReverseInteger.cpp.s
+
+.PHONY : src/P0007_ReverseInteger.s
+
+# target to generate assembly for a file
+src/P0007_ReverseInteger.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0007_ReverseInteger.cpp.s
+.PHONY : src/P0007_ReverseInteger.cpp.s
+
+src/P0008_StringToInteger_atoi.obj: src/P0008_StringToInteger_atoi.cpp.obj
+
+.PHONY : src/P0008_StringToInteger_atoi.obj
+
+# target to build an object file
+src/P0008_StringToInteger_atoi.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0008_StringToInteger_atoi.cpp.obj
+.PHONY : src/P0008_StringToInteger_atoi.cpp.obj
+
+src/P0008_StringToInteger_atoi.i: src/P0008_StringToInteger_atoi.cpp.i
+
+.PHONY : src/P0008_StringToInteger_atoi.i
+
+# target to preprocess a source file
+src/P0008_StringToInteger_atoi.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0008_StringToInteger_atoi.cpp.i
+.PHONY : src/P0008_StringToInteger_atoi.cpp.i
+
+src/P0008_StringToInteger_atoi.s: src/P0008_StringToInteger_atoi.cpp.s
+
+.PHONY : src/P0008_StringToInteger_atoi.s
+
+# target to generate assembly for a file
+src/P0008_StringToInteger_atoi.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0008_StringToInteger_atoi.cpp.s
+.PHONY : src/P0008_StringToInteger_atoi.cpp.s
+
+src/P0009_PalindromeNumber.obj: src/P0009_PalindromeNumber.cpp.obj
+
+.PHONY : src/P0009_PalindromeNumber.obj
+
+# target to build an object file
+src/P0009_PalindromeNumber.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0009_PalindromeNumber.cpp.obj
+.PHONY : src/P0009_PalindromeNumber.cpp.obj
+
+src/P0009_PalindromeNumber.i: src/P0009_PalindromeNumber.cpp.i
+
+.PHONY : src/P0009_PalindromeNumber.i
+
+# target to preprocess a source file
+src/P0009_PalindromeNumber.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0009_PalindromeNumber.cpp.i
+.PHONY : src/P0009_PalindromeNumber.cpp.i
+
+src/P0009_PalindromeNumber.s: src/P0009_PalindromeNumber.cpp.s
+
+.PHONY : src/P0009_PalindromeNumber.s
+
+# target to generate assembly for a file
+src/P0009_PalindromeNumber.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0009_PalindromeNumber.cpp.s
+.PHONY : src/P0009_PalindromeNumber.cpp.s
+
+src/P0010_RegularExpressionMatching.obj: src/P0010_RegularExpressionMatching.cpp.obj
+
+.PHONY : src/P0010_RegularExpressionMatching.obj
+
+# target to build an object file
+src/P0010_RegularExpressionMatching.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0010_RegularExpressionMatching.cpp.obj
+.PHONY : src/P0010_RegularExpressionMatching.cpp.obj
+
+src/P0010_RegularExpressionMatching.i: src/P0010_RegularExpressionMatching.cpp.i
+
+.PHONY : src/P0010_RegularExpressionMatching.i
+
+# target to preprocess a source file
+src/P0010_RegularExpressionMatching.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0010_RegularExpressionMatching.cpp.i
+.PHONY : src/P0010_RegularExpressionMatching.cpp.i
+
+src/P0010_RegularExpressionMatching.s: src/P0010_RegularExpressionMatching.cpp.s
+
+.PHONY : src/P0010_RegularExpressionMatching.s
+
+# target to generate assembly for a file
+src/P0010_RegularExpressionMatching.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0010_RegularExpressionMatching.cpp.s
+.PHONY : src/P0010_RegularExpressionMatching.cpp.s
+
+src/P0011_ContainerWithMostWater.obj: src/P0011_ContainerWithMostWater.cpp.obj
+
+.PHONY : src/P0011_ContainerWithMostWater.obj
+
+# target to build an object file
+src/P0011_ContainerWithMostWater.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0011_ContainerWithMostWater.cpp.obj
+.PHONY : src/P0011_ContainerWithMostWater.cpp.obj
+
+src/P0011_ContainerWithMostWater.i: src/P0011_ContainerWithMostWater.cpp.i
+
+.PHONY : src/P0011_ContainerWithMostWater.i
+
+# target to preprocess a source file
+src/P0011_ContainerWithMostWater.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0011_ContainerWithMostWater.cpp.i
+.PHONY : src/P0011_ContainerWithMostWater.cpp.i
+
+src/P0011_ContainerWithMostWater.s: src/P0011_ContainerWithMostWater.cpp.s
+
+.PHONY : src/P0011_ContainerWithMostWater.s
+
+# target to generate assembly for a file
+src/P0011_ContainerWithMostWater.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0011_ContainerWithMostWater.cpp.s
+.PHONY : src/P0011_ContainerWithMostWater.cpp.s
+
+src/P0012_IntegerToRoman.obj: src/P0012_IntegerToRoman.cpp.obj
+
+.PHONY : src/P0012_IntegerToRoman.obj
+
+# target to build an object file
+src/P0012_IntegerToRoman.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0012_IntegerToRoman.cpp.obj
+.PHONY : src/P0012_IntegerToRoman.cpp.obj
+
+src/P0012_IntegerToRoman.i: src/P0012_IntegerToRoman.cpp.i
+
+.PHONY : src/P0012_IntegerToRoman.i
+
+# target to preprocess a source file
+src/P0012_IntegerToRoman.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0012_IntegerToRoman.cpp.i
+.PHONY : src/P0012_IntegerToRoman.cpp.i
+
+src/P0012_IntegerToRoman.s: src/P0012_IntegerToRoman.cpp.s
+
+.PHONY : src/P0012_IntegerToRoman.s
+
+# target to generate assembly for a file
+src/P0012_IntegerToRoman.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0012_IntegerToRoman.cpp.s
+.PHONY : src/P0012_IntegerToRoman.cpp.s
+
+src/P0013_RomanToInteger.obj: src/P0013_RomanToInteger.cpp.obj
+
+.PHONY : src/P0013_RomanToInteger.obj
+
+# target to build an object file
+src/P0013_RomanToInteger.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0013_RomanToInteger.cpp.obj
+.PHONY : src/P0013_RomanToInteger.cpp.obj
+
+src/P0013_RomanToInteger.i: src/P0013_RomanToInteger.cpp.i
+
+.PHONY : src/P0013_RomanToInteger.i
+
+# target to preprocess a source file
+src/P0013_RomanToInteger.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0013_RomanToInteger.cpp.i
+.PHONY : src/P0013_RomanToInteger.cpp.i
+
+src/P0013_RomanToInteger.s: src/P0013_RomanToInteger.cpp.s
+
+.PHONY : src/P0013_RomanToInteger.s
+
+# target to generate assembly for a file
+src/P0013_RomanToInteger.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0013_RomanToInteger.cpp.s
+.PHONY : src/P0013_RomanToInteger.cpp.s
+
+src/P0014_LongestCommonPrefix.obj: src/P0014_LongestCommonPrefix.cpp.obj
+
+.PHONY : src/P0014_LongestCommonPrefix.obj
+
+# target to build an object file
+src/P0014_LongestCommonPrefix.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0014_LongestCommonPrefix.cpp.obj
+.PHONY : src/P0014_LongestCommonPrefix.cpp.obj
+
+src/P0014_LongestCommonPrefix.i: src/P0014_LongestCommonPrefix.cpp.i
+
+.PHONY : src/P0014_LongestCommonPrefix.i
+
+# target to preprocess a source file
+src/P0014_LongestCommonPrefix.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0014_LongestCommonPrefix.cpp.i
+.PHONY : src/P0014_LongestCommonPrefix.cpp.i
+
+src/P0014_LongestCommonPrefix.s: src/P0014_LongestCommonPrefix.cpp.s
+
+.PHONY : src/P0014_LongestCommonPrefix.s
+
+# target to generate assembly for a file
+src/P0014_LongestCommonPrefix.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0014_LongestCommonPrefix.cpp.s
+.PHONY : src/P0014_LongestCommonPrefix.cpp.s
+
 src/P0015_3Sum.obj: src/P0015_3Sum.cpp.obj
 
 .PHONY : src/P0015_3Sum.obj
@@ -1097,6 +1340,33 @@ help:
 	@echo ... src/P0005_LongestPalindromicSubstring.obj
 	@echo ... src/P0005_LongestPalindromicSubstring.i
 	@echo ... src/P0005_LongestPalindromicSubstring.s
+	@echo ... src/P0006_ZigZagConversion.obj
+	@echo ... src/P0006_ZigZagConversion.i
+	@echo ... src/P0006_ZigZagConversion.s
+	@echo ... src/P0007_ReverseInteger.obj
+	@echo ... src/P0007_ReverseInteger.i
+	@echo ... src/P0007_ReverseInteger.s
+	@echo ... src/P0008_StringToInteger_atoi.obj
+	@echo ... src/P0008_StringToInteger_atoi.i
+	@echo ... src/P0008_StringToInteger_atoi.s
+	@echo ... src/P0009_PalindromeNumber.obj
+	@echo ... src/P0009_PalindromeNumber.i
+	@echo ... src/P0009_PalindromeNumber.s
+	@echo ... src/P0010_RegularExpressionMatching.obj
+	@echo ... src/P0010_RegularExpressionMatching.i
+	@echo ... src/P0010_RegularExpressionMatching.s
+	@echo ... src/P0011_ContainerWithMostWater.obj
+	@echo ... src/P0011_ContainerWithMostWater.i
+	@echo ... src/P0011_ContainerWithMostWater.s
+	@echo ... src/P0012_IntegerToRoman.obj
+	@echo ... src/P0012_IntegerToRoman.i
+	@echo ... src/P0012_IntegerToRoman.s
+	@echo ... src/P0013_RomanToInteger.obj
+	@echo ... src/P0013_RomanToInteger.i
+	@echo ... src/P0013_RomanToInteger.s
+	@echo ... src/P0014_LongestCommonPrefix.obj
+	@echo ... src/P0014_LongestCommonPrefix.i
+	@echo ... src/P0014_LongestCommonPrefix.s
 	@echo ... src/P0015_3Sum.obj
 	@echo ... src/P0015_3Sum.i
 	@echo ... src/P0015_3Sum.s
