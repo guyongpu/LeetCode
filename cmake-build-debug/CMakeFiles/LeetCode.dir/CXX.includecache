@@ -6,11 +6,13 @@
 
 #IncludeRegexTransform: 
 
-E:/OneDrive/CodingInterview/LeetCode/src/P0010_RegularExpressionMatching.cpp
-P0010_RegularExpressionMatching.h
-E:/OneDrive/CodingInterview/LeetCode/src/P0010_RegularExpressionMatching.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0028_ImplementstrStr.cpp
+P0028_ImplementstrStr.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0028_ImplementstrStr.h
 
-E:/OneDrive/CodingInterview/LeetCode/src/P0010_RegularExpressionMatching.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0028_ImplementstrStr.h
 iostream
+-
+vector
 -
 

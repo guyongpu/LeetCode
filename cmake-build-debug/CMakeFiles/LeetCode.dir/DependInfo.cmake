@@ -24,6 +24,14 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "E:/OneDrive/CodingInterview/LeetCode/src/P0016_3SumClosest.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0016_3SumClosest.cpp.obj"
   "E:/OneDrive/CodingInterview/LeetCode/src/P0017_LetterCombinationsOfAPhoneNumber.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0017_LetterCombinationsOfAPhoneNumber.cpp.obj"
   "E:/OneDrive/CodingInterview/LeetCode/src/P0018_4Sum.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0018_4Sum.cpp.obj"
+  "E:/OneDrive/CodingInterview/LeetCode/src/P0019_RemoveNthNodeFromEndOfList.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0019_RemoveNthNodeFromEndOfList.cpp.obj"
+  "E:/OneDrive/CodingInterview/LeetCode/src/P0020_ValidParentheses.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0020_ValidParentheses.cpp.obj"
+  "E:/OneDrive/CodingInterview/LeetCode/src/P0021_MergeTwoSortedLists.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0021_MergeTwoSortedLists.cpp.obj"
+  "E:/OneDrive/CodingInterview/LeetCode/src/P0024_SwapNodesInPairs.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0024_SwapNodesInPairs.cpp.obj"
+  "E:/OneDrive/CodingInterview/LeetCode/src/P0025_ReverseNodesInkGroup.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0025_ReverseNodesInkGroup.cpp.obj"
+  "E:/OneDrive/CodingInterview/LeetCode/src/P0026_RemoveDuplicatesFromSortedArray.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0026_RemoveDuplicatesFromSortedArray.cpp.obj"
+  "E:/OneDrive/CodingInterview/LeetCode/src/P0027_RemoveElement.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0027_RemoveElement.cpp.obj"
+  "E:/OneDrive/CodingInterview/LeetCode/src/P0028_ImplementstrStr.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0028_ImplementstrStr.cpp.obj"
   "E:/OneDrive/CodingInterview/LeetCode/src/P0081_SearchInRotatedSortedArrayII.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0081_SearchInRotatedSortedArrayII.cpp.obj"
   "E:/OneDrive/CodingInterview/LeetCode/src/P0136_SingleNumber.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0136_SingleNumber.cpp.obj"
   "E:/OneDrive/CodingInterview/LeetCode/src/P0137_SingleNumberII.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0137_SingleNumberII.cpp.obj"
@@ -47,6 +55,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "E:/OneDrive/CodingInterview/LeetCode/src/P0169_MajorityElement.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0169_MajorityElement.cpp.obj"
   "E:/OneDrive/CodingInterview/LeetCode/src/P0171_ExcelSheetColumnNumber.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0171_ExcelSheetColumnNumber.cpp.obj"
   "E:/OneDrive/CodingInterview/LeetCode/src/P0172_FactorialTrailingZeroes.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0172_FactorialTrailingZeroes.cpp.obj"
+  "E:/OneDrive/CodingInterview/LeetCode/src/P0173_BinarySearchTreeIterator.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0173_BinarySearchTreeIterator.cpp.obj"
+  "E:/OneDrive/CodingInterview/LeetCode/src/P0174_DungeonGame.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0174_DungeonGame.cpp.obj"
   "E:/OneDrive/CodingInterview/LeetCode/src/P0260_SingleNumberIII.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0260_SingleNumberIII.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

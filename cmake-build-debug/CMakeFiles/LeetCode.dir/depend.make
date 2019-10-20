@@ -22,6 +22,14 @@ CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0015_3Sum.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0016_3SumClosest.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0017_LetterCombinationsOfAPhoneNumber.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0018_4Sum.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0019_RemoveNthNodeFromEndOfList.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0020_ValidParentheses.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0021_MergeTwoSortedLists.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0024_SwapNodesInPairs.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0025_ReverseNodesInkGroup.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0026_RemoveDuplicatesFromSortedArray.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0027_RemoveElement.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0028_ImplementstrStr.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0081_SearchInRotatedSortedArrayII.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0136_SingleNumber.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0137_SingleNumberII.h
@@ -45,6 +53,8 @@ CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0168_ExcelSheetColumnTitle.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0169_MajorityElement.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0171_ExcelSheetColumnNumber.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0172_FactorialTrailingZeroes.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0173_BinarySearchTreeIterator.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0174_DungeonGame.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0260_SingleNumberIII.h
 
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0000_CommonHead.h
@@ -68,6 +78,14 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0015_3Sum.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0016_3SumClosest.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0017_LetterCombinationsOfAPhoneNumber.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0018_4Sum.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0019_RemoveNthNodeFromEndOfList.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0020_ValidParentheses.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0021_MergeTwoSortedLists.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0024_SwapNodesInPairs.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0025_ReverseNodesInkGroup.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0026_RemoveDuplicatesFromSortedArray.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0027_RemoveElement.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0028_ImplementstrStr.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0081_SearchInRotatedSortedArrayII.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0136_SingleNumber.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0137_SingleNumberII.h
@@ -91,6 +109,8 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0168_ExcelSheetCo
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0169_MajorityElement.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0171_ExcelSheetColumnNumber.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0172_FactorialTrailingZeroes.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0173_BinarySearchTreeIterator.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0174_DungeonGame.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0260_SingleNumberIII.h
 
 CMakeFiles/LeetCode.dir/src/P0001_TwoSum.cpp.obj: ../src/P0001_TwoSum.cpp
@@ -145,6 +165,34 @@ CMakeFiles/LeetCode.dir/src/P0017_LetterCombinationsOfAPhoneNumber.cpp.obj: ../s
 
 CMakeFiles/LeetCode.dir/src/P0018_4Sum.cpp.obj: ../src/P0018_4Sum.cpp
 CMakeFiles/LeetCode.dir/src/P0018_4Sum.cpp.obj: ../src/P0018_4Sum.h
+
+CMakeFiles/LeetCode.dir/src/P0019_RemoveNthNodeFromEndOfList.cpp.obj: ../src/P0000_CommonHead.h
+CMakeFiles/LeetCode.dir/src/P0019_RemoveNthNodeFromEndOfList.cpp.obj: ../src/P0019_RemoveNthNodeFromEndOfList.cpp
+CMakeFiles/LeetCode.dir/src/P0019_RemoveNthNodeFromEndOfList.cpp.obj: ../src/P0019_RemoveNthNodeFromEndOfList.h
+
+CMakeFiles/LeetCode.dir/src/P0020_ValidParentheses.cpp.obj: ../src/P0020_ValidParentheses.cpp
+CMakeFiles/LeetCode.dir/src/P0020_ValidParentheses.cpp.obj: ../src/P0020_ValidParentheses.h
+
+CMakeFiles/LeetCode.dir/src/P0021_MergeTwoSortedLists.cpp.obj: ../src/P0000_CommonHead.h
+CMakeFiles/LeetCode.dir/src/P0021_MergeTwoSortedLists.cpp.obj: ../src/P0021_MergeTwoSortedLists.cpp
+CMakeFiles/LeetCode.dir/src/P0021_MergeTwoSortedLists.cpp.obj: ../src/P0021_MergeTwoSortedLists.h
+
+CMakeFiles/LeetCode.dir/src/P0024_SwapNodesInPairs.cpp.obj: ../src/P0000_CommonHead.h
+CMakeFiles/LeetCode.dir/src/P0024_SwapNodesInPairs.cpp.obj: ../src/P0024_SwapNodesInPairs.cpp
+CMakeFiles/LeetCode.dir/src/P0024_SwapNodesInPairs.cpp.obj: ../src/P0024_SwapNodesInPairs.h
+
+CMakeFiles/LeetCode.dir/src/P0025_ReverseNodesInkGroup.cpp.obj: ../src/P0000_CommonHead.h
+CMakeFiles/LeetCode.dir/src/P0025_ReverseNodesInkGroup.cpp.obj: ../src/P0025_ReverseNodesInkGroup.cpp
+CMakeFiles/LeetCode.dir/src/P0025_ReverseNodesInkGroup.cpp.obj: ../src/P0025_ReverseNodesInkGroup.h
+
+CMakeFiles/LeetCode.dir/src/P0026_RemoveDuplicatesFromSortedArray.cpp.obj: ../src/P0026_RemoveDuplicatesFromSortedArray.cpp
+CMakeFiles/LeetCode.dir/src/P0026_RemoveDuplicatesFromSortedArray.cpp.obj: ../src/P0026_RemoveDuplicatesFromSortedArray.h
+
+CMakeFiles/LeetCode.dir/src/P0027_RemoveElement.cpp.obj: ../src/P0027_RemoveElement.cpp
+CMakeFiles/LeetCode.dir/src/P0027_RemoveElement.cpp.obj: ../src/P0027_RemoveElement.h
+
+CMakeFiles/LeetCode.dir/src/P0028_ImplementstrStr.cpp.obj: ../src/P0028_ImplementstrStr.cpp
+CMakeFiles/LeetCode.dir/src/P0028_ImplementstrStr.cpp.obj: ../src/P0028_ImplementstrStr.h
 
 CMakeFiles/LeetCode.dir/src/P0081_SearchInRotatedSortedArrayII.cpp.obj: ../src/P0081_SearchInRotatedSortedArrayII.cpp
 CMakeFiles/LeetCode.dir/src/P0081_SearchInRotatedSortedArrayII.cpp.obj: ../src/P0081_SearchInRotatedSortedArrayII.h
@@ -217,6 +265,13 @@ CMakeFiles/LeetCode.dir/src/P0171_ExcelSheetColumnNumber.cpp.obj: ../src/P0171_E
 
 CMakeFiles/LeetCode.dir/src/P0172_FactorialTrailingZeroes.cpp.obj: ../src/P0172_FactorialTrailingZeroes.cpp
 CMakeFiles/LeetCode.dir/src/P0172_FactorialTrailingZeroes.cpp.obj: ../src/P0172_FactorialTrailingZeroes.h
+
+CMakeFiles/LeetCode.dir/src/P0173_BinarySearchTreeIterator.cpp.obj: ../src/P0000_CommonHead.h
+CMakeFiles/LeetCode.dir/src/P0173_BinarySearchTreeIterator.cpp.obj: ../src/P0173_BinarySearchTreeIterator.cpp
+CMakeFiles/LeetCode.dir/src/P0173_BinarySearchTreeIterator.cpp.obj: ../src/P0173_BinarySearchTreeIterator.h
+
+CMakeFiles/LeetCode.dir/src/P0174_DungeonGame.cpp.obj: ../src/P0174_DungeonGame.cpp
+CMakeFiles/LeetCode.dir/src/P0174_DungeonGame.cpp.obj: ../src/P0174_DungeonGame.h
 
 CMakeFiles/LeetCode.dir/src/P0260_SingleNumberIII.cpp.obj: ../src/P0260_SingleNumberIII.cpp
 CMakeFiles/LeetCode.dir/src/P0260_SingleNumberIII.cpp.obj: ../src/P0260_SingleNumberIII.h

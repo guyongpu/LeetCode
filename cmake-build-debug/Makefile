@@ -662,6 +662,222 @@ src/P0018_4Sum.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0018_4Sum.cpp.s
 .PHONY : src/P0018_4Sum.cpp.s
 
+src/P0019_RemoveNthNodeFromEndOfList.obj: src/P0019_RemoveNthNodeFromEndOfList.cpp.obj
+
+.PHONY : src/P0019_RemoveNthNodeFromEndOfList.obj
+
+# target to build an object file
+src/P0019_RemoveNthNodeFromEndOfList.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0019_RemoveNthNodeFromEndOfList.cpp.obj
+.PHONY : src/P0019_RemoveNthNodeFromEndOfList.cpp.obj
+
+src/P0019_RemoveNthNodeFromEndOfList.i: src/P0019_RemoveNthNodeFromEndOfList.cpp.i
+
+.PHONY : src/P0019_RemoveNthNodeFromEndOfList.i
+
+# target to preprocess a source file
+src/P0019_RemoveNthNodeFromEndOfList.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0019_RemoveNthNodeFromEndOfList.cpp.i
+.PHONY : src/P0019_RemoveNthNodeFromEndOfList.cpp.i
+
+src/P0019_RemoveNthNodeFromEndOfList.s: src/P0019_RemoveNthNodeFromEndOfList.cpp.s
+
+.PHONY : src/P0019_RemoveNthNodeFromEndOfList.s
+
+# target to generate assembly for a file
+src/P0019_RemoveNthNodeFromEndOfList.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0019_RemoveNthNodeFromEndOfList.cpp.s
+.PHONY : src/P0019_RemoveNthNodeFromEndOfList.cpp.s
+
+src/P0020_ValidParentheses.obj: src/P0020_ValidParentheses.cpp.obj
+
+.PHONY : src/P0020_ValidParentheses.obj
+
+# target to build an object file
+src/P0020_ValidParentheses.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0020_ValidParentheses.cpp.obj
+.PHONY : src/P0020_ValidParentheses.cpp.obj
+
+src/P0020_ValidParentheses.i: src/P0020_ValidParentheses.cpp.i
+
+.PHONY : src/P0020_ValidParentheses.i
+
+# target to preprocess a source file
+src/P0020_ValidParentheses.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0020_ValidParentheses.cpp.i
+.PHONY : src/P0020_ValidParentheses.cpp.i
+
+src/P0020_ValidParentheses.s: src/P0020_ValidParentheses.cpp.s
+
+.PHONY : src/P0020_ValidParentheses.s
+
+# target to generate assembly for a file
+src/P0020_ValidParentheses.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0020_ValidParentheses.cpp.s
+.PHONY : src/P0020_ValidParentheses.cpp.s
+
+src/P0021_MergeTwoSortedLists.obj: src/P0021_MergeTwoSortedLists.cpp.obj
+
+.PHONY : src/P0021_MergeTwoSortedLists.obj
+
+# target to build an object file
+src/P0021_MergeTwoSortedLists.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0021_MergeTwoSortedLists.cpp.obj
+.PHONY : src/P0021_MergeTwoSortedLists.cpp.obj
+
+src/P0021_MergeTwoSortedLists.i: src/P0021_MergeTwoSortedLists.cpp.i
+
+.PHONY : src/P0021_MergeTwoSortedLists.i
+
+# target to preprocess a source file
+src/P0021_MergeTwoSortedLists.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0021_MergeTwoSortedLists.cpp.i
+.PHONY : src/P0021_MergeTwoSortedLists.cpp.i
+
+src/P0021_MergeTwoSortedLists.s: src/P0021_MergeTwoSortedLists.cpp.s
+
+.PHONY : src/P0021_MergeTwoSortedLists.s
+
+# target to generate assembly for a file
+src/P0021_MergeTwoSortedLists.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0021_MergeTwoSortedLists.cpp.s
+.PHONY : src/P0021_MergeTwoSortedLists.cpp.s
+
+src/P0024_SwapNodesInPairs.obj: src/P0024_SwapNodesInPairs.cpp.obj
+
+.PHONY : src/P0024_SwapNodesInPairs.obj
+
+# target to build an object file
+src/P0024_SwapNodesInPairs.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0024_SwapNodesInPairs.cpp.obj
+.PHONY : src/P0024_SwapNodesInPairs.cpp.obj
+
+src/P0024_SwapNodesInPairs.i: src/P0024_SwapNodesInPairs.cpp.i
+
+.PHONY : src/P0024_SwapNodesInPairs.i
+
+# target to preprocess a source file
+src/P0024_SwapNodesInPairs.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0024_SwapNodesInPairs.cpp.i
+.PHONY : src/P0024_SwapNodesInPairs.cpp.i
+
+src/P0024_SwapNodesInPairs.s: src/P0024_SwapNodesInPairs.cpp.s
+
+.PHONY : src/P0024_SwapNodesInPairs.s
+
+# target to generate assembly for a file
+src/P0024_SwapNodesInPairs.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0024_SwapNodesInPairs.cpp.s
+.PHONY : src/P0024_SwapNodesInPairs.cpp.s
+
+src/P0025_ReverseNodesInkGroup.obj: src/P0025_ReverseNodesInkGroup.cpp.obj
+
+.PHONY : src/P0025_ReverseNodesInkGroup.obj
+
+# target to build an object file
+src/P0025_ReverseNodesInkGroup.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0025_ReverseNodesInkGroup.cpp.obj
+.PHONY : src/P0025_ReverseNodesInkGroup.cpp.obj
+
+src/P0025_ReverseNodesInkGroup.i: src/P0025_ReverseNodesInkGroup.cpp.i
+
+.PHONY : src/P0025_ReverseNodesInkGroup.i
+
+# target to preprocess a source file
+src/P0025_ReverseNodesInkGroup.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0025_ReverseNodesInkGroup.cpp.i
+.PHONY : src/P0025_ReverseNodesInkGroup.cpp.i
+
+src/P0025_ReverseNodesInkGroup.s: src/P0025_ReverseNodesInkGroup.cpp.s
+
+.PHONY : src/P0025_ReverseNodesInkGroup.s
+
+# target to generate assembly for a file
+src/P0025_ReverseNodesInkGroup.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0025_ReverseNodesInkGroup.cpp.s
+.PHONY : src/P0025_ReverseNodesInkGroup.cpp.s
+
+src/P0026_RemoveDuplicatesFromSortedArray.obj: src/P0026_RemoveDuplicatesFromSortedArray.cpp.obj
+
+.PHONY : src/P0026_RemoveDuplicatesFromSortedArray.obj
+
+# target to build an object file
+src/P0026_RemoveDuplicatesFromSortedArray.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0026_RemoveDuplicatesFromSortedArray.cpp.obj
+.PHONY : src/P0026_RemoveDuplicatesFromSortedArray.cpp.obj
+
+src/P0026_RemoveDuplicatesFromSortedArray.i: src/P0026_RemoveDuplicatesFromSortedArray.cpp.i
+
+.PHONY : src/P0026_RemoveDuplicatesFromSortedArray.i
+
+# target to preprocess a source file
+src/P0026_RemoveDuplicatesFromSortedArray.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0026_RemoveDuplicatesFromSortedArray.cpp.i
+.PHONY : src/P0026_RemoveDuplicatesFromSortedArray.cpp.i
+
+src/P0026_RemoveDuplicatesFromSortedArray.s: src/P0026_RemoveDuplicatesFromSortedArray.cpp.s
+
+.PHONY : src/P0026_RemoveDuplicatesFromSortedArray.s
+
+# target to generate assembly for a file
+src/P0026_RemoveDuplicatesFromSortedArray.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0026_RemoveDuplicatesFromSortedArray.cpp.s
+.PHONY : src/P0026_RemoveDuplicatesFromSortedArray.cpp.s
+
+src/P0027_RemoveElement.obj: src/P0027_RemoveElement.cpp.obj
+
+.PHONY : src/P0027_RemoveElement.obj
+
+# target to build an object file
+src/P0027_RemoveElement.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0027_RemoveElement.cpp.obj
+.PHONY : src/P0027_RemoveElement.cpp.obj
+
+src/P0027_RemoveElement.i: src/P0027_RemoveElement.cpp.i
+
+.PHONY : src/P0027_RemoveElement.i
+
+# target to preprocess a source file
+src/P0027_RemoveElement.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0027_RemoveElement.cpp.i
+.PHONY : src/P0027_RemoveElement.cpp.i
+
+src/P0027_RemoveElement.s: src/P0027_RemoveElement.cpp.s
+
+.PHONY : src/P0027_RemoveElement.s
+
+# target to generate assembly for a file
+src/P0027_RemoveElement.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0027_RemoveElement.cpp.s
+.PHONY : src/P0027_RemoveElement.cpp.s
+
+src/P0028_ImplementstrStr.obj: src/P0028_ImplementstrStr.cpp.obj
+
+.PHONY : src/P0028_ImplementstrStr.obj
+
+# target to build an object file
+src/P0028_ImplementstrStr.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0028_ImplementstrStr.cpp.obj
+.PHONY : src/P0028_ImplementstrStr.cpp.obj
+
+src/P0028_ImplementstrStr.i: src/P0028_ImplementstrStr.cpp.i
+
+.PHONY : src/P0028_ImplementstrStr.i
+
+# target to preprocess a source file
+src/P0028_ImplementstrStr.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0028_ImplementstrStr.cpp.i
+.PHONY : src/P0028_ImplementstrStr.cpp.i
+
+src/P0028_ImplementstrStr.s: src/P0028_ImplementstrStr.cpp.s
+
+.PHONY : src/P0028_ImplementstrStr.s
+
+# target to generate assembly for a file
+src/P0028_ImplementstrStr.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0028_ImplementstrStr.cpp.s
+.PHONY : src/P0028_ImplementstrStr.cpp.s
+
 src/P0081_SearchInRotatedSortedArrayII.obj: src/P0081_SearchInRotatedSortedArrayII.cpp.obj
 
 .PHONY : src/P0081_SearchInRotatedSortedArrayII.obj
@@ -1283,6 +1499,60 @@ src/P0172_FactorialTrailingZeroes.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0172_FactorialTrailingZeroes.cpp.s
 .PHONY : src/P0172_FactorialTrailingZeroes.cpp.s
 
+src/P0173_BinarySearchTreeIterator.obj: src/P0173_BinarySearchTreeIterator.cpp.obj
+
+.PHONY : src/P0173_BinarySearchTreeIterator.obj
+
+# target to build an object file
+src/P0173_BinarySearchTreeIterator.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0173_BinarySearchTreeIterator.cpp.obj
+.PHONY : src/P0173_BinarySearchTreeIterator.cpp.obj
+
+src/P0173_BinarySearchTreeIterator.i: src/P0173_BinarySearchTreeIterator.cpp.i
+
+.PHONY : src/P0173_BinarySearchTreeIterator.i
+
+# target to preprocess a source file
+src/P0173_BinarySearchTreeIterator.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0173_BinarySearchTreeIterator.cpp.i
+.PHONY : src/P0173_BinarySearchTreeIterator.cpp.i
+
+src/P0173_BinarySearchTreeIterator.s: src/P0173_BinarySearchTreeIterator.cpp.s
+
+.PHONY : src/P0173_BinarySearchTreeIterator.s
+
+# target to generate assembly for a file
+src/P0173_BinarySearchTreeIterator.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0173_BinarySearchTreeIterator.cpp.s
+.PHONY : src/P0173_BinarySearchTreeIterator.cpp.s
+
+src/P0174_DungeonGame.obj: src/P0174_DungeonGame.cpp.obj
+
+.PHONY : src/P0174_DungeonGame.obj
+
+# target to build an object file
+src/P0174_DungeonGame.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0174_DungeonGame.cpp.obj
+.PHONY : src/P0174_DungeonGame.cpp.obj
+
+src/P0174_DungeonGame.i: src/P0174_DungeonGame.cpp.i
+
+.PHONY : src/P0174_DungeonGame.i
+
+# target to preprocess a source file
+src/P0174_DungeonGame.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0174_DungeonGame.cpp.i
+.PHONY : src/P0174_DungeonGame.cpp.i
+
+src/P0174_DungeonGame.s: src/P0174_DungeonGame.cpp.s
+
+.PHONY : src/P0174_DungeonGame.s
+
+# target to generate assembly for a file
+src/P0174_DungeonGame.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0174_DungeonGame.cpp.s
+.PHONY : src/P0174_DungeonGame.cpp.s
+
 src/P0260_SingleNumberIII.obj: src/P0260_SingleNumberIII.cpp.obj
 
 .PHONY : src/P0260_SingleNumberIII.obj
@@ -1379,6 +1649,30 @@ help:
 	@echo ... src/P0018_4Sum.obj
 	@echo ... src/P0018_4Sum.i
 	@echo ... src/P0018_4Sum.s
+	@echo ... src/P0019_RemoveNthNodeFromEndOfList.obj
+	@echo ... src/P0019_RemoveNthNodeFromEndOfList.i
+	@echo ... src/P0019_RemoveNthNodeFromEndOfList.s
+	@echo ... src/P0020_ValidParentheses.obj
+	@echo ... src/P0020_ValidParentheses.i
+	@echo ... src/P0020_ValidParentheses.s
+	@echo ... src/P0021_MergeTwoSortedLists.obj
+	@echo ... src/P0021_MergeTwoSortedLists.i
+	@echo ... src/P0021_MergeTwoSortedLists.s
+	@echo ... src/P0024_SwapNodesInPairs.obj
+	@echo ... src/P0024_SwapNodesInPairs.i
+	@echo ... src/P0024_SwapNodesInPairs.s
+	@echo ... src/P0025_ReverseNodesInkGroup.obj
+	@echo ... src/P0025_ReverseNodesInkGroup.i
+	@echo ... src/P0025_ReverseNodesInkGroup.s
+	@echo ... src/P0026_RemoveDuplicatesFromSortedArray.obj
+	@echo ... src/P0026_RemoveDuplicatesFromSortedArray.i
+	@echo ... src/P0026_RemoveDuplicatesFromSortedArray.s
+	@echo ... src/P0027_RemoveElement.obj
+	@echo ... src/P0027_RemoveElement.i
+	@echo ... src/P0027_RemoveElement.s
+	@echo ... src/P0028_ImplementstrStr.obj
+	@echo ... src/P0028_ImplementstrStr.i
+	@echo ... src/P0028_ImplementstrStr.s
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.obj
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.i
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.s
@@ -1448,6 +1742,12 @@ help:
 	@echo ... src/P0172_FactorialTrailingZeroes.obj
 	@echo ... src/P0172_FactorialTrailingZeroes.i
 	@echo ... src/P0172_FactorialTrailingZeroes.s
+	@echo ... src/P0173_BinarySearchTreeIterator.obj
+	@echo ... src/P0173_BinarySearchTreeIterator.i
+	@echo ... src/P0173_BinarySearchTreeIterator.s
+	@echo ... src/P0174_DungeonGame.obj
+	@echo ... src/P0174_DungeonGame.i
+	@echo ... src/P0174_DungeonGame.s
 	@echo ... src/P0260_SingleNumberIII.obj
 	@echo ... src/P0260_SingleNumberIII.i
 	@echo ... src/P0260_SingleNumberIII.s
