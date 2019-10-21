@@ -29,11 +29,14 @@
 #include "P0019_RemoveNthNodeFromEndOfList.h"
 #include "P0020_ValidParentheses.h"
 #include "P0021_MergeTwoSortedLists.h"
+#include "P0022_GenerateParentheses.h"
+#include "P0023_MergeKSortedLists.h"
 #include "P0024_SwapNodesInPairs.h"
 #include "P0025_ReverseNodesInkGroup.h"
 #include "P0026_RemoveDuplicatesFromSortedArray.h"
 #include "P0027_RemoveElement.h"
 #include "P0028_ImplementstrStr.h"
+#include "P0029_DivideTwoIntegers.h"
 #include "P0081_SearchInRotatedSortedArrayII.h"
 #include "P0136_SingleNumber.h"
 #include "P0137_SingleNumberII.h"
@@ -59,6 +62,8 @@
 #include "P0172_FactorialTrailingZeroes.h"
 #include "P0173_BinarySearchTreeIterator.h"
 #include "P0174_DungeonGame.h"
+#include "P0179_LargestNumber.h"
+#include "P0187_RepeatedDNASequences.h"
 #include "P0260_SingleNumberIII.h"
 
 using namespace std;

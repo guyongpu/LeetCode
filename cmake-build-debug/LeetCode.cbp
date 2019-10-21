@@ -218,6 +218,18 @@
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0021_MergeTwoSortedLists.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0022_GenerateParentheses.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0022_GenerateParentheses.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0023_MergeKSortedLists.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0023_MergeKSortedLists.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0024_SwapNodesInPairs.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
@@ -246,6 +258,12 @@
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0028_ImplementstrStr.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0029_DivideTwoIntegers.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0029_DivideTwoIntegers.h">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0081_SearchInRotatedSortedArrayII.cpp">
@@ -396,6 +414,18 @@
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0174_DungeonGame.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0179_LargestNumber.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0179_LargestNumber.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0187_RepeatedDNASequences.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0187_RepeatedDNASequences.h">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0260_SingleNumberIII.cpp">

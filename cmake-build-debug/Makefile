@@ -743,6 +743,60 @@ src/P0021_MergeTwoSortedLists.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0021_MergeTwoSortedLists.cpp.s
 .PHONY : src/P0021_MergeTwoSortedLists.cpp.s
 
+src/P0022_GenerateParentheses.obj: src/P0022_GenerateParentheses.cpp.obj
+
+.PHONY : src/P0022_GenerateParentheses.obj
+
+# target to build an object file
+src/P0022_GenerateParentheses.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0022_GenerateParentheses.cpp.obj
+.PHONY : src/P0022_GenerateParentheses.cpp.obj
+
+src/P0022_GenerateParentheses.i: src/P0022_GenerateParentheses.cpp.i
+
+.PHONY : src/P0022_GenerateParentheses.i
+
+# target to preprocess a source file
+src/P0022_GenerateParentheses.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0022_GenerateParentheses.cpp.i
+.PHONY : src/P0022_GenerateParentheses.cpp.i
+
+src/P0022_GenerateParentheses.s: src/P0022_GenerateParentheses.cpp.s
+
+.PHONY : src/P0022_GenerateParentheses.s
+
+# target to generate assembly for a file
+src/P0022_GenerateParentheses.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0022_GenerateParentheses.cpp.s
+.PHONY : src/P0022_GenerateParentheses.cpp.s
+
+src/P0023_MergeKSortedLists.obj: src/P0023_MergeKSortedLists.cpp.obj
+
+.PHONY : src/P0023_MergeKSortedLists.obj
+
+# target to build an object file
+src/P0023_MergeKSortedLists.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0023_MergeKSortedLists.cpp.obj
+.PHONY : src/P0023_MergeKSortedLists.cpp.obj
+
+src/P0023_MergeKSortedLists.i: src/P0023_MergeKSortedLists.cpp.i
+
+.PHONY : src/P0023_MergeKSortedLists.i
+
+# target to preprocess a source file
+src/P0023_MergeKSortedLists.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0023_MergeKSortedLists.cpp.i
+.PHONY : src/P0023_MergeKSortedLists.cpp.i
+
+src/P0023_MergeKSortedLists.s: src/P0023_MergeKSortedLists.cpp.s
+
+.PHONY : src/P0023_MergeKSortedLists.s
+
+# target to generate assembly for a file
+src/P0023_MergeKSortedLists.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0023_MergeKSortedLists.cpp.s
+.PHONY : src/P0023_MergeKSortedLists.cpp.s
+
 src/P0024_SwapNodesInPairs.obj: src/P0024_SwapNodesInPairs.cpp.obj
 
 .PHONY : src/P0024_SwapNodesInPairs.obj
@@ -877,6 +931,33 @@ src/P0028_ImplementstrStr.s: src/P0028_ImplementstrStr.cpp.s
 src/P0028_ImplementstrStr.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0028_ImplementstrStr.cpp.s
 .PHONY : src/P0028_ImplementstrStr.cpp.s
+
+src/P0029_DivideTwoIntegers.obj: src/P0029_DivideTwoIntegers.cpp.obj
+
+.PHONY : src/P0029_DivideTwoIntegers.obj
+
+# target to build an object file
+src/P0029_DivideTwoIntegers.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0029_DivideTwoIntegers.cpp.obj
+.PHONY : src/P0029_DivideTwoIntegers.cpp.obj
+
+src/P0029_DivideTwoIntegers.i: src/P0029_DivideTwoIntegers.cpp.i
+
+.PHONY : src/P0029_DivideTwoIntegers.i
+
+# target to preprocess a source file
+src/P0029_DivideTwoIntegers.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0029_DivideTwoIntegers.cpp.i
+.PHONY : src/P0029_DivideTwoIntegers.cpp.i
+
+src/P0029_DivideTwoIntegers.s: src/P0029_DivideTwoIntegers.cpp.s
+
+.PHONY : src/P0029_DivideTwoIntegers.s
+
+# target to generate assembly for a file
+src/P0029_DivideTwoIntegers.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0029_DivideTwoIntegers.cpp.s
+.PHONY : src/P0029_DivideTwoIntegers.cpp.s
 
 src/P0081_SearchInRotatedSortedArrayII.obj: src/P0081_SearchInRotatedSortedArrayII.cpp.obj
 
@@ -1553,6 +1634,60 @@ src/P0174_DungeonGame.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0174_DungeonGame.cpp.s
 .PHONY : src/P0174_DungeonGame.cpp.s
 
+src/P0179_LargestNumber.obj: src/P0179_LargestNumber.cpp.obj
+
+.PHONY : src/P0179_LargestNumber.obj
+
+# target to build an object file
+src/P0179_LargestNumber.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0179_LargestNumber.cpp.obj
+.PHONY : src/P0179_LargestNumber.cpp.obj
+
+src/P0179_LargestNumber.i: src/P0179_LargestNumber.cpp.i
+
+.PHONY : src/P0179_LargestNumber.i
+
+# target to preprocess a source file
+src/P0179_LargestNumber.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0179_LargestNumber.cpp.i
+.PHONY : src/P0179_LargestNumber.cpp.i
+
+src/P0179_LargestNumber.s: src/P0179_LargestNumber.cpp.s
+
+.PHONY : src/P0179_LargestNumber.s
+
+# target to generate assembly for a file
+src/P0179_LargestNumber.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0179_LargestNumber.cpp.s
+.PHONY : src/P0179_LargestNumber.cpp.s
+
+src/P0187_RepeatedDNASequences.obj: src/P0187_RepeatedDNASequences.cpp.obj
+
+.PHONY : src/P0187_RepeatedDNASequences.obj
+
+# target to build an object file
+src/P0187_RepeatedDNASequences.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0187_RepeatedDNASequences.cpp.obj
+.PHONY : src/P0187_RepeatedDNASequences.cpp.obj
+
+src/P0187_RepeatedDNASequences.i: src/P0187_RepeatedDNASequences.cpp.i
+
+.PHONY : src/P0187_RepeatedDNASequences.i
+
+# target to preprocess a source file
+src/P0187_RepeatedDNASequences.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0187_RepeatedDNASequences.cpp.i
+.PHONY : src/P0187_RepeatedDNASequences.cpp.i
+
+src/P0187_RepeatedDNASequences.s: src/P0187_RepeatedDNASequences.cpp.s
+
+.PHONY : src/P0187_RepeatedDNASequences.s
+
+# target to generate assembly for a file
+src/P0187_RepeatedDNASequences.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0187_RepeatedDNASequences.cpp.s
+.PHONY : src/P0187_RepeatedDNASequences.cpp.s
+
 src/P0260_SingleNumberIII.obj: src/P0260_SingleNumberIII.cpp.obj
 
 .PHONY : src/P0260_SingleNumberIII.obj
@@ -1658,6 +1793,12 @@ help:
 	@echo ... src/P0021_MergeTwoSortedLists.obj
 	@echo ... src/P0021_MergeTwoSortedLists.i
 	@echo ... src/P0021_MergeTwoSortedLists.s
+	@echo ... src/P0022_GenerateParentheses.obj
+	@echo ... src/P0022_GenerateParentheses.i
+	@echo ... src/P0022_GenerateParentheses.s
+	@echo ... src/P0023_MergeKSortedLists.obj
+	@echo ... src/P0023_MergeKSortedLists.i
+	@echo ... src/P0023_MergeKSortedLists.s
 	@echo ... src/P0024_SwapNodesInPairs.obj
 	@echo ... src/P0024_SwapNodesInPairs.i
 	@echo ... src/P0024_SwapNodesInPairs.s
@@ -1673,6 +1814,9 @@ help:
 	@echo ... src/P0028_ImplementstrStr.obj
 	@echo ... src/P0028_ImplementstrStr.i
 	@echo ... src/P0028_ImplementstrStr.s
+	@echo ... src/P0029_DivideTwoIntegers.obj
+	@echo ... src/P0029_DivideTwoIntegers.i
+	@echo ... src/P0029_DivideTwoIntegers.s
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.obj
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.i
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.s
@@ -1748,6 +1892,12 @@ help:
 	@echo ... src/P0174_DungeonGame.obj
 	@echo ... src/P0174_DungeonGame.i
 	@echo ... src/P0174_DungeonGame.s
+	@echo ... src/P0179_LargestNumber.obj
+	@echo ... src/P0179_LargestNumber.i
+	@echo ... src/P0179_LargestNumber.s
+	@echo ... src/P0187_RepeatedDNASequences.obj
+	@echo ... src/P0187_RepeatedDNASequences.i
+	@echo ... src/P0187_RepeatedDNASequences.s
 	@echo ... src/P0260_SingleNumberIII.obj
 	@echo ... src/P0260_SingleNumberIII.i
 	@echo ... src/P0260_SingleNumberIII.s

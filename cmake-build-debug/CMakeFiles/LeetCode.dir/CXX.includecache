@@ -6,13 +6,15 @@
 
 #IncludeRegexTransform: 
 
-E:/OneDrive/CodingInterview/LeetCode/src/P0028_ImplementstrStr.cpp
-P0028_ImplementstrStr.h
-E:/OneDrive/CodingInterview/LeetCode/src/P0028_ImplementstrStr.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0187_RepeatedDNASequences.cpp
+P0187_RepeatedDNASequences.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0187_RepeatedDNASequences.h
 
-E:/OneDrive/CodingInterview/LeetCode/src/P0028_ImplementstrStr.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0187_RepeatedDNASequences.h
 iostream
 -
 vector
+-
+map
 -
 

@@ -36,19 +36,19 @@ int Test_Problem(int number) {
     } else if (number == 9) {
         P0009_PalindromeNumber Solution;
         Solution.test();
-    }else if (number == 10) {
+    } else if (number == 10) {
         P0010_RegularExpressionMatching Solution;
         Solution.test();
     } else if (number == 11) {
         P0011_ContainerWithMostWater Solution;
         Solution.test();
-    }else if (number == 12) {
+    } else if (number == 12) {
         P0012_IntegerToRoman Solution;
         Solution.test();
-    }else if (number == 13) {
+    } else if (number == 13) {
         P0013_RomanToInteger Solution;
         Solution.test();
-    }  else if (number == 14) {
+    } else if (number == 14) {
         P0014_LongestCommonPrefix Solution;
         Solution.test();
     } else if (number == 15) {
@@ -63,19 +63,25 @@ int Test_Problem(int number) {
     } else if (number == 18) {
         P0018_4Sum Solution;
         Solution.test();
-    }else if (number == 19) {
+    } else if (number == 19) {
         P0019_RemoveNthNodeFromEndOfList Solution;
         Solution.test();
-    }else if (number == 20) {
+    } else if (number == 20) {
         P0020_ValidParentheses Solution;
         Solution.test();
-    }else if (number == 21) {
+    } else if (number == 21) {
         P0021_MergeTwoSortedLists Solution;
         Solution.test();
-    }else if (number == 24) {
+    } else if (number == 22) {
+        P0022_GenerateParentheses Solution;
+        Solution.test();
+    } else if (number == 23) {
+        P0023_MergeKSortedLists Solution;
+        Solution.test();
+    } else if (number == 24) {
         P0024_SwapNodesInPairs Solution;
         Solution.test();
-    }else if (number == 25) {
+    } else if (number == 25) {
         P0025_ReverseNodesInkGroup Solution;
         Solution.test();
     } else if (number == 26) {
@@ -84,10 +90,13 @@ int Test_Problem(int number) {
     } else if (number == 27) {
         P0027_RemoveElement Solution;
         Solution.test();
-    }else if (number == 28) {
+    } else if (number == 28) {
         P0028_ImplementstrStr Solution;
         Solution.test();
-    }else if (number == 81) {
+    } else if (number == 29) {
+        P0029_DivideTwoIntegers Solution;
+        Solution.test();
+    } else if (number == 81) {
         P0081_SearchInRotatedSortedArrayII Solution;
         Solution.test();
     } else if (number == 136) {
@@ -156,11 +165,17 @@ int Test_Problem(int number) {
     } else if (number == 172) {
         P0172_FactorialTrailingZeroes Solution;
         Solution.test();
-    }else if (number == 173) {
+    } else if (number == 173) {
         P0173_BinarySearchTreeIterator Solution;
         Solution.test();
-    }else if (number == 174) {
+    } else if (number == 174) {
         P0174_DungeonGame Solution;
+        Solution.test();
+    } else if (number == 179) {
+        P0179_LargestNumber Solution;
+        Solution.test();
+    }else if (number == 187) {
+        P0187_RepeatedDNASequences Solution;
         Solution.test();
     } else if (number == 260) {
         P0260_SingleNumberIII Solution;
