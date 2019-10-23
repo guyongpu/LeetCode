@@ -34,6 +34,12 @@ CMakeFiles/LeetCode.dir/main.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0027_RemoveElement.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0028_ImplementstrStr.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0029_DivideTwoIntegers.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0030_SubstringWithConcatenationOfAllWords.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0031_NextPermutation.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0032_LongestValidParentheses.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0033_SearchInRotatedSortedArray.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0034_FindFirstndLastPositionOfElementInSortedArray.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0035_SearchInsertPosition.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0081_SearchInRotatedSortedArrayII.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0136_SingleNumber.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0137_SingleNumberII.h
@@ -61,6 +67,7 @@ CMakeFiles/LeetCode.dir/main.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0174_DungeonGame.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0179_LargestNumber.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0187_RepeatedDNASequences.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0189_RotateArray.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0260_SingleNumberIII.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0000_CommonHead.h
@@ -95,6 +102,12 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0027_RemoveElement.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0028_ImplementstrStr.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0029_DivideTwoIntegers.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0030_SubstringWithConcatenationOfAllWords.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0031_NextPermutation.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0032_LongestValidParentheses.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0033_SearchInRotatedSortedArray.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0034_FindFirstndLastPositionOfElementInSortedArray.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0035_SearchInsertPosition.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0081_SearchInRotatedSortedArrayII.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0136_SingleNumber.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0137_SingleNumberII.h
@@ -122,6 +135,7 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0174_DungeonGame.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0179_LargestNumber.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0187_RepeatedDNASequences.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0189_RotateArray.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0260_SingleNumberIII.h
 CMakeFiles/LeetCode.dir/src/P0001_TwoSum.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0001_TwoSum.cpp
@@ -214,6 +228,24 @@ CMakeFiles/LeetCode.dir/src/P0028_ImplementstrStr.cpp.obj
 CMakeFiles/LeetCode.dir/src/P0029_DivideTwoIntegers.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0029_DivideTwoIntegers.cpp
  E:/OneDrive/CodingInterview/LeetCode/src/P0029_DivideTwoIntegers.h
+CMakeFiles/LeetCode.dir/src/P0030_SubstringWithConcatenationOfAllWords.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0030_SubstringWithConcatenationOfAllWords.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0030_SubstringWithConcatenationOfAllWords.h
+CMakeFiles/LeetCode.dir/src/P0031_NextPermutation.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0031_NextPermutation.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0031_NextPermutation.h
+CMakeFiles/LeetCode.dir/src/P0032_LongestValidParentheses.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0032_LongestValidParentheses.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0032_LongestValidParentheses.h
+CMakeFiles/LeetCode.dir/src/P0033_SearchInRotatedSortedArray.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0033_SearchInRotatedSortedArray.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0033_SearchInRotatedSortedArray.h
+CMakeFiles/LeetCode.dir/src/P0034_FindFirstndLastPositionOfElementInSortedArray.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0034_FindFirstndLastPositionOfElementInSortedArray.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0034_FindFirstndLastPositionOfElementInSortedArray.h
+CMakeFiles/LeetCode.dir/src/P0035_SearchInsertPosition.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0035_SearchInsertPosition.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0035_SearchInsertPosition.h
 CMakeFiles/LeetCode.dir/src/P0081_SearchInRotatedSortedArrayII.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0081_SearchInRotatedSortedArrayII.cpp
  E:/OneDrive/CodingInterview/LeetCode/src/P0081_SearchInRotatedSortedArrayII.h
@@ -299,6 +331,9 @@ CMakeFiles/LeetCode.dir/src/P0179_LargestNumber.cpp.obj
 CMakeFiles/LeetCode.dir/src/P0187_RepeatedDNASequences.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0187_RepeatedDNASequences.cpp
  E:/OneDrive/CodingInterview/LeetCode/src/P0187_RepeatedDNASequences.h
+CMakeFiles/LeetCode.dir/src/P0189_RotateArray.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0189_RotateArray.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0189_RotateArray.h
 CMakeFiles/LeetCode.dir/src/P0260_SingleNumberIII.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0260_SingleNumberIII.cpp
  E:/OneDrive/CodingInterview/LeetCode/src/P0260_SingleNumberIII.h

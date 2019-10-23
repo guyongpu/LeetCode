@@ -37,6 +37,12 @@
 #include "P0027_RemoveElement.h"
 #include "P0028_ImplementstrStr.h"
 #include "P0029_DivideTwoIntegers.h"
+#include "P0030_SubstringWithConcatenationOfAllWords.h"
+#include "P0031_NextPermutation.h"
+#include "P0032_LongestValidParentheses.h"
+#include "P0033_SearchInRotatedSortedArray.h"
+#include "P0034_FindFirstndLastPositionOfElementInSortedArray.h"
+#include "P0035_SearchInsertPosition.h"
 #include "P0081_SearchInRotatedSortedArrayII.h"
 #include "P0136_SingleNumber.h"
 #include "P0137_SingleNumberII.h"
@@ -64,6 +70,7 @@
 #include "P0174_DungeonGame.h"
 #include "P0179_LargestNumber.h"
 #include "P0187_RepeatedDNASequences.h"
+#include "P0189_RotateArray.h"
 #include "P0260_SingleNumberIII.h"
 
 using namespace std;

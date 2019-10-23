@@ -6,15 +6,15 @@
 
 #IncludeRegexTransform: 
 
-E:/OneDrive/CodingInterview/LeetCode/src/P0187_RepeatedDNASequences.cpp
-P0187_RepeatedDNASequences.h
-E:/OneDrive/CodingInterview/LeetCode/src/P0187_RepeatedDNASequences.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0189_RotateArray.cpp
+P0189_RotateArray.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0189_RotateArray.h
 
-E:/OneDrive/CodingInterview/LeetCode/src/P0187_RepeatedDNASequences.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0189_RotateArray.h
 iostream
 -
 vector
 -
-map
+algorithm
 -
 

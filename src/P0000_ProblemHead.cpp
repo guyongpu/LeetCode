@@ -96,6 +96,24 @@ int Test_Problem(int number) {
     } else if (number == 29) {
         P0029_DivideTwoIntegers Solution;
         Solution.test();
+    } else if (number == 30) {
+        P0030_SubstringWithConcatenationOfAllWords Solution;
+        Solution.test();
+    } else if (number == 31) {
+        P0031_NextPermutation Solution;
+        Solution.test();
+    } else if (number == 32) {
+        P0032_LongestValidParentheses Solution;
+        Solution.test();
+    } else if (number == 33) {
+        P0033_SearchInRotatedSortedArray Solution;
+        Solution.test();
+    }else if (number == 34) {
+        P0034_FindFirstndLastPositionOfElementInSortedArray Solution;
+        Solution.test();
+    } else if (number == 35) {
+        P0035_SearchInsertPosition Solution;
+        Solution.test();
     } else if (number == 81) {
         P0081_SearchInRotatedSortedArrayII Solution;
         Solution.test();
@@ -174,8 +192,11 @@ int Test_Problem(int number) {
     } else if (number == 179) {
         P0179_LargestNumber Solution;
         Solution.test();
-    }else if (number == 187) {
+    } else if (number == 187) {
         P0187_RepeatedDNASequences Solution;
+        Solution.test();
+    }  else if (number == 189) {
+        P0189_RotateArray Solution;
         Solution.test();
     } else if (number == 260) {
         P0260_SingleNumberIII Solution;

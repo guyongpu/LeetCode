@@ -959,6 +959,168 @@ src/P0029_DivideTwoIntegers.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0029_DivideTwoIntegers.cpp.s
 .PHONY : src/P0029_DivideTwoIntegers.cpp.s
 
+src/P0030_SubstringWithConcatenationOfAllWords.obj: src/P0030_SubstringWithConcatenationOfAllWords.cpp.obj
+
+.PHONY : src/P0030_SubstringWithConcatenationOfAllWords.obj
+
+# target to build an object file
+src/P0030_SubstringWithConcatenationOfAllWords.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0030_SubstringWithConcatenationOfAllWords.cpp.obj
+.PHONY : src/P0030_SubstringWithConcatenationOfAllWords.cpp.obj
+
+src/P0030_SubstringWithConcatenationOfAllWords.i: src/P0030_SubstringWithConcatenationOfAllWords.cpp.i
+
+.PHONY : src/P0030_SubstringWithConcatenationOfAllWords.i
+
+# target to preprocess a source file
+src/P0030_SubstringWithConcatenationOfAllWords.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0030_SubstringWithConcatenationOfAllWords.cpp.i
+.PHONY : src/P0030_SubstringWithConcatenationOfAllWords.cpp.i
+
+src/P0030_SubstringWithConcatenationOfAllWords.s: src/P0030_SubstringWithConcatenationOfAllWords.cpp.s
+
+.PHONY : src/P0030_SubstringWithConcatenationOfAllWords.s
+
+# target to generate assembly for a file
+src/P0030_SubstringWithConcatenationOfAllWords.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0030_SubstringWithConcatenationOfAllWords.cpp.s
+.PHONY : src/P0030_SubstringWithConcatenationOfAllWords.cpp.s
+
+src/P0031_NextPermutation.obj: src/P0031_NextPermutation.cpp.obj
+
+.PHONY : src/P0031_NextPermutation.obj
+
+# target to build an object file
+src/P0031_NextPermutation.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0031_NextPermutation.cpp.obj
+.PHONY : src/P0031_NextPermutation.cpp.obj
+
+src/P0031_NextPermutation.i: src/P0031_NextPermutation.cpp.i
+
+.PHONY : src/P0031_NextPermutation.i
+
+# target to preprocess a source file
+src/P0031_NextPermutation.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0031_NextPermutation.cpp.i
+.PHONY : src/P0031_NextPermutation.cpp.i
+
+src/P0031_NextPermutation.s: src/P0031_NextPermutation.cpp.s
+
+.PHONY : src/P0031_NextPermutation.s
+
+# target to generate assembly for a file
+src/P0031_NextPermutation.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0031_NextPermutation.cpp.s
+.PHONY : src/P0031_NextPermutation.cpp.s
+
+src/P0032_LongestValidParentheses.obj: src/P0032_LongestValidParentheses.cpp.obj
+
+.PHONY : src/P0032_LongestValidParentheses.obj
+
+# target to build an object file
+src/P0032_LongestValidParentheses.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0032_LongestValidParentheses.cpp.obj
+.PHONY : src/P0032_LongestValidParentheses.cpp.obj
+
+src/P0032_LongestValidParentheses.i: src/P0032_LongestValidParentheses.cpp.i
+
+.PHONY : src/P0032_LongestValidParentheses.i
+
+# target to preprocess a source file
+src/P0032_LongestValidParentheses.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0032_LongestValidParentheses.cpp.i
+.PHONY : src/P0032_LongestValidParentheses.cpp.i
+
+src/P0032_LongestValidParentheses.s: src/P0032_LongestValidParentheses.cpp.s
+
+.PHONY : src/P0032_LongestValidParentheses.s
+
+# target to generate assembly for a file
+src/P0032_LongestValidParentheses.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0032_LongestValidParentheses.cpp.s
+.PHONY : src/P0032_LongestValidParentheses.cpp.s
+
+src/P0033_SearchInRotatedSortedArray.obj: src/P0033_SearchInRotatedSortedArray.cpp.obj
+
+.PHONY : src/P0033_SearchInRotatedSortedArray.obj
+
+# target to build an object file
+src/P0033_SearchInRotatedSortedArray.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0033_SearchInRotatedSortedArray.cpp.obj
+.PHONY : src/P0033_SearchInRotatedSortedArray.cpp.obj
+
+src/P0033_SearchInRotatedSortedArray.i: src/P0033_SearchInRotatedSortedArray.cpp.i
+
+.PHONY : src/P0033_SearchInRotatedSortedArray.i
+
+# target to preprocess a source file
+src/P0033_SearchInRotatedSortedArray.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0033_SearchInRotatedSortedArray.cpp.i
+.PHONY : src/P0033_SearchInRotatedSortedArray.cpp.i
+
+src/P0033_SearchInRotatedSortedArray.s: src/P0033_SearchInRotatedSortedArray.cpp.s
+
+.PHONY : src/P0033_SearchInRotatedSortedArray.s
+
+# target to generate assembly for a file
+src/P0033_SearchInRotatedSortedArray.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0033_SearchInRotatedSortedArray.cpp.s
+.PHONY : src/P0033_SearchInRotatedSortedArray.cpp.s
+
+src/P0034_FindFirstndLastPositionOfElementInSortedArray.obj: src/P0034_FindFirstndLastPositionOfElementInSortedArray.cpp.obj
+
+.PHONY : src/P0034_FindFirstndLastPositionOfElementInSortedArray.obj
+
+# target to build an object file
+src/P0034_FindFirstndLastPositionOfElementInSortedArray.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0034_FindFirstndLastPositionOfElementInSortedArray.cpp.obj
+.PHONY : src/P0034_FindFirstndLastPositionOfElementInSortedArray.cpp.obj
+
+src/P0034_FindFirstndLastPositionOfElementInSortedArray.i: src/P0034_FindFirstndLastPositionOfElementInSortedArray.cpp.i
+
+.PHONY : src/P0034_FindFirstndLastPositionOfElementInSortedArray.i
+
+# target to preprocess a source file
+src/P0034_FindFirstndLastPositionOfElementInSortedArray.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0034_FindFirstndLastPositionOfElementInSortedArray.cpp.i
+.PHONY : src/P0034_FindFirstndLastPositionOfElementInSortedArray.cpp.i
+
+src/P0034_FindFirstndLastPositionOfElementInSortedArray.s: src/P0034_FindFirstndLastPositionOfElementInSortedArray.cpp.s
+
+.PHONY : src/P0034_FindFirstndLastPositionOfElementInSortedArray.s
+
+# target to generate assembly for a file
+src/P0034_FindFirstndLastPositionOfElementInSortedArray.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0034_FindFirstndLastPositionOfElementInSortedArray.cpp.s
+.PHONY : src/P0034_FindFirstndLastPositionOfElementInSortedArray.cpp.s
+
+src/P0035_SearchInsertPosition.obj: src/P0035_SearchInsertPosition.cpp.obj
+
+.PHONY : src/P0035_SearchInsertPosition.obj
+
+# target to build an object file
+src/P0035_SearchInsertPosition.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0035_SearchInsertPosition.cpp.obj
+.PHONY : src/P0035_SearchInsertPosition.cpp.obj
+
+src/P0035_SearchInsertPosition.i: src/P0035_SearchInsertPosition.cpp.i
+
+.PHONY : src/P0035_SearchInsertPosition.i
+
+# target to preprocess a source file
+src/P0035_SearchInsertPosition.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0035_SearchInsertPosition.cpp.i
+.PHONY : src/P0035_SearchInsertPosition.cpp.i
+
+src/P0035_SearchInsertPosition.s: src/P0035_SearchInsertPosition.cpp.s
+
+.PHONY : src/P0035_SearchInsertPosition.s
+
+# target to generate assembly for a file
+src/P0035_SearchInsertPosition.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0035_SearchInsertPosition.cpp.s
+.PHONY : src/P0035_SearchInsertPosition.cpp.s
+
 src/P0081_SearchInRotatedSortedArrayII.obj: src/P0081_SearchInRotatedSortedArrayII.cpp.obj
 
 .PHONY : src/P0081_SearchInRotatedSortedArrayII.obj
@@ -1688,6 +1850,33 @@ src/P0187_RepeatedDNASequences.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0187_RepeatedDNASequences.cpp.s
 .PHONY : src/P0187_RepeatedDNASequences.cpp.s
 
+src/P0189_RotateArray.obj: src/P0189_RotateArray.cpp.obj
+
+.PHONY : src/P0189_RotateArray.obj
+
+# target to build an object file
+src/P0189_RotateArray.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0189_RotateArray.cpp.obj
+.PHONY : src/P0189_RotateArray.cpp.obj
+
+src/P0189_RotateArray.i: src/P0189_RotateArray.cpp.i
+
+.PHONY : src/P0189_RotateArray.i
+
+# target to preprocess a source file
+src/P0189_RotateArray.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0189_RotateArray.cpp.i
+.PHONY : src/P0189_RotateArray.cpp.i
+
+src/P0189_RotateArray.s: src/P0189_RotateArray.cpp.s
+
+.PHONY : src/P0189_RotateArray.s
+
+# target to generate assembly for a file
+src/P0189_RotateArray.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0189_RotateArray.cpp.s
+.PHONY : src/P0189_RotateArray.cpp.s
+
 src/P0260_SingleNumberIII.obj: src/P0260_SingleNumberIII.cpp.obj
 
 .PHONY : src/P0260_SingleNumberIII.obj
@@ -1817,6 +2006,24 @@ help:
 	@echo ... src/P0029_DivideTwoIntegers.obj
 	@echo ... src/P0029_DivideTwoIntegers.i
 	@echo ... src/P0029_DivideTwoIntegers.s
+	@echo ... src/P0030_SubstringWithConcatenationOfAllWords.obj
+	@echo ... src/P0030_SubstringWithConcatenationOfAllWords.i
+	@echo ... src/P0030_SubstringWithConcatenationOfAllWords.s
+	@echo ... src/P0031_NextPermutation.obj
+	@echo ... src/P0031_NextPermutation.i
+	@echo ... src/P0031_NextPermutation.s
+	@echo ... src/P0032_LongestValidParentheses.obj
+	@echo ... src/P0032_LongestValidParentheses.i
+	@echo ... src/P0032_LongestValidParentheses.s
+	@echo ... src/P0033_SearchInRotatedSortedArray.obj
+	@echo ... src/P0033_SearchInRotatedSortedArray.i
+	@echo ... src/P0033_SearchInRotatedSortedArray.s
+	@echo ... src/P0034_FindFirstndLastPositionOfElementInSortedArray.obj
+	@echo ... src/P0034_FindFirstndLastPositionOfElementInSortedArray.i
+	@echo ... src/P0034_FindFirstndLastPositionOfElementInSortedArray.s
+	@echo ... src/P0035_SearchInsertPosition.obj
+	@echo ... src/P0035_SearchInsertPosition.i
+	@echo ... src/P0035_SearchInsertPosition.s
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.obj
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.i
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.s
@@ -1898,6 +2105,9 @@ help:
 	@echo ... src/P0187_RepeatedDNASequences.obj
 	@echo ... src/P0187_RepeatedDNASequences.i
 	@echo ... src/P0187_RepeatedDNASequences.s
+	@echo ... src/P0189_RotateArray.obj
+	@echo ... src/P0189_RotateArray.i
+	@echo ... src/P0189_RotateArray.s
 	@echo ... src/P0260_SingleNumberIII.obj
 	@echo ... src/P0260_SingleNumberIII.i
 	@echo ... src/P0260_SingleNumberIII.s

@@ -33,6 +33,12 @@ CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0026_RemoveDuplicatesFromSortedArr
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0027_RemoveElement.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0028_ImplementstrStr.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0029_DivideTwoIntegers.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0030_SubstringWithConcatenationOfAllWords.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0031_NextPermutation.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0032_LongestValidParentheses.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0033_SearchInRotatedSortedArray.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0034_FindFirstndLastPositionOfElementInSortedArray.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0035_SearchInsertPosition.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0081_SearchInRotatedSortedArrayII.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0136_SingleNumber.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0137_SingleNumberII.h
@@ -60,6 +66,7 @@ CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0173_BinarySearchTreeIterator.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0174_DungeonGame.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0179_LargestNumber.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0187_RepeatedDNASequences.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0189_RotateArray.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0260_SingleNumberIII.h
 
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0000_CommonHead.h
@@ -94,6 +101,12 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0026_RemoveDuplic
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0027_RemoveElement.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0028_ImplementstrStr.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0029_DivideTwoIntegers.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0030_SubstringWithConcatenationOfAllWords.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0031_NextPermutation.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0032_LongestValidParentheses.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0033_SearchInRotatedSortedArray.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0034_FindFirstndLastPositionOfElementInSortedArray.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0035_SearchInsertPosition.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0081_SearchInRotatedSortedArrayII.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0136_SingleNumber.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0137_SingleNumberII.h
@@ -121,6 +134,7 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0173_BinarySearch
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0174_DungeonGame.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0179_LargestNumber.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0187_RepeatedDNASequences.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0189_RotateArray.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0260_SingleNumberIII.h
 
 CMakeFiles/LeetCode.dir/src/P0001_TwoSum.cpp.obj: ../src/P0001_TwoSum.cpp
@@ -214,6 +228,24 @@ CMakeFiles/LeetCode.dir/src/P0028_ImplementstrStr.cpp.obj: ../src/P0028_Implemen
 CMakeFiles/LeetCode.dir/src/P0029_DivideTwoIntegers.cpp.obj: ../src/P0029_DivideTwoIntegers.cpp
 CMakeFiles/LeetCode.dir/src/P0029_DivideTwoIntegers.cpp.obj: ../src/P0029_DivideTwoIntegers.h
 
+CMakeFiles/LeetCode.dir/src/P0030_SubstringWithConcatenationOfAllWords.cpp.obj: ../src/P0030_SubstringWithConcatenationOfAllWords.cpp
+CMakeFiles/LeetCode.dir/src/P0030_SubstringWithConcatenationOfAllWords.cpp.obj: ../src/P0030_SubstringWithConcatenationOfAllWords.h
+
+CMakeFiles/LeetCode.dir/src/P0031_NextPermutation.cpp.obj: ../src/P0031_NextPermutation.cpp
+CMakeFiles/LeetCode.dir/src/P0031_NextPermutation.cpp.obj: ../src/P0031_NextPermutation.h
+
+CMakeFiles/LeetCode.dir/src/P0032_LongestValidParentheses.cpp.obj: ../src/P0032_LongestValidParentheses.cpp
+CMakeFiles/LeetCode.dir/src/P0032_LongestValidParentheses.cpp.obj: ../src/P0032_LongestValidParentheses.h
+
+CMakeFiles/LeetCode.dir/src/P0033_SearchInRotatedSortedArray.cpp.obj: ../src/P0033_SearchInRotatedSortedArray.cpp
+CMakeFiles/LeetCode.dir/src/P0033_SearchInRotatedSortedArray.cpp.obj: ../src/P0033_SearchInRotatedSortedArray.h
+
+CMakeFiles/LeetCode.dir/src/P0034_FindFirstndLastPositionOfElementInSortedArray.cpp.obj: ../src/P0034_FindFirstndLastPositionOfElementInSortedArray.cpp
+CMakeFiles/LeetCode.dir/src/P0034_FindFirstndLastPositionOfElementInSortedArray.cpp.obj: ../src/P0034_FindFirstndLastPositionOfElementInSortedArray.h
+
+CMakeFiles/LeetCode.dir/src/P0035_SearchInsertPosition.cpp.obj: ../src/P0035_SearchInsertPosition.cpp
+CMakeFiles/LeetCode.dir/src/P0035_SearchInsertPosition.cpp.obj: ../src/P0035_SearchInsertPosition.h
+
 CMakeFiles/LeetCode.dir/src/P0081_SearchInRotatedSortedArrayII.cpp.obj: ../src/P0081_SearchInRotatedSortedArrayII.cpp
 CMakeFiles/LeetCode.dir/src/P0081_SearchInRotatedSortedArrayII.cpp.obj: ../src/P0081_SearchInRotatedSortedArrayII.h
 
@@ -298,6 +330,9 @@ CMakeFiles/LeetCode.dir/src/P0179_LargestNumber.cpp.obj: ../src/P0179_LargestNum
 
 CMakeFiles/LeetCode.dir/src/P0187_RepeatedDNASequences.cpp.obj: ../src/P0187_RepeatedDNASequences.cpp
 CMakeFiles/LeetCode.dir/src/P0187_RepeatedDNASequences.cpp.obj: ../src/P0187_RepeatedDNASequences.h
+
+CMakeFiles/LeetCode.dir/src/P0189_RotateArray.cpp.obj: ../src/P0189_RotateArray.cpp
+CMakeFiles/LeetCode.dir/src/P0189_RotateArray.cpp.obj: ../src/P0189_RotateArray.h
 
 CMakeFiles/LeetCode.dir/src/P0260_SingleNumberIII.cpp.obj: ../src/P0260_SingleNumberIII.cpp
 CMakeFiles/LeetCode.dir/src/P0260_SingleNumberIII.cpp.obj: ../src/P0260_SingleNumberIII.h
