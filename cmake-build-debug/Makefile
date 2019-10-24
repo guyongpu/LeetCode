@@ -1121,6 +1121,33 @@ src/P0035_SearchInsertPosition.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0035_SearchInsertPosition.cpp.s
 .PHONY : src/P0035_SearchInsertPosition.cpp.s
 
+src/P0036_ValidSudoku.obj: src/P0036_ValidSudoku.cpp.obj
+
+.PHONY : src/P0036_ValidSudoku.obj
+
+# target to build an object file
+src/P0036_ValidSudoku.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0036_ValidSudoku.cpp.obj
+.PHONY : src/P0036_ValidSudoku.cpp.obj
+
+src/P0036_ValidSudoku.i: src/P0036_ValidSudoku.cpp.i
+
+.PHONY : src/P0036_ValidSudoku.i
+
+# target to preprocess a source file
+src/P0036_ValidSudoku.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0036_ValidSudoku.cpp.i
+.PHONY : src/P0036_ValidSudoku.cpp.i
+
+src/P0036_ValidSudoku.s: src/P0036_ValidSudoku.cpp.s
+
+.PHONY : src/P0036_ValidSudoku.s
+
+# target to generate assembly for a file
+src/P0036_ValidSudoku.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0036_ValidSudoku.cpp.s
+.PHONY : src/P0036_ValidSudoku.cpp.s
+
 src/P0081_SearchInRotatedSortedArrayII.obj: src/P0081_SearchInRotatedSortedArrayII.cpp.obj
 
 .PHONY : src/P0081_SearchInRotatedSortedArrayII.obj
@@ -1877,6 +1904,168 @@ src/P0189_RotateArray.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0189_RotateArray.cpp.s
 .PHONY : src/P0189_RotateArray.cpp.s
 
+src/P0190_ReverseBits.obj: src/P0190_ReverseBits.cpp.obj
+
+.PHONY : src/P0190_ReverseBits.obj
+
+# target to build an object file
+src/P0190_ReverseBits.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0190_ReverseBits.cpp.obj
+.PHONY : src/P0190_ReverseBits.cpp.obj
+
+src/P0190_ReverseBits.i: src/P0190_ReverseBits.cpp.i
+
+.PHONY : src/P0190_ReverseBits.i
+
+# target to preprocess a source file
+src/P0190_ReverseBits.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0190_ReverseBits.cpp.i
+.PHONY : src/P0190_ReverseBits.cpp.i
+
+src/P0190_ReverseBits.s: src/P0190_ReverseBits.cpp.s
+
+.PHONY : src/P0190_ReverseBits.s
+
+# target to generate assembly for a file
+src/P0190_ReverseBits.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0190_ReverseBits.cpp.s
+.PHONY : src/P0190_ReverseBits.cpp.s
+
+src/P0191_NumberOf1Bits.obj: src/P0191_NumberOf1Bits.cpp.obj
+
+.PHONY : src/P0191_NumberOf1Bits.obj
+
+# target to build an object file
+src/P0191_NumberOf1Bits.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0191_NumberOf1Bits.cpp.obj
+.PHONY : src/P0191_NumberOf1Bits.cpp.obj
+
+src/P0191_NumberOf1Bits.i: src/P0191_NumberOf1Bits.cpp.i
+
+.PHONY : src/P0191_NumberOf1Bits.i
+
+# target to preprocess a source file
+src/P0191_NumberOf1Bits.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0191_NumberOf1Bits.cpp.i
+.PHONY : src/P0191_NumberOf1Bits.cpp.i
+
+src/P0191_NumberOf1Bits.s: src/P0191_NumberOf1Bits.cpp.s
+
+.PHONY : src/P0191_NumberOf1Bits.s
+
+# target to generate assembly for a file
+src/P0191_NumberOf1Bits.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0191_NumberOf1Bits.cpp.s
+.PHONY : src/P0191_NumberOf1Bits.cpp.s
+
+src/P0198_HouseRobber.obj: src/P0198_HouseRobber.cpp.obj
+
+.PHONY : src/P0198_HouseRobber.obj
+
+# target to build an object file
+src/P0198_HouseRobber.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0198_HouseRobber.cpp.obj
+.PHONY : src/P0198_HouseRobber.cpp.obj
+
+src/P0198_HouseRobber.i: src/P0198_HouseRobber.cpp.i
+
+.PHONY : src/P0198_HouseRobber.i
+
+# target to preprocess a source file
+src/P0198_HouseRobber.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0198_HouseRobber.cpp.i
+.PHONY : src/P0198_HouseRobber.cpp.i
+
+src/P0198_HouseRobber.s: src/P0198_HouseRobber.cpp.s
+
+.PHONY : src/P0198_HouseRobber.s
+
+# target to generate assembly for a file
+src/P0198_HouseRobber.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0198_HouseRobber.cpp.s
+.PHONY : src/P0198_HouseRobber.cpp.s
+
+src/P0199_BinaryTreeRightSideView.obj: src/P0199_BinaryTreeRightSideView.cpp.obj
+
+.PHONY : src/P0199_BinaryTreeRightSideView.obj
+
+# target to build an object file
+src/P0199_BinaryTreeRightSideView.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0199_BinaryTreeRightSideView.cpp.obj
+.PHONY : src/P0199_BinaryTreeRightSideView.cpp.obj
+
+src/P0199_BinaryTreeRightSideView.i: src/P0199_BinaryTreeRightSideView.cpp.i
+
+.PHONY : src/P0199_BinaryTreeRightSideView.i
+
+# target to preprocess a source file
+src/P0199_BinaryTreeRightSideView.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0199_BinaryTreeRightSideView.cpp.i
+.PHONY : src/P0199_BinaryTreeRightSideView.cpp.i
+
+src/P0199_BinaryTreeRightSideView.s: src/P0199_BinaryTreeRightSideView.cpp.s
+
+.PHONY : src/P0199_BinaryTreeRightSideView.s
+
+# target to generate assembly for a file
+src/P0199_BinaryTreeRightSideView.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0199_BinaryTreeRightSideView.cpp.s
+.PHONY : src/P0199_BinaryTreeRightSideView.cpp.s
+
+src/P0200_NumberOfIslands.obj: src/P0200_NumberOfIslands.cpp.obj
+
+.PHONY : src/P0200_NumberOfIslands.obj
+
+# target to build an object file
+src/P0200_NumberOfIslands.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0200_NumberOfIslands.cpp.obj
+.PHONY : src/P0200_NumberOfIslands.cpp.obj
+
+src/P0200_NumberOfIslands.i: src/P0200_NumberOfIslands.cpp.i
+
+.PHONY : src/P0200_NumberOfIslands.i
+
+# target to preprocess a source file
+src/P0200_NumberOfIslands.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0200_NumberOfIslands.cpp.i
+.PHONY : src/P0200_NumberOfIslands.cpp.i
+
+src/P0200_NumberOfIslands.s: src/P0200_NumberOfIslands.cpp.s
+
+.PHONY : src/P0200_NumberOfIslands.s
+
+# target to generate assembly for a file
+src/P0200_NumberOfIslands.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0200_NumberOfIslands.cpp.s
+.PHONY : src/P0200_NumberOfIslands.cpp.s
+
+src/P0201_BitwiseANDOfNumbersRange.obj: src/P0201_BitwiseANDOfNumbersRange.cpp.obj
+
+.PHONY : src/P0201_BitwiseANDOfNumbersRange.obj
+
+# target to build an object file
+src/P0201_BitwiseANDOfNumbersRange.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0201_BitwiseANDOfNumbersRange.cpp.obj
+.PHONY : src/P0201_BitwiseANDOfNumbersRange.cpp.obj
+
+src/P0201_BitwiseANDOfNumbersRange.i: src/P0201_BitwiseANDOfNumbersRange.cpp.i
+
+.PHONY : src/P0201_BitwiseANDOfNumbersRange.i
+
+# target to preprocess a source file
+src/P0201_BitwiseANDOfNumbersRange.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0201_BitwiseANDOfNumbersRange.cpp.i
+.PHONY : src/P0201_BitwiseANDOfNumbersRange.cpp.i
+
+src/P0201_BitwiseANDOfNumbersRange.s: src/P0201_BitwiseANDOfNumbersRange.cpp.s
+
+.PHONY : src/P0201_BitwiseANDOfNumbersRange.s
+
+# target to generate assembly for a file
+src/P0201_BitwiseANDOfNumbersRange.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0201_BitwiseANDOfNumbersRange.cpp.s
+.PHONY : src/P0201_BitwiseANDOfNumbersRange.cpp.s
+
 src/P0260_SingleNumberIII.obj: src/P0260_SingleNumberIII.cpp.obj
 
 .PHONY : src/P0260_SingleNumberIII.obj
@@ -2024,6 +2213,9 @@ help:
 	@echo ... src/P0035_SearchInsertPosition.obj
 	@echo ... src/P0035_SearchInsertPosition.i
 	@echo ... src/P0035_SearchInsertPosition.s
+	@echo ... src/P0036_ValidSudoku.obj
+	@echo ... src/P0036_ValidSudoku.i
+	@echo ... src/P0036_ValidSudoku.s
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.obj
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.i
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.s
@@ -2108,6 +2300,24 @@ help:
 	@echo ... src/P0189_RotateArray.obj
 	@echo ... src/P0189_RotateArray.i
 	@echo ... src/P0189_RotateArray.s
+	@echo ... src/P0190_ReverseBits.obj
+	@echo ... src/P0190_ReverseBits.i
+	@echo ... src/P0190_ReverseBits.s
+	@echo ... src/P0191_NumberOf1Bits.obj
+	@echo ... src/P0191_NumberOf1Bits.i
+	@echo ... src/P0191_NumberOf1Bits.s
+	@echo ... src/P0198_HouseRobber.obj
+	@echo ... src/P0198_HouseRobber.i
+	@echo ... src/P0198_HouseRobber.s
+	@echo ... src/P0199_BinaryTreeRightSideView.obj
+	@echo ... src/P0199_BinaryTreeRightSideView.i
+	@echo ... src/P0199_BinaryTreeRightSideView.s
+	@echo ... src/P0200_NumberOfIslands.obj
+	@echo ... src/P0200_NumberOfIslands.i
+	@echo ... src/P0200_NumberOfIslands.s
+	@echo ... src/P0201_BitwiseANDOfNumbersRange.obj
+	@echo ... src/P0201_BitwiseANDOfNumbersRange.i
+	@echo ... src/P0201_BitwiseANDOfNumbersRange.s
 	@echo ... src/P0260_SingleNumberIII.obj
 	@echo ... src/P0260_SingleNumberIII.i
 	@echo ... src/P0260_SingleNumberIII.s

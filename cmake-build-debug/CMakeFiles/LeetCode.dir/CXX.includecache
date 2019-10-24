@@ -6,15 +6,15 @@
 
 #IncludeRegexTransform: 
 
-E:/OneDrive/CodingInterview/LeetCode/src/P0189_RotateArray.cpp
-P0189_RotateArray.h
-E:/OneDrive/CodingInterview/LeetCode/src/P0189_RotateArray.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0036_ValidSudoku.cpp
+P0036_ValidSudoku.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0036_ValidSudoku.h
 
-E:/OneDrive/CodingInterview/LeetCode/src/P0189_RotateArray.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0036_ValidSudoku.h
 iostream
 -
 vector
 -
-algorithm
+map
 -
 

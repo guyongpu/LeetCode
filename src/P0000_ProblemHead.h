@@ -43,6 +43,7 @@
 #include "P0033_SearchInRotatedSortedArray.h"
 #include "P0034_FindFirstndLastPositionOfElementInSortedArray.h"
 #include "P0035_SearchInsertPosition.h"
+#include "P0036_ValidSudoku.h"
 #include "P0081_SearchInRotatedSortedArrayII.h"
 #include "P0136_SingleNumber.h"
 #include "P0137_SingleNumberII.h"
@@ -71,6 +72,12 @@
 #include "P0179_LargestNumber.h"
 #include "P0187_RepeatedDNASequences.h"
 #include "P0189_RotateArray.h"
+#include "P0190_ReverseBits.h"
+#include "P0191_NumberOf1Bits.h"
+#include "P0198_HouseRobber.h"
+#include "P0199_BinaryTreeRightSideView.h"
+#include "P0200_NumberOfIslands.h"
+#include "P0201_BitwiseANDOfNumbersRange.h"
 #include "P0260_SingleNumberIII.h"
 
 using namespace std;

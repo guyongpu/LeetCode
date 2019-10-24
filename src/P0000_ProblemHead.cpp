@@ -108,11 +108,14 @@ int Test_Problem(int number) {
     } else if (number == 33) {
         P0033_SearchInRotatedSortedArray Solution;
         Solution.test();
-    }else if (number == 34) {
+    } else if (number == 34) {
         P0034_FindFirstndLastPositionOfElementInSortedArray Solution;
         Solution.test();
     } else if (number == 35) {
         P0035_SearchInsertPosition Solution;
+        Solution.test();
+    } else if (number == 36) {
+        P0036_ValidSudoku Solution;
         Solution.test();
     } else if (number == 81) {
         P0081_SearchInRotatedSortedArrayII Solution;
@@ -195,8 +198,26 @@ int Test_Problem(int number) {
     } else if (number == 187) {
         P0187_RepeatedDNASequences Solution;
         Solution.test();
-    }  else if (number == 189) {
+    } else if (number == 189) {
         P0189_RotateArray Solution;
+        Solution.test();
+    } else if (number == 190) {
+        P0190_ReverseBits Solution;
+        Solution.test();
+    } else if (number == 191) {
+        P0191_NumberOf1Bits Solution;
+        Solution.test();
+    } else if (number == 198) {
+        P0198_HouseRobber Solution;
+        Solution.test();
+    } else if (number == 199) {
+        P0199_BinaryTreeRightSideView Solution;
+        Solution.test();
+    } else if (number == 200) {
+        P0200_NumberOfIslands Solution;
+        Solution.test();
+    } else if (number == 201) {
+        P0201_BitwiseANDOfNumbersRange Solution;
         Solution.test();
     } else if (number == 260) {
         P0260_SingleNumberIII Solution;
