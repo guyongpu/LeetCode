@@ -4,6 +4,13 @@
 
 #include "P0036_ValidSudoku.h"
 
+/**
+ * 题目：有效的数独
+ * 描述：判断一个 9x9 的数独是否有效。只需要根据以下规则，验证已经填入的数字是否有效即可.
+ * 思路：方法1.使用三次遍历进行判断行/列/方格是否有效;方法2.使用一次遍历+3个hashmap容器判断.
+ * 备注：掌握方法2.
+ */
+
 bool P0036_ValidSudoku::isValidSudoku(vector<vector<char>> &board) {
     vector<map<char, int>> rowsSet(9);
     vector<map<char, int>> colsSet(9);
