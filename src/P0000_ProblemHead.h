@@ -44,6 +44,8 @@
 #include "P0034_FindFirstndLastPositionOfElementInSortedArray.h"
 #include "P0035_SearchInsertPosition.h"
 #include "P0036_ValidSudoku.h"
+#include "P0037_SudokuSolver.h"
+#include "P0038_CountAndSay.h"
 #include "P0081_SearchInRotatedSortedArrayII.h"
 #include "P0136_SingleNumber.h"
 #include "P0137_SingleNumberII.h"
@@ -78,6 +80,12 @@
 #include "P0199_BinaryTreeRightSideView.h"
 #include "P0200_NumberOfIslands.h"
 #include "P0201_BitwiseANDOfNumbersRange.h"
+#include "P0202_HappyNumber.h"
+#include "P0203_RemoveLinkedListElements.h"
+#include "P0204_CountPrimes.h"
+#include "P0205_IsomorphicStrings.h"
+#include "P0206_ReverseLinkedList.h"
+#include "P0207_CourseSchedule.h"
 #include "P0260_SingleNumberIII.h"
 
 using namespace std;

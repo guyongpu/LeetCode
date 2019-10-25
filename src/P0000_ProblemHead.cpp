@@ -117,6 +117,12 @@ int Test_Problem(int number) {
     } else if (number == 36) {
         P0036_ValidSudoku Solution;
         Solution.test();
+    } else if (number == 37) {
+        P0037_SudokuSolver Solution;
+        Solution.test();
+    } else if (number == 38) {
+        P0038_CountAndSay Solution;
+        Solution.test();
     } else if (number == 81) {
         P0081_SearchInRotatedSortedArrayII Solution;
         Solution.test();
@@ -218,6 +224,24 @@ int Test_Problem(int number) {
         Solution.test();
     } else if (number == 201) {
         P0201_BitwiseANDOfNumbersRange Solution;
+        Solution.test();
+    } else if (number == 202) {
+        P0202_HappyNumber Solution;
+        Solution.test();
+    } else if (number == 203) {
+        P0203_RemoveLinkedListElements Solution;
+        Solution.test();
+    } else if (number == 204) {
+        P0204_CountPrimes Solution;
+        Solution.test();
+    } else if (number == 205) {
+        P0205_IsomorphicStrings Solution;
+        Solution.test();
+    } else if (number == 206) {
+        P0206_ReverseLinkedList Solution;
+        Solution.test();
+    } else if (number == 207) {
+        P0207_CourseSchedule Solution;
         Solution.test();
     } else if (number == 260) {
         P0260_SingleNumberIII Solution;

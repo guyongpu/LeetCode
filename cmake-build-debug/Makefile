@@ -1148,6 +1148,60 @@ src/P0036_ValidSudoku.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0036_ValidSudoku.cpp.s
 .PHONY : src/P0036_ValidSudoku.cpp.s
 
+src/P0037_SudokuSolver.obj: src/P0037_SudokuSolver.cpp.obj
+
+.PHONY : src/P0037_SudokuSolver.obj
+
+# target to build an object file
+src/P0037_SudokuSolver.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0037_SudokuSolver.cpp.obj
+.PHONY : src/P0037_SudokuSolver.cpp.obj
+
+src/P0037_SudokuSolver.i: src/P0037_SudokuSolver.cpp.i
+
+.PHONY : src/P0037_SudokuSolver.i
+
+# target to preprocess a source file
+src/P0037_SudokuSolver.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0037_SudokuSolver.cpp.i
+.PHONY : src/P0037_SudokuSolver.cpp.i
+
+src/P0037_SudokuSolver.s: src/P0037_SudokuSolver.cpp.s
+
+.PHONY : src/P0037_SudokuSolver.s
+
+# target to generate assembly for a file
+src/P0037_SudokuSolver.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0037_SudokuSolver.cpp.s
+.PHONY : src/P0037_SudokuSolver.cpp.s
+
+src/P0038_CountAndSay.obj: src/P0038_CountAndSay.cpp.obj
+
+.PHONY : src/P0038_CountAndSay.obj
+
+# target to build an object file
+src/P0038_CountAndSay.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0038_CountAndSay.cpp.obj
+.PHONY : src/P0038_CountAndSay.cpp.obj
+
+src/P0038_CountAndSay.i: src/P0038_CountAndSay.cpp.i
+
+.PHONY : src/P0038_CountAndSay.i
+
+# target to preprocess a source file
+src/P0038_CountAndSay.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0038_CountAndSay.cpp.i
+.PHONY : src/P0038_CountAndSay.cpp.i
+
+src/P0038_CountAndSay.s: src/P0038_CountAndSay.cpp.s
+
+.PHONY : src/P0038_CountAndSay.s
+
+# target to generate assembly for a file
+src/P0038_CountAndSay.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0038_CountAndSay.cpp.s
+.PHONY : src/P0038_CountAndSay.cpp.s
+
 src/P0081_SearchInRotatedSortedArrayII.obj: src/P0081_SearchInRotatedSortedArrayII.cpp.obj
 
 .PHONY : src/P0081_SearchInRotatedSortedArrayII.obj
@@ -2066,6 +2120,168 @@ src/P0201_BitwiseANDOfNumbersRange.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0201_BitwiseANDOfNumbersRange.cpp.s
 .PHONY : src/P0201_BitwiseANDOfNumbersRange.cpp.s
 
+src/P0202_HappyNumber.obj: src/P0202_HappyNumber.cpp.obj
+
+.PHONY : src/P0202_HappyNumber.obj
+
+# target to build an object file
+src/P0202_HappyNumber.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0202_HappyNumber.cpp.obj
+.PHONY : src/P0202_HappyNumber.cpp.obj
+
+src/P0202_HappyNumber.i: src/P0202_HappyNumber.cpp.i
+
+.PHONY : src/P0202_HappyNumber.i
+
+# target to preprocess a source file
+src/P0202_HappyNumber.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0202_HappyNumber.cpp.i
+.PHONY : src/P0202_HappyNumber.cpp.i
+
+src/P0202_HappyNumber.s: src/P0202_HappyNumber.cpp.s
+
+.PHONY : src/P0202_HappyNumber.s
+
+# target to generate assembly for a file
+src/P0202_HappyNumber.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0202_HappyNumber.cpp.s
+.PHONY : src/P0202_HappyNumber.cpp.s
+
+src/P0203_RemoveLinkedListElements.obj: src/P0203_RemoveLinkedListElements.cpp.obj
+
+.PHONY : src/P0203_RemoveLinkedListElements.obj
+
+# target to build an object file
+src/P0203_RemoveLinkedListElements.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0203_RemoveLinkedListElements.cpp.obj
+.PHONY : src/P0203_RemoveLinkedListElements.cpp.obj
+
+src/P0203_RemoveLinkedListElements.i: src/P0203_RemoveLinkedListElements.cpp.i
+
+.PHONY : src/P0203_RemoveLinkedListElements.i
+
+# target to preprocess a source file
+src/P0203_RemoveLinkedListElements.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0203_RemoveLinkedListElements.cpp.i
+.PHONY : src/P0203_RemoveLinkedListElements.cpp.i
+
+src/P0203_RemoveLinkedListElements.s: src/P0203_RemoveLinkedListElements.cpp.s
+
+.PHONY : src/P0203_RemoveLinkedListElements.s
+
+# target to generate assembly for a file
+src/P0203_RemoveLinkedListElements.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0203_RemoveLinkedListElements.cpp.s
+.PHONY : src/P0203_RemoveLinkedListElements.cpp.s
+
+src/P0204_CountPrimes.obj: src/P0204_CountPrimes.cpp.obj
+
+.PHONY : src/P0204_CountPrimes.obj
+
+# target to build an object file
+src/P0204_CountPrimes.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0204_CountPrimes.cpp.obj
+.PHONY : src/P0204_CountPrimes.cpp.obj
+
+src/P0204_CountPrimes.i: src/P0204_CountPrimes.cpp.i
+
+.PHONY : src/P0204_CountPrimes.i
+
+# target to preprocess a source file
+src/P0204_CountPrimes.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0204_CountPrimes.cpp.i
+.PHONY : src/P0204_CountPrimes.cpp.i
+
+src/P0204_CountPrimes.s: src/P0204_CountPrimes.cpp.s
+
+.PHONY : src/P0204_CountPrimes.s
+
+# target to generate assembly for a file
+src/P0204_CountPrimes.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0204_CountPrimes.cpp.s
+.PHONY : src/P0204_CountPrimes.cpp.s
+
+src/P0205_IsomorphicStrings.obj: src/P0205_IsomorphicStrings.cpp.obj
+
+.PHONY : src/P0205_IsomorphicStrings.obj
+
+# target to build an object file
+src/P0205_IsomorphicStrings.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0205_IsomorphicStrings.cpp.obj
+.PHONY : src/P0205_IsomorphicStrings.cpp.obj
+
+src/P0205_IsomorphicStrings.i: src/P0205_IsomorphicStrings.cpp.i
+
+.PHONY : src/P0205_IsomorphicStrings.i
+
+# target to preprocess a source file
+src/P0205_IsomorphicStrings.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0205_IsomorphicStrings.cpp.i
+.PHONY : src/P0205_IsomorphicStrings.cpp.i
+
+src/P0205_IsomorphicStrings.s: src/P0205_IsomorphicStrings.cpp.s
+
+.PHONY : src/P0205_IsomorphicStrings.s
+
+# target to generate assembly for a file
+src/P0205_IsomorphicStrings.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0205_IsomorphicStrings.cpp.s
+.PHONY : src/P0205_IsomorphicStrings.cpp.s
+
+src/P0206_ReverseLinkedList.obj: src/P0206_ReverseLinkedList.cpp.obj
+
+.PHONY : src/P0206_ReverseLinkedList.obj
+
+# target to build an object file
+src/P0206_ReverseLinkedList.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0206_ReverseLinkedList.cpp.obj
+.PHONY : src/P0206_ReverseLinkedList.cpp.obj
+
+src/P0206_ReverseLinkedList.i: src/P0206_ReverseLinkedList.cpp.i
+
+.PHONY : src/P0206_ReverseLinkedList.i
+
+# target to preprocess a source file
+src/P0206_ReverseLinkedList.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0206_ReverseLinkedList.cpp.i
+.PHONY : src/P0206_ReverseLinkedList.cpp.i
+
+src/P0206_ReverseLinkedList.s: src/P0206_ReverseLinkedList.cpp.s
+
+.PHONY : src/P0206_ReverseLinkedList.s
+
+# target to generate assembly for a file
+src/P0206_ReverseLinkedList.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0206_ReverseLinkedList.cpp.s
+.PHONY : src/P0206_ReverseLinkedList.cpp.s
+
+src/P0207_CourseSchedule.obj: src/P0207_CourseSchedule.cpp.obj
+
+.PHONY : src/P0207_CourseSchedule.obj
+
+# target to build an object file
+src/P0207_CourseSchedule.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0207_CourseSchedule.cpp.obj
+.PHONY : src/P0207_CourseSchedule.cpp.obj
+
+src/P0207_CourseSchedule.i: src/P0207_CourseSchedule.cpp.i
+
+.PHONY : src/P0207_CourseSchedule.i
+
+# target to preprocess a source file
+src/P0207_CourseSchedule.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0207_CourseSchedule.cpp.i
+.PHONY : src/P0207_CourseSchedule.cpp.i
+
+src/P0207_CourseSchedule.s: src/P0207_CourseSchedule.cpp.s
+
+.PHONY : src/P0207_CourseSchedule.s
+
+# target to generate assembly for a file
+src/P0207_CourseSchedule.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0207_CourseSchedule.cpp.s
+.PHONY : src/P0207_CourseSchedule.cpp.s
+
 src/P0260_SingleNumberIII.obj: src/P0260_SingleNumberIII.cpp.obj
 
 .PHONY : src/P0260_SingleNumberIII.obj
@@ -2216,6 +2432,12 @@ help:
 	@echo ... src/P0036_ValidSudoku.obj
 	@echo ... src/P0036_ValidSudoku.i
 	@echo ... src/P0036_ValidSudoku.s
+	@echo ... src/P0037_SudokuSolver.obj
+	@echo ... src/P0037_SudokuSolver.i
+	@echo ... src/P0037_SudokuSolver.s
+	@echo ... src/P0038_CountAndSay.obj
+	@echo ... src/P0038_CountAndSay.i
+	@echo ... src/P0038_CountAndSay.s
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.obj
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.i
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.s
@@ -2318,6 +2540,24 @@ help:
 	@echo ... src/P0201_BitwiseANDOfNumbersRange.obj
 	@echo ... src/P0201_BitwiseANDOfNumbersRange.i
 	@echo ... src/P0201_BitwiseANDOfNumbersRange.s
+	@echo ... src/P0202_HappyNumber.obj
+	@echo ... src/P0202_HappyNumber.i
+	@echo ... src/P0202_HappyNumber.s
+	@echo ... src/P0203_RemoveLinkedListElements.obj
+	@echo ... src/P0203_RemoveLinkedListElements.i
+	@echo ... src/P0203_RemoveLinkedListElements.s
+	@echo ... src/P0204_CountPrimes.obj
+	@echo ... src/P0204_CountPrimes.i
+	@echo ... src/P0204_CountPrimes.s
+	@echo ... src/P0205_IsomorphicStrings.obj
+	@echo ... src/P0205_IsomorphicStrings.i
+	@echo ... src/P0205_IsomorphicStrings.s
+	@echo ... src/P0206_ReverseLinkedList.obj
+	@echo ... src/P0206_ReverseLinkedList.i
+	@echo ... src/P0206_ReverseLinkedList.s
+	@echo ... src/P0207_CourseSchedule.obj
+	@echo ... src/P0207_CourseSchedule.i
+	@echo ... src/P0207_CourseSchedule.s
 	@echo ... src/P0260_SingleNumberIII.obj
 	@echo ... src/P0260_SingleNumberIII.i
 	@echo ... src/P0260_SingleNumberIII.s

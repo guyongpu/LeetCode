@@ -1005,6 +1005,110 @@ CMakeFiles/LeetCode.dir/src/P0036_ValidSudoku.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0036_ValidSudoku.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0036_ValidSudoku.cpp -o CMakeFiles\LeetCode.dir\src\P0036_ValidSudoku.cpp.s
 
+CMakeFiles/LeetCode.dir/src/P0202_HappyNumber.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0202_HappyNumber.cpp.obj: ../src/P0202_HappyNumber.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building CXX object CMakeFiles/LeetCode.dir/src/P0202_HappyNumber.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0202_HappyNumber.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0202_HappyNumber.cpp
+
+CMakeFiles/LeetCode.dir/src/P0202_HappyNumber.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0202_HappyNumber.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0202_HappyNumber.cpp > CMakeFiles\LeetCode.dir\src\P0202_HappyNumber.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0202_HappyNumber.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0202_HappyNumber.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0202_HappyNumber.cpp -o CMakeFiles\LeetCode.dir\src\P0202_HappyNumber.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0203_RemoveLinkedListElements.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0203_RemoveLinkedListElements.cpp.obj: ../src/P0203_RemoveLinkedListElements.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building CXX object CMakeFiles/LeetCode.dir/src/P0203_RemoveLinkedListElements.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0203_RemoveLinkedListElements.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0203_RemoveLinkedListElements.cpp
+
+CMakeFiles/LeetCode.dir/src/P0203_RemoveLinkedListElements.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0203_RemoveLinkedListElements.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0203_RemoveLinkedListElements.cpp > CMakeFiles\LeetCode.dir\src\P0203_RemoveLinkedListElements.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0203_RemoveLinkedListElements.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0203_RemoveLinkedListElements.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0203_RemoveLinkedListElements.cpp -o CMakeFiles\LeetCode.dir\src\P0203_RemoveLinkedListElements.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0204_CountPrimes.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0204_CountPrimes.cpp.obj: ../src/P0204_CountPrimes.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building CXX object CMakeFiles/LeetCode.dir/src/P0204_CountPrimes.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0204_CountPrimes.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0204_CountPrimes.cpp
+
+CMakeFiles/LeetCode.dir/src/P0204_CountPrimes.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0204_CountPrimes.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0204_CountPrimes.cpp > CMakeFiles\LeetCode.dir\src\P0204_CountPrimes.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0204_CountPrimes.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0204_CountPrimes.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0204_CountPrimes.cpp -o CMakeFiles\LeetCode.dir\src\P0204_CountPrimes.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0205_IsomorphicStrings.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0205_IsomorphicStrings.cpp.obj: ../src/P0205_IsomorphicStrings.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building CXX object CMakeFiles/LeetCode.dir/src/P0205_IsomorphicStrings.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0205_IsomorphicStrings.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0205_IsomorphicStrings.cpp
+
+CMakeFiles/LeetCode.dir/src/P0205_IsomorphicStrings.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0205_IsomorphicStrings.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0205_IsomorphicStrings.cpp > CMakeFiles\LeetCode.dir\src\P0205_IsomorphicStrings.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0205_IsomorphicStrings.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0205_IsomorphicStrings.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0205_IsomorphicStrings.cpp -o CMakeFiles\LeetCode.dir\src\P0205_IsomorphicStrings.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0206_ReverseLinkedList.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0206_ReverseLinkedList.cpp.obj: ../src/P0206_ReverseLinkedList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building CXX object CMakeFiles/LeetCode.dir/src/P0206_ReverseLinkedList.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0206_ReverseLinkedList.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0206_ReverseLinkedList.cpp
+
+CMakeFiles/LeetCode.dir/src/P0206_ReverseLinkedList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0206_ReverseLinkedList.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0206_ReverseLinkedList.cpp > CMakeFiles\LeetCode.dir\src\P0206_ReverseLinkedList.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0206_ReverseLinkedList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0206_ReverseLinkedList.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0206_ReverseLinkedList.cpp -o CMakeFiles\LeetCode.dir\src\P0206_ReverseLinkedList.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0207_CourseSchedule.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0207_CourseSchedule.cpp.obj: ../src/P0207_CourseSchedule.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building CXX object CMakeFiles/LeetCode.dir/src/P0207_CourseSchedule.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0207_CourseSchedule.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0207_CourseSchedule.cpp
+
+CMakeFiles/LeetCode.dir/src/P0207_CourseSchedule.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0207_CourseSchedule.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0207_CourseSchedule.cpp > CMakeFiles\LeetCode.dir\src\P0207_CourseSchedule.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0207_CourseSchedule.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0207_CourseSchedule.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0207_CourseSchedule.cpp -o CMakeFiles\LeetCode.dir\src\P0207_CourseSchedule.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0038_CountAndSay.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0038_CountAndSay.cpp.obj: ../src/P0038_CountAndSay.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building CXX object CMakeFiles/LeetCode.dir/src/P0038_CountAndSay.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0038_CountAndSay.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0038_CountAndSay.cpp
+
+CMakeFiles/LeetCode.dir/src/P0038_CountAndSay.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0038_CountAndSay.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0038_CountAndSay.cpp > CMakeFiles\LeetCode.dir\src\P0038_CountAndSay.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0038_CountAndSay.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0038_CountAndSay.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0038_CountAndSay.cpp -o CMakeFiles\LeetCode.dir\src\P0038_CountAndSay.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0037_SudokuSolver.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0037_SudokuSolver.cpp.obj: ../src/P0037_SudokuSolver.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building CXX object CMakeFiles/LeetCode.dir/src/P0037_SudokuSolver.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0037_SudokuSolver.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0037_SudokuSolver.cpp
+
+CMakeFiles/LeetCode.dir/src/P0037_SudokuSolver.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0037_SudokuSolver.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0037_SudokuSolver.cpp > CMakeFiles\LeetCode.dir\src\P0037_SudokuSolver.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0037_SudokuSolver.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0037_SudokuSolver.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0037_SudokuSolver.cpp -o CMakeFiles\LeetCode.dir\src\P0037_SudokuSolver.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/main.cpp.obj" \
@@ -1079,7 +1183,15 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/src/P0199_BinaryTreeRightSideView.cpp.obj" \
 "CMakeFiles/LeetCode.dir/src/P0200_NumberOfIslands.cpp.obj" \
 "CMakeFiles/LeetCode.dir/src/P0201_BitwiseANDOfNumbersRange.cpp.obj" \
-"CMakeFiles/LeetCode.dir/src/P0036_ValidSudoku.cpp.obj"
+"CMakeFiles/LeetCode.dir/src/P0036_ValidSudoku.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0202_HappyNumber.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0203_RemoveLinkedListElements.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0204_CountPrimes.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0205_IsomorphicStrings.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0206_ReverseLinkedList.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0207_CourseSchedule.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0038_CountAndSay.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0037_SudokuSolver.cpp.obj"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -1157,11 +1269,19 @@ LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0199_BinaryTreeRightSideView.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0200_NumberOfIslands.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0201_BitwiseANDOfNumbersRange.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0036_ValidSudoku.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0202_HappyNumber.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0203_RemoveLinkedListElements.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0204_CountPrimes.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0205_IsomorphicStrings.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0206_ReverseLinkedList.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0207_CourseSchedule.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0038_CountAndSay.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0037_SudokuSolver.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/build.make
 LeetCode.exe: CMakeFiles/LeetCode.dir/linklibs.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/objects1.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Linking CXX executable LeetCode.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Linking CXX executable LeetCode.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LeetCode.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
