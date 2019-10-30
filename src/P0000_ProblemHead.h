@@ -46,6 +46,12 @@
 #include "P0036_ValidSudoku.h"
 #include "P0037_SudokuSolver.h"
 #include "P0038_CountAndSay.h"
+#include "P0039_CombinationSum.h"
+#include "P0040_CombinationSumII.h"
+#include "P0041_FirstMissingPositive.h"
+#include "P0042_TrappingRainWater.h"
+#include "P0043_MultiplyStrings.h"
+#include "P0044_WildcardMatching.h"
 #include "P0081_SearchInRotatedSortedArrayII.h"
 #include "P0136_SingleNumber.h"
 #include "P0137_SingleNumberII.h"
@@ -86,6 +92,12 @@
 #include "P0205_IsomorphicStrings.h"
 #include "P0206_ReverseLinkedList.h"
 #include "P0207_CourseSchedule.h"
+#include "P0208_ImplementTrie_PrefixTree.h"
+#include "P0209_MinimumSizeSubarraySum.h"
+#include "P0217_ContainsDuplicate.h"
+#include "P0219_ContainsDuplicateII.h"
+#include "P0220_ContainsDuplicateIII.h"
+
 #include "P0260_SingleNumberIII.h"
 
 using namespace std;

@@ -123,6 +123,24 @@ int Test_Problem(int number) {
     } else if (number == 38) {
         P0038_CountAndSay Solution;
         Solution.test();
+    } else if (number == 39) {
+        P0039_CombinationSum Solution;
+        Solution.test();
+    } else if (number == 40) {
+        P0040_CombinationSumII Solution;
+        Solution.test();
+    } else if (number == 41) {
+        P0041_FirstMissingPositive Solution;
+        Solution.test();
+    } else if (number == 42) {
+        P0042_TrappingRainWater Solution;
+        Solution.test();
+    } else if (number == 43) {
+        P0043_MultiplyStrings Solution;
+        Solution.test();
+    } else if (number == 44) {
+        P0044_WildcardMatching Solution;
+        Solution.test();
     } else if (number == 81) {
         P0081_SearchInRotatedSortedArrayII Solution;
         Solution.test();
@@ -243,7 +261,22 @@ int Test_Problem(int number) {
     } else if (number == 207) {
         P0207_CourseSchedule Solution;
         Solution.test();
-    } else if (number == 260) {
+    } else if (number == 208) {
+        P0208_ImplementTrie_PrefixTree Solution;
+        Solution.test();
+    } else if (number == 209) {
+        P0209_MinimumSizeSubarraySum Solution;
+        Solution.test();
+    }else if (number == 217) {
+        P0217_ContainsDuplicate Solution;
+        Solution.test();
+    } else if (number == 219) {
+        P0219_ContainsDuplicateII Solution;
+        Solution.test();
+    }else if (number == 220) {
+        P0220_ContainsDuplicateIII Solution;
+        Solution.test();
+    }else if (number == 260) {
         P0260_SingleNumberIII Solution;
         Solution.test();
     } else {
