@@ -1252,6 +1252,97 @@ CMakeFiles/LeetCode.dir/src/P0219_ContainsDuplicateII.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0219_ContainsDuplicateII.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0219_ContainsDuplicateII.cpp -o CMakeFiles\LeetCode.dir\src\P0219_ContainsDuplicateII.cpp.s
 
+CMakeFiles/LeetCode.dir/src/P0055_JumpGame.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0055_JumpGame.cpp.obj: ../src/P0055_JumpGame.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Building CXX object CMakeFiles/LeetCode.dir/src/P0055_JumpGame.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0055_JumpGame.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0055_JumpGame.cpp
+
+CMakeFiles/LeetCode.dir/src/P0055_JumpGame.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0055_JumpGame.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0055_JumpGame.cpp > CMakeFiles\LeetCode.dir\src\P0055_JumpGame.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0055_JumpGame.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0055_JumpGame.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0055_JumpGame.cpp -o CMakeFiles\LeetCode.dir\src\P0055_JumpGame.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0045_JumpGameII.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0045_JumpGameII.cpp.obj: ../src/P0045_JumpGameII.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Building CXX object CMakeFiles/LeetCode.dir/src/P0045_JumpGameII.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0045_JumpGameII.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0045_JumpGameII.cpp
+
+CMakeFiles/LeetCode.dir/src/P0045_JumpGameII.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0045_JumpGameII.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0045_JumpGameII.cpp > CMakeFiles\LeetCode.dir\src\P0045_JumpGameII.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0045_JumpGameII.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0045_JumpGameII.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0045_JumpGameII.cpp -o CMakeFiles\LeetCode.dir\src\P0045_JumpGameII.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0046_Permutations.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0046_Permutations.cpp.obj: ../src/P0046_Permutations.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building CXX object CMakeFiles/LeetCode.dir/src/P0046_Permutations.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0046_Permutations.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0046_Permutations.cpp
+
+CMakeFiles/LeetCode.dir/src/P0046_Permutations.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0046_Permutations.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0046_Permutations.cpp > CMakeFiles\LeetCode.dir\src\P0046_Permutations.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0046_Permutations.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0046_Permutations.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0046_Permutations.cpp -o CMakeFiles\LeetCode.dir\src\P0046_Permutations.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0047_PermutationsII.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0047_PermutationsII.cpp.obj: ../src/P0047_PermutationsII.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building CXX object CMakeFiles/LeetCode.dir/src/P0047_PermutationsII.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0047_PermutationsII.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0047_PermutationsII.cpp
+
+CMakeFiles/LeetCode.dir/src/P0047_PermutationsII.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0047_PermutationsII.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0047_PermutationsII.cpp > CMakeFiles\LeetCode.dir\src\P0047_PermutationsII.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0047_PermutationsII.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0047_PermutationsII.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0047_PermutationsII.cpp -o CMakeFiles\LeetCode.dir\src\P0047_PermutationsII.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0048_RotateImage.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0048_RotateImage.cpp.obj: ../src/P0048_RotateImage.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building CXX object CMakeFiles/LeetCode.dir/src/P0048_RotateImage.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0048_RotateImage.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0048_RotateImage.cpp
+
+CMakeFiles/LeetCode.dir/src/P0048_RotateImage.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0048_RotateImage.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0048_RotateImage.cpp > CMakeFiles\LeetCode.dir\src\P0048_RotateImage.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0048_RotateImage.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0048_RotateImage.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0048_RotateImage.cpp -o CMakeFiles\LeetCode.dir\src\P0048_RotateImage.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0049_GroupAnagrams.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0049_GroupAnagrams.cpp.obj: ../src/P0049_GroupAnagrams.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building CXX object CMakeFiles/LeetCode.dir/src/P0049_GroupAnagrams.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0049_GroupAnagrams.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0049_GroupAnagrams.cpp
+
+CMakeFiles/LeetCode.dir/src/P0049_GroupAnagrams.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0049_GroupAnagrams.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0049_GroupAnagrams.cpp > CMakeFiles\LeetCode.dir\src\P0049_GroupAnagrams.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0049_GroupAnagrams.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0049_GroupAnagrams.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0049_GroupAnagrams.cpp -o CMakeFiles\LeetCode.dir\src\P0049_GroupAnagrams.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0050_Pow_x_n.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0050_Pow_x_n.cpp.obj: ../src/P0050_Pow_x_n.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Building CXX object CMakeFiles/LeetCode.dir/src/P0050_Pow_x_n.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0050_Pow_x_n.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0050_Pow_x_n.cpp
+
+CMakeFiles/LeetCode.dir/src/P0050_Pow_x_n.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0050_Pow_x_n.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0050_Pow_x_n.cpp > CMakeFiles\LeetCode.dir\src\P0050_Pow_x_n.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0050_Pow_x_n.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0050_Pow_x_n.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0050_Pow_x_n.cpp -o CMakeFiles\LeetCode.dir\src\P0050_Pow_x_n.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/main.cpp.obj" \
@@ -1345,7 +1436,14 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/src/P0044_WildcardMatching.cpp.obj" \
 "CMakeFiles/LeetCode.dir/src/P0217_ContainsDuplicate.cpp.obj" \
 "CMakeFiles/LeetCode.dir/src/P0220_ContainsDuplicateIII.cpp.obj" \
-"CMakeFiles/LeetCode.dir/src/P0219_ContainsDuplicateII.cpp.obj"
+"CMakeFiles/LeetCode.dir/src/P0219_ContainsDuplicateII.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0055_JumpGame.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0045_JumpGameII.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0046_Permutations.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0047_PermutationsII.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0048_RotateImage.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0049_GroupAnagrams.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0050_Pow_x_n.cpp.obj"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -1442,11 +1540,18 @@ LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0044_WildcardMatching.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0217_ContainsDuplicate.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0220_ContainsDuplicateIII.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0219_ContainsDuplicateII.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0055_JumpGame.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0045_JumpGameII.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0046_Permutations.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0047_PermutationsII.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0048_RotateImage.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0049_GroupAnagrams.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0050_Pow_x_n.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/build.make
 LeetCode.exe: CMakeFiles/LeetCode.dir/linklibs.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/objects1.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Linking CXX executable LeetCode.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Linking CXX executable LeetCode.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LeetCode.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

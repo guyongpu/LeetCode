@@ -49,6 +49,13 @@ CMakeFiles/LeetCode.dir/main.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0042_TrappingRainWater.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0043_MultiplyStrings.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0044_WildcardMatching.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0045_JumpGameII.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0046_Permutations.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0047_PermutationsII.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0048_RotateImage.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0049_GroupAnagrams.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0050_Pow_x_n.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0055_JumpGame.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0081_SearchInRotatedSortedArrayII.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0136_SingleNumber.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0137_SingleNumberII.h
@@ -143,6 +150,13 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0042_TrappingRainWater.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0043_MultiplyStrings.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0044_WildcardMatching.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0045_JumpGameII.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0046_Permutations.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0047_PermutationsII.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0048_RotateImage.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0049_GroupAnagrams.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0050_Pow_x_n.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0055_JumpGame.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0081_SearchInRotatedSortedArrayII.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0136_SingleNumber.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0137_SingleNumberII.h
@@ -325,6 +339,27 @@ CMakeFiles/LeetCode.dir/src/P0043_MultiplyStrings.cpp.obj
 CMakeFiles/LeetCode.dir/src/P0044_WildcardMatching.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0044_WildcardMatching.cpp
  E:/OneDrive/CodingInterview/LeetCode/src/P0044_WildcardMatching.h
+CMakeFiles/LeetCode.dir/src/P0045_JumpGameII.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0045_JumpGameII.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0045_JumpGameII.h
+CMakeFiles/LeetCode.dir/src/P0046_Permutations.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0046_Permutations.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0046_Permutations.h
+CMakeFiles/LeetCode.dir/src/P0047_PermutationsII.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0047_PermutationsII.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0047_PermutationsII.h
+CMakeFiles/LeetCode.dir/src/P0048_RotateImage.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0048_RotateImage.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0048_RotateImage.h
+CMakeFiles/LeetCode.dir/src/P0049_GroupAnagrams.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0049_GroupAnagrams.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0049_GroupAnagrams.h
+CMakeFiles/LeetCode.dir/src/P0050_Pow_x_n.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0050_Pow_x_n.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0050_Pow_x_n.h
+CMakeFiles/LeetCode.dir/src/P0055_JumpGame.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0055_JumpGame.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0055_JumpGame.h
 CMakeFiles/LeetCode.dir/src/P0081_SearchInRotatedSortedArrayII.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0081_SearchInRotatedSortedArrayII.cpp
  E:/OneDrive/CodingInterview/LeetCode/src/P0081_SearchInRotatedSortedArrayII.h

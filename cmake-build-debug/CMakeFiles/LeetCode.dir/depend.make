@@ -48,6 +48,13 @@ CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0041_FirstMissingPositive.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0042_TrappingRainWater.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0043_MultiplyStrings.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0044_WildcardMatching.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0045_JumpGameII.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0046_Permutations.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0047_PermutationsII.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0048_RotateImage.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0049_GroupAnagrams.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0050_Pow_x_n.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0055_JumpGame.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0081_SearchInRotatedSortedArrayII.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0136_SingleNumber.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0137_SingleNumberII.h
@@ -142,6 +149,13 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0041_FirstMissing
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0042_TrappingRainWater.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0043_MultiplyStrings.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0044_WildcardMatching.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0045_JumpGameII.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0046_Permutations.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0047_PermutationsII.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0048_RotateImage.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0049_GroupAnagrams.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0050_Pow_x_n.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0055_JumpGame.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0081_SearchInRotatedSortedArrayII.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0136_SingleNumber.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0137_SingleNumberII.h
@@ -324,6 +338,27 @@ CMakeFiles/LeetCode.dir/src/P0043_MultiplyStrings.cpp.obj: ../src/P0043_Multiply
 
 CMakeFiles/LeetCode.dir/src/P0044_WildcardMatching.cpp.obj: ../src/P0044_WildcardMatching.cpp
 CMakeFiles/LeetCode.dir/src/P0044_WildcardMatching.cpp.obj: ../src/P0044_WildcardMatching.h
+
+CMakeFiles/LeetCode.dir/src/P0045_JumpGameII.cpp.obj: ../src/P0045_JumpGameII.cpp
+CMakeFiles/LeetCode.dir/src/P0045_JumpGameII.cpp.obj: ../src/P0045_JumpGameII.h
+
+CMakeFiles/LeetCode.dir/src/P0046_Permutations.cpp.obj: ../src/P0046_Permutations.cpp
+CMakeFiles/LeetCode.dir/src/P0046_Permutations.cpp.obj: ../src/P0046_Permutations.h
+
+CMakeFiles/LeetCode.dir/src/P0047_PermutationsII.cpp.obj: ../src/P0047_PermutationsII.cpp
+CMakeFiles/LeetCode.dir/src/P0047_PermutationsII.cpp.obj: ../src/P0047_PermutationsII.h
+
+CMakeFiles/LeetCode.dir/src/P0048_RotateImage.cpp.obj: ../src/P0048_RotateImage.cpp
+CMakeFiles/LeetCode.dir/src/P0048_RotateImage.cpp.obj: ../src/P0048_RotateImage.h
+
+CMakeFiles/LeetCode.dir/src/P0049_GroupAnagrams.cpp.obj: ../src/P0049_GroupAnagrams.cpp
+CMakeFiles/LeetCode.dir/src/P0049_GroupAnagrams.cpp.obj: ../src/P0049_GroupAnagrams.h
+
+CMakeFiles/LeetCode.dir/src/P0050_Pow_x_n.cpp.obj: ../src/P0050_Pow_x_n.cpp
+CMakeFiles/LeetCode.dir/src/P0050_Pow_x_n.cpp.obj: ../src/P0050_Pow_x_n.h
+
+CMakeFiles/LeetCode.dir/src/P0055_JumpGame.cpp.obj: ../src/P0055_JumpGame.cpp
+CMakeFiles/LeetCode.dir/src/P0055_JumpGame.cpp.obj: ../src/P0055_JumpGame.h
 
 CMakeFiles/LeetCode.dir/src/P0081_SearchInRotatedSortedArrayII.cpp.obj: ../src/P0081_SearchInRotatedSortedArrayII.cpp
 CMakeFiles/LeetCode.dir/src/P0081_SearchInRotatedSortedArrayII.cpp.obj: ../src/P0081_SearchInRotatedSortedArrayII.h

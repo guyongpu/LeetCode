@@ -1364,6 +1364,195 @@ src/P0044_WildcardMatching.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0044_WildcardMatching.cpp.s
 .PHONY : src/P0044_WildcardMatching.cpp.s
 
+src/P0045_JumpGameII.obj: src/P0045_JumpGameII.cpp.obj
+
+.PHONY : src/P0045_JumpGameII.obj
+
+# target to build an object file
+src/P0045_JumpGameII.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0045_JumpGameII.cpp.obj
+.PHONY : src/P0045_JumpGameII.cpp.obj
+
+src/P0045_JumpGameII.i: src/P0045_JumpGameII.cpp.i
+
+.PHONY : src/P0045_JumpGameII.i
+
+# target to preprocess a source file
+src/P0045_JumpGameII.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0045_JumpGameII.cpp.i
+.PHONY : src/P0045_JumpGameII.cpp.i
+
+src/P0045_JumpGameII.s: src/P0045_JumpGameII.cpp.s
+
+.PHONY : src/P0045_JumpGameII.s
+
+# target to generate assembly for a file
+src/P0045_JumpGameII.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0045_JumpGameII.cpp.s
+.PHONY : src/P0045_JumpGameII.cpp.s
+
+src/P0046_Permutations.obj: src/P0046_Permutations.cpp.obj
+
+.PHONY : src/P0046_Permutations.obj
+
+# target to build an object file
+src/P0046_Permutations.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0046_Permutations.cpp.obj
+.PHONY : src/P0046_Permutations.cpp.obj
+
+src/P0046_Permutations.i: src/P0046_Permutations.cpp.i
+
+.PHONY : src/P0046_Permutations.i
+
+# target to preprocess a source file
+src/P0046_Permutations.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0046_Permutations.cpp.i
+.PHONY : src/P0046_Permutations.cpp.i
+
+src/P0046_Permutations.s: src/P0046_Permutations.cpp.s
+
+.PHONY : src/P0046_Permutations.s
+
+# target to generate assembly for a file
+src/P0046_Permutations.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0046_Permutations.cpp.s
+.PHONY : src/P0046_Permutations.cpp.s
+
+src/P0047_PermutationsII.obj: src/P0047_PermutationsII.cpp.obj
+
+.PHONY : src/P0047_PermutationsII.obj
+
+# target to build an object file
+src/P0047_PermutationsII.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0047_PermutationsII.cpp.obj
+.PHONY : src/P0047_PermutationsII.cpp.obj
+
+src/P0047_PermutationsII.i: src/P0047_PermutationsII.cpp.i
+
+.PHONY : src/P0047_PermutationsII.i
+
+# target to preprocess a source file
+src/P0047_PermutationsII.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0047_PermutationsII.cpp.i
+.PHONY : src/P0047_PermutationsII.cpp.i
+
+src/P0047_PermutationsII.s: src/P0047_PermutationsII.cpp.s
+
+.PHONY : src/P0047_PermutationsII.s
+
+# target to generate assembly for a file
+src/P0047_PermutationsII.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0047_PermutationsII.cpp.s
+.PHONY : src/P0047_PermutationsII.cpp.s
+
+src/P0048_RotateImage.obj: src/P0048_RotateImage.cpp.obj
+
+.PHONY : src/P0048_RotateImage.obj
+
+# target to build an object file
+src/P0048_RotateImage.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0048_RotateImage.cpp.obj
+.PHONY : src/P0048_RotateImage.cpp.obj
+
+src/P0048_RotateImage.i: src/P0048_RotateImage.cpp.i
+
+.PHONY : src/P0048_RotateImage.i
+
+# target to preprocess a source file
+src/P0048_RotateImage.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0048_RotateImage.cpp.i
+.PHONY : src/P0048_RotateImage.cpp.i
+
+src/P0048_RotateImage.s: src/P0048_RotateImage.cpp.s
+
+.PHONY : src/P0048_RotateImage.s
+
+# target to generate assembly for a file
+src/P0048_RotateImage.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0048_RotateImage.cpp.s
+.PHONY : src/P0048_RotateImage.cpp.s
+
+src/P0049_GroupAnagrams.obj: src/P0049_GroupAnagrams.cpp.obj
+
+.PHONY : src/P0049_GroupAnagrams.obj
+
+# target to build an object file
+src/P0049_GroupAnagrams.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0049_GroupAnagrams.cpp.obj
+.PHONY : src/P0049_GroupAnagrams.cpp.obj
+
+src/P0049_GroupAnagrams.i: src/P0049_GroupAnagrams.cpp.i
+
+.PHONY : src/P0049_GroupAnagrams.i
+
+# target to preprocess a source file
+src/P0049_GroupAnagrams.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0049_GroupAnagrams.cpp.i
+.PHONY : src/P0049_GroupAnagrams.cpp.i
+
+src/P0049_GroupAnagrams.s: src/P0049_GroupAnagrams.cpp.s
+
+.PHONY : src/P0049_GroupAnagrams.s
+
+# target to generate assembly for a file
+src/P0049_GroupAnagrams.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0049_GroupAnagrams.cpp.s
+.PHONY : src/P0049_GroupAnagrams.cpp.s
+
+src/P0050_Pow_x_n.obj: src/P0050_Pow_x_n.cpp.obj
+
+.PHONY : src/P0050_Pow_x_n.obj
+
+# target to build an object file
+src/P0050_Pow_x_n.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0050_Pow_x_n.cpp.obj
+.PHONY : src/P0050_Pow_x_n.cpp.obj
+
+src/P0050_Pow_x_n.i: src/P0050_Pow_x_n.cpp.i
+
+.PHONY : src/P0050_Pow_x_n.i
+
+# target to preprocess a source file
+src/P0050_Pow_x_n.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0050_Pow_x_n.cpp.i
+.PHONY : src/P0050_Pow_x_n.cpp.i
+
+src/P0050_Pow_x_n.s: src/P0050_Pow_x_n.cpp.s
+
+.PHONY : src/P0050_Pow_x_n.s
+
+# target to generate assembly for a file
+src/P0050_Pow_x_n.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0050_Pow_x_n.cpp.s
+.PHONY : src/P0050_Pow_x_n.cpp.s
+
+src/P0055_JumpGame.obj: src/P0055_JumpGame.cpp.obj
+
+.PHONY : src/P0055_JumpGame.obj
+
+# target to build an object file
+src/P0055_JumpGame.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0055_JumpGame.cpp.obj
+.PHONY : src/P0055_JumpGame.cpp.obj
+
+src/P0055_JumpGame.i: src/P0055_JumpGame.cpp.i
+
+.PHONY : src/P0055_JumpGame.i
+
+# target to preprocess a source file
+src/P0055_JumpGame.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0055_JumpGame.cpp.i
+.PHONY : src/P0055_JumpGame.cpp.i
+
+src/P0055_JumpGame.s: src/P0055_JumpGame.cpp.s
+
+.PHONY : src/P0055_JumpGame.s
+
+# target to generate assembly for a file
+src/P0055_JumpGame.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0055_JumpGame.cpp.s
+.PHONY : src/P0055_JumpGame.cpp.s
+
 src/P0081_SearchInRotatedSortedArrayII.obj: src/P0081_SearchInRotatedSortedArrayII.cpp.obj
 
 .PHONY : src/P0081_SearchInRotatedSortedArrayII.obj
@@ -2753,6 +2942,27 @@ help:
 	@echo ... src/P0044_WildcardMatching.obj
 	@echo ... src/P0044_WildcardMatching.i
 	@echo ... src/P0044_WildcardMatching.s
+	@echo ... src/P0045_JumpGameII.obj
+	@echo ... src/P0045_JumpGameII.i
+	@echo ... src/P0045_JumpGameII.s
+	@echo ... src/P0046_Permutations.obj
+	@echo ... src/P0046_Permutations.i
+	@echo ... src/P0046_Permutations.s
+	@echo ... src/P0047_PermutationsII.obj
+	@echo ... src/P0047_PermutationsII.i
+	@echo ... src/P0047_PermutationsII.s
+	@echo ... src/P0048_RotateImage.obj
+	@echo ... src/P0048_RotateImage.i
+	@echo ... src/P0048_RotateImage.s
+	@echo ... src/P0049_GroupAnagrams.obj
+	@echo ... src/P0049_GroupAnagrams.i
+	@echo ... src/P0049_GroupAnagrams.s
+	@echo ... src/P0050_Pow_x_n.obj
+	@echo ... src/P0050_Pow_x_n.i
+	@echo ... src/P0050_Pow_x_n.s
+	@echo ... src/P0055_JumpGame.obj
+	@echo ... src/P0055_JumpGame.i
+	@echo ... src/P0055_JumpGame.s
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.obj
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.i
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.s

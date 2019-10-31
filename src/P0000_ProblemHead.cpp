@@ -141,8 +141,32 @@ int Test_Problem(int number) {
     } else if (number == 44) {
         P0044_WildcardMatching Solution;
         Solution.test();
-    } else if (number == 81) {
-        P0081_SearchInRotatedSortedArrayII Solution;
+    } else if (number == 44) {
+        P0044_WildcardMatching Solution;
+        Solution.test();
+    } else if (number == 45) {
+        P0045_JumpGameII Solution;
+        Solution.test();
+    } else if (number == 45) {
+        P0045_JumpGameII Solution;
+        Solution.test();
+    } else if (number == 46) {
+        P0046_Permutations Solution;
+        Solution.test();
+    } else if (number == 47) {
+        P0047_PermutationsII Solution;
+        Solution.test();
+    } else if (number == 48) {
+        P0048_RotateImage Solution;
+        Solution.test();
+    } else if (number == 49) {
+        P0049_GroupAnagrams Solution;
+        Solution.test();
+    } else if (number == 50) {
+        P0050_Pow_x_n Solution;
+        Solution.test();
+    } else if (number == 55) {
+        P0055_JumpGame Solution;
         Solution.test();
     } else if (number == 136) {
         P0136_SingleNumber Solution;
@@ -267,16 +291,16 @@ int Test_Problem(int number) {
     } else if (number == 209) {
         P0209_MinimumSizeSubarraySum Solution;
         Solution.test();
-    }else if (number == 217) {
+    } else if (number == 217) {
         P0217_ContainsDuplicate Solution;
         Solution.test();
     } else if (number == 219) {
         P0219_ContainsDuplicateII Solution;
         Solution.test();
-    }else if (number == 220) {
+    } else if (number == 220) {
         P0220_ContainsDuplicateIII Solution;
         Solution.test();
-    }else if (number == 260) {
+    } else if (number == 260) {
         P0260_SingleNumberIII Solution;
         Solution.test();
     } else {
