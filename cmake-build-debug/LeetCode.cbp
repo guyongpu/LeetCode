@@ -650,6 +650,18 @@
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0209_MinimumSizeSubarraySum.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0210_CourseScheduleII.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0210_CourseScheduleII.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0211_AddAndSearchWord_DataStructureDesign.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0211_AddAndSearchWord_DataStructureDesign.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0217_ContainsDuplicate.cpp">
 			<Option target="LeetCode"/>
 		</Unit>

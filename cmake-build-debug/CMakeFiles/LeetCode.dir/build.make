@@ -1343,6 +1343,32 @@ CMakeFiles/LeetCode.dir/src/P0050_Pow_x_n.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0050_Pow_x_n.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0050_Pow_x_n.cpp -o CMakeFiles\LeetCode.dir\src\P0050_Pow_x_n.cpp.s
 
+CMakeFiles/LeetCode.dir/src/P0210_CourseScheduleII.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0210_CourseScheduleII.cpp.obj: ../src/P0210_CourseScheduleII.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Building CXX object CMakeFiles/LeetCode.dir/src/P0210_CourseScheduleII.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0210_CourseScheduleII.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0210_CourseScheduleII.cpp
+
+CMakeFiles/LeetCode.dir/src/P0210_CourseScheduleII.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0210_CourseScheduleII.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0210_CourseScheduleII.cpp > CMakeFiles\LeetCode.dir\src\P0210_CourseScheduleII.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0210_CourseScheduleII.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0210_CourseScheduleII.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0210_CourseScheduleII.cpp -o CMakeFiles\LeetCode.dir\src\P0210_CourseScheduleII.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0211_AddAndSearchWord_DataStructureDesign.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0211_AddAndSearchWord_DataStructureDesign.cpp.obj: ../src/P0211_AddAndSearchWord_DataStructureDesign.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Building CXX object CMakeFiles/LeetCode.dir/src/P0211_AddAndSearchWord_DataStructureDesign.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0211_AddAndSearchWord_DataStructureDesign.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0211_AddAndSearchWord_DataStructureDesign.cpp
+
+CMakeFiles/LeetCode.dir/src/P0211_AddAndSearchWord_DataStructureDesign.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0211_AddAndSearchWord_DataStructureDesign.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0211_AddAndSearchWord_DataStructureDesign.cpp > CMakeFiles\LeetCode.dir\src\P0211_AddAndSearchWord_DataStructureDesign.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0211_AddAndSearchWord_DataStructureDesign.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0211_AddAndSearchWord_DataStructureDesign.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0211_AddAndSearchWord_DataStructureDesign.cpp -o CMakeFiles\LeetCode.dir\src\P0211_AddAndSearchWord_DataStructureDesign.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/main.cpp.obj" \
@@ -1443,7 +1469,9 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/src/P0047_PermutationsII.cpp.obj" \
 "CMakeFiles/LeetCode.dir/src/P0048_RotateImage.cpp.obj" \
 "CMakeFiles/LeetCode.dir/src/P0049_GroupAnagrams.cpp.obj" \
-"CMakeFiles/LeetCode.dir/src/P0050_Pow_x_n.cpp.obj"
+"CMakeFiles/LeetCode.dir/src/P0050_Pow_x_n.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0210_CourseScheduleII.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0211_AddAndSearchWord_DataStructureDesign.cpp.obj"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -1547,11 +1575,13 @@ LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0047_PermutationsII.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0048_RotateImage.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0049_GroupAnagrams.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0050_Pow_x_n.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0210_CourseScheduleII.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0211_AddAndSearchWord_DataStructureDesign.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/build.make
 LeetCode.exe: CMakeFiles/LeetCode.dir/linklibs.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/objects1.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Linking CXX executable LeetCode.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Linking CXX executable LeetCode.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LeetCode.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -291,6 +291,12 @@ int Test_Problem(int number) {
     } else if (number == 209) {
         P0209_MinimumSizeSubarraySum Solution;
         Solution.test();
+    } else if (number == 210) {
+        P0210_CourseScheduleII Solution;
+        Solution.test();
+    } else if (number == 211) {
+        P0211_AddAndSearchWord_DataStructureDesign Solution;
+        Solution.test();
     } else if (number == 217) {
         P0217_ContainsDuplicate Solution;
         Solution.test();

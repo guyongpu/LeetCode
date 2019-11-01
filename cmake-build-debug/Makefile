@@ -2687,6 +2687,60 @@ src/P0209_MinimumSizeSubarraySum.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0209_MinimumSizeSubarraySum.cpp.s
 .PHONY : src/P0209_MinimumSizeSubarraySum.cpp.s
 
+src/P0210_CourseScheduleII.obj: src/P0210_CourseScheduleII.cpp.obj
+
+.PHONY : src/P0210_CourseScheduleII.obj
+
+# target to build an object file
+src/P0210_CourseScheduleII.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0210_CourseScheduleII.cpp.obj
+.PHONY : src/P0210_CourseScheduleII.cpp.obj
+
+src/P0210_CourseScheduleII.i: src/P0210_CourseScheduleII.cpp.i
+
+.PHONY : src/P0210_CourseScheduleII.i
+
+# target to preprocess a source file
+src/P0210_CourseScheduleII.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0210_CourseScheduleII.cpp.i
+.PHONY : src/P0210_CourseScheduleII.cpp.i
+
+src/P0210_CourseScheduleII.s: src/P0210_CourseScheduleII.cpp.s
+
+.PHONY : src/P0210_CourseScheduleII.s
+
+# target to generate assembly for a file
+src/P0210_CourseScheduleII.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0210_CourseScheduleII.cpp.s
+.PHONY : src/P0210_CourseScheduleII.cpp.s
+
+src/P0211_AddAndSearchWord_DataStructureDesign.obj: src/P0211_AddAndSearchWord_DataStructureDesign.cpp.obj
+
+.PHONY : src/P0211_AddAndSearchWord_DataStructureDesign.obj
+
+# target to build an object file
+src/P0211_AddAndSearchWord_DataStructureDesign.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0211_AddAndSearchWord_DataStructureDesign.cpp.obj
+.PHONY : src/P0211_AddAndSearchWord_DataStructureDesign.cpp.obj
+
+src/P0211_AddAndSearchWord_DataStructureDesign.i: src/P0211_AddAndSearchWord_DataStructureDesign.cpp.i
+
+.PHONY : src/P0211_AddAndSearchWord_DataStructureDesign.i
+
+# target to preprocess a source file
+src/P0211_AddAndSearchWord_DataStructureDesign.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0211_AddAndSearchWord_DataStructureDesign.cpp.i
+.PHONY : src/P0211_AddAndSearchWord_DataStructureDesign.cpp.i
+
+src/P0211_AddAndSearchWord_DataStructureDesign.s: src/P0211_AddAndSearchWord_DataStructureDesign.cpp.s
+
+.PHONY : src/P0211_AddAndSearchWord_DataStructureDesign.s
+
+# target to generate assembly for a file
+src/P0211_AddAndSearchWord_DataStructureDesign.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0211_AddAndSearchWord_DataStructureDesign.cpp.s
+.PHONY : src/P0211_AddAndSearchWord_DataStructureDesign.cpp.s
+
 src/P0217_ContainsDuplicate.obj: src/P0217_ContainsDuplicate.cpp.obj
 
 .PHONY : src/P0217_ContainsDuplicate.obj
@@ -3089,6 +3143,12 @@ help:
 	@echo ... src/P0209_MinimumSizeSubarraySum.obj
 	@echo ... src/P0209_MinimumSizeSubarraySum.i
 	@echo ... src/P0209_MinimumSizeSubarraySum.s
+	@echo ... src/P0210_CourseScheduleII.obj
+	@echo ... src/P0210_CourseScheduleII.i
+	@echo ... src/P0210_CourseScheduleII.s
+	@echo ... src/P0211_AddAndSearchWord_DataStructureDesign.obj
+	@echo ... src/P0211_AddAndSearchWord_DataStructureDesign.i
+	@echo ... src/P0211_AddAndSearchWord_DataStructureDesign.s
 	@echo ... src/P0217_ContainsDuplicate.obj
 	@echo ... src/P0217_ContainsDuplicate.i
 	@echo ... src/P0217_ContainsDuplicate.s

@@ -95,7 +95,6 @@ bool P0207_CourseSchedule::canFinish_2(int numCourses, vector<vector<int>> &prer
                 if (numIn[parent] == 0) {
                     InQueue.push(parent);
                 }
-
             }
         }
     }
