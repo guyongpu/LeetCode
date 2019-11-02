@@ -168,6 +168,15 @@ int Test_Problem(int number) {
     } else if (number == 55) {
         P0055_JumpGame Solution;
         Solution.test();
+    } else if (number == 121) {
+        P0121_BestTimeToBuyAndSellStock Solution;
+        Solution.test();
+    } else if (number == 122) {
+        P0122_BestTimeToBuyAndSellStockII Solution;
+        Solution.test();
+    } else if (number == 123) {
+        P0123_BestTimeToBuyAndSellStockIII Solution;
+        Solution.test();
     } else if (number == 136) {
         P0136_SingleNumber Solution;
         Solution.test();

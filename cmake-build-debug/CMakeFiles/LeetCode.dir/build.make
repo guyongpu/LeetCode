@@ -1369,6 +1369,58 @@ CMakeFiles/LeetCode.dir/src/P0211_AddAndSearchWord_DataStructureDesign.cpp.s: cm
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0211_AddAndSearchWord_DataStructureDesign.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0211_AddAndSearchWord_DataStructureDesign.cpp -o CMakeFiles\LeetCode.dir\src\P0211_AddAndSearchWord_DataStructureDesign.cpp.s
 
+CMakeFiles/LeetCode.dir/src/P0121_BestTimeToBuyAndSellStock.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0121_BestTimeToBuyAndSellStock.cpp.obj: ../src/P0121_BestTimeToBuyAndSellStock.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Building CXX object CMakeFiles/LeetCode.dir/src/P0121_BestTimeToBuyAndSellStock.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0121_BestTimeToBuyAndSellStock.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0121_BestTimeToBuyAndSellStock.cpp
+
+CMakeFiles/LeetCode.dir/src/P0121_BestTimeToBuyAndSellStock.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0121_BestTimeToBuyAndSellStock.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0121_BestTimeToBuyAndSellStock.cpp > CMakeFiles\LeetCode.dir\src\P0121_BestTimeToBuyAndSellStock.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0121_BestTimeToBuyAndSellStock.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0121_BestTimeToBuyAndSellStock.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0121_BestTimeToBuyAndSellStock.cpp -o CMakeFiles\LeetCode.dir\src\P0121_BestTimeToBuyAndSellStock.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0122_BestTimeToBuyAndSellStockII.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0122_BestTimeToBuyAndSellStockII.cpp.obj: ../src/P0122_BestTimeToBuyAndSellStockII.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Building CXX object CMakeFiles/LeetCode.dir/src/P0122_BestTimeToBuyAndSellStockII.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0122_BestTimeToBuyAndSellStockII.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0122_BestTimeToBuyAndSellStockII.cpp
+
+CMakeFiles/LeetCode.dir/src/P0122_BestTimeToBuyAndSellStockII.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0122_BestTimeToBuyAndSellStockII.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0122_BestTimeToBuyAndSellStockII.cpp > CMakeFiles\LeetCode.dir\src\P0122_BestTimeToBuyAndSellStockII.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0122_BestTimeToBuyAndSellStockII.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0122_BestTimeToBuyAndSellStockII.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0122_BestTimeToBuyAndSellStockII.cpp -o CMakeFiles\LeetCode.dir\src\P0122_BestTimeToBuyAndSellStockII.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0123_BestTimeToBuyAndSellStockIII.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0123_BestTimeToBuyAndSellStockIII.cpp.obj: ../src/P0123_BestTimeToBuyAndSellStockIII.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_104) "Building CXX object CMakeFiles/LeetCode.dir/src/P0123_BestTimeToBuyAndSellStockIII.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0123_BestTimeToBuyAndSellStockIII.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0123_BestTimeToBuyAndSellStockIII.cpp
+
+CMakeFiles/LeetCode.dir/src/P0123_BestTimeToBuyAndSellStockIII.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0123_BestTimeToBuyAndSellStockIII.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0123_BestTimeToBuyAndSellStockIII.cpp > CMakeFiles\LeetCode.dir\src\P0123_BestTimeToBuyAndSellStockIII.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0123_BestTimeToBuyAndSellStockIII.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0123_BestTimeToBuyAndSellStockIII.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0123_BestTimeToBuyAndSellStockIII.cpp -o CMakeFiles\LeetCode.dir\src\P0123_BestTimeToBuyAndSellStockIII.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0188_BestTimeToBuyAndSellStockIV.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0188_BestTimeToBuyAndSellStockIV.cpp.obj: ../src/P0188_BestTimeToBuyAndSellStockIV.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_105) "Building CXX object CMakeFiles/LeetCode.dir/src/P0188_BestTimeToBuyAndSellStockIV.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0188_BestTimeToBuyAndSellStockIV.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0188_BestTimeToBuyAndSellStockIV.cpp
+
+CMakeFiles/LeetCode.dir/src/P0188_BestTimeToBuyAndSellStockIV.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0188_BestTimeToBuyAndSellStockIV.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0188_BestTimeToBuyAndSellStockIV.cpp > CMakeFiles\LeetCode.dir\src\P0188_BestTimeToBuyAndSellStockIV.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0188_BestTimeToBuyAndSellStockIV.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0188_BestTimeToBuyAndSellStockIV.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0188_BestTimeToBuyAndSellStockIV.cpp -o CMakeFiles\LeetCode.dir\src\P0188_BestTimeToBuyAndSellStockIV.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/main.cpp.obj" \
@@ -1471,7 +1523,11 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/src/P0049_GroupAnagrams.cpp.obj" \
 "CMakeFiles/LeetCode.dir/src/P0050_Pow_x_n.cpp.obj" \
 "CMakeFiles/LeetCode.dir/src/P0210_CourseScheduleII.cpp.obj" \
-"CMakeFiles/LeetCode.dir/src/P0211_AddAndSearchWord_DataStructureDesign.cpp.obj"
+"CMakeFiles/LeetCode.dir/src/P0211_AddAndSearchWord_DataStructureDesign.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0121_BestTimeToBuyAndSellStock.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0122_BestTimeToBuyAndSellStockII.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0123_BestTimeToBuyAndSellStockIII.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0188_BestTimeToBuyAndSellStockIV.cpp.obj"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -1577,11 +1633,15 @@ LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0049_GroupAnagrams.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0050_Pow_x_n.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0210_CourseScheduleII.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0211_AddAndSearchWord_DataStructureDesign.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0121_BestTimeToBuyAndSellStock.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0122_BestTimeToBuyAndSellStockII.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0123_BestTimeToBuyAndSellStockIII.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0188_BestTimeToBuyAndSellStockIV.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/build.make
 LeetCode.exe: CMakeFiles/LeetCode.dir/linklibs.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/objects1.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Linking CXX executable LeetCode.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Linking CXX executable LeetCode.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LeetCode.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

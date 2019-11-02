@@ -1580,6 +1580,87 @@ src/P0081_SearchInRotatedSortedArrayII.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0081_SearchInRotatedSortedArrayII.cpp.s
 .PHONY : src/P0081_SearchInRotatedSortedArrayII.cpp.s
 
+src/P0121_BestTimeToBuyAndSellStock.obj: src/P0121_BestTimeToBuyAndSellStock.cpp.obj
+
+.PHONY : src/P0121_BestTimeToBuyAndSellStock.obj
+
+# target to build an object file
+src/P0121_BestTimeToBuyAndSellStock.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0121_BestTimeToBuyAndSellStock.cpp.obj
+.PHONY : src/P0121_BestTimeToBuyAndSellStock.cpp.obj
+
+src/P0121_BestTimeToBuyAndSellStock.i: src/P0121_BestTimeToBuyAndSellStock.cpp.i
+
+.PHONY : src/P0121_BestTimeToBuyAndSellStock.i
+
+# target to preprocess a source file
+src/P0121_BestTimeToBuyAndSellStock.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0121_BestTimeToBuyAndSellStock.cpp.i
+.PHONY : src/P0121_BestTimeToBuyAndSellStock.cpp.i
+
+src/P0121_BestTimeToBuyAndSellStock.s: src/P0121_BestTimeToBuyAndSellStock.cpp.s
+
+.PHONY : src/P0121_BestTimeToBuyAndSellStock.s
+
+# target to generate assembly for a file
+src/P0121_BestTimeToBuyAndSellStock.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0121_BestTimeToBuyAndSellStock.cpp.s
+.PHONY : src/P0121_BestTimeToBuyAndSellStock.cpp.s
+
+src/P0122_BestTimeToBuyAndSellStockII.obj: src/P0122_BestTimeToBuyAndSellStockII.cpp.obj
+
+.PHONY : src/P0122_BestTimeToBuyAndSellStockII.obj
+
+# target to build an object file
+src/P0122_BestTimeToBuyAndSellStockII.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0122_BestTimeToBuyAndSellStockII.cpp.obj
+.PHONY : src/P0122_BestTimeToBuyAndSellStockII.cpp.obj
+
+src/P0122_BestTimeToBuyAndSellStockII.i: src/P0122_BestTimeToBuyAndSellStockII.cpp.i
+
+.PHONY : src/P0122_BestTimeToBuyAndSellStockII.i
+
+# target to preprocess a source file
+src/P0122_BestTimeToBuyAndSellStockII.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0122_BestTimeToBuyAndSellStockII.cpp.i
+.PHONY : src/P0122_BestTimeToBuyAndSellStockII.cpp.i
+
+src/P0122_BestTimeToBuyAndSellStockII.s: src/P0122_BestTimeToBuyAndSellStockII.cpp.s
+
+.PHONY : src/P0122_BestTimeToBuyAndSellStockII.s
+
+# target to generate assembly for a file
+src/P0122_BestTimeToBuyAndSellStockII.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0122_BestTimeToBuyAndSellStockII.cpp.s
+.PHONY : src/P0122_BestTimeToBuyAndSellStockII.cpp.s
+
+src/P0123_BestTimeToBuyAndSellStockIII.obj: src/P0123_BestTimeToBuyAndSellStockIII.cpp.obj
+
+.PHONY : src/P0123_BestTimeToBuyAndSellStockIII.obj
+
+# target to build an object file
+src/P0123_BestTimeToBuyAndSellStockIII.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0123_BestTimeToBuyAndSellStockIII.cpp.obj
+.PHONY : src/P0123_BestTimeToBuyAndSellStockIII.cpp.obj
+
+src/P0123_BestTimeToBuyAndSellStockIII.i: src/P0123_BestTimeToBuyAndSellStockIII.cpp.i
+
+.PHONY : src/P0123_BestTimeToBuyAndSellStockIII.i
+
+# target to preprocess a source file
+src/P0123_BestTimeToBuyAndSellStockIII.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0123_BestTimeToBuyAndSellStockIII.cpp.i
+.PHONY : src/P0123_BestTimeToBuyAndSellStockIII.cpp.i
+
+src/P0123_BestTimeToBuyAndSellStockIII.s: src/P0123_BestTimeToBuyAndSellStockIII.cpp.s
+
+.PHONY : src/P0123_BestTimeToBuyAndSellStockIII.s
+
+# target to generate assembly for a file
+src/P0123_BestTimeToBuyAndSellStockIII.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0123_BestTimeToBuyAndSellStockIII.cpp.s
+.PHONY : src/P0123_BestTimeToBuyAndSellStockIII.cpp.s
+
 src/P0136_SingleNumber.obj: src/P0136_SingleNumber.cpp.obj
 
 .PHONY : src/P0136_SingleNumber.obj
@@ -2281,6 +2362,33 @@ src/P0187_RepeatedDNASequences.s: src/P0187_RepeatedDNASequences.cpp.s
 src/P0187_RepeatedDNASequences.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0187_RepeatedDNASequences.cpp.s
 .PHONY : src/P0187_RepeatedDNASequences.cpp.s
+
+src/P0188_BestTimeToBuyAndSellStockIV.obj: src/P0188_BestTimeToBuyAndSellStockIV.cpp.obj
+
+.PHONY : src/P0188_BestTimeToBuyAndSellStockIV.obj
+
+# target to build an object file
+src/P0188_BestTimeToBuyAndSellStockIV.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0188_BestTimeToBuyAndSellStockIV.cpp.obj
+.PHONY : src/P0188_BestTimeToBuyAndSellStockIV.cpp.obj
+
+src/P0188_BestTimeToBuyAndSellStockIV.i: src/P0188_BestTimeToBuyAndSellStockIV.cpp.i
+
+.PHONY : src/P0188_BestTimeToBuyAndSellStockIV.i
+
+# target to preprocess a source file
+src/P0188_BestTimeToBuyAndSellStockIV.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0188_BestTimeToBuyAndSellStockIV.cpp.i
+.PHONY : src/P0188_BestTimeToBuyAndSellStockIV.cpp.i
+
+src/P0188_BestTimeToBuyAndSellStockIV.s: src/P0188_BestTimeToBuyAndSellStockIV.cpp.s
+
+.PHONY : src/P0188_BestTimeToBuyAndSellStockIV.s
+
+# target to generate assembly for a file
+src/P0188_BestTimeToBuyAndSellStockIV.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0188_BestTimeToBuyAndSellStockIV.cpp.s
+.PHONY : src/P0188_BestTimeToBuyAndSellStockIV.cpp.s
 
 src/P0189_RotateArray.obj: src/P0189_RotateArray.cpp.obj
 
@@ -3020,6 +3128,15 @@ help:
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.obj
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.i
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.s
+	@echo ... src/P0121_BestTimeToBuyAndSellStock.obj
+	@echo ... src/P0121_BestTimeToBuyAndSellStock.i
+	@echo ... src/P0121_BestTimeToBuyAndSellStock.s
+	@echo ... src/P0122_BestTimeToBuyAndSellStockII.obj
+	@echo ... src/P0122_BestTimeToBuyAndSellStockII.i
+	@echo ... src/P0122_BestTimeToBuyAndSellStockII.s
+	@echo ... src/P0123_BestTimeToBuyAndSellStockIII.obj
+	@echo ... src/P0123_BestTimeToBuyAndSellStockIII.i
+	@echo ... src/P0123_BestTimeToBuyAndSellStockIII.s
 	@echo ... src/P0136_SingleNumber.obj
 	@echo ... src/P0136_SingleNumber.i
 	@echo ... src/P0136_SingleNumber.s
@@ -3098,6 +3215,9 @@ help:
 	@echo ... src/P0187_RepeatedDNASequences.obj
 	@echo ... src/P0187_RepeatedDNASequences.i
 	@echo ... src/P0187_RepeatedDNASequences.s
+	@echo ... src/P0188_BestTimeToBuyAndSellStockIV.obj
+	@echo ... src/P0188_BestTimeToBuyAndSellStockIV.i
+	@echo ... src/P0188_BestTimeToBuyAndSellStockIV.s
 	@echo ... src/P0189_RotateArray.obj
 	@echo ... src/P0189_RotateArray.i
 	@echo ... src/P0189_RotateArray.s
