@@ -1421,6 +1421,32 @@ CMakeFiles/LeetCode.dir/src/P0188_BestTimeToBuyAndSellStockIV.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0188_BestTimeToBuyAndSellStockIV.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0188_BestTimeToBuyAndSellStockIV.cpp -o CMakeFiles\LeetCode.dir\src\P0188_BestTimeToBuyAndSellStockIV.cpp.s
 
+CMakeFiles/LeetCode.dir/src/P0054_SpiralMatrix.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0054_SpiralMatrix.cpp.obj: ../src/P0054_SpiralMatrix.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Building CXX object CMakeFiles/LeetCode.dir/src/P0054_SpiralMatrix.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0054_SpiralMatrix.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0054_SpiralMatrix.cpp
+
+CMakeFiles/LeetCode.dir/src/P0054_SpiralMatrix.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0054_SpiralMatrix.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0054_SpiralMatrix.cpp > CMakeFiles\LeetCode.dir\src\P0054_SpiralMatrix.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0054_SpiralMatrix.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0054_SpiralMatrix.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0054_SpiralMatrix.cpp -o CMakeFiles\LeetCode.dir\src\P0054_SpiralMatrix.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0053_MaximumSubarray.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0053_MaximumSubarray.cpp.obj: ../src/P0053_MaximumSubarray.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_107) "Building CXX object CMakeFiles/LeetCode.dir/src/P0053_MaximumSubarray.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0053_MaximumSubarray.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0053_MaximumSubarray.cpp
+
+CMakeFiles/LeetCode.dir/src/P0053_MaximumSubarray.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0053_MaximumSubarray.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0053_MaximumSubarray.cpp > CMakeFiles\LeetCode.dir\src\P0053_MaximumSubarray.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0053_MaximumSubarray.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0053_MaximumSubarray.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0053_MaximumSubarray.cpp -o CMakeFiles\LeetCode.dir\src\P0053_MaximumSubarray.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/main.cpp.obj" \
@@ -1527,7 +1553,9 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/src/P0121_BestTimeToBuyAndSellStock.cpp.obj" \
 "CMakeFiles/LeetCode.dir/src/P0122_BestTimeToBuyAndSellStockII.cpp.obj" \
 "CMakeFiles/LeetCode.dir/src/P0123_BestTimeToBuyAndSellStockIII.cpp.obj" \
-"CMakeFiles/LeetCode.dir/src/P0188_BestTimeToBuyAndSellStockIV.cpp.obj"
+"CMakeFiles/LeetCode.dir/src/P0188_BestTimeToBuyAndSellStockIV.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0054_SpiralMatrix.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0053_MaximumSubarray.cpp.obj"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -1637,11 +1665,13 @@ LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0121_BestTimeToBuyAndSellStock.cpp.ob
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0122_BestTimeToBuyAndSellStockII.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0123_BestTimeToBuyAndSellStockIII.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0188_BestTimeToBuyAndSellStockIV.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0054_SpiralMatrix.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0053_MaximumSubarray.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/build.make
 LeetCode.exe: CMakeFiles/LeetCode.dir/linklibs.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/objects1.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Linking CXX executable LeetCode.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Linking CXX executable LeetCode.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LeetCode.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

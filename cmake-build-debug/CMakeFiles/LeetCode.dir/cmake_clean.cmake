@@ -104,6 +104,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/LeetCode.dir/src/P0122_BestTimeToBuyAndSellStockII.cpp.obj"
   "CMakeFiles/LeetCode.dir/src/P0123_BestTimeToBuyAndSellStockIII.cpp.obj"
   "CMakeFiles/LeetCode.dir/src/P0188_BestTimeToBuyAndSellStockIV.cpp.obj"
+  "CMakeFiles/LeetCode.dir/src/P0054_SpiralMatrix.cpp.obj"
+  "CMakeFiles/LeetCode.dir/src/P0053_MaximumSubarray.cpp.obj"
   "LeetCode.pdb"
   "LeetCode.exe"
   "LeetCode.exe.manifest"

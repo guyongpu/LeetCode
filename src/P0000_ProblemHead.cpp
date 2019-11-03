@@ -165,6 +165,12 @@ int Test_Problem(int number) {
     } else if (number == 50) {
         P0050_Pow_x_n Solution;
         Solution.test();
+    } else if (number == 53) {
+        P0053_MaximumSubarray Solution;
+        Solution.test();
+    } else if (number == 54) {
+        P0054_SpiralMatrix Solution;
+        Solution.test();
     } else if (number == 55) {
         P0055_JumpGame Solution;
         Solution.test();

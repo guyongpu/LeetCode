@@ -392,6 +392,18 @@
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0050_Pow_x_n.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0053_MaximumSubarray.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0053_MaximumSubarray.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0054_SpiralMatrix.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0054_SpiralMatrix.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0055_JumpGame.cpp">
 			<Option target="LeetCode"/>
 		</Unit>

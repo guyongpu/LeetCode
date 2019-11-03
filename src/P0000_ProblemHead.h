@@ -58,6 +58,8 @@
 #include "P0048_RotateImage.h"
 #include "P0049_GroupAnagrams.h"
 #include "P0050_Pow_x_n.h"
+#include "P0053_MaximumSubarray.h"
+#include "P0054_SpiralMatrix.h"
 #include "P0055_JumpGame.h"
 #include "P0081_SearchInRotatedSortedArrayII.h"
 #include "P0121_BestTimeToBuyAndSellStock.h"

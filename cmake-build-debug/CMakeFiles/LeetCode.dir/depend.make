@@ -54,6 +54,8 @@ CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0047_PermutationsII.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0048_RotateImage.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0049_GroupAnagrams.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0050_Pow_x_n.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0053_MaximumSubarray.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0054_SpiralMatrix.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0055_JumpGame.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0081_SearchInRotatedSortedArrayII.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0121_BestTimeToBuyAndSellStock.h
@@ -160,6 +162,8 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0047_Permutations
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0048_RotateImage.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0049_GroupAnagrams.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0050_Pow_x_n.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0053_MaximumSubarray.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0054_SpiralMatrix.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0055_JumpGame.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0081_SearchInRotatedSortedArrayII.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0121_BestTimeToBuyAndSellStock.h
@@ -366,6 +370,12 @@ CMakeFiles/LeetCode.dir/src/P0049_GroupAnagrams.cpp.obj: ../src/P0049_GroupAnagr
 
 CMakeFiles/LeetCode.dir/src/P0050_Pow_x_n.cpp.obj: ../src/P0050_Pow_x_n.cpp
 CMakeFiles/LeetCode.dir/src/P0050_Pow_x_n.cpp.obj: ../src/P0050_Pow_x_n.h
+
+CMakeFiles/LeetCode.dir/src/P0053_MaximumSubarray.cpp.obj: ../src/P0053_MaximumSubarray.cpp
+CMakeFiles/LeetCode.dir/src/P0053_MaximumSubarray.cpp.obj: ../src/P0053_MaximumSubarray.h
+
+CMakeFiles/LeetCode.dir/src/P0054_SpiralMatrix.cpp.obj: ../src/P0054_SpiralMatrix.cpp
+CMakeFiles/LeetCode.dir/src/P0054_SpiralMatrix.cpp.obj: ../src/P0054_SpiralMatrix.h
 
 CMakeFiles/LeetCode.dir/src/P0055_JumpGame.cpp.obj: ../src/P0055_JumpGame.cpp
 CMakeFiles/LeetCode.dir/src/P0055_JumpGame.cpp.obj: ../src/P0055_JumpGame.h

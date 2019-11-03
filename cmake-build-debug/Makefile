@@ -1526,6 +1526,60 @@ src/P0050_Pow_x_n.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0050_Pow_x_n.cpp.s
 .PHONY : src/P0050_Pow_x_n.cpp.s
 
+src/P0053_MaximumSubarray.obj: src/P0053_MaximumSubarray.cpp.obj
+
+.PHONY : src/P0053_MaximumSubarray.obj
+
+# target to build an object file
+src/P0053_MaximumSubarray.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0053_MaximumSubarray.cpp.obj
+.PHONY : src/P0053_MaximumSubarray.cpp.obj
+
+src/P0053_MaximumSubarray.i: src/P0053_MaximumSubarray.cpp.i
+
+.PHONY : src/P0053_MaximumSubarray.i
+
+# target to preprocess a source file
+src/P0053_MaximumSubarray.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0053_MaximumSubarray.cpp.i
+.PHONY : src/P0053_MaximumSubarray.cpp.i
+
+src/P0053_MaximumSubarray.s: src/P0053_MaximumSubarray.cpp.s
+
+.PHONY : src/P0053_MaximumSubarray.s
+
+# target to generate assembly for a file
+src/P0053_MaximumSubarray.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0053_MaximumSubarray.cpp.s
+.PHONY : src/P0053_MaximumSubarray.cpp.s
+
+src/P0054_SpiralMatrix.obj: src/P0054_SpiralMatrix.cpp.obj
+
+.PHONY : src/P0054_SpiralMatrix.obj
+
+# target to build an object file
+src/P0054_SpiralMatrix.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0054_SpiralMatrix.cpp.obj
+.PHONY : src/P0054_SpiralMatrix.cpp.obj
+
+src/P0054_SpiralMatrix.i: src/P0054_SpiralMatrix.cpp.i
+
+.PHONY : src/P0054_SpiralMatrix.i
+
+# target to preprocess a source file
+src/P0054_SpiralMatrix.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0054_SpiralMatrix.cpp.i
+.PHONY : src/P0054_SpiralMatrix.cpp.i
+
+src/P0054_SpiralMatrix.s: src/P0054_SpiralMatrix.cpp.s
+
+.PHONY : src/P0054_SpiralMatrix.s
+
+# target to generate assembly for a file
+src/P0054_SpiralMatrix.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0054_SpiralMatrix.cpp.s
+.PHONY : src/P0054_SpiralMatrix.cpp.s
+
 src/P0055_JumpGame.obj: src/P0055_JumpGame.cpp.obj
 
 .PHONY : src/P0055_JumpGame.obj
@@ -3122,6 +3176,12 @@ help:
 	@echo ... src/P0050_Pow_x_n.obj
 	@echo ... src/P0050_Pow_x_n.i
 	@echo ... src/P0050_Pow_x_n.s
+	@echo ... src/P0053_MaximumSubarray.obj
+	@echo ... src/P0053_MaximumSubarray.i
+	@echo ... src/P0053_MaximumSubarray.s
+	@echo ... src/P0054_SpiralMatrix.obj
+	@echo ... src/P0054_SpiralMatrix.i
+	@echo ... src/P0054_SpiralMatrix.s
 	@echo ... src/P0055_JumpGame.obj
 	@echo ... src/P0055_JumpGame.i
 	@echo ... src/P0055_JumpGame.s
