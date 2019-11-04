@@ -62,6 +62,7 @@ CMakeFiles/LeetCode.dir/main.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0057_InsertInterval.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0058_LengthOfLastWord.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0059_SpiralMatrixII.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0060_PermutationSequence.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0081_SearchInRotatedSortedArrayII.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0121_BestTimeToBuyAndSellStock.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0122_BestTimeToBuyAndSellStockII.h
@@ -174,6 +175,7 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0057_InsertInterval.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0058_LengthOfLastWord.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0059_SpiralMatrixII.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0060_PermutationSequence.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0081_SearchInRotatedSortedArrayII.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0121_BestTimeToBuyAndSellStock.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0122_BestTimeToBuyAndSellStockII.h
@@ -400,6 +402,9 @@ CMakeFiles/LeetCode.dir/src/P0058_LengthOfLastWord.cpp.obj
 CMakeFiles/LeetCode.dir/src/P0059_SpiralMatrixII.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0059_SpiralMatrixII.cpp
  E:/OneDrive/CodingInterview/LeetCode/src/P0059_SpiralMatrixII.h
+CMakeFiles/LeetCode.dir/src/P0060_PermutationSequence.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0060_PermutationSequence.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0060_PermutationSequence.h
 CMakeFiles/LeetCode.dir/src/P0081_SearchInRotatedSortedArrayII.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0081_SearchInRotatedSortedArrayII.cpp
  E:/OneDrive/CodingInterview/LeetCode/src/P0081_SearchInRotatedSortedArrayII.h

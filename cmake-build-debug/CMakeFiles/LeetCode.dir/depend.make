@@ -61,6 +61,7 @@ CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0056_MergeIntervals.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0057_InsertInterval.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0058_LengthOfLastWord.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0059_SpiralMatrixII.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0060_PermutationSequence.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0081_SearchInRotatedSortedArrayII.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0121_BestTimeToBuyAndSellStock.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0122_BestTimeToBuyAndSellStockII.h
@@ -173,6 +174,7 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0056_MergeInterva
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0057_InsertInterval.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0058_LengthOfLastWord.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0059_SpiralMatrixII.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0060_PermutationSequence.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0081_SearchInRotatedSortedArrayII.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0121_BestTimeToBuyAndSellStock.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0122_BestTimeToBuyAndSellStockII.h
@@ -399,6 +401,9 @@ CMakeFiles/LeetCode.dir/src/P0058_LengthOfLastWord.cpp.obj: ../src/P0058_LengthO
 
 CMakeFiles/LeetCode.dir/src/P0059_SpiralMatrixII.cpp.obj: ../src/P0059_SpiralMatrixII.cpp
 CMakeFiles/LeetCode.dir/src/P0059_SpiralMatrixII.cpp.obj: ../src/P0059_SpiralMatrixII.h
+
+CMakeFiles/LeetCode.dir/src/P0060_PermutationSequence.cpp.obj: ../src/P0060_PermutationSequence.cpp
+CMakeFiles/LeetCode.dir/src/P0060_PermutationSequence.cpp.obj: ../src/P0060_PermutationSequence.h
 
 CMakeFiles/LeetCode.dir/src/P0081_SearchInRotatedSortedArrayII.cpp.obj: ../src/P0081_SearchInRotatedSortedArrayII.cpp
 CMakeFiles/LeetCode.dir/src/P0081_SearchInRotatedSortedArrayII.cpp.obj: ../src/P0081_SearchInRotatedSortedArrayII.h

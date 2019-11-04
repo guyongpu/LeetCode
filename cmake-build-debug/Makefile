@@ -1715,6 +1715,33 @@ src/P0059_SpiralMatrixII.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0059_SpiralMatrixII.cpp.s
 .PHONY : src/P0059_SpiralMatrixII.cpp.s
 
+src/P0060_PermutationSequence.obj: src/P0060_PermutationSequence.cpp.obj
+
+.PHONY : src/P0060_PermutationSequence.obj
+
+# target to build an object file
+src/P0060_PermutationSequence.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0060_PermutationSequence.cpp.obj
+.PHONY : src/P0060_PermutationSequence.cpp.obj
+
+src/P0060_PermutationSequence.i: src/P0060_PermutationSequence.cpp.i
+
+.PHONY : src/P0060_PermutationSequence.i
+
+# target to preprocess a source file
+src/P0060_PermutationSequence.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0060_PermutationSequence.cpp.i
+.PHONY : src/P0060_PermutationSequence.cpp.i
+
+src/P0060_PermutationSequence.s: src/P0060_PermutationSequence.cpp.s
+
+.PHONY : src/P0060_PermutationSequence.s
+
+# target to generate assembly for a file
+src/P0060_PermutationSequence.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0060_PermutationSequence.cpp.s
+.PHONY : src/P0060_PermutationSequence.cpp.s
+
 src/P0081_SearchInRotatedSortedArrayII.obj: src/P0081_SearchInRotatedSortedArrayII.cpp.obj
 
 .PHONY : src/P0081_SearchInRotatedSortedArrayII.obj
@@ -3305,6 +3332,9 @@ help:
 	@echo ... src/P0059_SpiralMatrixII.obj
 	@echo ... src/P0059_SpiralMatrixII.i
 	@echo ... src/P0059_SpiralMatrixII.s
+	@echo ... src/P0060_PermutationSequence.obj
+	@echo ... src/P0060_PermutationSequence.i
+	@echo ... src/P0060_PermutationSequence.s
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.obj
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.i
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.s

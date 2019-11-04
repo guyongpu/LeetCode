@@ -110,6 +110,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/LeetCode.dir/src/P0057_InsertInterval.cpp.obj"
   "CMakeFiles/LeetCode.dir/src/P0058_LengthOfLastWord.cpp.obj"
   "CMakeFiles/LeetCode.dir/src/P0059_SpiralMatrixII.cpp.obj"
+  "CMakeFiles/LeetCode.dir/src/P0060_PermutationSequence.cpp.obj"
   "LeetCode.pdb"
   "LeetCode.exe"
   "LeetCode.exe.manifest"

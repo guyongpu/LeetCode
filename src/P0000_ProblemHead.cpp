@@ -186,6 +186,9 @@ int Test_Problem(int number) {
     } else if (number == 59) {
         P0059_SpiralMatrixII Solution;
         Solution.test();
+    } else if (number == 60) {
+        P0060_PermutationSequence Solution;
+        Solution.test();
     } else if (number == 81) {
         P0081_SearchInRotatedSortedArrayII Solution;
         Solution.test();
