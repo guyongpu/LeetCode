@@ -12,7 +12,8 @@ using namespace std;
 
 class P0053_MaximumSubarray {
 public:
-    int maxSubArray(vector<int>& nums);
+    int maxSubArray_1(vector<int>& nums);
+    int maxSubArray_2(vector<int>& nums);
     int test();
 };
 

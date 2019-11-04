@@ -1607,6 +1607,114 @@ src/P0055_JumpGame.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0055_JumpGame.cpp.s
 .PHONY : src/P0055_JumpGame.cpp.s
 
+src/P0056_MergeIntervals.obj: src/P0056_MergeIntervals.cpp.obj
+
+.PHONY : src/P0056_MergeIntervals.obj
+
+# target to build an object file
+src/P0056_MergeIntervals.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0056_MergeIntervals.cpp.obj
+.PHONY : src/P0056_MergeIntervals.cpp.obj
+
+src/P0056_MergeIntervals.i: src/P0056_MergeIntervals.cpp.i
+
+.PHONY : src/P0056_MergeIntervals.i
+
+# target to preprocess a source file
+src/P0056_MergeIntervals.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0056_MergeIntervals.cpp.i
+.PHONY : src/P0056_MergeIntervals.cpp.i
+
+src/P0056_MergeIntervals.s: src/P0056_MergeIntervals.cpp.s
+
+.PHONY : src/P0056_MergeIntervals.s
+
+# target to generate assembly for a file
+src/P0056_MergeIntervals.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0056_MergeIntervals.cpp.s
+.PHONY : src/P0056_MergeIntervals.cpp.s
+
+src/P0057_InsertInterval.obj: src/P0057_InsertInterval.cpp.obj
+
+.PHONY : src/P0057_InsertInterval.obj
+
+# target to build an object file
+src/P0057_InsertInterval.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0057_InsertInterval.cpp.obj
+.PHONY : src/P0057_InsertInterval.cpp.obj
+
+src/P0057_InsertInterval.i: src/P0057_InsertInterval.cpp.i
+
+.PHONY : src/P0057_InsertInterval.i
+
+# target to preprocess a source file
+src/P0057_InsertInterval.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0057_InsertInterval.cpp.i
+.PHONY : src/P0057_InsertInterval.cpp.i
+
+src/P0057_InsertInterval.s: src/P0057_InsertInterval.cpp.s
+
+.PHONY : src/P0057_InsertInterval.s
+
+# target to generate assembly for a file
+src/P0057_InsertInterval.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0057_InsertInterval.cpp.s
+.PHONY : src/P0057_InsertInterval.cpp.s
+
+src/P0058_LengthOfLastWord.obj: src/P0058_LengthOfLastWord.cpp.obj
+
+.PHONY : src/P0058_LengthOfLastWord.obj
+
+# target to build an object file
+src/P0058_LengthOfLastWord.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0058_LengthOfLastWord.cpp.obj
+.PHONY : src/P0058_LengthOfLastWord.cpp.obj
+
+src/P0058_LengthOfLastWord.i: src/P0058_LengthOfLastWord.cpp.i
+
+.PHONY : src/P0058_LengthOfLastWord.i
+
+# target to preprocess a source file
+src/P0058_LengthOfLastWord.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0058_LengthOfLastWord.cpp.i
+.PHONY : src/P0058_LengthOfLastWord.cpp.i
+
+src/P0058_LengthOfLastWord.s: src/P0058_LengthOfLastWord.cpp.s
+
+.PHONY : src/P0058_LengthOfLastWord.s
+
+# target to generate assembly for a file
+src/P0058_LengthOfLastWord.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0058_LengthOfLastWord.cpp.s
+.PHONY : src/P0058_LengthOfLastWord.cpp.s
+
+src/P0059_SpiralMatrixII.obj: src/P0059_SpiralMatrixII.cpp.obj
+
+.PHONY : src/P0059_SpiralMatrixII.obj
+
+# target to build an object file
+src/P0059_SpiralMatrixII.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0059_SpiralMatrixII.cpp.obj
+.PHONY : src/P0059_SpiralMatrixII.cpp.obj
+
+src/P0059_SpiralMatrixII.i: src/P0059_SpiralMatrixII.cpp.i
+
+.PHONY : src/P0059_SpiralMatrixII.i
+
+# target to preprocess a source file
+src/P0059_SpiralMatrixII.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0059_SpiralMatrixII.cpp.i
+.PHONY : src/P0059_SpiralMatrixII.cpp.i
+
+src/P0059_SpiralMatrixII.s: src/P0059_SpiralMatrixII.cpp.s
+
+.PHONY : src/P0059_SpiralMatrixII.s
+
+# target to generate assembly for a file
+src/P0059_SpiralMatrixII.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0059_SpiralMatrixII.cpp.s
+.PHONY : src/P0059_SpiralMatrixII.cpp.s
+
 src/P0081_SearchInRotatedSortedArrayII.obj: src/P0081_SearchInRotatedSortedArrayII.cpp.obj
 
 .PHONY : src/P0081_SearchInRotatedSortedArrayII.obj
@@ -3185,6 +3293,18 @@ help:
 	@echo ... src/P0055_JumpGame.obj
 	@echo ... src/P0055_JumpGame.i
 	@echo ... src/P0055_JumpGame.s
+	@echo ... src/P0056_MergeIntervals.obj
+	@echo ... src/P0056_MergeIntervals.i
+	@echo ... src/P0056_MergeIntervals.s
+	@echo ... src/P0057_InsertInterval.obj
+	@echo ... src/P0057_InsertInterval.i
+	@echo ... src/P0057_InsertInterval.s
+	@echo ... src/P0058_LengthOfLastWord.obj
+	@echo ... src/P0058_LengthOfLastWord.i
+	@echo ... src/P0058_LengthOfLastWord.s
+	@echo ... src/P0059_SpiralMatrixII.obj
+	@echo ... src/P0059_SpiralMatrixII.i
+	@echo ... src/P0059_SpiralMatrixII.s
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.obj
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.i
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.s

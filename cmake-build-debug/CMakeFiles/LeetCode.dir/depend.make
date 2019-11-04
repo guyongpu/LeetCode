@@ -57,6 +57,10 @@ CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0050_Pow_x_n.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0053_MaximumSubarray.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0054_SpiralMatrix.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0055_JumpGame.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0056_MergeIntervals.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0057_InsertInterval.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0058_LengthOfLastWord.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0059_SpiralMatrixII.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0081_SearchInRotatedSortedArrayII.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0121_BestTimeToBuyAndSellStock.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0122_BestTimeToBuyAndSellStockII.h
@@ -165,6 +169,10 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0050_Pow_x_n.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0053_MaximumSubarray.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0054_SpiralMatrix.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0055_JumpGame.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0056_MergeIntervals.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0057_InsertInterval.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0058_LengthOfLastWord.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0059_SpiralMatrixII.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0081_SearchInRotatedSortedArrayII.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0121_BestTimeToBuyAndSellStock.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0122_BestTimeToBuyAndSellStockII.h
@@ -379,6 +387,18 @@ CMakeFiles/LeetCode.dir/src/P0054_SpiralMatrix.cpp.obj: ../src/P0054_SpiralMatri
 
 CMakeFiles/LeetCode.dir/src/P0055_JumpGame.cpp.obj: ../src/P0055_JumpGame.cpp
 CMakeFiles/LeetCode.dir/src/P0055_JumpGame.cpp.obj: ../src/P0055_JumpGame.h
+
+CMakeFiles/LeetCode.dir/src/P0056_MergeIntervals.cpp.obj: ../src/P0056_MergeIntervals.cpp
+CMakeFiles/LeetCode.dir/src/P0056_MergeIntervals.cpp.obj: ../src/P0056_MergeIntervals.h
+
+CMakeFiles/LeetCode.dir/src/P0057_InsertInterval.cpp.obj: ../src/P0057_InsertInterval.cpp
+CMakeFiles/LeetCode.dir/src/P0057_InsertInterval.cpp.obj: ../src/P0057_InsertInterval.h
+
+CMakeFiles/LeetCode.dir/src/P0058_LengthOfLastWord.cpp.obj: ../src/P0058_LengthOfLastWord.cpp
+CMakeFiles/LeetCode.dir/src/P0058_LengthOfLastWord.cpp.obj: ../src/P0058_LengthOfLastWord.h
+
+CMakeFiles/LeetCode.dir/src/P0059_SpiralMatrixII.cpp.obj: ../src/P0059_SpiralMatrixII.cpp
+CMakeFiles/LeetCode.dir/src/P0059_SpiralMatrixII.cpp.obj: ../src/P0059_SpiralMatrixII.h
 
 CMakeFiles/LeetCode.dir/src/P0081_SearchInRotatedSortedArrayII.cpp.obj: ../src/P0081_SearchInRotatedSortedArrayII.cpp
 CMakeFiles/LeetCode.dir/src/P0081_SearchInRotatedSortedArrayII.cpp.obj: ../src/P0081_SearchInRotatedSortedArrayII.h

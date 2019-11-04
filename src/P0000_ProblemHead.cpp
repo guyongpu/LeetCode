@@ -174,6 +174,21 @@ int Test_Problem(int number) {
     } else if (number == 55) {
         P0055_JumpGame Solution;
         Solution.test();
+    } else if (number == 56) {
+        P0056_MergeIntervals Solution;
+        Solution.test();
+    } else if (number == 57) {
+        P0057_InsertInterval Solution;
+        Solution.test();
+    } else if (number == 58) {
+        P0058_LengthOfLastWord Solution;
+        Solution.test();
+    } else if (number == 59) {
+        P0059_SpiralMatrixII Solution;
+        Solution.test();
+    } else if (number == 81) {
+        P0081_SearchInRotatedSortedArrayII Solution;
+        Solution.test();
     } else if (number == 121) {
         P0121_BestTimeToBuyAndSellStock Solution;
         Solution.test();

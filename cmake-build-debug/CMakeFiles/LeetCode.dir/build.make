@@ -1447,6 +1447,58 @@ CMakeFiles/LeetCode.dir/src/P0053_MaximumSubarray.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0053_MaximumSubarray.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0053_MaximumSubarray.cpp -o CMakeFiles\LeetCode.dir\src\P0053_MaximumSubarray.cpp.s
 
+CMakeFiles/LeetCode.dir/src/P0056_MergeIntervals.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0056_MergeIntervals.cpp.obj: ../src/P0056_MergeIntervals.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Building CXX object CMakeFiles/LeetCode.dir/src/P0056_MergeIntervals.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0056_MergeIntervals.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0056_MergeIntervals.cpp
+
+CMakeFiles/LeetCode.dir/src/P0056_MergeIntervals.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0056_MergeIntervals.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0056_MergeIntervals.cpp > CMakeFiles\LeetCode.dir\src\P0056_MergeIntervals.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0056_MergeIntervals.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0056_MergeIntervals.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0056_MergeIntervals.cpp -o CMakeFiles\LeetCode.dir\src\P0056_MergeIntervals.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0057_InsertInterval.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0057_InsertInterval.cpp.obj: ../src/P0057_InsertInterval.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_109) "Building CXX object CMakeFiles/LeetCode.dir/src/P0057_InsertInterval.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0057_InsertInterval.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0057_InsertInterval.cpp
+
+CMakeFiles/LeetCode.dir/src/P0057_InsertInterval.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0057_InsertInterval.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0057_InsertInterval.cpp > CMakeFiles\LeetCode.dir\src\P0057_InsertInterval.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0057_InsertInterval.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0057_InsertInterval.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0057_InsertInterval.cpp -o CMakeFiles\LeetCode.dir\src\P0057_InsertInterval.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0058_LengthOfLastWord.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0058_LengthOfLastWord.cpp.obj: ../src/P0058_LengthOfLastWord.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_110) "Building CXX object CMakeFiles/LeetCode.dir/src/P0058_LengthOfLastWord.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0058_LengthOfLastWord.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0058_LengthOfLastWord.cpp
+
+CMakeFiles/LeetCode.dir/src/P0058_LengthOfLastWord.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0058_LengthOfLastWord.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0058_LengthOfLastWord.cpp > CMakeFiles\LeetCode.dir\src\P0058_LengthOfLastWord.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0058_LengthOfLastWord.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0058_LengthOfLastWord.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0058_LengthOfLastWord.cpp -o CMakeFiles\LeetCode.dir\src\P0058_LengthOfLastWord.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0059_SpiralMatrixII.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0059_SpiralMatrixII.cpp.obj: ../src/P0059_SpiralMatrixII.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Building CXX object CMakeFiles/LeetCode.dir/src/P0059_SpiralMatrixII.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0059_SpiralMatrixII.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0059_SpiralMatrixII.cpp
+
+CMakeFiles/LeetCode.dir/src/P0059_SpiralMatrixII.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0059_SpiralMatrixII.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0059_SpiralMatrixII.cpp > CMakeFiles\LeetCode.dir\src\P0059_SpiralMatrixII.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0059_SpiralMatrixII.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0059_SpiralMatrixII.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0059_SpiralMatrixII.cpp -o CMakeFiles\LeetCode.dir\src\P0059_SpiralMatrixII.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/main.cpp.obj" \
@@ -1555,7 +1607,11 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/src/P0123_BestTimeToBuyAndSellStockIII.cpp.obj" \
 "CMakeFiles/LeetCode.dir/src/P0188_BestTimeToBuyAndSellStockIV.cpp.obj" \
 "CMakeFiles/LeetCode.dir/src/P0054_SpiralMatrix.cpp.obj" \
-"CMakeFiles/LeetCode.dir/src/P0053_MaximumSubarray.cpp.obj"
+"CMakeFiles/LeetCode.dir/src/P0053_MaximumSubarray.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0056_MergeIntervals.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0057_InsertInterval.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0058_LengthOfLastWord.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0059_SpiralMatrixII.cpp.obj"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -1667,11 +1723,15 @@ LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0123_BestTimeToBuyAndSellStockIII.cpp
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0188_BestTimeToBuyAndSellStockIV.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0054_SpiralMatrix.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0053_MaximumSubarray.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0056_MergeIntervals.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0057_InsertInterval.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0058_LengthOfLastWord.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0059_SpiralMatrixII.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/build.make
 LeetCode.exe: CMakeFiles/LeetCode.dir/linklibs.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/objects1.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Linking CXX executable LeetCode.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Linking CXX executable LeetCode.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LeetCode.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
