@@ -11,8 +11,6 @@
  * 备注：优先采用方法1，方法2更适用于数组旋转操作.
  */
 
-
-
 //方法1. 将BA = AB中将B尾指针与A的头指针连接
 ListNode *P0061_RotateList::rotateRight_1(ListNode *head, int k) {
     if (head == nullptr || head->next == nullptr) {

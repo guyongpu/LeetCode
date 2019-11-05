@@ -67,6 +67,8 @@
 #include "P0059_SpiralMatrixII.h"
 #include "P0060_PermutationSequence.h"
 #include "P0061_RotateList.h"
+#include "P0062_UniquePaths.h"
+#include "P0063_UniquePathsII.h"
 #include "P0081_SearchInRotatedSortedArrayII.h"
 #include "P0121_BestTimeToBuyAndSellStock.h"
 #include "P0122_BestTimeToBuyAndSellStockII.h"
@@ -117,8 +119,8 @@
 #include "P0217_ContainsDuplicate.h"
 #include "P0219_ContainsDuplicateII.h"
 #include "P0220_ContainsDuplicateIII.h"
-
 #include "P0260_SingleNumberIII.h"
+#include "P0980_UniquePathsIII.h"
 
 using namespace std;
 

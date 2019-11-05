@@ -192,6 +192,12 @@ int Test_Problem(int number) {
     } else if (number == 61) {
         P0061_RotateList Solution;
         Solution.test();
+    } else if (number == 62) {
+        P0062_UniquePaths Solution;
+        Solution.test();
+    } else if (number == 63) {
+        P0063_UniquePathsII Solution;
+        Solution.test();
     } else if (number == 81) {
         P0081_SearchInRotatedSortedArrayII Solution;
         Solution.test();
@@ -344,6 +350,9 @@ int Test_Problem(int number) {
         Solution.test();
     } else if (number == 260) {
         P0260_SingleNumberIII Solution;
+        Solution.test();
+    } else if (number == 980) {
+        P0980_UniquePathsIII Solution;
         Solution.test();
     } else {
         cout << "Not find the number of problem!" << endl;
