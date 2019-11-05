@@ -6,13 +6,17 @@
 
 #IncludeRegexTransform: 
 
-E:/OneDrive/CodingInterview/LeetCode/src/P0060_PermutationSequence.cpp
-P0060_PermutationSequence.h
-E:/OneDrive/CodingInterview/LeetCode/src/P0060_PermutationSequence.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0000_CommonHead.h
 
-E:/OneDrive/CodingInterview/LeetCode/src/P0060_PermutationSequence.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0061_RotateList.cpp
+P0061_RotateList.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0061_RotateList.h
+
+E:/OneDrive/CodingInterview/LeetCode/src/P0061_RotateList.h
 iostream
 -
 vector
 -
+P0000_CommonHead.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0000_CommonHead.h
 

@@ -1742,6 +1742,33 @@ src/P0060_PermutationSequence.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0060_PermutationSequence.cpp.s
 .PHONY : src/P0060_PermutationSequence.cpp.s
 
+src/P0061_RotateList.obj: src/P0061_RotateList.cpp.obj
+
+.PHONY : src/P0061_RotateList.obj
+
+# target to build an object file
+src/P0061_RotateList.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0061_RotateList.cpp.obj
+.PHONY : src/P0061_RotateList.cpp.obj
+
+src/P0061_RotateList.i: src/P0061_RotateList.cpp.i
+
+.PHONY : src/P0061_RotateList.i
+
+# target to preprocess a source file
+src/P0061_RotateList.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0061_RotateList.cpp.i
+.PHONY : src/P0061_RotateList.cpp.i
+
+src/P0061_RotateList.s: src/P0061_RotateList.cpp.s
+
+.PHONY : src/P0061_RotateList.s
+
+# target to generate assembly for a file
+src/P0061_RotateList.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0061_RotateList.cpp.s
+.PHONY : src/P0061_RotateList.cpp.s
+
 src/P0081_SearchInRotatedSortedArrayII.obj: src/P0081_SearchInRotatedSortedArrayII.cpp.obj
 
 .PHONY : src/P0081_SearchInRotatedSortedArrayII.obj
@@ -3335,6 +3362,9 @@ help:
 	@echo ... src/P0060_PermutationSequence.obj
 	@echo ... src/P0060_PermutationSequence.i
 	@echo ... src/P0060_PermutationSequence.s
+	@echo ... src/P0061_RotateList.obj
+	@echo ... src/P0061_RotateList.i
+	@echo ... src/P0061_RotateList.s
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.obj
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.i
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.s

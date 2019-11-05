@@ -189,6 +189,9 @@ int Test_Problem(int number) {
     } else if (number == 60) {
         P0060_PermutationSequence Solution;
         Solution.test();
+    } else if (number == 61) {
+        P0061_RotateList Solution;
+        Solution.test();
     } else if (number == 81) {
         P0081_SearchInRotatedSortedArrayII Solution;
         Solution.test();

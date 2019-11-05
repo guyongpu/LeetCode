@@ -440,6 +440,12 @@
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0060_PermutationSequence.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0061_RotateList.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0061_RotateList.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0081_SearchInRotatedSortedArrayII.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
