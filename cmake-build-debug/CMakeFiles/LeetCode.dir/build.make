@@ -1564,6 +1564,32 @@ CMakeFiles/LeetCode.dir/src/P0980_UniquePathsIII.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0980_UniquePathsIII.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0980_UniquePathsIII.cpp -o CMakeFiles\LeetCode.dir\src\P0980_UniquePathsIII.cpp.s
 
+CMakeFiles/LeetCode.dir/src/P0051_N_Queens.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0051_N_Queens.cpp.obj: ../src/P0051_N_Queens.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Building CXX object CMakeFiles/LeetCode.dir/src/P0051_N_Queens.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0051_N_Queens.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0051_N_Queens.cpp
+
+CMakeFiles/LeetCode.dir/src/P0051_N_Queens.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0051_N_Queens.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0051_N_Queens.cpp > CMakeFiles\LeetCode.dir\src\P0051_N_Queens.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0051_N_Queens.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0051_N_Queens.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0051_N_Queens.cpp -o CMakeFiles\LeetCode.dir\src\P0051_N_Queens.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0052_N_QueensII.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0052_N_QueensII.cpp.obj: ../src/P0052_N_QueensII.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_118) "Building CXX object CMakeFiles/LeetCode.dir/src/P0052_N_QueensII.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0052_N_QueensII.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0052_N_QueensII.cpp
+
+CMakeFiles/LeetCode.dir/src/P0052_N_QueensII.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0052_N_QueensII.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0052_N_QueensII.cpp > CMakeFiles\LeetCode.dir\src\P0052_N_QueensII.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0052_N_QueensII.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0052_N_QueensII.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0052_N_QueensII.cpp -o CMakeFiles\LeetCode.dir\src\P0052_N_QueensII.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/main.cpp.obj" \
@@ -1681,7 +1707,9 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/src/P0061_RotateList.cpp.obj" \
 "CMakeFiles/LeetCode.dir/src/P0062_UniquePaths.cpp.obj" \
 "CMakeFiles/LeetCode.dir/src/P0063_UniquePathsII.cpp.obj" \
-"CMakeFiles/LeetCode.dir/src/P0980_UniquePathsIII.cpp.obj"
+"CMakeFiles/LeetCode.dir/src/P0980_UniquePathsIII.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0051_N_Queens.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0052_N_QueensII.cpp.obj"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -1802,11 +1830,13 @@ LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0061_RotateList.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0062_UniquePaths.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0063_UniquePathsII.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0980_UniquePathsIII.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0051_N_Queens.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0052_N_QueensII.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/build.make
 LeetCode.exe: CMakeFiles/LeetCode.dir/linklibs.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/objects1.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Linking CXX executable LeetCode.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Linking CXX executable LeetCode.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LeetCode.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

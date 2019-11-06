@@ -165,6 +165,12 @@ int Test_Problem(int number) {
     } else if (number == 50) {
         P0050_Pow_x_n Solution;
         Solution.test();
+    } else if (number == 51) {
+        P0051_N_Queens Solution;
+        Solution.test();
+    } else if (number == 52) {
+        P0052_N_QueensII Solution;
+        Solution.test();
     } else if (number == 53) {
         P0053_MaximumSubarray Solution;
         Solution.test();

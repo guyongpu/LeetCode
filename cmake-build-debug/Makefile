@@ -1526,6 +1526,60 @@ src/P0050_Pow_x_n.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0050_Pow_x_n.cpp.s
 .PHONY : src/P0050_Pow_x_n.cpp.s
 
+src/P0051_N_Queens.obj: src/P0051_N_Queens.cpp.obj
+
+.PHONY : src/P0051_N_Queens.obj
+
+# target to build an object file
+src/P0051_N_Queens.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0051_N_Queens.cpp.obj
+.PHONY : src/P0051_N_Queens.cpp.obj
+
+src/P0051_N_Queens.i: src/P0051_N_Queens.cpp.i
+
+.PHONY : src/P0051_N_Queens.i
+
+# target to preprocess a source file
+src/P0051_N_Queens.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0051_N_Queens.cpp.i
+.PHONY : src/P0051_N_Queens.cpp.i
+
+src/P0051_N_Queens.s: src/P0051_N_Queens.cpp.s
+
+.PHONY : src/P0051_N_Queens.s
+
+# target to generate assembly for a file
+src/P0051_N_Queens.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0051_N_Queens.cpp.s
+.PHONY : src/P0051_N_Queens.cpp.s
+
+src/P0052_N_QueensII.obj: src/P0052_N_QueensII.cpp.obj
+
+.PHONY : src/P0052_N_QueensII.obj
+
+# target to build an object file
+src/P0052_N_QueensII.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0052_N_QueensII.cpp.obj
+.PHONY : src/P0052_N_QueensII.cpp.obj
+
+src/P0052_N_QueensII.i: src/P0052_N_QueensII.cpp.i
+
+.PHONY : src/P0052_N_QueensII.i
+
+# target to preprocess a source file
+src/P0052_N_QueensII.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0052_N_QueensII.cpp.i
+.PHONY : src/P0052_N_QueensII.cpp.i
+
+src/P0052_N_QueensII.s: src/P0052_N_QueensII.cpp.s
+
+.PHONY : src/P0052_N_QueensII.s
+
+# target to generate assembly for a file
+src/P0052_N_QueensII.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0052_N_QueensII.cpp.s
+.PHONY : src/P0052_N_QueensII.cpp.s
+
 src/P0053_MaximumSubarray.obj: src/P0053_MaximumSubarray.cpp.obj
 
 .PHONY : src/P0053_MaximumSubarray.obj
@@ -3419,6 +3473,12 @@ help:
 	@echo ... src/P0050_Pow_x_n.obj
 	@echo ... src/P0050_Pow_x_n.i
 	@echo ... src/P0050_Pow_x_n.s
+	@echo ... src/P0051_N_Queens.obj
+	@echo ... src/P0051_N_Queens.i
+	@echo ... src/P0051_N_Queens.s
+	@echo ... src/P0052_N_QueensII.obj
+	@echo ... src/P0052_N_QueensII.i
+	@echo ... src/P0052_N_QueensII.s
 	@echo ... src/P0053_MaximumSubarray.obj
 	@echo ... src/P0053_MaximumSubarray.i
 	@echo ... src/P0053_MaximumSubarray.s

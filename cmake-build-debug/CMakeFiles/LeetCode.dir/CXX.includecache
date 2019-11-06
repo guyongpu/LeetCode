@@ -6,13 +6,15 @@
 
 #IncludeRegexTransform: 
 
-E:/OneDrive/CodingInterview/LeetCode/src/P0980_UniquePathsIII.cpp
-P0980_UniquePathsIII.h
-E:/OneDrive/CodingInterview/LeetCode/src/P0980_UniquePathsIII.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0051_N_Queens.cpp
+P0051_N_Queens.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0051_N_Queens.h
 
-E:/OneDrive/CodingInterview/LeetCode/src/P0980_UniquePathsIII.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0051_N_Queens.h
 iostream
 -
 vector
+-
+unordered_map
 -
 

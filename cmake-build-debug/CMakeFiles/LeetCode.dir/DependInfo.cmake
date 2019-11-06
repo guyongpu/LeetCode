@@ -56,6 +56,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "E:/OneDrive/CodingInterview/LeetCode/src/P0048_RotateImage.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0048_RotateImage.cpp.obj"
   "E:/OneDrive/CodingInterview/LeetCode/src/P0049_GroupAnagrams.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0049_GroupAnagrams.cpp.obj"
   "E:/OneDrive/CodingInterview/LeetCode/src/P0050_Pow_x_n.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0050_Pow_x_n.cpp.obj"
+  "E:/OneDrive/CodingInterview/LeetCode/src/P0051_N_Queens.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0051_N_Queens.cpp.obj"
+  "E:/OneDrive/CodingInterview/LeetCode/src/P0052_N_QueensII.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0052_N_QueensII.cpp.obj"
   "E:/OneDrive/CodingInterview/LeetCode/src/P0053_MaximumSubarray.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0053_MaximumSubarray.cpp.obj"
   "E:/OneDrive/CodingInterview/LeetCode/src/P0054_SpiralMatrix.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0054_SpiralMatrix.cpp.obj"
   "E:/OneDrive/CodingInterview/LeetCode/src/P0055_JumpGame.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0055_JumpGame.cpp.obj"

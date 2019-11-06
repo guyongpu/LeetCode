@@ -58,6 +58,8 @@
 #include "P0048_RotateImage.h"
 #include "P0049_GroupAnagrams.h"
 #include "P0050_Pow_x_n.h"
+#include "P0051_N_Queens.h"
+#include "P0052_N_QueensII.h"
 #include "P0053_MaximumSubarray.h"
 #include "P0054_SpiralMatrix.h"
 #include "P0055_JumpGame.h"

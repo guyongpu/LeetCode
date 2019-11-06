@@ -115,6 +115,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/LeetCode.dir/src/P0062_UniquePaths.cpp.obj"
   "CMakeFiles/LeetCode.dir/src/P0063_UniquePathsII.cpp.obj"
   "CMakeFiles/LeetCode.dir/src/P0980_UniquePathsIII.cpp.obj"
+  "CMakeFiles/LeetCode.dir/src/P0051_N_Queens.cpp.obj"
+  "CMakeFiles/LeetCode.dir/src/P0052_N_QueensII.cpp.obj"
   "LeetCode.pdb"
   "LeetCode.exe"
   "LeetCode.exe.manifest"
