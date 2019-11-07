@@ -1877,6 +1877,114 @@ src/P0063_UniquePathsII.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0063_UniquePathsII.cpp.s
 .PHONY : src/P0063_UniquePathsII.cpp.s
 
+src/P0064_MinimumPathSum.obj: src/P0064_MinimumPathSum.cpp.obj
+
+.PHONY : src/P0064_MinimumPathSum.obj
+
+# target to build an object file
+src/P0064_MinimumPathSum.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0064_MinimumPathSum.cpp.obj
+.PHONY : src/P0064_MinimumPathSum.cpp.obj
+
+src/P0064_MinimumPathSum.i: src/P0064_MinimumPathSum.cpp.i
+
+.PHONY : src/P0064_MinimumPathSum.i
+
+# target to preprocess a source file
+src/P0064_MinimumPathSum.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0064_MinimumPathSum.cpp.i
+.PHONY : src/P0064_MinimumPathSum.cpp.i
+
+src/P0064_MinimumPathSum.s: src/P0064_MinimumPathSum.cpp.s
+
+.PHONY : src/P0064_MinimumPathSum.s
+
+# target to generate assembly for a file
+src/P0064_MinimumPathSum.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0064_MinimumPathSum.cpp.s
+.PHONY : src/P0064_MinimumPathSum.cpp.s
+
+src/P0065_ValidNumber.obj: src/P0065_ValidNumber.cpp.obj
+
+.PHONY : src/P0065_ValidNumber.obj
+
+# target to build an object file
+src/P0065_ValidNumber.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0065_ValidNumber.cpp.obj
+.PHONY : src/P0065_ValidNumber.cpp.obj
+
+src/P0065_ValidNumber.i: src/P0065_ValidNumber.cpp.i
+
+.PHONY : src/P0065_ValidNumber.i
+
+# target to preprocess a source file
+src/P0065_ValidNumber.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0065_ValidNumber.cpp.i
+.PHONY : src/P0065_ValidNumber.cpp.i
+
+src/P0065_ValidNumber.s: src/P0065_ValidNumber.cpp.s
+
+.PHONY : src/P0065_ValidNumber.s
+
+# target to generate assembly for a file
+src/P0065_ValidNumber.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0065_ValidNumber.cpp.s
+.PHONY : src/P0065_ValidNumber.cpp.s
+
+src/P0066_PlusOne.obj: src/P0066_PlusOne.cpp.obj
+
+.PHONY : src/P0066_PlusOne.obj
+
+# target to build an object file
+src/P0066_PlusOne.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0066_PlusOne.cpp.obj
+.PHONY : src/P0066_PlusOne.cpp.obj
+
+src/P0066_PlusOne.i: src/P0066_PlusOne.cpp.i
+
+.PHONY : src/P0066_PlusOne.i
+
+# target to preprocess a source file
+src/P0066_PlusOne.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0066_PlusOne.cpp.i
+.PHONY : src/P0066_PlusOne.cpp.i
+
+src/P0066_PlusOne.s: src/P0066_PlusOne.cpp.s
+
+.PHONY : src/P0066_PlusOne.s
+
+# target to generate assembly for a file
+src/P0066_PlusOne.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0066_PlusOne.cpp.s
+.PHONY : src/P0066_PlusOne.cpp.s
+
+src/P0067_AddBinary.obj: src/P0067_AddBinary.cpp.obj
+
+.PHONY : src/P0067_AddBinary.obj
+
+# target to build an object file
+src/P0067_AddBinary.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0067_AddBinary.cpp.obj
+.PHONY : src/P0067_AddBinary.cpp.obj
+
+src/P0067_AddBinary.i: src/P0067_AddBinary.cpp.i
+
+.PHONY : src/P0067_AddBinary.i
+
+# target to preprocess a source file
+src/P0067_AddBinary.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0067_AddBinary.cpp.i
+.PHONY : src/P0067_AddBinary.cpp.i
+
+src/P0067_AddBinary.s: src/P0067_AddBinary.cpp.s
+
+.PHONY : src/P0067_AddBinary.s
+
+# target to generate assembly for a file
+src/P0067_AddBinary.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0067_AddBinary.cpp.s
+.PHONY : src/P0067_AddBinary.cpp.s
+
 src/P0081_SearchInRotatedSortedArrayII.obj: src/P0081_SearchInRotatedSortedArrayII.cpp.obj
 
 .PHONY : src/P0081_SearchInRotatedSortedArrayII.obj
@@ -3512,6 +3620,18 @@ help:
 	@echo ... src/P0063_UniquePathsII.obj
 	@echo ... src/P0063_UniquePathsII.i
 	@echo ... src/P0063_UniquePathsII.s
+	@echo ... src/P0064_MinimumPathSum.obj
+	@echo ... src/P0064_MinimumPathSum.i
+	@echo ... src/P0064_MinimumPathSum.s
+	@echo ... src/P0065_ValidNumber.obj
+	@echo ... src/P0065_ValidNumber.i
+	@echo ... src/P0065_ValidNumber.s
+	@echo ... src/P0066_PlusOne.obj
+	@echo ... src/P0066_PlusOne.i
+	@echo ... src/P0066_PlusOne.s
+	@echo ... src/P0067_AddBinary.obj
+	@echo ... src/P0067_AddBinary.i
+	@echo ... src/P0067_AddBinary.s
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.obj
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.i
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.s

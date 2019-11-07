@@ -204,7 +204,19 @@ int Test_Problem(int number) {
     } else if (number == 63) {
         P0063_UniquePathsII Solution;
         Solution.test();
-    } else if (number == 81) {
+    } else if (number == 64) {
+        P0064_MinimumPathSum Solution;
+        Solution.test();
+    } else if (number == 65) {
+        P0065_ValidNumber Solution;
+        Solution.test();
+    }  else if (number == 66) {
+        P0066_PlusOne Solution;
+        Solution.test();
+    }  else if (number == 67) {
+        P0067_AddBinary Solution;
+        Solution.test();
+    }else if (number == 81) {
         P0081_SearchInRotatedSortedArrayII Solution;
         Solution.test();
     } else if (number == 121) {

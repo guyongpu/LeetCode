@@ -4,6 +4,13 @@
 
 #include "P0052_N_QueensII.h"
 
+/**
+ * 题目：N皇后II
+ * 描述：n 皇后问题研究的是如何将 n 个皇后放置在 n×n 的棋盘上，并且使皇后彼此之间不能相互攻击.
+ * 思路：采用数独的思想，使用map数组来记录是否行列存在重复，通过x+y和x-y的值记录斜率为1和-1，每次填写1列，尝试0->n-1行,与51题一样.
+ * 备注：最后直接返回结果个数
+ */
+
 int P0052_N_QueensII::totalNQueens(int n) {
     unordered_map<int, bool> rowMap(n);  //行
     unordered_map<int, bool> colMap(n);  //列
