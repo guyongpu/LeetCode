@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-E:/OneDrive/CodingInterview/LeetCode/src/P0065_ValidNumber.cpp
-P0065_ValidNumber.h
-E:/OneDrive/CodingInterview/LeetCode/src/P0065_ValidNumber.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0071_SimplifyPath.cpp
+P0071_SimplifyPath.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0071_SimplifyPath.h
 
-E:/OneDrive/CodingInterview/LeetCode/src/P0065_ValidNumber.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0071_SimplifyPath.h
 iostream
 -
 vector

@@ -72,6 +72,10 @@ CMakeFiles/LeetCode.dir/main.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0065_ValidNumber.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0066_PlusOne.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0067_AddBinary.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0068_TextJustification.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0069_Sqrt_x.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0070_ClimbingStairs.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0071_SimplifyPath.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0081_SearchInRotatedSortedArrayII.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0121_BestTimeToBuyAndSellStock.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0122_BestTimeToBuyAndSellStockII.h
@@ -195,6 +199,10 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0065_ValidNumber.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0066_PlusOne.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0067_AddBinary.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0068_TextJustification.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0069_Sqrt_x.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0070_ClimbingStairs.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0071_SimplifyPath.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0081_SearchInRotatedSortedArrayII.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0121_BestTimeToBuyAndSellStock.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0122_BestTimeToBuyAndSellStockII.h
@@ -453,6 +461,18 @@ CMakeFiles/LeetCode.dir/src/P0066_PlusOne.cpp.obj
 CMakeFiles/LeetCode.dir/src/P0067_AddBinary.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0067_AddBinary.cpp
  E:/OneDrive/CodingInterview/LeetCode/src/P0067_AddBinary.h
+CMakeFiles/LeetCode.dir/src/P0068_TextJustification.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0068_TextJustification.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0068_TextJustification.h
+CMakeFiles/LeetCode.dir/src/P0069_Sqrt_x.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0069_Sqrt_x.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0069_Sqrt_x.h
+CMakeFiles/LeetCode.dir/src/P0070_ClimbingStairs.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0070_ClimbingStairs.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0070_ClimbingStairs.h
+CMakeFiles/LeetCode.dir/src/P0071_SimplifyPath.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0071_SimplifyPath.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0071_SimplifyPath.h
 CMakeFiles/LeetCode.dir/src/P0081_SearchInRotatedSortedArrayII.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0081_SearchInRotatedSortedArrayII.cpp
  E:/OneDrive/CodingInterview/LeetCode/src/P0081_SearchInRotatedSortedArrayII.h

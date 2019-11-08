@@ -1642,6 +1642,58 @@ CMakeFiles/LeetCode.dir/src/P0066_PlusOne.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0066_PlusOne.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0066_PlusOne.cpp -o CMakeFiles\LeetCode.dir\src\P0066_PlusOne.cpp.s
 
+CMakeFiles/LeetCode.dir/src/P0068_TextJustification.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0068_TextJustification.cpp.obj: ../src/P0068_TextJustification.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_123) "Building CXX object CMakeFiles/LeetCode.dir/src/P0068_TextJustification.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0068_TextJustification.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0068_TextJustification.cpp
+
+CMakeFiles/LeetCode.dir/src/P0068_TextJustification.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0068_TextJustification.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0068_TextJustification.cpp > CMakeFiles\LeetCode.dir\src\P0068_TextJustification.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0068_TextJustification.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0068_TextJustification.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0068_TextJustification.cpp -o CMakeFiles\LeetCode.dir\src\P0068_TextJustification.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0069_Sqrt_x.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0069_Sqrt_x.cpp.obj: ../src/P0069_Sqrt_x.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building CXX object CMakeFiles/LeetCode.dir/src/P0069_Sqrt_x.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0069_Sqrt_x.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0069_Sqrt_x.cpp
+
+CMakeFiles/LeetCode.dir/src/P0069_Sqrt_x.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0069_Sqrt_x.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0069_Sqrt_x.cpp > CMakeFiles\LeetCode.dir\src\P0069_Sqrt_x.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0069_Sqrt_x.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0069_Sqrt_x.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0069_Sqrt_x.cpp -o CMakeFiles\LeetCode.dir\src\P0069_Sqrt_x.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0070_ClimbingStairs.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0070_ClimbingStairs.cpp.obj: ../src/P0070_ClimbingStairs.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Building CXX object CMakeFiles/LeetCode.dir/src/P0070_ClimbingStairs.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0070_ClimbingStairs.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0070_ClimbingStairs.cpp
+
+CMakeFiles/LeetCode.dir/src/P0070_ClimbingStairs.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0070_ClimbingStairs.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0070_ClimbingStairs.cpp > CMakeFiles\LeetCode.dir\src\P0070_ClimbingStairs.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0070_ClimbingStairs.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0070_ClimbingStairs.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0070_ClimbingStairs.cpp -o CMakeFiles\LeetCode.dir\src\P0070_ClimbingStairs.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0071_SimplifyPath.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0071_SimplifyPath.cpp.obj: ../src/P0071_SimplifyPath.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Building CXX object CMakeFiles/LeetCode.dir/src/P0071_SimplifyPath.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0071_SimplifyPath.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0071_SimplifyPath.cpp
+
+CMakeFiles/LeetCode.dir/src/P0071_SimplifyPath.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0071_SimplifyPath.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0071_SimplifyPath.cpp > CMakeFiles\LeetCode.dir\src\P0071_SimplifyPath.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0071_SimplifyPath.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0071_SimplifyPath.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0071_SimplifyPath.cpp -o CMakeFiles\LeetCode.dir\src\P0071_SimplifyPath.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/main.cpp.obj" \
@@ -1765,7 +1817,11 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/src/P0064_MinimumPathSum.cpp.obj" \
 "CMakeFiles/LeetCode.dir/src/P0065_ValidNumber.cpp.obj" \
 "CMakeFiles/LeetCode.dir/src/P0067_AddBinary.cpp.obj" \
-"CMakeFiles/LeetCode.dir/src/P0066_PlusOne.cpp.obj"
+"CMakeFiles/LeetCode.dir/src/P0066_PlusOne.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0068_TextJustification.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0069_Sqrt_x.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0070_ClimbingStairs.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0071_SimplifyPath.cpp.obj"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -1892,11 +1948,15 @@ LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0064_MinimumPathSum.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0065_ValidNumber.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0067_AddBinary.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0066_PlusOne.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0068_TextJustification.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0069_Sqrt_x.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0070_ClimbingStairs.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0071_SimplifyPath.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/build.make
 LeetCode.exe: CMakeFiles/LeetCode.dir/linklibs.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/objects1.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_123) "Linking CXX executable LeetCode.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Linking CXX executable LeetCode.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LeetCode.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -1985,6 +1985,114 @@ src/P0067_AddBinary.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0067_AddBinary.cpp.s
 .PHONY : src/P0067_AddBinary.cpp.s
 
+src/P0068_TextJustification.obj: src/P0068_TextJustification.cpp.obj
+
+.PHONY : src/P0068_TextJustification.obj
+
+# target to build an object file
+src/P0068_TextJustification.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0068_TextJustification.cpp.obj
+.PHONY : src/P0068_TextJustification.cpp.obj
+
+src/P0068_TextJustification.i: src/P0068_TextJustification.cpp.i
+
+.PHONY : src/P0068_TextJustification.i
+
+# target to preprocess a source file
+src/P0068_TextJustification.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0068_TextJustification.cpp.i
+.PHONY : src/P0068_TextJustification.cpp.i
+
+src/P0068_TextJustification.s: src/P0068_TextJustification.cpp.s
+
+.PHONY : src/P0068_TextJustification.s
+
+# target to generate assembly for a file
+src/P0068_TextJustification.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0068_TextJustification.cpp.s
+.PHONY : src/P0068_TextJustification.cpp.s
+
+src/P0069_Sqrt_x.obj: src/P0069_Sqrt_x.cpp.obj
+
+.PHONY : src/P0069_Sqrt_x.obj
+
+# target to build an object file
+src/P0069_Sqrt_x.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0069_Sqrt_x.cpp.obj
+.PHONY : src/P0069_Sqrt_x.cpp.obj
+
+src/P0069_Sqrt_x.i: src/P0069_Sqrt_x.cpp.i
+
+.PHONY : src/P0069_Sqrt_x.i
+
+# target to preprocess a source file
+src/P0069_Sqrt_x.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0069_Sqrt_x.cpp.i
+.PHONY : src/P0069_Sqrt_x.cpp.i
+
+src/P0069_Sqrt_x.s: src/P0069_Sqrt_x.cpp.s
+
+.PHONY : src/P0069_Sqrt_x.s
+
+# target to generate assembly for a file
+src/P0069_Sqrt_x.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0069_Sqrt_x.cpp.s
+.PHONY : src/P0069_Sqrt_x.cpp.s
+
+src/P0070_ClimbingStairs.obj: src/P0070_ClimbingStairs.cpp.obj
+
+.PHONY : src/P0070_ClimbingStairs.obj
+
+# target to build an object file
+src/P0070_ClimbingStairs.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0070_ClimbingStairs.cpp.obj
+.PHONY : src/P0070_ClimbingStairs.cpp.obj
+
+src/P0070_ClimbingStairs.i: src/P0070_ClimbingStairs.cpp.i
+
+.PHONY : src/P0070_ClimbingStairs.i
+
+# target to preprocess a source file
+src/P0070_ClimbingStairs.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0070_ClimbingStairs.cpp.i
+.PHONY : src/P0070_ClimbingStairs.cpp.i
+
+src/P0070_ClimbingStairs.s: src/P0070_ClimbingStairs.cpp.s
+
+.PHONY : src/P0070_ClimbingStairs.s
+
+# target to generate assembly for a file
+src/P0070_ClimbingStairs.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0070_ClimbingStairs.cpp.s
+.PHONY : src/P0070_ClimbingStairs.cpp.s
+
+src/P0071_SimplifyPath.obj: src/P0071_SimplifyPath.cpp.obj
+
+.PHONY : src/P0071_SimplifyPath.obj
+
+# target to build an object file
+src/P0071_SimplifyPath.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0071_SimplifyPath.cpp.obj
+.PHONY : src/P0071_SimplifyPath.cpp.obj
+
+src/P0071_SimplifyPath.i: src/P0071_SimplifyPath.cpp.i
+
+.PHONY : src/P0071_SimplifyPath.i
+
+# target to preprocess a source file
+src/P0071_SimplifyPath.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0071_SimplifyPath.cpp.i
+.PHONY : src/P0071_SimplifyPath.cpp.i
+
+src/P0071_SimplifyPath.s: src/P0071_SimplifyPath.cpp.s
+
+.PHONY : src/P0071_SimplifyPath.s
+
+# target to generate assembly for a file
+src/P0071_SimplifyPath.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0071_SimplifyPath.cpp.s
+.PHONY : src/P0071_SimplifyPath.cpp.s
+
 src/P0081_SearchInRotatedSortedArrayII.obj: src/P0081_SearchInRotatedSortedArrayII.cpp.obj
 
 .PHONY : src/P0081_SearchInRotatedSortedArrayII.obj
@@ -3632,6 +3740,18 @@ help:
 	@echo ... src/P0067_AddBinary.obj
 	@echo ... src/P0067_AddBinary.i
 	@echo ... src/P0067_AddBinary.s
+	@echo ... src/P0068_TextJustification.obj
+	@echo ... src/P0068_TextJustification.i
+	@echo ... src/P0068_TextJustification.s
+	@echo ... src/P0069_Sqrt_x.obj
+	@echo ... src/P0069_Sqrt_x.i
+	@echo ... src/P0069_Sqrt_x.s
+	@echo ... src/P0070_ClimbingStairs.obj
+	@echo ... src/P0070_ClimbingStairs.i
+	@echo ... src/P0070_ClimbingStairs.s
+	@echo ... src/P0071_SimplifyPath.obj
+	@echo ... src/P0071_SimplifyPath.i
+	@echo ... src/P0071_SimplifyPath.s
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.obj
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.i
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.s

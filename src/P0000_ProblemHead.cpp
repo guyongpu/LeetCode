@@ -210,13 +210,25 @@ int Test_Problem(int number) {
     } else if (number == 65) {
         P0065_ValidNumber Solution;
         Solution.test();
-    }  else if (number == 66) {
+    } else if (number == 66) {
         P0066_PlusOne Solution;
         Solution.test();
-    }  else if (number == 67) {
+    } else if (number == 67) {
         P0067_AddBinary Solution;
         Solution.test();
-    }else if (number == 81) {
+    } else if (number == 68) {
+        P0068_TextJustification Solution;
+        Solution.test();
+    } else if (number == 69) {
+        P0069_Sqrt_x Solution;
+        Solution.test();
+    } else if (number == 70) {
+        P0070_ClimbingStairs Solution;
+        Solution.test();
+    } else if (number == 71) {
+        P0071_SimplifyPath Solution;
+        Solution.test();
+    } else if (number == 81) {
         P0081_SearchInRotatedSortedArrayII Solution;
         Solution.test();
     } else if (number == 121) {
