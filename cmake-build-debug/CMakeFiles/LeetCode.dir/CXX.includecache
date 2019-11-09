@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-E:/OneDrive/CodingInterview/LeetCode/src/P0071_SimplifyPath.cpp
-P0071_SimplifyPath.h
-E:/OneDrive/CodingInterview/LeetCode/src/P0071_SimplifyPath.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0075_SortColors.cpp
+P0075_SortColors.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0075_SortColors.h
 
-E:/OneDrive/CodingInterview/LeetCode/src/P0071_SimplifyPath.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0075_SortColors.h
 iostream
 -
 vector

@@ -75,6 +75,10 @@ CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0068_TextJustification.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0069_Sqrt_x.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0070_ClimbingStairs.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0071_SimplifyPath.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0072_EditDistance.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0073_SetMatrixZeroes.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0074_SearchA2DMatrix.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0075_SortColors.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0081_SearchInRotatedSortedArrayII.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0121_BestTimeToBuyAndSellStock.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0122_BestTimeToBuyAndSellStockII.h
@@ -202,6 +206,10 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0068_TextJustific
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0069_Sqrt_x.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0070_ClimbingStairs.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0071_SimplifyPath.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0072_EditDistance.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0073_SetMatrixZeroes.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0074_SearchA2DMatrix.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0075_SortColors.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0081_SearchInRotatedSortedArrayII.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0121_BestTimeToBuyAndSellStock.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0122_BestTimeToBuyAndSellStockII.h
@@ -472,6 +480,18 @@ CMakeFiles/LeetCode.dir/src/P0070_ClimbingStairs.cpp.obj: ../src/P0070_ClimbingS
 
 CMakeFiles/LeetCode.dir/src/P0071_SimplifyPath.cpp.obj: ../src/P0071_SimplifyPath.cpp
 CMakeFiles/LeetCode.dir/src/P0071_SimplifyPath.cpp.obj: ../src/P0071_SimplifyPath.h
+
+CMakeFiles/LeetCode.dir/src/P0072_EditDistance.cpp.obj: ../src/P0072_EditDistance.cpp
+CMakeFiles/LeetCode.dir/src/P0072_EditDistance.cpp.obj: ../src/P0072_EditDistance.h
+
+CMakeFiles/LeetCode.dir/src/P0073_SetMatrixZeroes.cpp.obj: ../src/P0073_SetMatrixZeroes.cpp
+CMakeFiles/LeetCode.dir/src/P0073_SetMatrixZeroes.cpp.obj: ../src/P0073_SetMatrixZeroes.h
+
+CMakeFiles/LeetCode.dir/src/P0074_SearchA2DMatrix.cpp.obj: ../src/P0074_SearchA2DMatrix.cpp
+CMakeFiles/LeetCode.dir/src/P0074_SearchA2DMatrix.cpp.obj: ../src/P0074_SearchA2DMatrix.h
+
+CMakeFiles/LeetCode.dir/src/P0075_SortColors.cpp.obj: ../src/P0075_SortColors.cpp
+CMakeFiles/LeetCode.dir/src/P0075_SortColors.cpp.obj: ../src/P0075_SortColors.h
 
 CMakeFiles/LeetCode.dir/src/P0081_SearchInRotatedSortedArrayII.cpp.obj: ../src/P0081_SearchInRotatedSortedArrayII.cpp
 CMakeFiles/LeetCode.dir/src/P0081_SearchInRotatedSortedArrayII.cpp.obj: ../src/P0081_SearchInRotatedSortedArrayII.h

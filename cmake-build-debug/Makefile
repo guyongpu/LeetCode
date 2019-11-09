@@ -2093,6 +2093,114 @@ src/P0071_SimplifyPath.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0071_SimplifyPath.cpp.s
 .PHONY : src/P0071_SimplifyPath.cpp.s
 
+src/P0072_EditDistance.obj: src/P0072_EditDistance.cpp.obj
+
+.PHONY : src/P0072_EditDistance.obj
+
+# target to build an object file
+src/P0072_EditDistance.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0072_EditDistance.cpp.obj
+.PHONY : src/P0072_EditDistance.cpp.obj
+
+src/P0072_EditDistance.i: src/P0072_EditDistance.cpp.i
+
+.PHONY : src/P0072_EditDistance.i
+
+# target to preprocess a source file
+src/P0072_EditDistance.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0072_EditDistance.cpp.i
+.PHONY : src/P0072_EditDistance.cpp.i
+
+src/P0072_EditDistance.s: src/P0072_EditDistance.cpp.s
+
+.PHONY : src/P0072_EditDistance.s
+
+# target to generate assembly for a file
+src/P0072_EditDistance.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0072_EditDistance.cpp.s
+.PHONY : src/P0072_EditDistance.cpp.s
+
+src/P0073_SetMatrixZeroes.obj: src/P0073_SetMatrixZeroes.cpp.obj
+
+.PHONY : src/P0073_SetMatrixZeroes.obj
+
+# target to build an object file
+src/P0073_SetMatrixZeroes.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0073_SetMatrixZeroes.cpp.obj
+.PHONY : src/P0073_SetMatrixZeroes.cpp.obj
+
+src/P0073_SetMatrixZeroes.i: src/P0073_SetMatrixZeroes.cpp.i
+
+.PHONY : src/P0073_SetMatrixZeroes.i
+
+# target to preprocess a source file
+src/P0073_SetMatrixZeroes.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0073_SetMatrixZeroes.cpp.i
+.PHONY : src/P0073_SetMatrixZeroes.cpp.i
+
+src/P0073_SetMatrixZeroes.s: src/P0073_SetMatrixZeroes.cpp.s
+
+.PHONY : src/P0073_SetMatrixZeroes.s
+
+# target to generate assembly for a file
+src/P0073_SetMatrixZeroes.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0073_SetMatrixZeroes.cpp.s
+.PHONY : src/P0073_SetMatrixZeroes.cpp.s
+
+src/P0074_SearchA2DMatrix.obj: src/P0074_SearchA2DMatrix.cpp.obj
+
+.PHONY : src/P0074_SearchA2DMatrix.obj
+
+# target to build an object file
+src/P0074_SearchA2DMatrix.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0074_SearchA2DMatrix.cpp.obj
+.PHONY : src/P0074_SearchA2DMatrix.cpp.obj
+
+src/P0074_SearchA2DMatrix.i: src/P0074_SearchA2DMatrix.cpp.i
+
+.PHONY : src/P0074_SearchA2DMatrix.i
+
+# target to preprocess a source file
+src/P0074_SearchA2DMatrix.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0074_SearchA2DMatrix.cpp.i
+.PHONY : src/P0074_SearchA2DMatrix.cpp.i
+
+src/P0074_SearchA2DMatrix.s: src/P0074_SearchA2DMatrix.cpp.s
+
+.PHONY : src/P0074_SearchA2DMatrix.s
+
+# target to generate assembly for a file
+src/P0074_SearchA2DMatrix.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0074_SearchA2DMatrix.cpp.s
+.PHONY : src/P0074_SearchA2DMatrix.cpp.s
+
+src/P0075_SortColors.obj: src/P0075_SortColors.cpp.obj
+
+.PHONY : src/P0075_SortColors.obj
+
+# target to build an object file
+src/P0075_SortColors.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0075_SortColors.cpp.obj
+.PHONY : src/P0075_SortColors.cpp.obj
+
+src/P0075_SortColors.i: src/P0075_SortColors.cpp.i
+
+.PHONY : src/P0075_SortColors.i
+
+# target to preprocess a source file
+src/P0075_SortColors.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0075_SortColors.cpp.i
+.PHONY : src/P0075_SortColors.cpp.i
+
+src/P0075_SortColors.s: src/P0075_SortColors.cpp.s
+
+.PHONY : src/P0075_SortColors.s
+
+# target to generate assembly for a file
+src/P0075_SortColors.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0075_SortColors.cpp.s
+.PHONY : src/P0075_SortColors.cpp.s
+
 src/P0081_SearchInRotatedSortedArrayII.obj: src/P0081_SearchInRotatedSortedArrayII.cpp.obj
 
 .PHONY : src/P0081_SearchInRotatedSortedArrayII.obj
@@ -3752,6 +3860,18 @@ help:
 	@echo ... src/P0071_SimplifyPath.obj
 	@echo ... src/P0071_SimplifyPath.i
 	@echo ... src/P0071_SimplifyPath.s
+	@echo ... src/P0072_EditDistance.obj
+	@echo ... src/P0072_EditDistance.i
+	@echo ... src/P0072_EditDistance.s
+	@echo ... src/P0073_SetMatrixZeroes.obj
+	@echo ... src/P0073_SetMatrixZeroes.i
+	@echo ... src/P0073_SetMatrixZeroes.s
+	@echo ... src/P0074_SearchA2DMatrix.obj
+	@echo ... src/P0074_SearchA2DMatrix.i
+	@echo ... src/P0074_SearchA2DMatrix.s
+	@echo ... src/P0075_SortColors.obj
+	@echo ... src/P0075_SortColors.i
+	@echo ... src/P0075_SortColors.s
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.obj
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.i
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.s

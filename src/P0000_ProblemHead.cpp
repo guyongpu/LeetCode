@@ -228,6 +228,18 @@ int Test_Problem(int number) {
     } else if (number == 71) {
         P0071_SimplifyPath Solution;
         Solution.test();
+    } else if (number == 72) {
+        P0072_EditDistance Solution;
+        Solution.test();
+    } else if (number == 73) {
+        P0073_SetMatrixZeroes Solution;
+        Solution.test();
+    } else if (number == 74) {
+        P0074_SearchA2DMatrix Solution;
+        Solution.test();
+    }else if (number == 75) {
+        P0075_SortColors Solution;
+        Solution.test();
     } else if (number == 81) {
         P0081_SearchInRotatedSortedArrayII Solution;
         Solution.test();
