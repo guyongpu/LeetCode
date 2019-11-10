@@ -51,7 +51,7 @@ void P0031_NextPermutation::nextPermutation(vector<int> &nums) {
 
 int P0031_NextPermutation::test() {
 //    vector<int> nums = {8, 4, 7, 6, 5, 3, 1};
-    vector<int> nums = {1, 5, 1};
+    vector<int> nums = {1, 3, 2};
     nextPermutation(nums);
     for (int i = 0; i < nums.size(); i++) {
         cout << nums[i] << " ";

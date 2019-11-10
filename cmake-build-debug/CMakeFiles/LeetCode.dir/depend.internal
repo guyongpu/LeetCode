@@ -80,6 +80,10 @@ CMakeFiles/LeetCode.dir/main.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0073_SetMatrixZeroes.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0074_SearchA2DMatrix.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0075_SortColors.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0076_MinimumWindowSubstring.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0077_Combinations.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0078_Subsets.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0079_WordSearch.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0081_SearchInRotatedSortedArrayII.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0121_BestTimeToBuyAndSellStock.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0122_BestTimeToBuyAndSellStockII.h
@@ -211,6 +215,10 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0073_SetMatrixZeroes.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0074_SearchA2DMatrix.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0075_SortColors.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0076_MinimumWindowSubstring.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0077_Combinations.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0078_Subsets.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0079_WordSearch.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0081_SearchInRotatedSortedArrayII.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0121_BestTimeToBuyAndSellStock.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0122_BestTimeToBuyAndSellStockII.h
@@ -493,6 +501,18 @@ CMakeFiles/LeetCode.dir/src/P0074_SearchA2DMatrix.cpp.obj
 CMakeFiles/LeetCode.dir/src/P0075_SortColors.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0075_SortColors.cpp
  E:/OneDrive/CodingInterview/LeetCode/src/P0075_SortColors.h
+CMakeFiles/LeetCode.dir/src/P0076_MinimumWindowSubstring.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0076_MinimumWindowSubstring.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0076_MinimumWindowSubstring.h
+CMakeFiles/LeetCode.dir/src/P0077_Combinations.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0077_Combinations.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0077_Combinations.h
+CMakeFiles/LeetCode.dir/src/P0078_Subsets.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0078_Subsets.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0078_Subsets.h
+CMakeFiles/LeetCode.dir/src/P0079_WordSearch.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0079_WordSearch.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0079_WordSearch.h
 CMakeFiles/LeetCode.dir/src/P0081_SearchInRotatedSortedArrayII.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0081_SearchInRotatedSortedArrayII.cpp
  E:/OneDrive/CodingInterview/LeetCode/src/P0081_SearchInRotatedSortedArrayII.h

@@ -2201,6 +2201,114 @@ src/P0075_SortColors.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0075_SortColors.cpp.s
 .PHONY : src/P0075_SortColors.cpp.s
 
+src/P0076_MinimumWindowSubstring.obj: src/P0076_MinimumWindowSubstring.cpp.obj
+
+.PHONY : src/P0076_MinimumWindowSubstring.obj
+
+# target to build an object file
+src/P0076_MinimumWindowSubstring.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0076_MinimumWindowSubstring.cpp.obj
+.PHONY : src/P0076_MinimumWindowSubstring.cpp.obj
+
+src/P0076_MinimumWindowSubstring.i: src/P0076_MinimumWindowSubstring.cpp.i
+
+.PHONY : src/P0076_MinimumWindowSubstring.i
+
+# target to preprocess a source file
+src/P0076_MinimumWindowSubstring.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0076_MinimumWindowSubstring.cpp.i
+.PHONY : src/P0076_MinimumWindowSubstring.cpp.i
+
+src/P0076_MinimumWindowSubstring.s: src/P0076_MinimumWindowSubstring.cpp.s
+
+.PHONY : src/P0076_MinimumWindowSubstring.s
+
+# target to generate assembly for a file
+src/P0076_MinimumWindowSubstring.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0076_MinimumWindowSubstring.cpp.s
+.PHONY : src/P0076_MinimumWindowSubstring.cpp.s
+
+src/P0077_Combinations.obj: src/P0077_Combinations.cpp.obj
+
+.PHONY : src/P0077_Combinations.obj
+
+# target to build an object file
+src/P0077_Combinations.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0077_Combinations.cpp.obj
+.PHONY : src/P0077_Combinations.cpp.obj
+
+src/P0077_Combinations.i: src/P0077_Combinations.cpp.i
+
+.PHONY : src/P0077_Combinations.i
+
+# target to preprocess a source file
+src/P0077_Combinations.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0077_Combinations.cpp.i
+.PHONY : src/P0077_Combinations.cpp.i
+
+src/P0077_Combinations.s: src/P0077_Combinations.cpp.s
+
+.PHONY : src/P0077_Combinations.s
+
+# target to generate assembly for a file
+src/P0077_Combinations.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0077_Combinations.cpp.s
+.PHONY : src/P0077_Combinations.cpp.s
+
+src/P0078_Subsets.obj: src/P0078_Subsets.cpp.obj
+
+.PHONY : src/P0078_Subsets.obj
+
+# target to build an object file
+src/P0078_Subsets.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0078_Subsets.cpp.obj
+.PHONY : src/P0078_Subsets.cpp.obj
+
+src/P0078_Subsets.i: src/P0078_Subsets.cpp.i
+
+.PHONY : src/P0078_Subsets.i
+
+# target to preprocess a source file
+src/P0078_Subsets.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0078_Subsets.cpp.i
+.PHONY : src/P0078_Subsets.cpp.i
+
+src/P0078_Subsets.s: src/P0078_Subsets.cpp.s
+
+.PHONY : src/P0078_Subsets.s
+
+# target to generate assembly for a file
+src/P0078_Subsets.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0078_Subsets.cpp.s
+.PHONY : src/P0078_Subsets.cpp.s
+
+src/P0079_WordSearch.obj: src/P0079_WordSearch.cpp.obj
+
+.PHONY : src/P0079_WordSearch.obj
+
+# target to build an object file
+src/P0079_WordSearch.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0079_WordSearch.cpp.obj
+.PHONY : src/P0079_WordSearch.cpp.obj
+
+src/P0079_WordSearch.i: src/P0079_WordSearch.cpp.i
+
+.PHONY : src/P0079_WordSearch.i
+
+# target to preprocess a source file
+src/P0079_WordSearch.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0079_WordSearch.cpp.i
+.PHONY : src/P0079_WordSearch.cpp.i
+
+src/P0079_WordSearch.s: src/P0079_WordSearch.cpp.s
+
+.PHONY : src/P0079_WordSearch.s
+
+# target to generate assembly for a file
+src/P0079_WordSearch.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0079_WordSearch.cpp.s
+.PHONY : src/P0079_WordSearch.cpp.s
+
 src/P0081_SearchInRotatedSortedArrayII.obj: src/P0081_SearchInRotatedSortedArrayII.cpp.obj
 
 .PHONY : src/P0081_SearchInRotatedSortedArrayII.obj
@@ -3872,6 +3980,18 @@ help:
 	@echo ... src/P0075_SortColors.obj
 	@echo ... src/P0075_SortColors.i
 	@echo ... src/P0075_SortColors.s
+	@echo ... src/P0076_MinimumWindowSubstring.obj
+	@echo ... src/P0076_MinimumWindowSubstring.i
+	@echo ... src/P0076_MinimumWindowSubstring.s
+	@echo ... src/P0077_Combinations.obj
+	@echo ... src/P0077_Combinations.i
+	@echo ... src/P0077_Combinations.s
+	@echo ... src/P0078_Subsets.obj
+	@echo ... src/P0078_Subsets.i
+	@echo ... src/P0078_Subsets.s
+	@echo ... src/P0079_WordSearch.obj
+	@echo ... src/P0079_WordSearch.i
+	@echo ... src/P0079_WordSearch.s
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.obj
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.i
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.s

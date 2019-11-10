@@ -237,8 +237,20 @@ int Test_Problem(int number) {
     } else if (number == 74) {
         P0074_SearchA2DMatrix Solution;
         Solution.test();
-    }else if (number == 75) {
+    } else if (number == 75) {
         P0075_SortColors Solution;
+        Solution.test();
+    } else if (number == 76) {
+        P0076_MinimumWindowSubstring Solution;
+        Solution.test();
+    } else if (number == 77) {
+        P0077_Combinations Solution;
+        Solution.test();
+    } else if (number == 78) {
+        P0078_Subsets Solution;
+        Solution.test();
+    } else if (number == 79) {
+        P0079_WordSearch Solution;
         Solution.test();
     } else if (number == 81) {
         P0081_SearchInRotatedSortedArrayII Solution;

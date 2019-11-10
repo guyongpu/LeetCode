@@ -79,6 +79,10 @@ CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0072_EditDistance.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0073_SetMatrixZeroes.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0074_SearchA2DMatrix.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0075_SortColors.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0076_MinimumWindowSubstring.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0077_Combinations.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0078_Subsets.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0079_WordSearch.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0081_SearchInRotatedSortedArrayII.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0121_BestTimeToBuyAndSellStock.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0122_BestTimeToBuyAndSellStockII.h
@@ -210,6 +214,10 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0072_EditDistance
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0073_SetMatrixZeroes.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0074_SearchA2DMatrix.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0075_SortColors.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0076_MinimumWindowSubstring.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0077_Combinations.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0078_Subsets.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0079_WordSearch.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0081_SearchInRotatedSortedArrayII.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0121_BestTimeToBuyAndSellStock.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0122_BestTimeToBuyAndSellStockII.h
@@ -492,6 +500,18 @@ CMakeFiles/LeetCode.dir/src/P0074_SearchA2DMatrix.cpp.obj: ../src/P0074_SearchA2
 
 CMakeFiles/LeetCode.dir/src/P0075_SortColors.cpp.obj: ../src/P0075_SortColors.cpp
 CMakeFiles/LeetCode.dir/src/P0075_SortColors.cpp.obj: ../src/P0075_SortColors.h
+
+CMakeFiles/LeetCode.dir/src/P0076_MinimumWindowSubstring.cpp.obj: ../src/P0076_MinimumWindowSubstring.cpp
+CMakeFiles/LeetCode.dir/src/P0076_MinimumWindowSubstring.cpp.obj: ../src/P0076_MinimumWindowSubstring.h
+
+CMakeFiles/LeetCode.dir/src/P0077_Combinations.cpp.obj: ../src/P0077_Combinations.cpp
+CMakeFiles/LeetCode.dir/src/P0077_Combinations.cpp.obj: ../src/P0077_Combinations.h
+
+CMakeFiles/LeetCode.dir/src/P0078_Subsets.cpp.obj: ../src/P0078_Subsets.cpp
+CMakeFiles/LeetCode.dir/src/P0078_Subsets.cpp.obj: ../src/P0078_Subsets.h
+
+CMakeFiles/LeetCode.dir/src/P0079_WordSearch.cpp.obj: ../src/P0079_WordSearch.cpp
+CMakeFiles/LeetCode.dir/src/P0079_WordSearch.cpp.obj: ../src/P0079_WordSearch.h
 
 CMakeFiles/LeetCode.dir/src/P0081_SearchInRotatedSortedArrayII.cpp.obj: ../src/P0081_SearchInRotatedSortedArrayII.cpp
 CMakeFiles/LeetCode.dir/src/P0081_SearchInRotatedSortedArrayII.cpp.obj: ../src/P0081_SearchInRotatedSortedArrayII.h
