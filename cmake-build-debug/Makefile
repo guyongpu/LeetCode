@@ -2309,6 +2309,33 @@ src/P0079_WordSearch.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0079_WordSearch.cpp.s
 .PHONY : src/P0079_WordSearch.cpp.s
 
+src/P0080_RemoveDuplicatesFromSortedArrayII.obj: src/P0080_RemoveDuplicatesFromSortedArrayII.cpp.obj
+
+.PHONY : src/P0080_RemoveDuplicatesFromSortedArrayII.obj
+
+# target to build an object file
+src/P0080_RemoveDuplicatesFromSortedArrayII.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0080_RemoveDuplicatesFromSortedArrayII.cpp.obj
+.PHONY : src/P0080_RemoveDuplicatesFromSortedArrayII.cpp.obj
+
+src/P0080_RemoveDuplicatesFromSortedArrayII.i: src/P0080_RemoveDuplicatesFromSortedArrayII.cpp.i
+
+.PHONY : src/P0080_RemoveDuplicatesFromSortedArrayII.i
+
+# target to preprocess a source file
+src/P0080_RemoveDuplicatesFromSortedArrayII.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0080_RemoveDuplicatesFromSortedArrayII.cpp.i
+.PHONY : src/P0080_RemoveDuplicatesFromSortedArrayII.cpp.i
+
+src/P0080_RemoveDuplicatesFromSortedArrayII.s: src/P0080_RemoveDuplicatesFromSortedArrayII.cpp.s
+
+.PHONY : src/P0080_RemoveDuplicatesFromSortedArrayII.s
+
+# target to generate assembly for a file
+src/P0080_RemoveDuplicatesFromSortedArrayII.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0080_RemoveDuplicatesFromSortedArrayII.cpp.s
+.PHONY : src/P0080_RemoveDuplicatesFromSortedArrayII.cpp.s
+
 src/P0081_SearchInRotatedSortedArrayII.obj: src/P0081_SearchInRotatedSortedArrayII.cpp.obj
 
 .PHONY : src/P0081_SearchInRotatedSortedArrayII.obj
@@ -2335,6 +2362,114 @@ src/P0081_SearchInRotatedSortedArrayII.s: src/P0081_SearchInRotatedSortedArrayII
 src/P0081_SearchInRotatedSortedArrayII.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0081_SearchInRotatedSortedArrayII.cpp.s
 .PHONY : src/P0081_SearchInRotatedSortedArrayII.cpp.s
+
+src/P0082_RemoveDuplicatesFromSortedListII.obj: src/P0082_RemoveDuplicatesFromSortedListII.cpp.obj
+
+.PHONY : src/P0082_RemoveDuplicatesFromSortedListII.obj
+
+# target to build an object file
+src/P0082_RemoveDuplicatesFromSortedListII.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0082_RemoveDuplicatesFromSortedListII.cpp.obj
+.PHONY : src/P0082_RemoveDuplicatesFromSortedListII.cpp.obj
+
+src/P0082_RemoveDuplicatesFromSortedListII.i: src/P0082_RemoveDuplicatesFromSortedListII.cpp.i
+
+.PHONY : src/P0082_RemoveDuplicatesFromSortedListII.i
+
+# target to preprocess a source file
+src/P0082_RemoveDuplicatesFromSortedListII.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0082_RemoveDuplicatesFromSortedListII.cpp.i
+.PHONY : src/P0082_RemoveDuplicatesFromSortedListII.cpp.i
+
+src/P0082_RemoveDuplicatesFromSortedListII.s: src/P0082_RemoveDuplicatesFromSortedListII.cpp.s
+
+.PHONY : src/P0082_RemoveDuplicatesFromSortedListII.s
+
+# target to generate assembly for a file
+src/P0082_RemoveDuplicatesFromSortedListII.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0082_RemoveDuplicatesFromSortedListII.cpp.s
+.PHONY : src/P0082_RemoveDuplicatesFromSortedListII.cpp.s
+
+src/P0083_RemoveDuplicatesFromSortedList.obj: src/P0083_RemoveDuplicatesFromSortedList.cpp.obj
+
+.PHONY : src/P0083_RemoveDuplicatesFromSortedList.obj
+
+# target to build an object file
+src/P0083_RemoveDuplicatesFromSortedList.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0083_RemoveDuplicatesFromSortedList.cpp.obj
+.PHONY : src/P0083_RemoveDuplicatesFromSortedList.cpp.obj
+
+src/P0083_RemoveDuplicatesFromSortedList.i: src/P0083_RemoveDuplicatesFromSortedList.cpp.i
+
+.PHONY : src/P0083_RemoveDuplicatesFromSortedList.i
+
+# target to preprocess a source file
+src/P0083_RemoveDuplicatesFromSortedList.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0083_RemoveDuplicatesFromSortedList.cpp.i
+.PHONY : src/P0083_RemoveDuplicatesFromSortedList.cpp.i
+
+src/P0083_RemoveDuplicatesFromSortedList.s: src/P0083_RemoveDuplicatesFromSortedList.cpp.s
+
+.PHONY : src/P0083_RemoveDuplicatesFromSortedList.s
+
+# target to generate assembly for a file
+src/P0083_RemoveDuplicatesFromSortedList.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0083_RemoveDuplicatesFromSortedList.cpp.s
+.PHONY : src/P0083_RemoveDuplicatesFromSortedList.cpp.s
+
+src/P0084_LargestRectangleInHistogram.obj: src/P0084_LargestRectangleInHistogram.cpp.obj
+
+.PHONY : src/P0084_LargestRectangleInHistogram.obj
+
+# target to build an object file
+src/P0084_LargestRectangleInHistogram.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0084_LargestRectangleInHistogram.cpp.obj
+.PHONY : src/P0084_LargestRectangleInHistogram.cpp.obj
+
+src/P0084_LargestRectangleInHistogram.i: src/P0084_LargestRectangleInHistogram.cpp.i
+
+.PHONY : src/P0084_LargestRectangleInHistogram.i
+
+# target to preprocess a source file
+src/P0084_LargestRectangleInHistogram.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0084_LargestRectangleInHistogram.cpp.i
+.PHONY : src/P0084_LargestRectangleInHistogram.cpp.i
+
+src/P0084_LargestRectangleInHistogram.s: src/P0084_LargestRectangleInHistogram.cpp.s
+
+.PHONY : src/P0084_LargestRectangleInHistogram.s
+
+# target to generate assembly for a file
+src/P0084_LargestRectangleInHistogram.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0084_LargestRectangleInHistogram.cpp.s
+.PHONY : src/P0084_LargestRectangleInHistogram.cpp.s
+
+src/P0085_MaximalRectangle.obj: src/P0085_MaximalRectangle.cpp.obj
+
+.PHONY : src/P0085_MaximalRectangle.obj
+
+# target to build an object file
+src/P0085_MaximalRectangle.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0085_MaximalRectangle.cpp.obj
+.PHONY : src/P0085_MaximalRectangle.cpp.obj
+
+src/P0085_MaximalRectangle.i: src/P0085_MaximalRectangle.cpp.i
+
+.PHONY : src/P0085_MaximalRectangle.i
+
+# target to preprocess a source file
+src/P0085_MaximalRectangle.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0085_MaximalRectangle.cpp.i
+.PHONY : src/P0085_MaximalRectangle.cpp.i
+
+src/P0085_MaximalRectangle.s: src/P0085_MaximalRectangle.cpp.s
+
+.PHONY : src/P0085_MaximalRectangle.s
+
+# target to generate assembly for a file
+src/P0085_MaximalRectangle.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0085_MaximalRectangle.cpp.s
+.PHONY : src/P0085_MaximalRectangle.cpp.s
 
 src/P0121_BestTimeToBuyAndSellStock.obj: src/P0121_BestTimeToBuyAndSellStock.cpp.obj
 
@@ -3992,9 +4127,24 @@ help:
 	@echo ... src/P0079_WordSearch.obj
 	@echo ... src/P0079_WordSearch.i
 	@echo ... src/P0079_WordSearch.s
+	@echo ... src/P0080_RemoveDuplicatesFromSortedArrayII.obj
+	@echo ... src/P0080_RemoveDuplicatesFromSortedArrayII.i
+	@echo ... src/P0080_RemoveDuplicatesFromSortedArrayII.s
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.obj
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.i
 	@echo ... src/P0081_SearchInRotatedSortedArrayII.s
+	@echo ... src/P0082_RemoveDuplicatesFromSortedListII.obj
+	@echo ... src/P0082_RemoveDuplicatesFromSortedListII.i
+	@echo ... src/P0082_RemoveDuplicatesFromSortedListII.s
+	@echo ... src/P0083_RemoveDuplicatesFromSortedList.obj
+	@echo ... src/P0083_RemoveDuplicatesFromSortedList.i
+	@echo ... src/P0083_RemoveDuplicatesFromSortedList.s
+	@echo ... src/P0084_LargestRectangleInHistogram.obj
+	@echo ... src/P0084_LargestRectangleInHistogram.i
+	@echo ... src/P0084_LargestRectangleInHistogram.s
+	@echo ... src/P0085_MaximalRectangle.obj
+	@echo ... src/P0085_MaximalRectangle.i
+	@echo ... src/P0085_MaximalRectangle.s
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.obj
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.i
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.s

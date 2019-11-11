@@ -566,10 +566,40 @@
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0079_WordSearch.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0080_RemoveDuplicatesFromSortedArrayII.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0080_RemoveDuplicatesFromSortedArrayII.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0081_SearchInRotatedSortedArrayII.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0081_SearchInRotatedSortedArrayII.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0082_RemoveDuplicatesFromSortedListII.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0082_RemoveDuplicatesFromSortedListII.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0083_RemoveDuplicatesFromSortedList.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0083_RemoveDuplicatesFromSortedList.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0084_LargestRectangleInHistogram.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0084_LargestRectangleInHistogram.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0085_MaximalRectangle.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0085_MaximalRectangle.h">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0121_BestTimeToBuyAndSellStock.cpp">

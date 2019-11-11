@@ -252,8 +252,23 @@ int Test_Problem(int number) {
     } else if (number == 79) {
         P0079_WordSearch Solution;
         Solution.test();
+    } else if (number == 80) {
+        P0080_RemoveDuplicatesFromSortedArrayII Solution;
+        Solution.test();
     } else if (number == 81) {
         P0081_SearchInRotatedSortedArrayII Solution;
+        Solution.test();
+    } else if (number == 82) {
+        P0082_RemoveDuplicatesFromSortedListII Solution;
+        Solution.test();
+    } else if (number == 83) {
+        P0083_RemoveDuplicatesFromSortedList Solution;
+        Solution.test();
+    } else if (number == 84) {
+        P0084_LargestRectangleInHistogram Solution;
+        Solution.test();
+    } else if (number == 85) {
+        P0085_MaximalRectangle Solution;
         Solution.test();
     } else if (number == 121) {
         P0121_BestTimeToBuyAndSellStock Solution;

@@ -6,7 +6,6 @@
 #define LEETCODE_P0000_PROBLEMHEAD_H
 
 
-
 #include <iostream>
 #include "P0001_TwoSum.h"
 #include "P0002_AddTwoNumbers.h"
@@ -87,7 +86,12 @@
 #include "P0077_Combinations.h"
 #include "P0078_Subsets.h"
 #include "P0079_WordSearch.h"
+#include "P0080_RemoveDuplicatesFromSortedArrayII.h"
 #include "P0081_SearchInRotatedSortedArrayII.h"
+#include "P0082_RemoveDuplicatesFromSortedListII.h"
+#include "P0083_RemoveDuplicatesFromSortedList.h"
+#include "P0084_LargestRectangleInHistogram.h"
+#include "P0085_MaximalRectangle.h"
 #include "P0121_BestTimeToBuyAndSellStock.h"
 #include "P0122_BestTimeToBuyAndSellStockII.h"
 #include "P0123_BestTimeToBuyAndSellStockIII.h"
