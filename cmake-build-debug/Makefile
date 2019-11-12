@@ -2471,6 +2471,114 @@ src/P0085_MaximalRectangle.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0085_MaximalRectangle.cpp.s
 .PHONY : src/P0085_MaximalRectangle.cpp.s
 
+src/P0086_PartitionList.obj: src/P0086_PartitionList.cpp.obj
+
+.PHONY : src/P0086_PartitionList.obj
+
+# target to build an object file
+src/P0086_PartitionList.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0086_PartitionList.cpp.obj
+.PHONY : src/P0086_PartitionList.cpp.obj
+
+src/P0086_PartitionList.i: src/P0086_PartitionList.cpp.i
+
+.PHONY : src/P0086_PartitionList.i
+
+# target to preprocess a source file
+src/P0086_PartitionList.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0086_PartitionList.cpp.i
+.PHONY : src/P0086_PartitionList.cpp.i
+
+src/P0086_PartitionList.s: src/P0086_PartitionList.cpp.s
+
+.PHONY : src/P0086_PartitionList.s
+
+# target to generate assembly for a file
+src/P0086_PartitionList.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0086_PartitionList.cpp.s
+.PHONY : src/P0086_PartitionList.cpp.s
+
+src/P0087_ScrambleString.obj: src/P0087_ScrambleString.cpp.obj
+
+.PHONY : src/P0087_ScrambleString.obj
+
+# target to build an object file
+src/P0087_ScrambleString.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0087_ScrambleString.cpp.obj
+.PHONY : src/P0087_ScrambleString.cpp.obj
+
+src/P0087_ScrambleString.i: src/P0087_ScrambleString.cpp.i
+
+.PHONY : src/P0087_ScrambleString.i
+
+# target to preprocess a source file
+src/P0087_ScrambleString.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0087_ScrambleString.cpp.i
+.PHONY : src/P0087_ScrambleString.cpp.i
+
+src/P0087_ScrambleString.s: src/P0087_ScrambleString.cpp.s
+
+.PHONY : src/P0087_ScrambleString.s
+
+# target to generate assembly for a file
+src/P0087_ScrambleString.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0087_ScrambleString.cpp.s
+.PHONY : src/P0087_ScrambleString.cpp.s
+
+src/P0088_MergeSortedArray.obj: src/P0088_MergeSortedArray.cpp.obj
+
+.PHONY : src/P0088_MergeSortedArray.obj
+
+# target to build an object file
+src/P0088_MergeSortedArray.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0088_MergeSortedArray.cpp.obj
+.PHONY : src/P0088_MergeSortedArray.cpp.obj
+
+src/P0088_MergeSortedArray.i: src/P0088_MergeSortedArray.cpp.i
+
+.PHONY : src/P0088_MergeSortedArray.i
+
+# target to preprocess a source file
+src/P0088_MergeSortedArray.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0088_MergeSortedArray.cpp.i
+.PHONY : src/P0088_MergeSortedArray.cpp.i
+
+src/P0088_MergeSortedArray.s: src/P0088_MergeSortedArray.cpp.s
+
+.PHONY : src/P0088_MergeSortedArray.s
+
+# target to generate assembly for a file
+src/P0088_MergeSortedArray.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0088_MergeSortedArray.cpp.s
+.PHONY : src/P0088_MergeSortedArray.cpp.s
+
+src/P0089_GrayCode.obj: src/P0089_GrayCode.cpp.obj
+
+.PHONY : src/P0089_GrayCode.obj
+
+# target to build an object file
+src/P0089_GrayCode.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0089_GrayCode.cpp.obj
+.PHONY : src/P0089_GrayCode.cpp.obj
+
+src/P0089_GrayCode.i: src/P0089_GrayCode.cpp.i
+
+.PHONY : src/P0089_GrayCode.i
+
+# target to preprocess a source file
+src/P0089_GrayCode.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0089_GrayCode.cpp.i
+.PHONY : src/P0089_GrayCode.cpp.i
+
+src/P0089_GrayCode.s: src/P0089_GrayCode.cpp.s
+
+.PHONY : src/P0089_GrayCode.s
+
+# target to generate assembly for a file
+src/P0089_GrayCode.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0089_GrayCode.cpp.s
+.PHONY : src/P0089_GrayCode.cpp.s
+
 src/P0121_BestTimeToBuyAndSellStock.obj: src/P0121_BestTimeToBuyAndSellStock.cpp.obj
 
 .PHONY : src/P0121_BestTimeToBuyAndSellStock.obj
@@ -4145,6 +4253,18 @@ help:
 	@echo ... src/P0085_MaximalRectangle.obj
 	@echo ... src/P0085_MaximalRectangle.i
 	@echo ... src/P0085_MaximalRectangle.s
+	@echo ... src/P0086_PartitionList.obj
+	@echo ... src/P0086_PartitionList.i
+	@echo ... src/P0086_PartitionList.s
+	@echo ... src/P0087_ScrambleString.obj
+	@echo ... src/P0087_ScrambleString.i
+	@echo ... src/P0087_ScrambleString.s
+	@echo ... src/P0088_MergeSortedArray.obj
+	@echo ... src/P0088_MergeSortedArray.i
+	@echo ... src/P0088_MergeSortedArray.s
+	@echo ... src/P0089_GrayCode.obj
+	@echo ... src/P0089_GrayCode.i
+	@echo ... src/P0089_GrayCode.s
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.obj
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.i
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.s

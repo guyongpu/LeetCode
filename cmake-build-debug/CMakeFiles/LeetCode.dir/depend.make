@@ -89,6 +89,10 @@ CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0082_RemoveDuplicatesFromSortedLis
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0083_RemoveDuplicatesFromSortedList.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0084_LargestRectangleInHistogram.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0085_MaximalRectangle.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0086_PartitionList.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0087_ScrambleString.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0088_MergeSortedArray.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0089_GrayCode.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0121_BestTimeToBuyAndSellStock.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0122_BestTimeToBuyAndSellStockII.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0123_BestTimeToBuyAndSellStockIII.h
@@ -229,6 +233,10 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0082_RemoveDuplic
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0083_RemoveDuplicatesFromSortedList.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0084_LargestRectangleInHistogram.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0085_MaximalRectangle.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0086_PartitionList.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0087_ScrambleString.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0088_MergeSortedArray.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0089_GrayCode.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0121_BestTimeToBuyAndSellStock.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0122_BestTimeToBuyAndSellStockII.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0123_BestTimeToBuyAndSellStockIII.h
@@ -542,6 +550,19 @@ CMakeFiles/LeetCode.dir/src/P0084_LargestRectangleInHistogram.cpp.obj: ../src/P0
 
 CMakeFiles/LeetCode.dir/src/P0085_MaximalRectangle.cpp.obj: ../src/P0085_MaximalRectangle.cpp
 CMakeFiles/LeetCode.dir/src/P0085_MaximalRectangle.cpp.obj: ../src/P0085_MaximalRectangle.h
+
+CMakeFiles/LeetCode.dir/src/P0086_PartitionList.cpp.obj: ../src/P0000_CommonHead.h
+CMakeFiles/LeetCode.dir/src/P0086_PartitionList.cpp.obj: ../src/P0086_PartitionList.cpp
+CMakeFiles/LeetCode.dir/src/P0086_PartitionList.cpp.obj: ../src/P0086_PartitionList.h
+
+CMakeFiles/LeetCode.dir/src/P0087_ScrambleString.cpp.obj: ../src/P0087_ScrambleString.cpp
+CMakeFiles/LeetCode.dir/src/P0087_ScrambleString.cpp.obj: ../src/P0087_ScrambleString.h
+
+CMakeFiles/LeetCode.dir/src/P0088_MergeSortedArray.cpp.obj: ../src/P0088_MergeSortedArray.cpp
+CMakeFiles/LeetCode.dir/src/P0088_MergeSortedArray.cpp.obj: ../src/P0088_MergeSortedArray.h
+
+CMakeFiles/LeetCode.dir/src/P0089_GrayCode.cpp.obj: ../src/P0089_GrayCode.cpp
+CMakeFiles/LeetCode.dir/src/P0089_GrayCode.cpp.obj: ../src/P0089_GrayCode.h
 
 CMakeFiles/LeetCode.dir/src/P0121_BestTimeToBuyAndSellStock.cpp.obj: ../src/P0121_BestTimeToBuyAndSellStock.cpp
 CMakeFiles/LeetCode.dir/src/P0121_BestTimeToBuyAndSellStock.cpp.obj: ../src/P0121_BestTimeToBuyAndSellStock.h

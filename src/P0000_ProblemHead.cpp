@@ -270,6 +270,18 @@ int Test_Problem(int number) {
     } else if (number == 85) {
         P0085_MaximalRectangle Solution;
         Solution.test();
+    }  else if (number == 86) {
+        P0086_PartitionList Solution;
+        Solution.test();
+    } else if (number == 87) {
+        P0087_ScrambleString Solution;
+        Solution.test();
+    } else if (number == 88) {
+        P0088_MergeSortedArray Solution;
+        Solution.test();
+    } else if (number == 89) {
+        P0089_GrayCode Solution;
+        Solution.test();
     } else if (number == 121) {
         P0121_BestTimeToBuyAndSellStock Solution;
         Solution.test();
