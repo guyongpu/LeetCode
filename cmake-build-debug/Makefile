@@ -2579,6 +2579,33 @@ src/P0089_GrayCode.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0089_GrayCode.cpp.s
 .PHONY : src/P0089_GrayCode.cpp.s
 
+src/P0090_SubsetsII.obj: src/P0090_SubsetsII.cpp.obj
+
+.PHONY : src/P0090_SubsetsII.obj
+
+# target to build an object file
+src/P0090_SubsetsII.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0090_SubsetsII.cpp.obj
+.PHONY : src/P0090_SubsetsII.cpp.obj
+
+src/P0090_SubsetsII.i: src/P0090_SubsetsII.cpp.i
+
+.PHONY : src/P0090_SubsetsII.i
+
+# target to preprocess a source file
+src/P0090_SubsetsII.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0090_SubsetsII.cpp.i
+.PHONY : src/P0090_SubsetsII.cpp.i
+
+src/P0090_SubsetsII.s: src/P0090_SubsetsII.cpp.s
+
+.PHONY : src/P0090_SubsetsII.s
+
+# target to generate assembly for a file
+src/P0090_SubsetsII.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0090_SubsetsII.cpp.s
+.PHONY : src/P0090_SubsetsII.cpp.s
+
 src/P0121_BestTimeToBuyAndSellStock.obj: src/P0121_BestTimeToBuyAndSellStock.cpp.obj
 
 .PHONY : src/P0121_BestTimeToBuyAndSellStock.obj
@@ -4265,6 +4292,9 @@ help:
 	@echo ... src/P0089_GrayCode.obj
 	@echo ... src/P0089_GrayCode.i
 	@echo ... src/P0089_GrayCode.s
+	@echo ... src/P0090_SubsetsII.obj
+	@echo ... src/P0090_SubsetsII.i
+	@echo ... src/P0090_SubsetsII.s
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.obj
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.i
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.s
