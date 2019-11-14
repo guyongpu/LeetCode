@@ -4,11 +4,15 @@
 
 #ifndef LEETCODE_P0090_SUBSETSII_H
 #define LEETCODE_P0090_SUBSETSII_H
-c 
+
+#include <iostream>
+#include <vector>
+
+using namespace std;
 
 class P0090_SubsetsII {
-
+public:
+    int test();
 };
-
 
 #endif //LEETCODE_P0090_SUBSETSII_H

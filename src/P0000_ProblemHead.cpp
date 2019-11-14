@@ -282,6 +282,12 @@ int Test_Problem(int number) {
     } else if (number == 89) {
         P0089_GrayCode Solution;
         Solution.test();
+    } else if (number == 90) {
+        P0090_SubsetsII Solution;
+        Solution.test();
+    } else if (number == 92) {
+        P0092_ReverseLinkedListII Solution;
+        Solution.test();
     } else if (number == 121) {
         P0121_BestTimeToBuyAndSellStock Solution;
         Solution.test();

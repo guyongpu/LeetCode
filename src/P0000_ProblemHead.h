@@ -96,6 +96,8 @@
 #include "P0087_ScrambleString.h"
 #include "P0088_MergeSortedArray.h"
 #include "P0089_GrayCode.h"
+#include "P0090_SubsetsII.h"
+#include "P0092_ReverseLinkedListII.h"
 #include "P0121_BestTimeToBuyAndSellStock.h"
 #include "P0122_BestTimeToBuyAndSellStockII.h"
 #include "P0123_BestTimeToBuyAndSellStockIII.h"

@@ -632,6 +632,12 @@
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0090_SubsetsII.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0092_ReverseLinkedListII.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0092_ReverseLinkedListII.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0121_BestTimeToBuyAndSellStock.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
