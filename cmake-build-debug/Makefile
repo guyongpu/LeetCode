@@ -2606,6 +2606,33 @@ src/P0090_SubsetsII.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0090_SubsetsII.cpp.s
 .PHONY : src/P0090_SubsetsII.cpp.s
 
+src/P0091_DecodeWays.obj: src/P0091_DecodeWays.cpp.obj
+
+.PHONY : src/P0091_DecodeWays.obj
+
+# target to build an object file
+src/P0091_DecodeWays.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0091_DecodeWays.cpp.obj
+.PHONY : src/P0091_DecodeWays.cpp.obj
+
+src/P0091_DecodeWays.i: src/P0091_DecodeWays.cpp.i
+
+.PHONY : src/P0091_DecodeWays.i
+
+# target to preprocess a source file
+src/P0091_DecodeWays.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0091_DecodeWays.cpp.i
+.PHONY : src/P0091_DecodeWays.cpp.i
+
+src/P0091_DecodeWays.s: src/P0091_DecodeWays.cpp.s
+
+.PHONY : src/P0091_DecodeWays.s
+
+# target to generate assembly for a file
+src/P0091_DecodeWays.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0091_DecodeWays.cpp.s
+.PHONY : src/P0091_DecodeWays.cpp.s
+
 src/P0092_ReverseLinkedListII.obj: src/P0092_ReverseLinkedListII.cpp.obj
 
 .PHONY : src/P0092_ReverseLinkedListII.obj
@@ -2632,6 +2659,33 @@ src/P0092_ReverseLinkedListII.s: src/P0092_ReverseLinkedListII.cpp.s
 src/P0092_ReverseLinkedListII.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0092_ReverseLinkedListII.cpp.s
 .PHONY : src/P0092_ReverseLinkedListII.cpp.s
+
+src/P0093_RestoreIPAddresses.obj: src/P0093_RestoreIPAddresses.cpp.obj
+
+.PHONY : src/P0093_RestoreIPAddresses.obj
+
+# target to build an object file
+src/P0093_RestoreIPAddresses.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0093_RestoreIPAddresses.cpp.obj
+.PHONY : src/P0093_RestoreIPAddresses.cpp.obj
+
+src/P0093_RestoreIPAddresses.i: src/P0093_RestoreIPAddresses.cpp.i
+
+.PHONY : src/P0093_RestoreIPAddresses.i
+
+# target to preprocess a source file
+src/P0093_RestoreIPAddresses.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0093_RestoreIPAddresses.cpp.i
+.PHONY : src/P0093_RestoreIPAddresses.cpp.i
+
+src/P0093_RestoreIPAddresses.s: src/P0093_RestoreIPAddresses.cpp.s
+
+.PHONY : src/P0093_RestoreIPAddresses.s
+
+# target to generate assembly for a file
+src/P0093_RestoreIPAddresses.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0093_RestoreIPAddresses.cpp.s
+.PHONY : src/P0093_RestoreIPAddresses.cpp.s
 
 src/P0121_BestTimeToBuyAndSellStock.obj: src/P0121_BestTimeToBuyAndSellStock.cpp.obj
 
@@ -4322,9 +4376,15 @@ help:
 	@echo ... src/P0090_SubsetsII.obj
 	@echo ... src/P0090_SubsetsII.i
 	@echo ... src/P0090_SubsetsII.s
+	@echo ... src/P0091_DecodeWays.obj
+	@echo ... src/P0091_DecodeWays.i
+	@echo ... src/P0091_DecodeWays.s
 	@echo ... src/P0092_ReverseLinkedListII.obj
 	@echo ... src/P0092_ReverseLinkedListII.i
 	@echo ... src/P0092_ReverseLinkedListII.s
+	@echo ... src/P0093_RestoreIPAddresses.obj
+	@echo ... src/P0093_RestoreIPAddresses.i
+	@echo ... src/P0093_RestoreIPAddresses.s
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.obj
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.i
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.s

@@ -270,7 +270,7 @@ int Test_Problem(int number) {
     } else if (number == 85) {
         P0085_MaximalRectangle Solution;
         Solution.test();
-    }  else if (number == 86) {
+    } else if (number == 86) {
         P0086_PartitionList Solution;
         Solution.test();
     } else if (number == 87) {
@@ -285,8 +285,14 @@ int Test_Problem(int number) {
     } else if (number == 90) {
         P0090_SubsetsII Solution;
         Solution.test();
+    } else if (number == 91) {
+        P0091_DecodeWays Solution;
+        Solution.test();
     } else if (number == 92) {
         P0092_ReverseLinkedListII Solution;
+        Solution.test();
+    } else if (number == 93) {
+        P0093_RestoreIPAddresses Solution;
         Solution.test();
     } else if (number == 121) {
         P0121_BestTimeToBuyAndSellStock Solution;

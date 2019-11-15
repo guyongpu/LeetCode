@@ -1941,6 +1941,32 @@ CMakeFiles/LeetCode.dir/src/P0092_ReverseLinkedListII.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0092_ReverseLinkedListII.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0092_ReverseLinkedListII.cpp -o CMakeFiles\LeetCode.dir\src\P0092_ReverseLinkedListII.cpp.s
 
+CMakeFiles/LeetCode.dir/src/P0091_DecodeWays.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0091_DecodeWays.cpp.obj: ../src/P0091_DecodeWays.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_146) "Building CXX object CMakeFiles/LeetCode.dir/src/P0091_DecodeWays.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0091_DecodeWays.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0091_DecodeWays.cpp
+
+CMakeFiles/LeetCode.dir/src/P0091_DecodeWays.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0091_DecodeWays.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0091_DecodeWays.cpp > CMakeFiles\LeetCode.dir\src\P0091_DecodeWays.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0091_DecodeWays.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0091_DecodeWays.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0091_DecodeWays.cpp -o CMakeFiles\LeetCode.dir\src\P0091_DecodeWays.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0093_RestoreIPAddresses.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0093_RestoreIPAddresses.cpp.obj: ../src/P0093_RestoreIPAddresses.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_147) "Building CXX object CMakeFiles/LeetCode.dir/src/P0093_RestoreIPAddresses.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0093_RestoreIPAddresses.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0093_RestoreIPAddresses.cpp
+
+CMakeFiles/LeetCode.dir/src/P0093_RestoreIPAddresses.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0093_RestoreIPAddresses.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0093_RestoreIPAddresses.cpp > CMakeFiles\LeetCode.dir\src\P0093_RestoreIPAddresses.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0093_RestoreIPAddresses.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0093_RestoreIPAddresses.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0093_RestoreIPAddresses.cpp -o CMakeFiles\LeetCode.dir\src\P0093_RestoreIPAddresses.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/main.cpp.obj" \
@@ -2087,7 +2113,9 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/src/P0088_MergeSortedArray.cpp.obj" \
 "CMakeFiles/LeetCode.dir/src/P0089_GrayCode.cpp.obj" \
 "CMakeFiles/LeetCode.dir/src/P0090_SubsetsII.cpp.obj" \
-"CMakeFiles/LeetCode.dir/src/P0092_ReverseLinkedListII.cpp.obj"
+"CMakeFiles/LeetCode.dir/src/P0092_ReverseLinkedListII.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0091_DecodeWays.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0093_RestoreIPAddresses.cpp.obj"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -2237,11 +2265,13 @@ LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0088_MergeSortedArray.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0089_GrayCode.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0090_SubsetsII.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0092_ReverseLinkedListII.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0091_DecodeWays.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0093_RestoreIPAddresses.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/build.make
 LeetCode.exe: CMakeFiles/LeetCode.dir/linklibs.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/objects1.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_146) "Linking CXX executable LeetCode.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_148) "Linking CXX executable LeetCode.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LeetCode.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
