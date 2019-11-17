@@ -6,6 +6,7 @@
 #define LEETCODE_P0091_DECODEWAYS_H
 
 #include <iostream>
+#include <vector>
 
 using namespace std;
 
