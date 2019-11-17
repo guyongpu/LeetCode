@@ -101,6 +101,8 @@
 #include "P0092_ReverseLinkedListII.h"
 #include "P0093_RestoreIPAddresses.h"
 #include "P0094_BinaryTreeInorderTraversal.h"
+#include "P0095_UniqueBinarySearchTreesII.h"
+#include "P0096_UniqueBinarySearchTrees.h"
 #include "P0121_BestTimeToBuyAndSellStock.h"
 #include "P0122_BestTimeToBuyAndSellStockII.h"
 #include "P0123_BestTimeToBuyAndSellStockIII.h"

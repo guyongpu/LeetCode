@@ -297,8 +297,11 @@ int Test_Problem(int number) {
     } else if (number == 94) {
         P0094_BinaryTreeInorderTraversal Solution;
         Solution.test();
-    } else if (number == 121) {
-        P0121_BestTimeToBuyAndSellStock Solution;
+    } else if (number == 95) {
+        P0095_UniqueBinarySearchTreesII Solution;
+        Solution.test();
+    } else if (number == 96) {
+        P0096_UniqueBinarySearchTrees Solution;
         Solution.test();
     } else if (number == 122) {
         P0122_BestTimeToBuyAndSellStockII Solution;

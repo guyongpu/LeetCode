@@ -98,6 +98,8 @@ CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0091_DecodeWays.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0092_ReverseLinkedListII.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0093_RestoreIPAddresses.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0094_BinaryTreeInorderTraversal.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0095_UniqueBinarySearchTreesII.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0096_UniqueBinarySearchTrees.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0121_BestTimeToBuyAndSellStock.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0122_BestTimeToBuyAndSellStockII.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0123_BestTimeToBuyAndSellStockIII.h
@@ -247,6 +249,8 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0091_DecodeWays.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0092_ReverseLinkedListII.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0093_RestoreIPAddresses.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0094_BinaryTreeInorderTraversal.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0095_UniqueBinarySearchTreesII.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0096_UniqueBinarySearchTrees.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0121_BestTimeToBuyAndSellStock.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0122_BestTimeToBuyAndSellStockII.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0123_BestTimeToBuyAndSellStockIII.h
@@ -590,6 +594,13 @@ CMakeFiles/LeetCode.dir/src/P0093_RestoreIPAddresses.cpp.obj: ../src/P0093_Resto
 CMakeFiles/LeetCode.dir/src/P0094_BinaryTreeInorderTraversal.cpp.obj: ../src/P0000_CommonHead.h
 CMakeFiles/LeetCode.dir/src/P0094_BinaryTreeInorderTraversal.cpp.obj: ../src/P0094_BinaryTreeInorderTraversal.cpp
 CMakeFiles/LeetCode.dir/src/P0094_BinaryTreeInorderTraversal.cpp.obj: ../src/P0094_BinaryTreeInorderTraversal.h
+
+CMakeFiles/LeetCode.dir/src/P0095_UniqueBinarySearchTreesII.cpp.obj: ../src/P0000_CommonHead.h
+CMakeFiles/LeetCode.dir/src/P0095_UniqueBinarySearchTreesII.cpp.obj: ../src/P0095_UniqueBinarySearchTreesII.cpp
+CMakeFiles/LeetCode.dir/src/P0095_UniqueBinarySearchTreesII.cpp.obj: ../src/P0095_UniqueBinarySearchTreesII.h
+
+CMakeFiles/LeetCode.dir/src/P0096_UniqueBinarySearchTrees.cpp.obj: ../src/P0096_UniqueBinarySearchTrees.cpp
+CMakeFiles/LeetCode.dir/src/P0096_UniqueBinarySearchTrees.cpp.obj: ../src/P0096_UniqueBinarySearchTrees.h
 
 CMakeFiles/LeetCode.dir/src/P0121_BestTimeToBuyAndSellStock.cpp.obj: ../src/P0121_BestTimeToBuyAndSellStock.cpp
 CMakeFiles/LeetCode.dir/src/P0121_BestTimeToBuyAndSellStock.cpp.obj: ../src/P0121_BestTimeToBuyAndSellStock.h

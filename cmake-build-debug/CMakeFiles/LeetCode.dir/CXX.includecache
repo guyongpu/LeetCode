@@ -6,19 +6,13 @@
 
 #IncludeRegexTransform: 
 
-E:/OneDrive/CodingInterview/LeetCode/src/P0000_CommonHead.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0096_UniqueBinarySearchTrees.cpp
+P0096_UniqueBinarySearchTrees.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0096_UniqueBinarySearchTrees.h
 
-E:/OneDrive/CodingInterview/LeetCode/src/P0094_BinaryTreeInorderTraversal.cpp
-P0094_BinaryTreeInorderTraversal.h
-E:/OneDrive/CodingInterview/LeetCode/src/P0094_BinaryTreeInorderTraversal.h
-
-E:/OneDrive/CodingInterview/LeetCode/src/P0094_BinaryTreeInorderTraversal.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0096_UniqueBinarySearchTrees.h
 iostream
 -
 vector
 -
-stack
--
-P0000_CommonHead.h
-E:/OneDrive/CodingInterview/LeetCode/src/P0000_CommonHead.h
 
