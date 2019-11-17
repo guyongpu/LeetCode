@@ -294,6 +294,9 @@ int Test_Problem(int number) {
     } else if (number == 93) {
         P0093_RestoreIPAddresses Solution;
         Solution.test();
+    } else if (number == 94) {
+        P0094_BinaryTreeInorderTraversal Solution;
+        Solution.test();
     } else if (number == 121) {
         P0121_BestTimeToBuyAndSellStock Solution;
         Solution.test();

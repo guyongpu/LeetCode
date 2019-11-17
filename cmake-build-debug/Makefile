@@ -2687,6 +2687,33 @@ src/P0093_RestoreIPAddresses.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0093_RestoreIPAddresses.cpp.s
 .PHONY : src/P0093_RestoreIPAddresses.cpp.s
 
+src/P0094_BinaryTreeInorderTraversal.obj: src/P0094_BinaryTreeInorderTraversal.cpp.obj
+
+.PHONY : src/P0094_BinaryTreeInorderTraversal.obj
+
+# target to build an object file
+src/P0094_BinaryTreeInorderTraversal.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0094_BinaryTreeInorderTraversal.cpp.obj
+.PHONY : src/P0094_BinaryTreeInorderTraversal.cpp.obj
+
+src/P0094_BinaryTreeInorderTraversal.i: src/P0094_BinaryTreeInorderTraversal.cpp.i
+
+.PHONY : src/P0094_BinaryTreeInorderTraversal.i
+
+# target to preprocess a source file
+src/P0094_BinaryTreeInorderTraversal.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0094_BinaryTreeInorderTraversal.cpp.i
+.PHONY : src/P0094_BinaryTreeInorderTraversal.cpp.i
+
+src/P0094_BinaryTreeInorderTraversal.s: src/P0094_BinaryTreeInorderTraversal.cpp.s
+
+.PHONY : src/P0094_BinaryTreeInorderTraversal.s
+
+# target to generate assembly for a file
+src/P0094_BinaryTreeInorderTraversal.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0094_BinaryTreeInorderTraversal.cpp.s
+.PHONY : src/P0094_BinaryTreeInorderTraversal.cpp.s
+
 src/P0121_BestTimeToBuyAndSellStock.obj: src/P0121_BestTimeToBuyAndSellStock.cpp.obj
 
 .PHONY : src/P0121_BestTimeToBuyAndSellStock.obj
@@ -4385,6 +4412,9 @@ help:
 	@echo ... src/P0093_RestoreIPAddresses.obj
 	@echo ... src/P0093_RestoreIPAddresses.i
 	@echo ... src/P0093_RestoreIPAddresses.s
+	@echo ... src/P0094_BinaryTreeInorderTraversal.obj
+	@echo ... src/P0094_BinaryTreeInorderTraversal.i
+	@echo ... src/P0094_BinaryTreeInorderTraversal.s
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.obj
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.i
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.s
