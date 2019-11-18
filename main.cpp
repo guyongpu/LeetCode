@@ -5,7 +5,7 @@
 using namespace std;
 
 int main() {
-    int number = 96;//121;
+    int number = 98;//121;
     Test_Problem(number);
 
     cout << "Probelem " << number << " test finish!" << endl;

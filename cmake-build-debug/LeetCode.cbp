@@ -668,6 +668,12 @@
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0096_UniqueBinarySearchTrees.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0098_ValidateBinarySearchTree.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0098_ValidateBinarySearchTree.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0121_BestTimeToBuyAndSellStock.cpp">
 			<Option target="LeetCode"/>
 		</Unit>

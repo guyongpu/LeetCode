@@ -303,6 +303,9 @@ int Test_Problem(int number) {
     } else if (number == 96) {
         P0096_UniqueBinarySearchTrees Solution;
         Solution.test();
+    } else if (number == 98) {
+        P0098_ValidateBinarySearchTree Solution;
+        Solution.test();
     } else if (number == 122) {
         P0122_BestTimeToBuyAndSellStockII Solution;
         Solution.test();

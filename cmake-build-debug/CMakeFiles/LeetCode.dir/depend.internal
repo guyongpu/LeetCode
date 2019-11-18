@@ -101,6 +101,7 @@ CMakeFiles/LeetCode.dir/main.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0094_BinaryTreeInorderTraversal.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0095_UniqueBinarySearchTreesII.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0096_UniqueBinarySearchTrees.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0098_ValidateBinarySearchTree.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0121_BestTimeToBuyAndSellStock.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0122_BestTimeToBuyAndSellStockII.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0123_BestTimeToBuyAndSellStockIII.h
@@ -252,6 +253,7 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0094_BinaryTreeInorderTraversal.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0095_UniqueBinarySearchTreesII.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0096_UniqueBinarySearchTrees.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0098_ValidateBinarySearchTree.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0121_BestTimeToBuyAndSellStock.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0122_BestTimeToBuyAndSellStockII.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0123_BestTimeToBuyAndSellStockIII.h
@@ -602,6 +604,10 @@ CMakeFiles/LeetCode.dir/src/P0095_UniqueBinarySearchTreesII.cpp.obj
 CMakeFiles/LeetCode.dir/src/P0096_UniqueBinarySearchTrees.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0096_UniqueBinarySearchTrees.cpp
  E:/OneDrive/CodingInterview/LeetCode/src/P0096_UniqueBinarySearchTrees.h
+CMakeFiles/LeetCode.dir/src/P0098_ValidateBinarySearchTree.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0000_CommonHead.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0098_ValidateBinarySearchTree.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0098_ValidateBinarySearchTree.h
 CMakeFiles/LeetCode.dir/src/P0121_BestTimeToBuyAndSellStock.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0121_BestTimeToBuyAndSellStock.cpp
  E:/OneDrive/CodingInterview/LeetCode/src/P0121_BestTimeToBuyAndSellStock.h

@@ -2768,6 +2768,33 @@ src/P0096_UniqueBinarySearchTrees.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0096_UniqueBinarySearchTrees.cpp.s
 .PHONY : src/P0096_UniqueBinarySearchTrees.cpp.s
 
+src/P0098_ValidateBinarySearchTree.obj: src/P0098_ValidateBinarySearchTree.cpp.obj
+
+.PHONY : src/P0098_ValidateBinarySearchTree.obj
+
+# target to build an object file
+src/P0098_ValidateBinarySearchTree.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0098_ValidateBinarySearchTree.cpp.obj
+.PHONY : src/P0098_ValidateBinarySearchTree.cpp.obj
+
+src/P0098_ValidateBinarySearchTree.i: src/P0098_ValidateBinarySearchTree.cpp.i
+
+.PHONY : src/P0098_ValidateBinarySearchTree.i
+
+# target to preprocess a source file
+src/P0098_ValidateBinarySearchTree.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0098_ValidateBinarySearchTree.cpp.i
+.PHONY : src/P0098_ValidateBinarySearchTree.cpp.i
+
+src/P0098_ValidateBinarySearchTree.s: src/P0098_ValidateBinarySearchTree.cpp.s
+
+.PHONY : src/P0098_ValidateBinarySearchTree.s
+
+# target to generate assembly for a file
+src/P0098_ValidateBinarySearchTree.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0098_ValidateBinarySearchTree.cpp.s
+.PHONY : src/P0098_ValidateBinarySearchTree.cpp.s
+
 src/P0121_BestTimeToBuyAndSellStock.obj: src/P0121_BestTimeToBuyAndSellStock.cpp.obj
 
 .PHONY : src/P0121_BestTimeToBuyAndSellStock.obj
@@ -4475,6 +4502,9 @@ help:
 	@echo ... src/P0096_UniqueBinarySearchTrees.obj
 	@echo ... src/P0096_UniqueBinarySearchTrees.i
 	@echo ... src/P0096_UniqueBinarySearchTrees.s
+	@echo ... src/P0098_ValidateBinarySearchTree.obj
+	@echo ... src/P0098_ValidateBinarySearchTree.i
+	@echo ... src/P0098_ValidateBinarySearchTree.s
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.obj
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.i
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.s

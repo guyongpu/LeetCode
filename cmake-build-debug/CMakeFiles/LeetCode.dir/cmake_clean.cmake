@@ -149,6 +149,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/LeetCode.dir/src/P0094_BinaryTreeInorderTraversal.cpp.obj"
   "CMakeFiles/LeetCode.dir/src/P0095_UniqueBinarySearchTreesII.cpp.obj"
   "CMakeFiles/LeetCode.dir/src/P0096_UniqueBinarySearchTrees.cpp.obj"
+  "CMakeFiles/LeetCode.dir/src/P0098_ValidateBinarySearchTree.cpp.obj"
   "LeetCode.pdb"
   "LeetCode.exe"
   "LeetCode.exe.manifest"
