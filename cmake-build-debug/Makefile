@@ -2795,6 +2795,33 @@ src/P0098_ValidateBinarySearchTree.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0098_ValidateBinarySearchTree.cpp.s
 .PHONY : src/P0098_ValidateBinarySearchTree.cpp.s
 
+src/P0100_SameTree.obj: src/P0100_SameTree.cpp.obj
+
+.PHONY : src/P0100_SameTree.obj
+
+# target to build an object file
+src/P0100_SameTree.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0100_SameTree.cpp.obj
+.PHONY : src/P0100_SameTree.cpp.obj
+
+src/P0100_SameTree.i: src/P0100_SameTree.cpp.i
+
+.PHONY : src/P0100_SameTree.i
+
+# target to preprocess a source file
+src/P0100_SameTree.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0100_SameTree.cpp.i
+.PHONY : src/P0100_SameTree.cpp.i
+
+src/P0100_SameTree.s: src/P0100_SameTree.cpp.s
+
+.PHONY : src/P0100_SameTree.s
+
+# target to generate assembly for a file
+src/P0100_SameTree.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0100_SameTree.cpp.s
+.PHONY : src/P0100_SameTree.cpp.s
+
 src/P0121_BestTimeToBuyAndSellStock.obj: src/P0121_BestTimeToBuyAndSellStock.cpp.obj
 
 .PHONY : src/P0121_BestTimeToBuyAndSellStock.obj
@@ -4505,6 +4532,9 @@ help:
 	@echo ... src/P0098_ValidateBinarySearchTree.obj
 	@echo ... src/P0098_ValidateBinarySearchTree.i
 	@echo ... src/P0098_ValidateBinarySearchTree.s
+	@echo ... src/P0100_SameTree.obj
+	@echo ... src/P0100_SameTree.i
+	@echo ... src/P0100_SameTree.s
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.obj
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.i
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.s
