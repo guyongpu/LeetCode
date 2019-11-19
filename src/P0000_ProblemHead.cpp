@@ -303,8 +303,14 @@ int Test_Problem(int number) {
     } else if (number == 96) {
         P0096_UniqueBinarySearchTrees Solution;
         Solution.test();
+    } else if (number == 97) {
+        P0097_InterleavingString Solution;
+        Solution.test();
     } else if (number == 98) {
         P0098_ValidateBinarySearchTree Solution;
+        Solution.test();
+    } else if (number == 99) {
+        P0099_RecoverBinarySearchTree Solution;
         Solution.test();
     } else if (number == 100) {
         P0100_SameTree Solution;
