@@ -1,11 +1,11 @@
 #include <iostream>
-
 #include "src/P0000_ProblemHead.h"
 
 using namespace std;
 
 int main() {
-    int number = 101;//121;
+
+    int number = 104;//121;
     Test_Problem(number);
 
     cout << "Probelem " << number << " test finish!" << endl;

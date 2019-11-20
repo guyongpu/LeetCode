@@ -318,6 +318,15 @@ int Test_Problem(int number) {
     } else if (number == 101) {
         P0101_SymmetricTree Solution;
         Solution.test();
+    } else if (number == 102) {
+        P0102_BinaryTreeLevelOrderTraversal Solution;
+        Solution.test();
+    } else if (number == 103) {
+        P0103_BinaryTreeZigzagLevelOrderTraversal Solution;
+        Solution.test();
+    } else if (number == 104) {
+        P0104_MaximumDepthOfBinaryTree Solution;
+        Solution.test();
     } else if (number == 122) {
         P0122_BestTimeToBuyAndSellStockII Solution;
         Solution.test();
