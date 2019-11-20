@@ -6,21 +6,21 @@
 #define LEETCODE_P0099_RECOVERBINARYSEARCHTREE_H
 
 #include <iostream>
-#include <stack>
+#include <vector>
+
 #include "P0000_CommonHead.h"
 
 using namespace std;
 
 class P0099_RecoverBinarySearchTree {
 public:
-    int cnt = 0;
-    bool flag1 = true;
-    bool flag2 = true;
-    int num1_1 = 0, num1_2 = 0, num1_3 = 0;
-    int num2_1 = 0, num2_2 = 0, num2_3 = 0;
 
     void recoverTree(TreeNode *root);
-    void recoverTree_sub(TreeNode *root);
+
+    void
+    recoverTree_sub(TreeNode *root, int &cnt, bool &flag1, int &num,int &targetNum1, int &targetNum2);
+
+    void recoverTree_exchange(TreeNode *root, int targetNum1, int targetNum2);
 
     int test();
 };
