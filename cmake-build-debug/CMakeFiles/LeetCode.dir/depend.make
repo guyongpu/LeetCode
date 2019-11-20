@@ -104,6 +104,7 @@ CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0097_InterleavingString.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0098_ValidateBinarySearchTree.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0099_RecoverBinarySearchTree.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0100_SameTree.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0101_SymmetricTree.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0121_BestTimeToBuyAndSellStock.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0122_BestTimeToBuyAndSellStockII.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0123_BestTimeToBuyAndSellStockIII.h
@@ -259,6 +260,7 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0097_Interleaving
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0098_ValidateBinarySearchTree.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0099_RecoverBinarySearchTree.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0100_SameTree.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0101_SymmetricTree.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0121_BestTimeToBuyAndSellStock.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0122_BestTimeToBuyAndSellStockII.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0123_BestTimeToBuyAndSellStockIII.h
@@ -624,6 +626,10 @@ CMakeFiles/LeetCode.dir/src/P0099_RecoverBinarySearchTree.cpp.obj: ../src/P0099_
 CMakeFiles/LeetCode.dir/src/P0100_SameTree.cpp.obj: ../src/P0000_CommonHead.h
 CMakeFiles/LeetCode.dir/src/P0100_SameTree.cpp.obj: ../src/P0100_SameTree.cpp
 CMakeFiles/LeetCode.dir/src/P0100_SameTree.cpp.obj: ../src/P0100_SameTree.h
+
+CMakeFiles/LeetCode.dir/src/P0101_SymmetricTree.cpp.obj: ../src/P0000_CommonHead.h
+CMakeFiles/LeetCode.dir/src/P0101_SymmetricTree.cpp.obj: ../src/P0101_SymmetricTree.cpp
+CMakeFiles/LeetCode.dir/src/P0101_SymmetricTree.cpp.obj: ../src/P0101_SymmetricTree.h
 
 CMakeFiles/LeetCode.dir/src/P0121_BestTimeToBuyAndSellStock.cpp.obj: ../src/P0121_BestTimeToBuyAndSellStock.cpp
 CMakeFiles/LeetCode.dir/src/P0121_BestTimeToBuyAndSellStock.cpp.obj: ../src/P0121_BestTimeToBuyAndSellStock.h

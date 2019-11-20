@@ -692,6 +692,12 @@
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0100_SameTree.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0101_SymmetricTree.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0101_SymmetricTree.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0121_BestTimeToBuyAndSellStock.cpp">
 			<Option target="LeetCode"/>
 		</Unit>

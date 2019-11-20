@@ -107,6 +107,7 @@
 #include "P0098_ValidateBinarySearchTree.h"
 #include "P0099_RecoverBinarySearchTree.h"
 #include "P0100_SameTree.h"
+#include "P0101_SymmetricTree.h"
 #include "P0121_BestTimeToBuyAndSellStock.h"
 #include "P0122_BestTimeToBuyAndSellStockII.h"
 #include "P0123_BestTimeToBuyAndSellStockIII.h"

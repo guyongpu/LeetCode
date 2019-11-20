@@ -2876,6 +2876,33 @@ src/P0100_SameTree.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0100_SameTree.cpp.s
 .PHONY : src/P0100_SameTree.cpp.s
 
+src/P0101_SymmetricTree.obj: src/P0101_SymmetricTree.cpp.obj
+
+.PHONY : src/P0101_SymmetricTree.obj
+
+# target to build an object file
+src/P0101_SymmetricTree.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0101_SymmetricTree.cpp.obj
+.PHONY : src/P0101_SymmetricTree.cpp.obj
+
+src/P0101_SymmetricTree.i: src/P0101_SymmetricTree.cpp.i
+
+.PHONY : src/P0101_SymmetricTree.i
+
+# target to preprocess a source file
+src/P0101_SymmetricTree.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0101_SymmetricTree.cpp.i
+.PHONY : src/P0101_SymmetricTree.cpp.i
+
+src/P0101_SymmetricTree.s: src/P0101_SymmetricTree.cpp.s
+
+.PHONY : src/P0101_SymmetricTree.s
+
+# target to generate assembly for a file
+src/P0101_SymmetricTree.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0101_SymmetricTree.cpp.s
+.PHONY : src/P0101_SymmetricTree.cpp.s
+
 src/P0121_BestTimeToBuyAndSellStock.obj: src/P0121_BestTimeToBuyAndSellStock.cpp.obj
 
 .PHONY : src/P0121_BestTimeToBuyAndSellStock.obj
@@ -4595,6 +4622,9 @@ help:
 	@echo ... src/P0100_SameTree.obj
 	@echo ... src/P0100_SameTree.i
 	@echo ... src/P0100_SameTree.s
+	@echo ... src/P0101_SymmetricTree.obj
+	@echo ... src/P0101_SymmetricTree.i
+	@echo ... src/P0101_SymmetricTree.s
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.obj
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.i
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.s

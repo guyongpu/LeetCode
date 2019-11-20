@@ -153,6 +153,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/LeetCode.dir/src/P0100_SameTree.cpp.obj"
   "CMakeFiles/LeetCode.dir/src/P0097_InterleavingString.cpp.obj"
   "CMakeFiles/LeetCode.dir/src/P0099_RecoverBinarySearchTree.cpp.obj"
+  "CMakeFiles/LeetCode.dir/src/P0101_SymmetricTree.cpp.obj"
   "LeetCode.pdb"
   "LeetCode.exe"
   "LeetCode.exe.manifest"

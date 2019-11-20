@@ -315,6 +315,9 @@ int Test_Problem(int number) {
     } else if (number == 100) {
         P0100_SameTree Solution;
         Solution.test();
+    } else if (number == 101) {
+        P0101_SymmetricTree Solution;
+        Solution.test();
     } else if (number == 122) {
         P0122_BestTimeToBuyAndSellStockII Solution;
         Solution.test();
