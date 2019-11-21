@@ -3011,6 +3011,33 @@ src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp.s
 .PHONY : src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp.s
 
+src/P0106_ConstructBinaryTreeFromInorderAndPostorderTraversal.obj: src/P0106_ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp.obj
+
+.PHONY : src/P0106_ConstructBinaryTreeFromInorderAndPostorderTraversal.obj
+
+# target to build an object file
+src/P0106_ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0106_ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp.obj
+.PHONY : src/P0106_ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp.obj
+
+src/P0106_ConstructBinaryTreeFromInorderAndPostorderTraversal.i: src/P0106_ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp.i
+
+.PHONY : src/P0106_ConstructBinaryTreeFromInorderAndPostorderTraversal.i
+
+# target to preprocess a source file
+src/P0106_ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0106_ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp.i
+.PHONY : src/P0106_ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp.i
+
+src/P0106_ConstructBinaryTreeFromInorderAndPostorderTraversal.s: src/P0106_ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp.s
+
+.PHONY : src/P0106_ConstructBinaryTreeFromInorderAndPostorderTraversal.s
+
+# target to generate assembly for a file
+src/P0106_ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0106_ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp.s
+.PHONY : src/P0106_ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp.s
+
 src/P0107_BinaryTreeLevelOrderTraversalII.obj: src/P0107_BinaryTreeLevelOrderTraversalII.cpp.obj
 
 .PHONY : src/P0107_BinaryTreeLevelOrderTraversalII.obj
@@ -3037,6 +3064,33 @@ src/P0107_BinaryTreeLevelOrderTraversalII.s: src/P0107_BinaryTreeLevelOrderTrave
 src/P0107_BinaryTreeLevelOrderTraversalII.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0107_BinaryTreeLevelOrderTraversalII.cpp.s
 .PHONY : src/P0107_BinaryTreeLevelOrderTraversalII.cpp.s
+
+src/P0108_ConvertSortedArrayToBinarySearchTree.obj: src/P0108_ConvertSortedArrayToBinarySearchTree.cpp.obj
+
+.PHONY : src/P0108_ConvertSortedArrayToBinarySearchTree.obj
+
+# target to build an object file
+src/P0108_ConvertSortedArrayToBinarySearchTree.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0108_ConvertSortedArrayToBinarySearchTree.cpp.obj
+.PHONY : src/P0108_ConvertSortedArrayToBinarySearchTree.cpp.obj
+
+src/P0108_ConvertSortedArrayToBinarySearchTree.i: src/P0108_ConvertSortedArrayToBinarySearchTree.cpp.i
+
+.PHONY : src/P0108_ConvertSortedArrayToBinarySearchTree.i
+
+# target to preprocess a source file
+src/P0108_ConvertSortedArrayToBinarySearchTree.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0108_ConvertSortedArrayToBinarySearchTree.cpp.i
+.PHONY : src/P0108_ConvertSortedArrayToBinarySearchTree.cpp.i
+
+src/P0108_ConvertSortedArrayToBinarySearchTree.s: src/P0108_ConvertSortedArrayToBinarySearchTree.cpp.s
+
+.PHONY : src/P0108_ConvertSortedArrayToBinarySearchTree.s
+
+# target to generate assembly for a file
+src/P0108_ConvertSortedArrayToBinarySearchTree.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0108_ConvertSortedArrayToBinarySearchTree.cpp.s
+.PHONY : src/P0108_ConvertSortedArrayToBinarySearchTree.cpp.s
 
 src/P0121_BestTimeToBuyAndSellStock.obj: src/P0121_BestTimeToBuyAndSellStock.cpp.obj
 
@@ -4772,9 +4826,15 @@ help:
 	@echo ... src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.obj
 	@echo ... src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.i
 	@echo ... src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.s
+	@echo ... src/P0106_ConstructBinaryTreeFromInorderAndPostorderTraversal.obj
+	@echo ... src/P0106_ConstructBinaryTreeFromInorderAndPostorderTraversal.i
+	@echo ... src/P0106_ConstructBinaryTreeFromInorderAndPostorderTraversal.s
 	@echo ... src/P0107_BinaryTreeLevelOrderTraversalII.obj
 	@echo ... src/P0107_BinaryTreeLevelOrderTraversalII.i
 	@echo ... src/P0107_BinaryTreeLevelOrderTraversalII.s
+	@echo ... src/P0108_ConvertSortedArrayToBinarySearchTree.obj
+	@echo ... src/P0108_ConvertSortedArrayToBinarySearchTree.i
+	@echo ... src/P0108_ConvertSortedArrayToBinarySearchTree.s
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.obj
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.i
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.s
