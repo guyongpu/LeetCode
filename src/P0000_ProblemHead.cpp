@@ -327,6 +327,9 @@ int Test_Problem(int number) {
     } else if (number == 104) {
         P0104_MaximumDepthOfBinaryTree Solution;
         Solution.test();
+    } else if (number == 105) {
+        P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal Solution;
+        Solution.test();
     } else if (number == 107) {
         P0107_BinaryTreeLevelOrderTraversalII Solution;
         Solution.test();

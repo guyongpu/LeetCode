@@ -111,6 +111,7 @@
 #include "P0102_BinaryTreeLevelOrderTraversal.h"
 #include "P0103_BinaryTreeZigzagLevelOrderTraversal.h"
 #include "P0104_MaximumDepthOfBinaryTree.h"
+#include "P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.h"
 #include "P0107_BinaryTreeLevelOrderTraversalII.h"
 #include "P0121_BestTimeToBuyAndSellStock.h"
 #include "P0122_BestTimeToBuyAndSellStockII.h"

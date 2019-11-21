@@ -108,6 +108,7 @@ CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0101_SymmetricTree.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0102_BinaryTreeLevelOrderTraversal.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0103_BinaryTreeZigzagLevelOrderTraversal.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0104_MaximumDepthOfBinaryTree.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0107_BinaryTreeLevelOrderTraversalII.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0121_BestTimeToBuyAndSellStock.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0122_BestTimeToBuyAndSellStockII.h
@@ -268,6 +269,7 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0101_SymmetricTre
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0102_BinaryTreeLevelOrderTraversal.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0103_BinaryTreeZigzagLevelOrderTraversal.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0104_MaximumDepthOfBinaryTree.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0107_BinaryTreeLevelOrderTraversalII.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0121_BestTimeToBuyAndSellStock.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0122_BestTimeToBuyAndSellStockII.h
@@ -650,6 +652,10 @@ CMakeFiles/LeetCode.dir/src/P0103_BinaryTreeZigzagLevelOrderTraversal.cpp.obj: .
 CMakeFiles/LeetCode.dir/src/P0104_MaximumDepthOfBinaryTree.cpp.obj: ../src/P0000_CommonHead.h
 CMakeFiles/LeetCode.dir/src/P0104_MaximumDepthOfBinaryTree.cpp.obj: ../src/P0104_MaximumDepthOfBinaryTree.cpp
 CMakeFiles/LeetCode.dir/src/P0104_MaximumDepthOfBinaryTree.cpp.obj: ../src/P0104_MaximumDepthOfBinaryTree.h
+
+CMakeFiles/LeetCode.dir/src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp.obj: ../src/P0000_CommonHead.h
+CMakeFiles/LeetCode.dir/src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp.obj: ../src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp
+CMakeFiles/LeetCode.dir/src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp.obj: ../src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.h
 
 CMakeFiles/LeetCode.dir/src/P0107_BinaryTreeLevelOrderTraversalII.cpp.obj: ../src/P0000_CommonHead.h
 CMakeFiles/LeetCode.dir/src/P0107_BinaryTreeLevelOrderTraversalII.cpp.obj: ../src/P0107_BinaryTreeLevelOrderTraversalII.cpp

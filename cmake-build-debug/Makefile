@@ -2984,6 +2984,33 @@ src/P0104_MaximumDepthOfBinaryTree.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0104_MaximumDepthOfBinaryTree.cpp.s
 .PHONY : src/P0104_MaximumDepthOfBinaryTree.cpp.s
 
+src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.obj: src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp.obj
+
+.PHONY : src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.obj
+
+# target to build an object file
+src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp.obj
+.PHONY : src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp.obj
+
+src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.i: src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp.i
+
+.PHONY : src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.i
+
+# target to preprocess a source file
+src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp.i
+.PHONY : src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp.i
+
+src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.s: src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp.s
+
+.PHONY : src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.s
+
+# target to generate assembly for a file
+src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp.s
+.PHONY : src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp.s
+
 src/P0107_BinaryTreeLevelOrderTraversalII.obj: src/P0107_BinaryTreeLevelOrderTraversalII.cpp.obj
 
 .PHONY : src/P0107_BinaryTreeLevelOrderTraversalII.obj
@@ -4742,6 +4769,9 @@ help:
 	@echo ... src/P0104_MaximumDepthOfBinaryTree.obj
 	@echo ... src/P0104_MaximumDepthOfBinaryTree.i
 	@echo ... src/P0104_MaximumDepthOfBinaryTree.s
+	@echo ... src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.obj
+	@echo ... src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.i
+	@echo ... src/P0105_ConstructBinaryTreeFromPreorderAndInorderTraversal.s
 	@echo ... src/P0107_BinaryTreeLevelOrderTraversalII.obj
 	@echo ... src/P0107_BinaryTreeLevelOrderTraversalII.i
 	@echo ... src/P0107_BinaryTreeLevelOrderTraversalII.s
