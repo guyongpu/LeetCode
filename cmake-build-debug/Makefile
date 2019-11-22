@@ -3092,6 +3092,33 @@ src/P0108_ConvertSortedArrayToBinarySearchTree.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0108_ConvertSortedArrayToBinarySearchTree.cpp.s
 .PHONY : src/P0108_ConvertSortedArrayToBinarySearchTree.cpp.s
 
+src/P0109_ConvertSortedListToBinarySearchTree.obj: src/P0109_ConvertSortedListToBinarySearchTree.cpp.obj
+
+.PHONY : src/P0109_ConvertSortedListToBinarySearchTree.obj
+
+# target to build an object file
+src/P0109_ConvertSortedListToBinarySearchTree.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0109_ConvertSortedListToBinarySearchTree.cpp.obj
+.PHONY : src/P0109_ConvertSortedListToBinarySearchTree.cpp.obj
+
+src/P0109_ConvertSortedListToBinarySearchTree.i: src/P0109_ConvertSortedListToBinarySearchTree.cpp.i
+
+.PHONY : src/P0109_ConvertSortedListToBinarySearchTree.i
+
+# target to preprocess a source file
+src/P0109_ConvertSortedListToBinarySearchTree.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0109_ConvertSortedListToBinarySearchTree.cpp.i
+.PHONY : src/P0109_ConvertSortedListToBinarySearchTree.cpp.i
+
+src/P0109_ConvertSortedListToBinarySearchTree.s: src/P0109_ConvertSortedListToBinarySearchTree.cpp.s
+
+.PHONY : src/P0109_ConvertSortedListToBinarySearchTree.s
+
+# target to generate assembly for a file
+src/P0109_ConvertSortedListToBinarySearchTree.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0109_ConvertSortedListToBinarySearchTree.cpp.s
+.PHONY : src/P0109_ConvertSortedListToBinarySearchTree.cpp.s
+
 src/P0121_BestTimeToBuyAndSellStock.obj: src/P0121_BestTimeToBuyAndSellStock.cpp.obj
 
 .PHONY : src/P0121_BestTimeToBuyAndSellStock.obj
@@ -4835,6 +4862,9 @@ help:
 	@echo ... src/P0108_ConvertSortedArrayToBinarySearchTree.obj
 	@echo ... src/P0108_ConvertSortedArrayToBinarySearchTree.i
 	@echo ... src/P0108_ConvertSortedArrayToBinarySearchTree.s
+	@echo ... src/P0109_ConvertSortedListToBinarySearchTree.obj
+	@echo ... src/P0109_ConvertSortedListToBinarySearchTree.i
+	@echo ... src/P0109_ConvertSortedListToBinarySearchTree.s
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.obj
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.i
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.s
