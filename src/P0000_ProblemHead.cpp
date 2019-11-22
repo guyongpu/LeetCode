@@ -342,6 +342,21 @@ int Test_Problem(int number) {
     } else if (number == 109) {
         P0109_ConvertSortedListToBinarySearchTree Solution;
         Solution.test();
+    } else if (number == 110) {
+        P0110_BalancedBinaryTree Solution;
+        Solution.test();
+    } else if (number == 111) {
+        P0111_MinimumDepthOfBinaryTree Solution;
+        Solution.test();
+    } else if (number == 112) {
+        P0112_PathSum Solution;
+        Solution.test();
+    } else if (number == 113) {
+        P0113_PathSumII Solution;
+        Solution.test();
+    } else if (number == 114) {
+        P0114_FlattenBinaryTreeToLinkedList Solution;
+        Solution.test();
     } else if (number == 122) {
         P0122_BestTimeToBuyAndSellStockII Solution;
         Solution.test();
