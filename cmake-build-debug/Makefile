@@ -3254,6 +3254,168 @@ src/P0114_FlattenBinaryTreeToLinkedList.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0114_FlattenBinaryTreeToLinkedList.cpp.s
 .PHONY : src/P0114_FlattenBinaryTreeToLinkedList.cpp.s
 
+src/P0115_DistinctSubsequences.obj: src/P0115_DistinctSubsequences.cpp.obj
+
+.PHONY : src/P0115_DistinctSubsequences.obj
+
+# target to build an object file
+src/P0115_DistinctSubsequences.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0115_DistinctSubsequences.cpp.obj
+.PHONY : src/P0115_DistinctSubsequences.cpp.obj
+
+src/P0115_DistinctSubsequences.i: src/P0115_DistinctSubsequences.cpp.i
+
+.PHONY : src/P0115_DistinctSubsequences.i
+
+# target to preprocess a source file
+src/P0115_DistinctSubsequences.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0115_DistinctSubsequences.cpp.i
+.PHONY : src/P0115_DistinctSubsequences.cpp.i
+
+src/P0115_DistinctSubsequences.s: src/P0115_DistinctSubsequences.cpp.s
+
+.PHONY : src/P0115_DistinctSubsequences.s
+
+# target to generate assembly for a file
+src/P0115_DistinctSubsequences.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0115_DistinctSubsequences.cpp.s
+.PHONY : src/P0115_DistinctSubsequences.cpp.s
+
+src/P0116_PopulatingNextRightPointersInEachNode.obj: src/P0116_PopulatingNextRightPointersInEachNode.cpp.obj
+
+.PHONY : src/P0116_PopulatingNextRightPointersInEachNode.obj
+
+# target to build an object file
+src/P0116_PopulatingNextRightPointersInEachNode.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0116_PopulatingNextRightPointersInEachNode.cpp.obj
+.PHONY : src/P0116_PopulatingNextRightPointersInEachNode.cpp.obj
+
+src/P0116_PopulatingNextRightPointersInEachNode.i: src/P0116_PopulatingNextRightPointersInEachNode.cpp.i
+
+.PHONY : src/P0116_PopulatingNextRightPointersInEachNode.i
+
+# target to preprocess a source file
+src/P0116_PopulatingNextRightPointersInEachNode.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0116_PopulatingNextRightPointersInEachNode.cpp.i
+.PHONY : src/P0116_PopulatingNextRightPointersInEachNode.cpp.i
+
+src/P0116_PopulatingNextRightPointersInEachNode.s: src/P0116_PopulatingNextRightPointersInEachNode.cpp.s
+
+.PHONY : src/P0116_PopulatingNextRightPointersInEachNode.s
+
+# target to generate assembly for a file
+src/P0116_PopulatingNextRightPointersInEachNode.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0116_PopulatingNextRightPointersInEachNode.cpp.s
+.PHONY : src/P0116_PopulatingNextRightPointersInEachNode.cpp.s
+
+src/P0117_PopulatingNextRightPointersInEachNodeII.obj: src/P0117_PopulatingNextRightPointersInEachNodeII.cpp.obj
+
+.PHONY : src/P0117_PopulatingNextRightPointersInEachNodeII.obj
+
+# target to build an object file
+src/P0117_PopulatingNextRightPointersInEachNodeII.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0117_PopulatingNextRightPointersInEachNodeII.cpp.obj
+.PHONY : src/P0117_PopulatingNextRightPointersInEachNodeII.cpp.obj
+
+src/P0117_PopulatingNextRightPointersInEachNodeII.i: src/P0117_PopulatingNextRightPointersInEachNodeII.cpp.i
+
+.PHONY : src/P0117_PopulatingNextRightPointersInEachNodeII.i
+
+# target to preprocess a source file
+src/P0117_PopulatingNextRightPointersInEachNodeII.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0117_PopulatingNextRightPointersInEachNodeII.cpp.i
+.PHONY : src/P0117_PopulatingNextRightPointersInEachNodeII.cpp.i
+
+src/P0117_PopulatingNextRightPointersInEachNodeII.s: src/P0117_PopulatingNextRightPointersInEachNodeII.cpp.s
+
+.PHONY : src/P0117_PopulatingNextRightPointersInEachNodeII.s
+
+# target to generate assembly for a file
+src/P0117_PopulatingNextRightPointersInEachNodeII.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0117_PopulatingNextRightPointersInEachNodeII.cpp.s
+.PHONY : src/P0117_PopulatingNextRightPointersInEachNodeII.cpp.s
+
+src/P0118_Pascal_Triangle.obj: src/P0118_Pascal_Triangle.cpp.obj
+
+.PHONY : src/P0118_Pascal_Triangle.obj
+
+# target to build an object file
+src/P0118_Pascal_Triangle.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0118_Pascal_Triangle.cpp.obj
+.PHONY : src/P0118_Pascal_Triangle.cpp.obj
+
+src/P0118_Pascal_Triangle.i: src/P0118_Pascal_Triangle.cpp.i
+
+.PHONY : src/P0118_Pascal_Triangle.i
+
+# target to preprocess a source file
+src/P0118_Pascal_Triangle.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0118_Pascal_Triangle.cpp.i
+.PHONY : src/P0118_Pascal_Triangle.cpp.i
+
+src/P0118_Pascal_Triangle.s: src/P0118_Pascal_Triangle.cpp.s
+
+.PHONY : src/P0118_Pascal_Triangle.s
+
+# target to generate assembly for a file
+src/P0118_Pascal_Triangle.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0118_Pascal_Triangle.cpp.s
+.PHONY : src/P0118_Pascal_Triangle.cpp.s
+
+src/P0119_Pascal_TriangleII.obj: src/P0119_Pascal_TriangleII.cpp.obj
+
+.PHONY : src/P0119_Pascal_TriangleII.obj
+
+# target to build an object file
+src/P0119_Pascal_TriangleII.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0119_Pascal_TriangleII.cpp.obj
+.PHONY : src/P0119_Pascal_TriangleII.cpp.obj
+
+src/P0119_Pascal_TriangleII.i: src/P0119_Pascal_TriangleII.cpp.i
+
+.PHONY : src/P0119_Pascal_TriangleII.i
+
+# target to preprocess a source file
+src/P0119_Pascal_TriangleII.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0119_Pascal_TriangleII.cpp.i
+.PHONY : src/P0119_Pascal_TriangleII.cpp.i
+
+src/P0119_Pascal_TriangleII.s: src/P0119_Pascal_TriangleII.cpp.s
+
+.PHONY : src/P0119_Pascal_TriangleII.s
+
+# target to generate assembly for a file
+src/P0119_Pascal_TriangleII.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0119_Pascal_TriangleII.cpp.s
+.PHONY : src/P0119_Pascal_TriangleII.cpp.s
+
+src/P0120_Triangle.obj: src/P0120_Triangle.cpp.obj
+
+.PHONY : src/P0120_Triangle.obj
+
+# target to build an object file
+src/P0120_Triangle.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0120_Triangle.cpp.obj
+.PHONY : src/P0120_Triangle.cpp.obj
+
+src/P0120_Triangle.i: src/P0120_Triangle.cpp.i
+
+.PHONY : src/P0120_Triangle.i
+
+# target to preprocess a source file
+src/P0120_Triangle.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0120_Triangle.cpp.i
+.PHONY : src/P0120_Triangle.cpp.i
+
+src/P0120_Triangle.s: src/P0120_Triangle.cpp.s
+
+.PHONY : src/P0120_Triangle.s
+
+# target to generate assembly for a file
+src/P0120_Triangle.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0120_Triangle.cpp.s
+.PHONY : src/P0120_Triangle.cpp.s
+
 src/P0121_BestTimeToBuyAndSellStock.obj: src/P0121_BestTimeToBuyAndSellStock.cpp.obj
 
 .PHONY : src/P0121_BestTimeToBuyAndSellStock.obj
@@ -5015,6 +5177,24 @@ help:
 	@echo ... src/P0114_FlattenBinaryTreeToLinkedList.obj
 	@echo ... src/P0114_FlattenBinaryTreeToLinkedList.i
 	@echo ... src/P0114_FlattenBinaryTreeToLinkedList.s
+	@echo ... src/P0115_DistinctSubsequences.obj
+	@echo ... src/P0115_DistinctSubsequences.i
+	@echo ... src/P0115_DistinctSubsequences.s
+	@echo ... src/P0116_PopulatingNextRightPointersInEachNode.obj
+	@echo ... src/P0116_PopulatingNextRightPointersInEachNode.i
+	@echo ... src/P0116_PopulatingNextRightPointersInEachNode.s
+	@echo ... src/P0117_PopulatingNextRightPointersInEachNodeII.obj
+	@echo ... src/P0117_PopulatingNextRightPointersInEachNodeII.i
+	@echo ... src/P0117_PopulatingNextRightPointersInEachNodeII.s
+	@echo ... src/P0118_Pascal_Triangle.obj
+	@echo ... src/P0118_Pascal_Triangle.i
+	@echo ... src/P0118_Pascal_Triangle.s
+	@echo ... src/P0119_Pascal_TriangleII.obj
+	@echo ... src/P0119_Pascal_TriangleII.i
+	@echo ... src/P0119_Pascal_TriangleII.s
+	@echo ... src/P0120_Triangle.obj
+	@echo ... src/P0120_Triangle.i
+	@echo ... src/P0120_Triangle.s
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.obj
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.i
 	@echo ... src/P0121_BestTimeToBuyAndSellStock.s

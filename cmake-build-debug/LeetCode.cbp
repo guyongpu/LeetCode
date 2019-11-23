@@ -776,6 +776,42 @@
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0114_FlattenBinaryTreeToLinkedList.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0115_DistinctSubsequences.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0115_DistinctSubsequences.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0116_PopulatingNextRightPointersInEachNode.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0116_PopulatingNextRightPointersInEachNode.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0117_PopulatingNextRightPointersInEachNodeII.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0117_PopulatingNextRightPointersInEachNodeII.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0118_Pascal_Triangle.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0118_Pascal_Triangle.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0119_Pascal_TriangleII.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0119_Pascal_TriangleII.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0120_Triangle.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0120_Triangle.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0121_BestTimeToBuyAndSellStock.cpp">
 			<Option target="LeetCode"/>
 		</Unit>

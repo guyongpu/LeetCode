@@ -357,6 +357,21 @@ int Test_Problem(int number) {
     } else if (number == 114) {
         P0114_FlattenBinaryTreeToLinkedList Solution;
         Solution.test();
+    } else if (number == 115) {
+        P0115_DistinctSubsequences Solution;
+        Solution.test();
+    } else if (number == 116) {
+        P0116_PopulatingNextRightPointersInEachNode Solution;
+        Solution.test();
+    } else if (number == 117) {
+        P0117_PopulatingNextRightPointersInEachNodeII Solution;
+        Solution.test();
+    } else if (number == 118) {
+        P0118_Pascal_Triangle Solution;
+        Solution.test();
+    } else if (number == 119) {
+        P0119_Pascal_TriangleII Solution;
+        Solution.test();
     } else if (number == 122) {
         P0122_BestTimeToBuyAndSellStockII Solution;
         Solution.test();

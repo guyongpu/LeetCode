@@ -22,4 +22,21 @@ struct TreeNode {
     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
 };
 
+// 完美二叉树节点 p116
+struct Node {
+    int val;
+    Node *left;
+    Node *right;
+    Node *next;
+
+    Node() {}
+
+    Node(int _val, Node *_left, Node *_right, Node *_next) {
+        val = _val;
+        left = _left;
+        right = _right;
+        next = _next;
+    }
+};
+
 #endif //LEETCODE_P0000_COMMONHEAD_H
