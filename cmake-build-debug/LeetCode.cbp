@@ -830,6 +830,18 @@
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0123_BestTimeToBuyAndSellStockIII.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0124_BinaryTreeMaximumPathSum.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0124_BinaryTreeMaximumPathSum.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0125_ValidPalindrome.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0125_ValidPalindrome.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0136_SingleNumber.cpp">
 			<Option target="LeetCode"/>
 		</Unit>

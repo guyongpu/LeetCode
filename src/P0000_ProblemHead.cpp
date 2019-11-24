@@ -372,11 +372,23 @@ int Test_Problem(int number) {
     } else if (number == 119) {
         P0119_Pascal_TriangleII Solution;
         Solution.test();
+    } else if (number == 120) {
+        P0120_Triangle Solution;
+        Solution.test();
+    } else if (number == 121) {
+        P0121_BestTimeToBuyAndSellStock Solution;
+        Solution.test();
     } else if (number == 122) {
         P0122_BestTimeToBuyAndSellStockII Solution;
         Solution.test();
     } else if (number == 123) {
         P0123_BestTimeToBuyAndSellStockIII Solution;
+        Solution.test();
+    } else if (number == 124) {
+        P0124_BinaryTreeMaximumPathSum Solution;
+        Solution.test();
+    } else if (number == 125) {
+        P0125_ValidPalindrome Solution;
         Solution.test();
     } else if (number == 136) {
         P0136_SingleNumber Solution;

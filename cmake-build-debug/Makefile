@@ -3497,6 +3497,60 @@ src/P0123_BestTimeToBuyAndSellStockIII.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0123_BestTimeToBuyAndSellStockIII.cpp.s
 .PHONY : src/P0123_BestTimeToBuyAndSellStockIII.cpp.s
 
+src/P0124_BinaryTreeMaximumPathSum.obj: src/P0124_BinaryTreeMaximumPathSum.cpp.obj
+
+.PHONY : src/P0124_BinaryTreeMaximumPathSum.obj
+
+# target to build an object file
+src/P0124_BinaryTreeMaximumPathSum.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0124_BinaryTreeMaximumPathSum.cpp.obj
+.PHONY : src/P0124_BinaryTreeMaximumPathSum.cpp.obj
+
+src/P0124_BinaryTreeMaximumPathSum.i: src/P0124_BinaryTreeMaximumPathSum.cpp.i
+
+.PHONY : src/P0124_BinaryTreeMaximumPathSum.i
+
+# target to preprocess a source file
+src/P0124_BinaryTreeMaximumPathSum.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0124_BinaryTreeMaximumPathSum.cpp.i
+.PHONY : src/P0124_BinaryTreeMaximumPathSum.cpp.i
+
+src/P0124_BinaryTreeMaximumPathSum.s: src/P0124_BinaryTreeMaximumPathSum.cpp.s
+
+.PHONY : src/P0124_BinaryTreeMaximumPathSum.s
+
+# target to generate assembly for a file
+src/P0124_BinaryTreeMaximumPathSum.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0124_BinaryTreeMaximumPathSum.cpp.s
+.PHONY : src/P0124_BinaryTreeMaximumPathSum.cpp.s
+
+src/P0125_ValidPalindrome.obj: src/P0125_ValidPalindrome.cpp.obj
+
+.PHONY : src/P0125_ValidPalindrome.obj
+
+# target to build an object file
+src/P0125_ValidPalindrome.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0125_ValidPalindrome.cpp.obj
+.PHONY : src/P0125_ValidPalindrome.cpp.obj
+
+src/P0125_ValidPalindrome.i: src/P0125_ValidPalindrome.cpp.i
+
+.PHONY : src/P0125_ValidPalindrome.i
+
+# target to preprocess a source file
+src/P0125_ValidPalindrome.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0125_ValidPalindrome.cpp.i
+.PHONY : src/P0125_ValidPalindrome.cpp.i
+
+src/P0125_ValidPalindrome.s: src/P0125_ValidPalindrome.cpp.s
+
+.PHONY : src/P0125_ValidPalindrome.s
+
+# target to generate assembly for a file
+src/P0125_ValidPalindrome.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0125_ValidPalindrome.cpp.s
+.PHONY : src/P0125_ValidPalindrome.cpp.s
+
 src/P0136_SingleNumber.obj: src/P0136_SingleNumber.cpp.obj
 
 .PHONY : src/P0136_SingleNumber.obj
@@ -5204,6 +5258,12 @@ help:
 	@echo ... src/P0123_BestTimeToBuyAndSellStockIII.obj
 	@echo ... src/P0123_BestTimeToBuyAndSellStockIII.i
 	@echo ... src/P0123_BestTimeToBuyAndSellStockIII.s
+	@echo ... src/P0124_BinaryTreeMaximumPathSum.obj
+	@echo ... src/P0124_BinaryTreeMaximumPathSum.i
+	@echo ... src/P0124_BinaryTreeMaximumPathSum.s
+	@echo ... src/P0125_ValidPalindrome.obj
+	@echo ... src/P0125_ValidPalindrome.i
+	@echo ... src/P0125_ValidPalindrome.s
 	@echo ... src/P0136_SingleNumber.obj
 	@echo ... src/P0136_SingleNumber.i
 	@echo ... src/P0136_SingleNumber.s

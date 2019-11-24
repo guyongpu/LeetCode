@@ -12,7 +12,12 @@ using namespace std;
 
 class P0120_Triangle {
 public:
+
+    // 动态规划
     int minimumTotal(vector<vector<int>>& triangle);
+
+    // 递归(超时)
+    int minimumTotal_2(vector<vector<int>>& triangle);
     int test();
 };
 

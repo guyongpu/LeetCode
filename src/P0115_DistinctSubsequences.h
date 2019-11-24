@@ -6,6 +6,7 @@
 #define LEETCODE_P0115_DISTINCTSUBSEQUENCES_H
 
 #include <iostream>
+#include <vector>
 
 using namespace std;
 
