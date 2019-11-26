@@ -390,6 +390,12 @@ int Test_Problem(int number) {
     } else if (number == 125) {
         P0125_ValidPalindrome Solution;
         Solution.test();
+    } else if (number == 126) {
+        P0126_WordLadderII Solution;
+        Solution.test();
+    } else if (number == 127) {
+        P0127_WordLadder Solution;
+        Solution.test();
     } else if (number == 136) {
         P0136_SingleNumber Solution;
         Solution.test();

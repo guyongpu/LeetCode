@@ -132,6 +132,8 @@
 #include "P0123_BestTimeToBuyAndSellStockIII.h"
 #include "P0124_BinaryTreeMaximumPathSum.h"
 #include "P0125_ValidPalindrome.h"
+#include "P0126_WordLadderII.h"
+#include "P0127_WordLadder.h"
 #include "P0136_SingleNumber.h"
 #include "P0137_SingleNumberII.h"
 #include "P0146_LRUCache.h"
