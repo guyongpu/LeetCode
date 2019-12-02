@@ -3605,6 +3605,33 @@ src/P0127_WordLadder.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0127_WordLadder.cpp.s
 .PHONY : src/P0127_WordLadder.cpp.s
 
+src/P0128_LongestConsecutiveSequence.obj: src/P0128_LongestConsecutiveSequence.cpp.obj
+
+.PHONY : src/P0128_LongestConsecutiveSequence.obj
+
+# target to build an object file
+src/P0128_LongestConsecutiveSequence.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0128_LongestConsecutiveSequence.cpp.obj
+.PHONY : src/P0128_LongestConsecutiveSequence.cpp.obj
+
+src/P0128_LongestConsecutiveSequence.i: src/P0128_LongestConsecutiveSequence.cpp.i
+
+.PHONY : src/P0128_LongestConsecutiveSequence.i
+
+# target to preprocess a source file
+src/P0128_LongestConsecutiveSequence.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0128_LongestConsecutiveSequence.cpp.i
+.PHONY : src/P0128_LongestConsecutiveSequence.cpp.i
+
+src/P0128_LongestConsecutiveSequence.s: src/P0128_LongestConsecutiveSequence.cpp.s
+
+.PHONY : src/P0128_LongestConsecutiveSequence.s
+
+# target to generate assembly for a file
+src/P0128_LongestConsecutiveSequence.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0128_LongestConsecutiveSequence.cpp.s
+.PHONY : src/P0128_LongestConsecutiveSequence.cpp.s
+
 src/P0136_SingleNumber.obj: src/P0136_SingleNumber.cpp.obj
 
 .PHONY : src/P0136_SingleNumber.obj
@@ -5324,6 +5351,9 @@ help:
 	@echo ... src/P0127_WordLadder.obj
 	@echo ... src/P0127_WordLadder.i
 	@echo ... src/P0127_WordLadder.s
+	@echo ... src/P0128_LongestConsecutiveSequence.obj
+	@echo ... src/P0128_LongestConsecutiveSequence.i
+	@echo ... src/P0128_LongestConsecutiveSequence.s
 	@echo ... src/P0136_SingleNumber.obj
 	@echo ... src/P0136_SingleNumber.i
 	@echo ... src/P0136_SingleNumber.s

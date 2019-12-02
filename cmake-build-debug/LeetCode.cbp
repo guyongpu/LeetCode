@@ -854,6 +854,12 @@
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0127_WordLadder.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0128_LongestConsecutiveSequence.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0128_LongestConsecutiveSequence.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0136_SingleNumber.cpp">
 			<Option target="LeetCode"/>
 		</Unit>

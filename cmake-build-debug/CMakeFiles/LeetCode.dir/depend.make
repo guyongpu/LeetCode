@@ -131,6 +131,7 @@ CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0124_BinaryTreeMaximumPathSum.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0125_ValidPalindrome.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0126_WordLadderII.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0127_WordLadder.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0128_LongestConsecutiveSequence.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0136_SingleNumber.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0137_SingleNumberII.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0146_LRUCache.h
@@ -310,6 +311,7 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0124_BinaryTreeMa
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0125_ValidPalindrome.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0126_WordLadderII.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0127_WordLadder.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0128_LongestConsecutiveSequence.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0136_SingleNumber.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0137_SingleNumberII.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0146_LRUCache.h
@@ -770,6 +772,9 @@ CMakeFiles/LeetCode.dir/src/P0126_WordLadderII.cpp.obj: ../src/P0126_WordLadderI
 
 CMakeFiles/LeetCode.dir/src/P0127_WordLadder.cpp.obj: ../src/P0127_WordLadder.cpp
 CMakeFiles/LeetCode.dir/src/P0127_WordLadder.cpp.obj: ../src/P0127_WordLadder.h
+
+CMakeFiles/LeetCode.dir/src/P0128_LongestConsecutiveSequence.cpp.obj: ../src/P0128_LongestConsecutiveSequence.cpp
+CMakeFiles/LeetCode.dir/src/P0128_LongestConsecutiveSequence.cpp.obj: ../src/P0128_LongestConsecutiveSequence.h
 
 CMakeFiles/LeetCode.dir/src/P0136_SingleNumber.cpp.obj: ../src/P0136_SingleNumber.cpp
 CMakeFiles/LeetCode.dir/src/P0136_SingleNumber.cpp.obj: ../src/P0136_SingleNumber.h

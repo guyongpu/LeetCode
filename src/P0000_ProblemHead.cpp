@@ -396,7 +396,10 @@ int Test_Problem(int number) {
     } else if (number == 127) {
         P0127_WordLadder Solution;
         Solution.test();
-    } else if (number == 136) {
+    } else if (number == 128) {
+        P0128_LongestConsecutiveSequence Solution;
+        Solution.test();
+    }else if (number == 136) {
         P0136_SingleNumber Solution;
         Solution.test();
     } else if (number == 137) {
