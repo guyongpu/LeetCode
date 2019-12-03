@@ -135,6 +135,8 @@
 #include "P0126_WordLadderII.h"
 #include "P0127_WordLadder.h"
 #include "P0128_LongestConsecutiveSequence.h"
+#include "P0129_SumRootToLeafNumbers.h"
+#include "P0130_SurroundedRegions.h"
 #include "P0136_SingleNumber.h"
 #include "P0137_SingleNumberII.h"
 #include "P0146_LRUCache.h"

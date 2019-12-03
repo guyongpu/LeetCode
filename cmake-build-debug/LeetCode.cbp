@@ -860,6 +860,18 @@
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0128_LongestConsecutiveSequence.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0129_SumRootToLeafNumbers.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0129_SumRootToLeafNumbers.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0130_SurroundedRegions.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0130_SurroundedRegions.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0136_SingleNumber.cpp">
 			<Option target="LeetCode"/>
 		</Unit>

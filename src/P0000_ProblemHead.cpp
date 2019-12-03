@@ -399,8 +399,14 @@ int Test_Problem(int number) {
     } else if (number == 128) {
         P0128_LongestConsecutiveSequence Solution;
         Solution.test();
-    }else if (number == 136) {
-        P0136_SingleNumber Solution;
+    }else if (number == 128) {
+        P0128_LongestConsecutiveSequence Solution;
+        Solution.test();
+    }else if (number == 129) {
+        P0129_SumRootToLeafNumbers Solution;
+        Solution.test();
+    }else if (number == 130) {
+        P0130_SurroundedRegions Solution;
         Solution.test();
     } else if (number == 137) {
         P0137_SingleNumberII Solution;

@@ -3632,6 +3632,60 @@ src/P0128_LongestConsecutiveSequence.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0128_LongestConsecutiveSequence.cpp.s
 .PHONY : src/P0128_LongestConsecutiveSequence.cpp.s
 
+src/P0129_SumRootToLeafNumbers.obj: src/P0129_SumRootToLeafNumbers.cpp.obj
+
+.PHONY : src/P0129_SumRootToLeafNumbers.obj
+
+# target to build an object file
+src/P0129_SumRootToLeafNumbers.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0129_SumRootToLeafNumbers.cpp.obj
+.PHONY : src/P0129_SumRootToLeafNumbers.cpp.obj
+
+src/P0129_SumRootToLeafNumbers.i: src/P0129_SumRootToLeafNumbers.cpp.i
+
+.PHONY : src/P0129_SumRootToLeafNumbers.i
+
+# target to preprocess a source file
+src/P0129_SumRootToLeafNumbers.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0129_SumRootToLeafNumbers.cpp.i
+.PHONY : src/P0129_SumRootToLeafNumbers.cpp.i
+
+src/P0129_SumRootToLeafNumbers.s: src/P0129_SumRootToLeafNumbers.cpp.s
+
+.PHONY : src/P0129_SumRootToLeafNumbers.s
+
+# target to generate assembly for a file
+src/P0129_SumRootToLeafNumbers.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0129_SumRootToLeafNumbers.cpp.s
+.PHONY : src/P0129_SumRootToLeafNumbers.cpp.s
+
+src/P0130_SurroundedRegions.obj: src/P0130_SurroundedRegions.cpp.obj
+
+.PHONY : src/P0130_SurroundedRegions.obj
+
+# target to build an object file
+src/P0130_SurroundedRegions.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0130_SurroundedRegions.cpp.obj
+.PHONY : src/P0130_SurroundedRegions.cpp.obj
+
+src/P0130_SurroundedRegions.i: src/P0130_SurroundedRegions.cpp.i
+
+.PHONY : src/P0130_SurroundedRegions.i
+
+# target to preprocess a source file
+src/P0130_SurroundedRegions.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0130_SurroundedRegions.cpp.i
+.PHONY : src/P0130_SurroundedRegions.cpp.i
+
+src/P0130_SurroundedRegions.s: src/P0130_SurroundedRegions.cpp.s
+
+.PHONY : src/P0130_SurroundedRegions.s
+
+# target to generate assembly for a file
+src/P0130_SurroundedRegions.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0130_SurroundedRegions.cpp.s
+.PHONY : src/P0130_SurroundedRegions.cpp.s
+
 src/P0136_SingleNumber.obj: src/P0136_SingleNumber.cpp.obj
 
 .PHONY : src/P0136_SingleNumber.obj
@@ -5354,6 +5408,12 @@ help:
 	@echo ... src/P0128_LongestConsecutiveSequence.obj
 	@echo ... src/P0128_LongestConsecutiveSequence.i
 	@echo ... src/P0128_LongestConsecutiveSequence.s
+	@echo ... src/P0129_SumRootToLeafNumbers.obj
+	@echo ... src/P0129_SumRootToLeafNumbers.i
+	@echo ... src/P0129_SumRootToLeafNumbers.s
+	@echo ... src/P0130_SurroundedRegions.obj
+	@echo ... src/P0130_SurroundedRegions.i
+	@echo ... src/P0130_SurroundedRegions.s
 	@echo ... src/P0136_SingleNumber.obj
 	@echo ... src/P0136_SingleNumber.i
 	@echo ... src/P0136_SingleNumber.s

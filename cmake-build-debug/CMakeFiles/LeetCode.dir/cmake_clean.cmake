@@ -178,6 +178,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/LeetCode.dir/src/P0126_WordLadderII.cpp.obj"
   "CMakeFiles/LeetCode.dir/src/P0127_WordLadder.cpp.obj"
   "CMakeFiles/LeetCode.dir/src/P0128_LongestConsecutiveSequence.cpp.obj"
+  "CMakeFiles/LeetCode.dir/src/P0129_SumRootToLeafNumbers.cpp.obj"
+  "CMakeFiles/LeetCode.dir/src/P0130_SurroundedRegions.cpp.obj"
   "LeetCode.pdb"
   "LeetCode.exe"
   "LeetCode.exe.manifest"
