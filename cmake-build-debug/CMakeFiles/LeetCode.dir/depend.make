@@ -134,6 +134,8 @@ CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0127_WordLadder.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0128_LongestConsecutiveSequence.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0129_SumRootToLeafNumbers.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0130_SurroundedRegions.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0131_PalindromePartitioning.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0132_PalindromePartitioningII.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0136_SingleNumber.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0137_SingleNumberII.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0146_LRUCache.h
@@ -316,6 +318,8 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0127_WordLadder.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0128_LongestConsecutiveSequence.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0129_SumRootToLeafNumbers.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0130_SurroundedRegions.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0131_PalindromePartitioning.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0132_PalindromePartitioningII.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0136_SingleNumber.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0137_SingleNumberII.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0146_LRUCache.h
@@ -786,6 +790,12 @@ CMakeFiles/LeetCode.dir/src/P0129_SumRootToLeafNumbers.cpp.obj: ../src/P0129_Sum
 
 CMakeFiles/LeetCode.dir/src/P0130_SurroundedRegions.cpp.obj: ../src/P0130_SurroundedRegions.cpp
 CMakeFiles/LeetCode.dir/src/P0130_SurroundedRegions.cpp.obj: ../src/P0130_SurroundedRegions.h
+
+CMakeFiles/LeetCode.dir/src/P0131_PalindromePartitioning.cpp.obj: ../src/P0131_PalindromePartitioning.cpp
+CMakeFiles/LeetCode.dir/src/P0131_PalindromePartitioning.cpp.obj: ../src/P0131_PalindromePartitioning.h
+
+CMakeFiles/LeetCode.dir/src/P0132_PalindromePartitioningII.cpp.obj: ../src/P0132_PalindromePartitioningII.cpp
+CMakeFiles/LeetCode.dir/src/P0132_PalindromePartitioningII.cpp.obj: ../src/P0132_PalindromePartitioningII.h
 
 CMakeFiles/LeetCode.dir/src/P0136_SingleNumber.cpp.obj: ../src/P0136_SingleNumber.cpp
 CMakeFiles/LeetCode.dir/src/P0136_SingleNumber.cpp.obj: ../src/P0136_SingleNumber.h

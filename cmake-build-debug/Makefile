@@ -3686,6 +3686,87 @@ src/P0130_SurroundedRegions.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0130_SurroundedRegions.cpp.s
 .PHONY : src/P0130_SurroundedRegions.cpp.s
 
+src/P0131_PalindromePartitioning.obj: src/P0131_PalindromePartitioning.cpp.obj
+
+.PHONY : src/P0131_PalindromePartitioning.obj
+
+# target to build an object file
+src/P0131_PalindromePartitioning.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0131_PalindromePartitioning.cpp.obj
+.PHONY : src/P0131_PalindromePartitioning.cpp.obj
+
+src/P0131_PalindromePartitioning.i: src/P0131_PalindromePartitioning.cpp.i
+
+.PHONY : src/P0131_PalindromePartitioning.i
+
+# target to preprocess a source file
+src/P0131_PalindromePartitioning.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0131_PalindromePartitioning.cpp.i
+.PHONY : src/P0131_PalindromePartitioning.cpp.i
+
+src/P0131_PalindromePartitioning.s: src/P0131_PalindromePartitioning.cpp.s
+
+.PHONY : src/P0131_PalindromePartitioning.s
+
+# target to generate assembly for a file
+src/P0131_PalindromePartitioning.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0131_PalindromePartitioning.cpp.s
+.PHONY : src/P0131_PalindromePartitioning.cpp.s
+
+src/P0132_PalindromePartitioningII.obj: src/P0132_PalindromePartitioningII.cpp.obj
+
+.PHONY : src/P0132_PalindromePartitioningII.obj
+
+# target to build an object file
+src/P0132_PalindromePartitioningII.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0132_PalindromePartitioningII.cpp.obj
+.PHONY : src/P0132_PalindromePartitioningII.cpp.obj
+
+src/P0132_PalindromePartitioningII.i: src/P0132_PalindromePartitioningII.cpp.i
+
+.PHONY : src/P0132_PalindromePartitioningII.i
+
+# target to preprocess a source file
+src/P0132_PalindromePartitioningII.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0132_PalindromePartitioningII.cpp.i
+.PHONY : src/P0132_PalindromePartitioningII.cpp.i
+
+src/P0132_PalindromePartitioningII.s: src/P0132_PalindromePartitioningII.cpp.s
+
+.PHONY : src/P0132_PalindromePartitioningII.s
+
+# target to generate assembly for a file
+src/P0132_PalindromePartitioningII.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0132_PalindromePartitioningII.cpp.s
+.PHONY : src/P0132_PalindromePartitioningII.cpp.s
+
+src/P0133_CloneGraph.obj: src/P0133_CloneGraph.cpp.obj
+
+.PHONY : src/P0133_CloneGraph.obj
+
+# target to build an object file
+src/P0133_CloneGraph.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0133_CloneGraph.cpp.obj
+.PHONY : src/P0133_CloneGraph.cpp.obj
+
+src/P0133_CloneGraph.i: src/P0133_CloneGraph.cpp.i
+
+.PHONY : src/P0133_CloneGraph.i
+
+# target to preprocess a source file
+src/P0133_CloneGraph.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0133_CloneGraph.cpp.i
+.PHONY : src/P0133_CloneGraph.cpp.i
+
+src/P0133_CloneGraph.s: src/P0133_CloneGraph.cpp.s
+
+.PHONY : src/P0133_CloneGraph.s
+
+# target to generate assembly for a file
+src/P0133_CloneGraph.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0133_CloneGraph.cpp.s
+.PHONY : src/P0133_CloneGraph.cpp.s
+
 src/P0136_SingleNumber.obj: src/P0136_SingleNumber.cpp.obj
 
 .PHONY : src/P0136_SingleNumber.obj
@@ -5414,6 +5495,15 @@ help:
 	@echo ... src/P0130_SurroundedRegions.obj
 	@echo ... src/P0130_SurroundedRegions.i
 	@echo ... src/P0130_SurroundedRegions.s
+	@echo ... src/P0131_PalindromePartitioning.obj
+	@echo ... src/P0131_PalindromePartitioning.i
+	@echo ... src/P0131_PalindromePartitioning.s
+	@echo ... src/P0132_PalindromePartitioningII.obj
+	@echo ... src/P0132_PalindromePartitioningII.i
+	@echo ... src/P0132_PalindromePartitioningII.s
+	@echo ... src/P0133_CloneGraph.obj
+	@echo ... src/P0133_CloneGraph.i
+	@echo ... src/P0133_CloneGraph.s
 	@echo ... src/P0136_SingleNumber.obj
 	@echo ... src/P0136_SingleNumber.i
 	@echo ... src/P0136_SingleNumber.s

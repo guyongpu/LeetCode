@@ -399,16 +399,25 @@ int Test_Problem(int number) {
     } else if (number == 128) {
         P0128_LongestConsecutiveSequence Solution;
         Solution.test();
-    }else if (number == 128) {
+    } else if (number == 128) {
         P0128_LongestConsecutiveSequence Solution;
         Solution.test();
-    }else if (number == 129) {
+    } else if (number == 129) {
         P0129_SumRootToLeafNumbers Solution;
         Solution.test();
-    }else if (number == 130) {
+    } else if (number == 130) {
         P0130_SurroundedRegions Solution;
         Solution.test();
-    } else if (number == 137) {
+    } else if (number == 131) {
+        P0131_PalindromePartitioning Solution;
+        Solution.test();
+    } else if (number == 132) {
+        P0132_PalindromePartitioningII Solution;
+        Solution.test();
+    } else if (number == 133) {
+        P0133_CloneGraph Solution;
+        Solution.test();
+    }else if (number == 137) {
         P0137_SingleNumberII Solution;
         Solution.test();
     } else if (number == 146) {
