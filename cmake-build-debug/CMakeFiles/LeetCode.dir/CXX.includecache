@@ -6,15 +6,15 @@
 
 #IncludeRegexTransform: 
 
-E:/OneDrive/CodingInterview/LeetCode/src/P0132_PalindromePartitioningII.cpp
-P0132_PalindromePartitioningII.h
-E:/OneDrive/CodingInterview/LeetCode/src/P0132_PalindromePartitioningII.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0000_CommonHead.h
 
-E:/OneDrive/CodingInterview/LeetCode/src/P0132_PalindromePartitioningII.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0234_PalindromeLinkedList.cpp
+P0234_PalindromeLinkedList.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0234_PalindromeLinkedList.h
+
+E:/OneDrive/CodingInterview/LeetCode/src/P0234_PalindromeLinkedList.h
 iostream
 -
-vector
--
-algorithm
--
+P0000_CommonHead.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0000_CommonHead.h
 

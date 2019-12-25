@@ -11,7 +11,7 @@
  *
  */
 P0133_Node *P0133_CloneGraph::cloneGraph(P0133_Node *node) {
-
+    P0133_Node *head = nullptr;
 
 
     return nullptr;

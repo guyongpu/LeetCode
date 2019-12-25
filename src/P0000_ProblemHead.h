@@ -186,6 +186,7 @@
 #include "P0217_ContainsDuplicate.h"
 #include "P0219_ContainsDuplicateII.h"
 #include "P0220_ContainsDuplicateIII.h"
+#include "P0234_PalindromeLinkedList.h"
 #include "P0260_SingleNumberIII.h"
 #include "P0980_UniquePathsIII.h"
 

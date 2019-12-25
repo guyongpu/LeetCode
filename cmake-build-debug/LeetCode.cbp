@@ -1172,6 +1172,12 @@
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0220_ContainsDuplicateIII.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0234_PalindromeLinkedList.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0234_PalindromeLinkedList.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0260_SingleNumberIII.cpp">
 			<Option target="LeetCode"/>
 		</Unit>

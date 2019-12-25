@@ -417,7 +417,7 @@ int Test_Problem(int number) {
     } else if (number == 133) {
         P0133_CloneGraph Solution;
         Solution.test();
-    }else if (number == 137) {
+    } else if (number == 137) {
         P0137_SingleNumberII Solution;
         Solution.test();
     } else if (number == 146) {
@@ -551,6 +551,9 @@ int Test_Problem(int number) {
         Solution.test();
     } else if (number == 220) {
         P0220_ContainsDuplicateIII Solution;
+        Solution.test();
+    } else if (number == 234) {
+        P0234_PalindromeLinkedList Solution;
         Solution.test();
     } else if (number == 260) {
         P0260_SingleNumberIII Solution;
