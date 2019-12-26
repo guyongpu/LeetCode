@@ -2500,6 +2500,32 @@ CMakeFiles/LeetCode.dir/src/P0138_CopyListWithRandomPointer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0138_CopyListWithRandomPointer.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0138_CopyListWithRandomPointer.cpp -o CMakeFiles\LeetCode.dir\src\P0138_CopyListWithRandomPointer.cpp.s
 
+CMakeFiles/LeetCode.dir/src/P0139_WordBreak.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0139_WordBreak.cpp.obj: ../src/P0139_WordBreak.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_189) "Building CXX object CMakeFiles/LeetCode.dir/src/P0139_WordBreak.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0139_WordBreak.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0139_WordBreak.cpp
+
+CMakeFiles/LeetCode.dir/src/P0139_WordBreak.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0139_WordBreak.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0139_WordBreak.cpp > CMakeFiles\LeetCode.dir\src\P0139_WordBreak.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0139_WordBreak.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0139_WordBreak.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0139_WordBreak.cpp -o CMakeFiles\LeetCode.dir\src\P0139_WordBreak.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0141_LinkedListCycle.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0141_LinkedListCycle.cpp.obj: ../src/P0141_LinkedListCycle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_190) "Building CXX object CMakeFiles/LeetCode.dir/src/P0141_LinkedListCycle.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0141_LinkedListCycle.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0141_LinkedListCycle.cpp
+
+CMakeFiles/LeetCode.dir/src/P0141_LinkedListCycle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0141_LinkedListCycle.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0141_LinkedListCycle.cpp > CMakeFiles\LeetCode.dir\src\P0141_LinkedListCycle.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0141_LinkedListCycle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0141_LinkedListCycle.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0141_LinkedListCycle.cpp -o CMakeFiles\LeetCode.dir\src\P0141_LinkedListCycle.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/main.cpp.obj" \
@@ -2689,7 +2715,9 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/src/P0234_PalindromeLinkedList.cpp.obj" \
 "CMakeFiles/LeetCode.dir/src/P0134_GasStation.cpp.obj" \
 "CMakeFiles/LeetCode.dir/src/P0135_Candy.cpp.obj" \
-"CMakeFiles/LeetCode.dir/src/P0138_CopyListWithRandomPointer.cpp.obj"
+"CMakeFiles/LeetCode.dir/src/P0138_CopyListWithRandomPointer.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0139_WordBreak.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0141_LinkedListCycle.cpp.obj"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -2882,11 +2910,13 @@ LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0234_PalindromeLinkedList.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0134_GasStation.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0135_Candy.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0138_CopyListWithRandomPointer.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0139_WordBreak.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0141_LinkedListCycle.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/build.make
 LeetCode.exe: CMakeFiles/LeetCode.dir/linklibs.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/objects1.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_189) "Linking CXX executable LeetCode.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_191) "Linking CXX executable LeetCode.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LeetCode.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

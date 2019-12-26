@@ -3902,6 +3902,60 @@ src/P0138_CopyListWithRandomPointer.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0138_CopyListWithRandomPointer.cpp.s
 .PHONY : src/P0138_CopyListWithRandomPointer.cpp.s
 
+src/P0139_WordBreak.obj: src/P0139_WordBreak.cpp.obj
+
+.PHONY : src/P0139_WordBreak.obj
+
+# target to build an object file
+src/P0139_WordBreak.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0139_WordBreak.cpp.obj
+.PHONY : src/P0139_WordBreak.cpp.obj
+
+src/P0139_WordBreak.i: src/P0139_WordBreak.cpp.i
+
+.PHONY : src/P0139_WordBreak.i
+
+# target to preprocess a source file
+src/P0139_WordBreak.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0139_WordBreak.cpp.i
+.PHONY : src/P0139_WordBreak.cpp.i
+
+src/P0139_WordBreak.s: src/P0139_WordBreak.cpp.s
+
+.PHONY : src/P0139_WordBreak.s
+
+# target to generate assembly for a file
+src/P0139_WordBreak.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0139_WordBreak.cpp.s
+.PHONY : src/P0139_WordBreak.cpp.s
+
+src/P0141_LinkedListCycle.obj: src/P0141_LinkedListCycle.cpp.obj
+
+.PHONY : src/P0141_LinkedListCycle.obj
+
+# target to build an object file
+src/P0141_LinkedListCycle.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0141_LinkedListCycle.cpp.obj
+.PHONY : src/P0141_LinkedListCycle.cpp.obj
+
+src/P0141_LinkedListCycle.i: src/P0141_LinkedListCycle.cpp.i
+
+.PHONY : src/P0141_LinkedListCycle.i
+
+# target to preprocess a source file
+src/P0141_LinkedListCycle.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0141_LinkedListCycle.cpp.i
+.PHONY : src/P0141_LinkedListCycle.cpp.i
+
+src/P0141_LinkedListCycle.s: src/P0141_LinkedListCycle.cpp.s
+
+.PHONY : src/P0141_LinkedListCycle.s
+
+# target to generate assembly for a file
+src/P0141_LinkedListCycle.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0141_LinkedListCycle.cpp.s
+.PHONY : src/P0141_LinkedListCycle.cpp.s
+
 src/P0146_LRUCache.obj: src/P0146_LRUCache.cpp.obj
 
 .PHONY : src/P0146_LRUCache.obj
@@ -5627,6 +5681,12 @@ help:
 	@echo ... src/P0138_CopyListWithRandomPointer.obj
 	@echo ... src/P0138_CopyListWithRandomPointer.i
 	@echo ... src/P0138_CopyListWithRandomPointer.s
+	@echo ... src/P0139_WordBreak.obj
+	@echo ... src/P0139_WordBreak.i
+	@echo ... src/P0139_WordBreak.s
+	@echo ... src/P0141_LinkedListCycle.obj
+	@echo ... src/P0141_LinkedListCycle.i
+	@echo ... src/P0141_LinkedListCycle.s
 	@echo ... src/P0146_LRUCache.obj
 	@echo ... src/P0146_LRUCache.i
 	@echo ... src/P0146_LRUCache.s

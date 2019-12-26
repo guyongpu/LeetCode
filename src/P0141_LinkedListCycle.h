@@ -1,0 +1,14 @@
+//
+// Created by yongpu on 2019/12/26 20:17.
+//
+
+#ifndef LEETCODE_P0141_LINKEDLISTCYCLE_H
+#define LEETCODE_P0141_LINKEDLISTCYCLE_H
+
+
+class P0141_LinkedListCycle {
+
+};
+
+
+#endif //LEETCODE_P0141_LINKEDLISTCYCLE_H

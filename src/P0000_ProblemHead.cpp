@@ -432,6 +432,9 @@ int Test_Problem(int number) {
     } else if (number == 138) {
         P0138_CopyListWithRandomPointer Solution;
         Solution.test();
+    } else if (number == 139) {
+        P0139_WordBreak Solution;
+        Solution.test();
     } else if (number == 146) {
         P0146_LRUCache Solution;
         Solution.test();
