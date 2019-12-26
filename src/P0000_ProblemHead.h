@@ -141,6 +141,7 @@
 #include "P0132_PalindromePartitioningII.h"
 #include "P0133_CloneGraph.h"
 #include "P0134_GasStation.h"
+#include "P0135_Candy.h"
 #include "P0136_SingleNumber.h"
 #include "P0137_SingleNumberII.h"
 #include "P0146_LRUCache.h"

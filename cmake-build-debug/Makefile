@@ -3794,6 +3794,33 @@ src/P0134_GasStation.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0134_GasStation.cpp.s
 .PHONY : src/P0134_GasStation.cpp.s
 
+src/P0135_Candy.obj: src/P0135_Candy.cpp.obj
+
+.PHONY : src/P0135_Candy.obj
+
+# target to build an object file
+src/P0135_Candy.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0135_Candy.cpp.obj
+.PHONY : src/P0135_Candy.cpp.obj
+
+src/P0135_Candy.i: src/P0135_Candy.cpp.i
+
+.PHONY : src/P0135_Candy.i
+
+# target to preprocess a source file
+src/P0135_Candy.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0135_Candy.cpp.i
+.PHONY : src/P0135_Candy.cpp.i
+
+src/P0135_Candy.s: src/P0135_Candy.cpp.s
+
+.PHONY : src/P0135_Candy.s
+
+# target to generate assembly for a file
+src/P0135_Candy.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0135_Candy.cpp.s
+.PHONY : src/P0135_Candy.cpp.s
+
 src/P0136_SingleNumber.obj: src/P0136_SingleNumber.cpp.obj
 
 .PHONY : src/P0136_SingleNumber.obj
@@ -5561,6 +5588,9 @@ help:
 	@echo ... src/P0134_GasStation.obj
 	@echo ... src/P0134_GasStation.i
 	@echo ... src/P0134_GasStation.s
+	@echo ... src/P0135_Candy.obj
+	@echo ... src/P0135_Candy.i
+	@echo ... src/P0135_Candy.s
 	@echo ... src/P0136_SingleNumber.obj
 	@echo ... src/P0136_SingleNumber.i
 	@echo ... src/P0136_SingleNumber.s

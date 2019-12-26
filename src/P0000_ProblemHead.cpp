@@ -420,6 +420,12 @@ int Test_Problem(int number) {
     }else if (number == 134) {
         P0134_GasStation Solution;
         Solution.test();
+    }else if (number == 135) {
+        P0135_Candy Solution;
+        Solution.test();
+    }else if (number == 136) {
+        P0136_SingleNumber Solution;
+        Solution.test();
     } else if (number == 137) {
         P0137_SingleNumberII Solution;
         Solution.test();
