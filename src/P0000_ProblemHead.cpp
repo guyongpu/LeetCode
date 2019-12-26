@@ -417,6 +417,9 @@ int Test_Problem(int number) {
     } else if (number == 133) {
         P0133_CloneGraph Solution;
         Solution.test();
+    }else if (number == 134) {
+        P0134_GasStation Solution;
+        Solution.test();
     } else if (number == 137) {
         P0137_SingleNumberII Solution;
         Solution.test();

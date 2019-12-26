@@ -6,15 +6,13 @@
 
 #IncludeRegexTransform: 
 
-E:/OneDrive/CodingInterview/LeetCode/src/P0000_CommonHead.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0134_GasStation.cpp
+P0134_GasStation.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0134_GasStation.h
 
-E:/OneDrive/CodingInterview/LeetCode/src/P0234_PalindromeLinkedList.cpp
-P0234_PalindromeLinkedList.h
-E:/OneDrive/CodingInterview/LeetCode/src/P0234_PalindromeLinkedList.h
-
-E:/OneDrive/CodingInterview/LeetCode/src/P0234_PalindromeLinkedList.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0134_GasStation.h
 iostream
 -
-P0000_CommonHead.h
-E:/OneDrive/CodingInterview/LeetCode/src/P0000_CommonHead.h
+vector
+-
 
