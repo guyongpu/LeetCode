@@ -435,6 +435,12 @@ int Test_Problem(int number) {
     } else if (number == 139) {
         P0139_WordBreak Solution;
         Solution.test();
+    } else if (number == 140) {
+        P0140_WordBreakII Solution;
+        Solution.test();
+    } else if (number == 141) {
+        P0141_LinkedListCycle Solution;
+        Solution.test();
     } else if (number == 146) {
         P0146_LRUCache Solution;
         Solution.test();
