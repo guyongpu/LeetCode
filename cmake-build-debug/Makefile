@@ -3875,6 +3875,33 @@ src/P0137_SingleNumberII.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0137_SingleNumberII.cpp.s
 .PHONY : src/P0137_SingleNumberII.cpp.s
 
+src/P0138_CopyListWithRandomPointer.obj: src/P0138_CopyListWithRandomPointer.cpp.obj
+
+.PHONY : src/P0138_CopyListWithRandomPointer.obj
+
+# target to build an object file
+src/P0138_CopyListWithRandomPointer.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0138_CopyListWithRandomPointer.cpp.obj
+.PHONY : src/P0138_CopyListWithRandomPointer.cpp.obj
+
+src/P0138_CopyListWithRandomPointer.i: src/P0138_CopyListWithRandomPointer.cpp.i
+
+.PHONY : src/P0138_CopyListWithRandomPointer.i
+
+# target to preprocess a source file
+src/P0138_CopyListWithRandomPointer.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0138_CopyListWithRandomPointer.cpp.i
+.PHONY : src/P0138_CopyListWithRandomPointer.cpp.i
+
+src/P0138_CopyListWithRandomPointer.s: src/P0138_CopyListWithRandomPointer.cpp.s
+
+.PHONY : src/P0138_CopyListWithRandomPointer.s
+
+# target to generate assembly for a file
+src/P0138_CopyListWithRandomPointer.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0138_CopyListWithRandomPointer.cpp.s
+.PHONY : src/P0138_CopyListWithRandomPointer.cpp.s
+
 src/P0146_LRUCache.obj: src/P0146_LRUCache.cpp.obj
 
 .PHONY : src/P0146_LRUCache.obj
@@ -5597,6 +5624,9 @@ help:
 	@echo ... src/P0137_SingleNumberII.obj
 	@echo ... src/P0137_SingleNumberII.i
 	@echo ... src/P0137_SingleNumberII.s
+	@echo ... src/P0138_CopyListWithRandomPointer.obj
+	@echo ... src/P0138_CopyListWithRandomPointer.i
+	@echo ... src/P0138_CopyListWithRandomPointer.s
 	@echo ... src/P0146_LRUCache.obj
 	@echo ... src/P0146_LRUCache.i
 	@echo ... src/P0146_LRUCache.s

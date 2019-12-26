@@ -417,17 +417,20 @@ int Test_Problem(int number) {
     } else if (number == 133) {
         P0133_CloneGraph Solution;
         Solution.test();
-    }else if (number == 134) {
+    } else if (number == 134) {
         P0134_GasStation Solution;
         Solution.test();
-    }else if (number == 135) {
+    } else if (number == 135) {
         P0135_Candy Solution;
         Solution.test();
-    }else if (number == 136) {
+    } else if (number == 136) {
         P0136_SingleNumber Solution;
         Solution.test();
     } else if (number == 137) {
         P0137_SingleNumberII Solution;
+        Solution.test();
+    } else if (number == 138) {
+        P0138_CopyListWithRandomPointer Solution;
         Solution.test();
     } else if (number == 146) {
         P0146_LRUCache Solution;

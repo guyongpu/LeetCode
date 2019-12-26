@@ -186,6 +186,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/LeetCode.dir/src/P0234_PalindromeLinkedList.cpp.obj"
   "CMakeFiles/LeetCode.dir/src/P0134_GasStation.cpp.obj"
   "CMakeFiles/LeetCode.dir/src/P0135_Candy.cpp.obj"
+  "CMakeFiles/LeetCode.dir/src/P0138_CopyListWithRandomPointer.cpp.obj"
   "LeetCode.pdb"
   "LeetCode.exe"
   "LeetCode.exe.manifest"

@@ -914,6 +914,12 @@
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0137_SingleNumberII.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0138_CopyListWithRandomPointer.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0138_CopyListWithRandomPointer.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0146_LRUCache.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
