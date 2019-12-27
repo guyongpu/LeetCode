@@ -194,6 +194,7 @@ CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0215_KthLargestElementInAnArray.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0217_ContainsDuplicate.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0219_ContainsDuplicateII.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0220_ContainsDuplicateIII.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0230_KthSmallestElementInA_BST.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0234_PalindromeLinkedList.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0260_SingleNumberIII.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0980_UniquePathsIII.h
@@ -391,6 +392,7 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0215_KthLargestEl
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0217_ContainsDuplicate.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0219_ContainsDuplicateII.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0220_ContainsDuplicateIII.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0230_KthSmallestElementInA_BST.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0234_PalindromeLinkedList.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0260_SingleNumberIII.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0980_UniquePathsIII.h
@@ -1011,6 +1013,10 @@ CMakeFiles/LeetCode.dir/src/P0219_ContainsDuplicateII.cpp.obj: ../src/P0219_Cont
 
 CMakeFiles/LeetCode.dir/src/P0220_ContainsDuplicateIII.cpp.obj: ../src/P0220_ContainsDuplicateIII.cpp
 CMakeFiles/LeetCode.dir/src/P0220_ContainsDuplicateIII.cpp.obj: ../src/P0220_ContainsDuplicateIII.h
+
+CMakeFiles/LeetCode.dir/src/P0230_KthSmallestElementInA_BST.cpp.obj: ../src/P0000_CommonHead.h
+CMakeFiles/LeetCode.dir/src/P0230_KthSmallestElementInA_BST.cpp.obj: ../src/P0230_KthSmallestElementInA_BST.cpp
+CMakeFiles/LeetCode.dir/src/P0230_KthSmallestElementInA_BST.cpp.obj: ../src/P0230_KthSmallestElementInA_BST.h
 
 CMakeFiles/LeetCode.dir/src/P0234_PalindromeLinkedList.cpp.obj: ../src/P0000_CommonHead.h
 CMakeFiles/LeetCode.dir/src/P0234_PalindromeLinkedList.cpp.obj: ../src/P0234_PalindromeLinkedList.cpp

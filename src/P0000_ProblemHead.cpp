@@ -576,7 +576,7 @@ int Test_Problem(int number) {
     } else if (number == 211) {
         P0211_AddAndSearchWord_DataStructureDesign Solution;
         Solution.test();
-    }else if (number == 215) {
+    } else if (number == 215) {
         P0215_KthLargestElementInAnArray Solution;
         Solution.test();
     } else if (number == 217) {
@@ -587,6 +587,9 @@ int Test_Problem(int number) {
         Solution.test();
     } else if (number == 220) {
         P0220_ContainsDuplicateIII Solution;
+        Solution.test();
+    } else if (number == 230) {
+        P0230_KthSmallestElementInA_BST Solution;
         Solution.test();
     } else if (number == 234) {
         P0234_PalindromeLinkedList Solution;

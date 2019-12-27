@@ -5333,6 +5333,33 @@ src/P0220_ContainsDuplicateIII.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0220_ContainsDuplicateIII.cpp.s
 .PHONY : src/P0220_ContainsDuplicateIII.cpp.s
 
+src/P0230_KthSmallestElementInA_BST.obj: src/P0230_KthSmallestElementInA_BST.cpp.obj
+
+.PHONY : src/P0230_KthSmallestElementInA_BST.obj
+
+# target to build an object file
+src/P0230_KthSmallestElementInA_BST.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0230_KthSmallestElementInA_BST.cpp.obj
+.PHONY : src/P0230_KthSmallestElementInA_BST.cpp.obj
+
+src/P0230_KthSmallestElementInA_BST.i: src/P0230_KthSmallestElementInA_BST.cpp.i
+
+.PHONY : src/P0230_KthSmallestElementInA_BST.i
+
+# target to preprocess a source file
+src/P0230_KthSmallestElementInA_BST.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0230_KthSmallestElementInA_BST.cpp.i
+.PHONY : src/P0230_KthSmallestElementInA_BST.cpp.i
+
+src/P0230_KthSmallestElementInA_BST.s: src/P0230_KthSmallestElementInA_BST.cpp.s
+
+.PHONY : src/P0230_KthSmallestElementInA_BST.s
+
+# target to generate assembly for a file
+src/P0230_KthSmallestElementInA_BST.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0230_KthSmallestElementInA_BST.cpp.s
+.PHONY : src/P0230_KthSmallestElementInA_BST.cpp.s
+
 src/P0234_PalindromeLinkedList.obj: src/P0234_PalindromeLinkedList.cpp.obj
 
 .PHONY : src/P0234_PalindromeLinkedList.obj
@@ -6002,6 +6029,9 @@ help:
 	@echo ... src/P0220_ContainsDuplicateIII.obj
 	@echo ... src/P0220_ContainsDuplicateIII.i
 	@echo ... src/P0220_ContainsDuplicateIII.s
+	@echo ... src/P0230_KthSmallestElementInA_BST.obj
+	@echo ... src/P0230_KthSmallestElementInA_BST.i
+	@echo ... src/P0230_KthSmallestElementInA_BST.s
 	@echo ... src/P0234_PalindromeLinkedList.obj
 	@echo ... src/P0234_PalindromeLinkedList.i
 	@echo ... src/P0234_PalindromeLinkedList.s
