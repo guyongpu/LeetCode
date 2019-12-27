@@ -5360,6 +5360,33 @@ src/P0230_KthSmallestElementInA_BST.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0230_KthSmallestElementInA_BST.cpp.s
 .PHONY : src/P0230_KthSmallestElementInA_BST.cpp.s
 
+src/P0231_PowerOfTwo.obj: src/P0231_PowerOfTwo.cpp.obj
+
+.PHONY : src/P0231_PowerOfTwo.obj
+
+# target to build an object file
+src/P0231_PowerOfTwo.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0231_PowerOfTwo.cpp.obj
+.PHONY : src/P0231_PowerOfTwo.cpp.obj
+
+src/P0231_PowerOfTwo.i: src/P0231_PowerOfTwo.cpp.i
+
+.PHONY : src/P0231_PowerOfTwo.i
+
+# target to preprocess a source file
+src/P0231_PowerOfTwo.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0231_PowerOfTwo.cpp.i
+.PHONY : src/P0231_PowerOfTwo.cpp.i
+
+src/P0231_PowerOfTwo.s: src/P0231_PowerOfTwo.cpp.s
+
+.PHONY : src/P0231_PowerOfTwo.s
+
+# target to generate assembly for a file
+src/P0231_PowerOfTwo.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0231_PowerOfTwo.cpp.s
+.PHONY : src/P0231_PowerOfTwo.cpp.s
+
 src/P0234_PalindromeLinkedList.obj: src/P0234_PalindromeLinkedList.cpp.obj
 
 .PHONY : src/P0234_PalindromeLinkedList.obj
@@ -6032,6 +6059,9 @@ help:
 	@echo ... src/P0230_KthSmallestElementInA_BST.obj
 	@echo ... src/P0230_KthSmallestElementInA_BST.i
 	@echo ... src/P0230_KthSmallestElementInA_BST.s
+	@echo ... src/P0231_PowerOfTwo.obj
+	@echo ... src/P0231_PowerOfTwo.i
+	@echo ... src/P0231_PowerOfTwo.s
 	@echo ... src/P0234_PalindromeLinkedList.obj
 	@echo ... src/P0234_PalindromeLinkedList.i
 	@echo ... src/P0234_PalindromeLinkedList.s

@@ -591,6 +591,9 @@ int Test_Problem(int number) {
     } else if (number == 230) {
         P0230_KthSmallestElementInA_BST Solution;
         Solution.test();
+    }else if (number == 231) {
+        P0231_PowerOfTwo Solution;
+        Solution.test();
     } else if (number == 234) {
         P0234_PalindromeLinkedList Solution;
         Solution.test();

@@ -1244,6 +1244,12 @@
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0230_KthSmallestElementInA_BST.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0231_PowerOfTwo.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0231_PowerOfTwo.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0234_PalindromeLinkedList.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
