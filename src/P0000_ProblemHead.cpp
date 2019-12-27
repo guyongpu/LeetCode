@@ -441,6 +441,18 @@ int Test_Problem(int number) {
     } else if (number == 141) {
         P0141_LinkedListCycle Solution;
         Solution.test();
+    } else if (number == 142) {
+        P0142_LinkedListCycleII Solution;
+        Solution.test();
+    } else if (number == 143) {
+        P0143_ReorderList Solution;
+        Solution.test();
+    } else if (number == 144) {
+        P0144_BinaryTreePreorderTraversal Solution;
+        Solution.test();
+    } else if (number == 145) {
+        P0145_BinaryTreePostorderTraversal Solution;
+        Solution.test();
     } else if (number == 146) {
         P0146_LRUCache Solution;
         Solution.test();

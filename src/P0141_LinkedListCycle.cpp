@@ -16,7 +16,7 @@ bool P0141_LinkedListCycle::hasCycle(ListNode *head) {
         return false;
     }
 
-    ListNode *fast = head->next->next;
+    ListNode *fast = head->next;
     ListNode *low = head;
 
     while (fast) {

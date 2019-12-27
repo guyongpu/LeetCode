@@ -3983,6 +3983,114 @@ src/P0141_LinkedListCycle.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0141_LinkedListCycle.cpp.s
 .PHONY : src/P0141_LinkedListCycle.cpp.s
 
+src/P0142_LinkedListCycleII.obj: src/P0142_LinkedListCycleII.cpp.obj
+
+.PHONY : src/P0142_LinkedListCycleII.obj
+
+# target to build an object file
+src/P0142_LinkedListCycleII.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0142_LinkedListCycleII.cpp.obj
+.PHONY : src/P0142_LinkedListCycleII.cpp.obj
+
+src/P0142_LinkedListCycleII.i: src/P0142_LinkedListCycleII.cpp.i
+
+.PHONY : src/P0142_LinkedListCycleII.i
+
+# target to preprocess a source file
+src/P0142_LinkedListCycleII.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0142_LinkedListCycleII.cpp.i
+.PHONY : src/P0142_LinkedListCycleII.cpp.i
+
+src/P0142_LinkedListCycleII.s: src/P0142_LinkedListCycleII.cpp.s
+
+.PHONY : src/P0142_LinkedListCycleII.s
+
+# target to generate assembly for a file
+src/P0142_LinkedListCycleII.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0142_LinkedListCycleII.cpp.s
+.PHONY : src/P0142_LinkedListCycleII.cpp.s
+
+src/P0143_ReorderList.obj: src/P0143_ReorderList.cpp.obj
+
+.PHONY : src/P0143_ReorderList.obj
+
+# target to build an object file
+src/P0143_ReorderList.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0143_ReorderList.cpp.obj
+.PHONY : src/P0143_ReorderList.cpp.obj
+
+src/P0143_ReorderList.i: src/P0143_ReorderList.cpp.i
+
+.PHONY : src/P0143_ReorderList.i
+
+# target to preprocess a source file
+src/P0143_ReorderList.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0143_ReorderList.cpp.i
+.PHONY : src/P0143_ReorderList.cpp.i
+
+src/P0143_ReorderList.s: src/P0143_ReorderList.cpp.s
+
+.PHONY : src/P0143_ReorderList.s
+
+# target to generate assembly for a file
+src/P0143_ReorderList.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0143_ReorderList.cpp.s
+.PHONY : src/P0143_ReorderList.cpp.s
+
+src/P0144_BinaryTreePreorderTraversal.obj: src/P0144_BinaryTreePreorderTraversal.cpp.obj
+
+.PHONY : src/P0144_BinaryTreePreorderTraversal.obj
+
+# target to build an object file
+src/P0144_BinaryTreePreorderTraversal.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0144_BinaryTreePreorderTraversal.cpp.obj
+.PHONY : src/P0144_BinaryTreePreorderTraversal.cpp.obj
+
+src/P0144_BinaryTreePreorderTraversal.i: src/P0144_BinaryTreePreorderTraversal.cpp.i
+
+.PHONY : src/P0144_BinaryTreePreorderTraversal.i
+
+# target to preprocess a source file
+src/P0144_BinaryTreePreorderTraversal.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0144_BinaryTreePreorderTraversal.cpp.i
+.PHONY : src/P0144_BinaryTreePreorderTraversal.cpp.i
+
+src/P0144_BinaryTreePreorderTraversal.s: src/P0144_BinaryTreePreorderTraversal.cpp.s
+
+.PHONY : src/P0144_BinaryTreePreorderTraversal.s
+
+# target to generate assembly for a file
+src/P0144_BinaryTreePreorderTraversal.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0144_BinaryTreePreorderTraversal.cpp.s
+.PHONY : src/P0144_BinaryTreePreorderTraversal.cpp.s
+
+src/P0145_BinaryTreePostorderTraversal.obj: src/P0145_BinaryTreePostorderTraversal.cpp.obj
+
+.PHONY : src/P0145_BinaryTreePostorderTraversal.obj
+
+# target to build an object file
+src/P0145_BinaryTreePostorderTraversal.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0145_BinaryTreePostorderTraversal.cpp.obj
+.PHONY : src/P0145_BinaryTreePostorderTraversal.cpp.obj
+
+src/P0145_BinaryTreePostorderTraversal.i: src/P0145_BinaryTreePostorderTraversal.cpp.i
+
+.PHONY : src/P0145_BinaryTreePostorderTraversal.i
+
+# target to preprocess a source file
+src/P0145_BinaryTreePostorderTraversal.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0145_BinaryTreePostorderTraversal.cpp.i
+.PHONY : src/P0145_BinaryTreePostorderTraversal.cpp.i
+
+src/P0145_BinaryTreePostorderTraversal.s: src/P0145_BinaryTreePostorderTraversal.cpp.s
+
+.PHONY : src/P0145_BinaryTreePostorderTraversal.s
+
+# target to generate assembly for a file
+src/P0145_BinaryTreePostorderTraversal.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0145_BinaryTreePostorderTraversal.cpp.s
+.PHONY : src/P0145_BinaryTreePostorderTraversal.cpp.s
+
 src/P0146_LRUCache.obj: src/P0146_LRUCache.cpp.obj
 
 .PHONY : src/P0146_LRUCache.obj
@@ -5717,6 +5825,18 @@ help:
 	@echo ... src/P0141_LinkedListCycle.obj
 	@echo ... src/P0141_LinkedListCycle.i
 	@echo ... src/P0141_LinkedListCycle.s
+	@echo ... src/P0142_LinkedListCycleII.obj
+	@echo ... src/P0142_LinkedListCycleII.i
+	@echo ... src/P0142_LinkedListCycleII.s
+	@echo ... src/P0143_ReorderList.obj
+	@echo ... src/P0143_ReorderList.i
+	@echo ... src/P0143_ReorderList.s
+	@echo ... src/P0144_BinaryTreePreorderTraversal.obj
+	@echo ... src/P0144_BinaryTreePreorderTraversal.i
+	@echo ... src/P0144_BinaryTreePreorderTraversal.s
+	@echo ... src/P0145_BinaryTreePostorderTraversal.obj
+	@echo ... src/P0145_BinaryTreePostorderTraversal.i
+	@echo ... src/P0145_BinaryTreePostorderTraversal.s
 	@echo ... src/P0146_LRUCache.obj
 	@echo ... src/P0146_LRUCache.i
 	@echo ... src/P0146_LRUCache.s

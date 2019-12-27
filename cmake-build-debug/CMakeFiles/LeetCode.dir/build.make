@@ -2539,6 +2539,58 @@ CMakeFiles/LeetCode.dir/src/P0140_WordBreakII.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0140_WordBreakII.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0140_WordBreakII.cpp -o CMakeFiles\LeetCode.dir\src\P0140_WordBreakII.cpp.s
 
+CMakeFiles/LeetCode.dir/src/P0142_LinkedListCycleII.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0142_LinkedListCycleII.cpp.obj: ../src/P0142_LinkedListCycleII.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_192) "Building CXX object CMakeFiles/LeetCode.dir/src/P0142_LinkedListCycleII.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0142_LinkedListCycleII.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0142_LinkedListCycleII.cpp
+
+CMakeFiles/LeetCode.dir/src/P0142_LinkedListCycleII.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0142_LinkedListCycleII.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0142_LinkedListCycleII.cpp > CMakeFiles\LeetCode.dir\src\P0142_LinkedListCycleII.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0142_LinkedListCycleII.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0142_LinkedListCycleII.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0142_LinkedListCycleII.cpp -o CMakeFiles\LeetCode.dir\src\P0142_LinkedListCycleII.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0143_ReorderList.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0143_ReorderList.cpp.obj: ../src/P0143_ReorderList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_193) "Building CXX object CMakeFiles/LeetCode.dir/src/P0143_ReorderList.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0143_ReorderList.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0143_ReorderList.cpp
+
+CMakeFiles/LeetCode.dir/src/P0143_ReorderList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0143_ReorderList.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0143_ReorderList.cpp > CMakeFiles\LeetCode.dir\src\P0143_ReorderList.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0143_ReorderList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0143_ReorderList.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0143_ReorderList.cpp -o CMakeFiles\LeetCode.dir\src\P0143_ReorderList.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0144_BinaryTreePreorderTraversal.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0144_BinaryTreePreorderTraversal.cpp.obj: ../src/P0144_BinaryTreePreorderTraversal.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_194) "Building CXX object CMakeFiles/LeetCode.dir/src/P0144_BinaryTreePreorderTraversal.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0144_BinaryTreePreorderTraversal.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0144_BinaryTreePreorderTraversal.cpp
+
+CMakeFiles/LeetCode.dir/src/P0144_BinaryTreePreorderTraversal.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0144_BinaryTreePreorderTraversal.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0144_BinaryTreePreorderTraversal.cpp > CMakeFiles\LeetCode.dir\src\P0144_BinaryTreePreorderTraversal.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0144_BinaryTreePreorderTraversal.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0144_BinaryTreePreorderTraversal.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0144_BinaryTreePreorderTraversal.cpp -o CMakeFiles\LeetCode.dir\src\P0144_BinaryTreePreorderTraversal.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0145_BinaryTreePostorderTraversal.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0145_BinaryTreePostorderTraversal.cpp.obj: ../src/P0145_BinaryTreePostorderTraversal.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_195) "Building CXX object CMakeFiles/LeetCode.dir/src/P0145_BinaryTreePostorderTraversal.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0145_BinaryTreePostorderTraversal.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0145_BinaryTreePostorderTraversal.cpp
+
+CMakeFiles/LeetCode.dir/src/P0145_BinaryTreePostorderTraversal.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0145_BinaryTreePostorderTraversal.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0145_BinaryTreePostorderTraversal.cpp > CMakeFiles\LeetCode.dir\src\P0145_BinaryTreePostorderTraversal.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0145_BinaryTreePostorderTraversal.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0145_BinaryTreePostorderTraversal.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0145_BinaryTreePostorderTraversal.cpp -o CMakeFiles\LeetCode.dir\src\P0145_BinaryTreePostorderTraversal.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/main.cpp.obj" \
@@ -2731,7 +2783,11 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/src/P0138_CopyListWithRandomPointer.cpp.obj" \
 "CMakeFiles/LeetCode.dir/src/P0139_WordBreak.cpp.obj" \
 "CMakeFiles/LeetCode.dir/src/P0141_LinkedListCycle.cpp.obj" \
-"CMakeFiles/LeetCode.dir/src/P0140_WordBreakII.cpp.obj"
+"CMakeFiles/LeetCode.dir/src/P0140_WordBreakII.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0142_LinkedListCycleII.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0143_ReorderList.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0144_BinaryTreePreorderTraversal.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0145_BinaryTreePostorderTraversal.cpp.obj"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -2927,11 +2983,15 @@ LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0138_CopyListWithRandomPointer.cpp.ob
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0139_WordBreak.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0141_LinkedListCycle.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0140_WordBreakII.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0142_LinkedListCycleII.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0143_ReorderList.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0144_BinaryTreePreorderTraversal.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0145_BinaryTreePostorderTraversal.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/build.make
 LeetCode.exe: CMakeFiles/LeetCode.dir/linklibs.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/objects1.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_192) "Linking CXX executable LeetCode.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_196) "Linking CXX executable LeetCode.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LeetCode.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
