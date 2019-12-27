@@ -193,6 +193,7 @@
 #include "P0209_MinimumSizeSubarraySum.h"
 #include "P0210_CourseScheduleII.h"
 #include "P0211_AddAndSearchWord_DataStructureDesign.h"
+#include "P0215_KthLargestElementInAnArray.h"
 #include "P0217_ContainsDuplicate.h"
 #include "P0219_ContainsDuplicateII.h"
 #include "P0220_ContainsDuplicateIII.h"

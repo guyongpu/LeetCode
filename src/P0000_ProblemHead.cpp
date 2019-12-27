@@ -576,6 +576,9 @@ int Test_Problem(int number) {
     } else if (number == 211) {
         P0211_AddAndSearchWord_DataStructureDesign Solution;
         Solution.test();
+    }else if (number == 215) {
+        P0215_KthLargestElementInAnArray Solution;
+        Solution.test();
     } else if (number == 217) {
         P0217_ContainsDuplicate Solution;
         Solution.test();
