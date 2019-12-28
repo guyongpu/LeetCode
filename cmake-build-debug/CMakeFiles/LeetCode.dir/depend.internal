@@ -199,6 +199,7 @@ CMakeFiles/LeetCode.dir/main.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0231_PowerOfTwo.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0234_PalindromeLinkedList.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0235_LowestCommonAncestorOfA_BinarySearchTree.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0236_LowestCommonAncestorOfA_BinaryTree.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0260_SingleNumberIII.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0980_UniquePathsIII.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj
@@ -399,6 +400,7 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0231_PowerOfTwo.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0234_PalindromeLinkedList.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0235_LowestCommonAncestorOfA_BinarySearchTree.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0236_LowestCommonAncestorOfA_BinaryTree.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0260_SingleNumberIII.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0980_UniquePathsIII.h
 CMakeFiles/LeetCode.dir/src/P0001_TwoSum.cpp.obj
@@ -1033,6 +1035,10 @@ CMakeFiles/LeetCode.dir/src/P0235_LowestCommonAncestorOfA_BinarySearchTree.cpp.o
  E:/OneDrive/CodingInterview/LeetCode/src/P0000_CommonHead.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0235_LowestCommonAncestorOfA_BinarySearchTree.cpp
  E:/OneDrive/CodingInterview/LeetCode/src/P0235_LowestCommonAncestorOfA_BinarySearchTree.h
+CMakeFiles/LeetCode.dir/src/P0236_LowestCommonAncestorOfA_BinaryTree.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0000_CommonHead.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0236_LowestCommonAncestorOfA_BinaryTree.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0236_LowestCommonAncestorOfA_BinaryTree.h
 CMakeFiles/LeetCode.dir/src/P0260_SingleNumberIII.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0260_SingleNumberIII.cpp
  E:/OneDrive/CodingInterview/LeetCode/src/P0260_SingleNumberIII.h

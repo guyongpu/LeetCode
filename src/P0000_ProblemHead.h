@@ -201,6 +201,7 @@
 #include "P0231_PowerOfTwo.h"
 #include "P0234_PalindromeLinkedList.h"
 #include "P0235_LowestCommonAncestorOfA_BinarySearchTree.h"
+#include "P0236_LowestCommonAncestorOfA_BinaryTree.h"
 #include "P0260_SingleNumberIII.h"
 #include "P0980_UniquePathsIII.h"
 

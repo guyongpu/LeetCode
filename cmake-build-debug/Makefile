@@ -5441,6 +5441,60 @@ src/P0235_LowestCommonAncestorOfA_BinarySearchTree.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0235_LowestCommonAncestorOfA_BinarySearchTree.cpp.s
 .PHONY : src/P0235_LowestCommonAncestorOfA_BinarySearchTree.cpp.s
 
+src/P0236_LowestCommonAncestorOfA_BinaryTree.obj: src/P0236_LowestCommonAncestorOfA_BinaryTree.cpp.obj
+
+.PHONY : src/P0236_LowestCommonAncestorOfA_BinaryTree.obj
+
+# target to build an object file
+src/P0236_LowestCommonAncestorOfA_BinaryTree.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0236_LowestCommonAncestorOfA_BinaryTree.cpp.obj
+.PHONY : src/P0236_LowestCommonAncestorOfA_BinaryTree.cpp.obj
+
+src/P0236_LowestCommonAncestorOfA_BinaryTree.i: src/P0236_LowestCommonAncestorOfA_BinaryTree.cpp.i
+
+.PHONY : src/P0236_LowestCommonAncestorOfA_BinaryTree.i
+
+# target to preprocess a source file
+src/P0236_LowestCommonAncestorOfA_BinaryTree.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0236_LowestCommonAncestorOfA_BinaryTree.cpp.i
+.PHONY : src/P0236_LowestCommonAncestorOfA_BinaryTree.cpp.i
+
+src/P0236_LowestCommonAncestorOfA_BinaryTree.s: src/P0236_LowestCommonAncestorOfA_BinaryTree.cpp.s
+
+.PHONY : src/P0236_LowestCommonAncestorOfA_BinaryTree.s
+
+# target to generate assembly for a file
+src/P0236_LowestCommonAncestorOfA_BinaryTree.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0236_LowestCommonAncestorOfA_BinaryTree.cpp.s
+.PHONY : src/P0236_LowestCommonAncestorOfA_BinaryTree.cpp.s
+
+src/P0237_DeleteNodeInA_LinkedList.obj: src/P0237_DeleteNodeInA_LinkedList.cpp.obj
+
+.PHONY : src/P0237_DeleteNodeInA_LinkedList.obj
+
+# target to build an object file
+src/P0237_DeleteNodeInA_LinkedList.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0237_DeleteNodeInA_LinkedList.cpp.obj
+.PHONY : src/P0237_DeleteNodeInA_LinkedList.cpp.obj
+
+src/P0237_DeleteNodeInA_LinkedList.i: src/P0237_DeleteNodeInA_LinkedList.cpp.i
+
+.PHONY : src/P0237_DeleteNodeInA_LinkedList.i
+
+# target to preprocess a source file
+src/P0237_DeleteNodeInA_LinkedList.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0237_DeleteNodeInA_LinkedList.cpp.i
+.PHONY : src/P0237_DeleteNodeInA_LinkedList.cpp.i
+
+src/P0237_DeleteNodeInA_LinkedList.s: src/P0237_DeleteNodeInA_LinkedList.cpp.s
+
+.PHONY : src/P0237_DeleteNodeInA_LinkedList.s
+
+# target to generate assembly for a file
+src/P0237_DeleteNodeInA_LinkedList.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0237_DeleteNodeInA_LinkedList.cpp.s
+.PHONY : src/P0237_DeleteNodeInA_LinkedList.cpp.s
+
 src/P0260_SingleNumberIII.obj: src/P0260_SingleNumberIII.cpp.obj
 
 .PHONY : src/P0260_SingleNumberIII.obj
@@ -6095,6 +6149,12 @@ help:
 	@echo ... src/P0235_LowestCommonAncestorOfA_BinarySearchTree.obj
 	@echo ... src/P0235_LowestCommonAncestorOfA_BinarySearchTree.i
 	@echo ... src/P0235_LowestCommonAncestorOfA_BinarySearchTree.s
+	@echo ... src/P0236_LowestCommonAncestorOfA_BinaryTree.obj
+	@echo ... src/P0236_LowestCommonAncestorOfA_BinaryTree.i
+	@echo ... src/P0236_LowestCommonAncestorOfA_BinaryTree.s
+	@echo ... src/P0237_DeleteNodeInA_LinkedList.obj
+	@echo ... src/P0237_DeleteNodeInA_LinkedList.i
+	@echo ... src/P0237_DeleteNodeInA_LinkedList.s
 	@echo ... src/P0260_SingleNumberIII.obj
 	@echo ... src/P0260_SingleNumberIII.i
 	@echo ... src/P0260_SingleNumberIII.s

@@ -2643,6 +2643,32 @@ CMakeFiles/LeetCode.dir/src/P0235_LowestCommonAncestorOfA_BinarySearchTree.cpp.s
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0235_LowestCommonAncestorOfA_BinarySearchTree.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0235_LowestCommonAncestorOfA_BinarySearchTree.cpp -o CMakeFiles\LeetCode.dir\src\P0235_LowestCommonAncestorOfA_BinarySearchTree.cpp.s
 
+CMakeFiles/LeetCode.dir/src/P0236_LowestCommonAncestorOfA_BinaryTree.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0236_LowestCommonAncestorOfA_BinaryTree.cpp.obj: ../src/P0236_LowestCommonAncestorOfA_BinaryTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_200) "Building CXX object CMakeFiles/LeetCode.dir/src/P0236_LowestCommonAncestorOfA_BinaryTree.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0236_LowestCommonAncestorOfA_BinaryTree.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0236_LowestCommonAncestorOfA_BinaryTree.cpp
+
+CMakeFiles/LeetCode.dir/src/P0236_LowestCommonAncestorOfA_BinaryTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0236_LowestCommonAncestorOfA_BinaryTree.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0236_LowestCommonAncestorOfA_BinaryTree.cpp > CMakeFiles\LeetCode.dir\src\P0236_LowestCommonAncestorOfA_BinaryTree.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0236_LowestCommonAncestorOfA_BinaryTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0236_LowestCommonAncestorOfA_BinaryTree.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0236_LowestCommonAncestorOfA_BinaryTree.cpp -o CMakeFiles\LeetCode.dir\src\P0236_LowestCommonAncestorOfA_BinaryTree.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0237_DeleteNodeInA_LinkedList.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0237_DeleteNodeInA_LinkedList.cpp.obj: ../src/P0237_DeleteNodeInA_LinkedList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_201) "Building CXX object CMakeFiles/LeetCode.dir/src/P0237_DeleteNodeInA_LinkedList.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0237_DeleteNodeInA_LinkedList.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0237_DeleteNodeInA_LinkedList.cpp
+
+CMakeFiles/LeetCode.dir/src/P0237_DeleteNodeInA_LinkedList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0237_DeleteNodeInA_LinkedList.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0237_DeleteNodeInA_LinkedList.cpp > CMakeFiles\LeetCode.dir\src\P0237_DeleteNodeInA_LinkedList.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0237_DeleteNodeInA_LinkedList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0237_DeleteNodeInA_LinkedList.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0237_DeleteNodeInA_LinkedList.cpp -o CMakeFiles\LeetCode.dir\src\P0237_DeleteNodeInA_LinkedList.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/main.cpp.obj" \
@@ -2843,7 +2869,9 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/src/P0215_KthLargestElementInAnArray.cpp.obj" \
 "CMakeFiles/LeetCode.dir/src/P0230_KthSmallestElementInA_BST.cpp.obj" \
 "CMakeFiles/LeetCode.dir/src/P0231_PowerOfTwo.cpp.obj" \
-"CMakeFiles/LeetCode.dir/src/P0235_LowestCommonAncestorOfA_BinarySearchTree.cpp.obj"
+"CMakeFiles/LeetCode.dir/src/P0235_LowestCommonAncestorOfA_BinarySearchTree.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0236_LowestCommonAncestorOfA_BinaryTree.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0237_DeleteNodeInA_LinkedList.cpp.obj"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -3047,11 +3075,13 @@ LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0215_KthLargestElementInAnArray.cpp.o
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0230_KthSmallestElementInA_BST.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0231_PowerOfTwo.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0235_LowestCommonAncestorOfA_BinarySearchTree.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0236_LowestCommonAncestorOfA_BinaryTree.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0237_DeleteNodeInA_LinkedList.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/build.make
 LeetCode.exe: CMakeFiles/LeetCode.dir/linklibs.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/objects1.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_200) "Linking CXX executable LeetCode.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_202) "Linking CXX executable LeetCode.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LeetCode.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
