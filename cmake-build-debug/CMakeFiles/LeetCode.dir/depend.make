@@ -197,6 +197,7 @@ CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0220_ContainsDuplicateIII.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0230_KthSmallestElementInA_BST.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0231_PowerOfTwo.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0234_PalindromeLinkedList.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0235_LowestCommonAncestorOfA_BinarySearchTree.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0260_SingleNumberIII.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0980_UniquePathsIII.h
 
@@ -396,6 +397,7 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0220_ContainsDupl
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0230_KthSmallestElementInA_BST.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0231_PowerOfTwo.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0234_PalindromeLinkedList.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0235_LowestCommonAncestorOfA_BinarySearchTree.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0260_SingleNumberIII.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0980_UniquePathsIII.h
 
@@ -1026,6 +1028,10 @@ CMakeFiles/LeetCode.dir/src/P0231_PowerOfTwo.cpp.obj: ../src/P0231_PowerOfTwo.h
 CMakeFiles/LeetCode.dir/src/P0234_PalindromeLinkedList.cpp.obj: ../src/P0000_CommonHead.h
 CMakeFiles/LeetCode.dir/src/P0234_PalindromeLinkedList.cpp.obj: ../src/P0234_PalindromeLinkedList.cpp
 CMakeFiles/LeetCode.dir/src/P0234_PalindromeLinkedList.cpp.obj: ../src/P0234_PalindromeLinkedList.h
+
+CMakeFiles/LeetCode.dir/src/P0235_LowestCommonAncestorOfA_BinarySearchTree.cpp.obj: ../src/P0000_CommonHead.h
+CMakeFiles/LeetCode.dir/src/P0235_LowestCommonAncestorOfA_BinarySearchTree.cpp.obj: ../src/P0235_LowestCommonAncestorOfA_BinarySearchTree.cpp
+CMakeFiles/LeetCode.dir/src/P0235_LowestCommonAncestorOfA_BinarySearchTree.cpp.obj: ../src/P0235_LowestCommonAncestorOfA_BinarySearchTree.h
 
 CMakeFiles/LeetCode.dir/src/P0260_SingleNumberIII.cpp.obj: ../src/P0260_SingleNumberIII.cpp
 CMakeFiles/LeetCode.dir/src/P0260_SingleNumberIII.cpp.obj: ../src/P0260_SingleNumberIII.h

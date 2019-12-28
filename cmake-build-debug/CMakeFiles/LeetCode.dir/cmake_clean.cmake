@@ -197,6 +197,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/LeetCode.dir/src/P0215_KthLargestElementInAnArray.cpp.obj"
   "CMakeFiles/LeetCode.dir/src/P0230_KthSmallestElementInA_BST.cpp.obj"
   "CMakeFiles/LeetCode.dir/src/P0231_PowerOfTwo.cpp.obj"
+  "CMakeFiles/LeetCode.dir/src/P0235_LowestCommonAncestorOfA_BinarySearchTree.cpp.obj"
   "LeetCode.pdb"
   "LeetCode.exe"
   "LeetCode.exe.manifest"

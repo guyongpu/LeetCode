@@ -5414,6 +5414,33 @@ src/P0234_PalindromeLinkedList.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0234_PalindromeLinkedList.cpp.s
 .PHONY : src/P0234_PalindromeLinkedList.cpp.s
 
+src/P0235_LowestCommonAncestorOfA_BinarySearchTree.obj: src/P0235_LowestCommonAncestorOfA_BinarySearchTree.cpp.obj
+
+.PHONY : src/P0235_LowestCommonAncestorOfA_BinarySearchTree.obj
+
+# target to build an object file
+src/P0235_LowestCommonAncestorOfA_BinarySearchTree.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0235_LowestCommonAncestorOfA_BinarySearchTree.cpp.obj
+.PHONY : src/P0235_LowestCommonAncestorOfA_BinarySearchTree.cpp.obj
+
+src/P0235_LowestCommonAncestorOfA_BinarySearchTree.i: src/P0235_LowestCommonAncestorOfA_BinarySearchTree.cpp.i
+
+.PHONY : src/P0235_LowestCommonAncestorOfA_BinarySearchTree.i
+
+# target to preprocess a source file
+src/P0235_LowestCommonAncestorOfA_BinarySearchTree.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0235_LowestCommonAncestorOfA_BinarySearchTree.cpp.i
+.PHONY : src/P0235_LowestCommonAncestorOfA_BinarySearchTree.cpp.i
+
+src/P0235_LowestCommonAncestorOfA_BinarySearchTree.s: src/P0235_LowestCommonAncestorOfA_BinarySearchTree.cpp.s
+
+.PHONY : src/P0235_LowestCommonAncestorOfA_BinarySearchTree.s
+
+# target to generate assembly for a file
+src/P0235_LowestCommonAncestorOfA_BinarySearchTree.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0235_LowestCommonAncestorOfA_BinarySearchTree.cpp.s
+.PHONY : src/P0235_LowestCommonAncestorOfA_BinarySearchTree.cpp.s
+
 src/P0260_SingleNumberIII.obj: src/P0260_SingleNumberIII.cpp.obj
 
 .PHONY : src/P0260_SingleNumberIII.obj
@@ -6065,6 +6092,9 @@ help:
 	@echo ... src/P0234_PalindromeLinkedList.obj
 	@echo ... src/P0234_PalindromeLinkedList.i
 	@echo ... src/P0234_PalindromeLinkedList.s
+	@echo ... src/P0235_LowestCommonAncestorOfA_BinarySearchTree.obj
+	@echo ... src/P0235_LowestCommonAncestorOfA_BinarySearchTree.i
+	@echo ... src/P0235_LowestCommonAncestorOfA_BinarySearchTree.s
 	@echo ... src/P0260_SingleNumberIII.obj
 	@echo ... src/P0260_SingleNumberIII.i
 	@echo ... src/P0260_SingleNumberIII.s
