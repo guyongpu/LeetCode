@@ -603,6 +603,9 @@ int Test_Problem(int number) {
     } else if (number == 236) {
         P0236_LowestCommonAncestorOfA_BinaryTree Solution;
         Solution.test();
+    }else if (number == 237) {
+        P0237_DeleteNodeInA_LinkedList Solution;
+        Solution.test();
     } else if (number == 260) {
         P0260_SingleNumberIII Solution;
         Solution.test();
