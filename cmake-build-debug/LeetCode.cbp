@@ -1274,6 +1274,12 @@
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0237_DeleteNodeInA_LinkedList.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0238_ProductOfArrayExceptSelf.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0238_ProductOfArrayExceptSelf.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0260_SingleNumberIII.cpp">
 			<Option target="LeetCode"/>
 		</Unit>

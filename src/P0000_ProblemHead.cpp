@@ -606,7 +606,10 @@ int Test_Problem(int number) {
     }else if (number == 237) {
         P0237_DeleteNodeInA_LinkedList Solution;
         Solution.test();
-    } else if (number == 260) {
+    } else if (number == 238) {
+        P0238_ProductOfArrayExceptSelf Solution;
+        Solution.test();
+    }else if (number == 260) {
         P0260_SingleNumberIII Solution;
         Solution.test();
     } else if (number == 980) {
