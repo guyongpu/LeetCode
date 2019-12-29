@@ -205,8 +205,10 @@
 #include "P0237_DeleteNodeInA_LinkedList.h"
 #include "P0238_ProductOfArrayExceptSelf.h"
 #include "P0260_SingleNumberIII.h"
+#include "P0268_MissingNumber.h"
 #include "P0292_NimGame.h"
 #include "P0344_ReverseString.h"
+#include "P0541_ReverseStringII.h"
 #include "P0557_ReverseWordsInA_StringIII.h"
 #include "P0980_UniquePathsIII.h"
 

@@ -612,11 +612,17 @@ int Test_Problem(int number) {
     } else if (number == 260) {
         P0260_SingleNumberIII Solution;
         Solution.test();
+    }else if (number == 268) {
+        P0268_MissingNumber Solution;
+        Solution.test();
     } else if (number == 292) {
         P0292_NimGame Solution;
         Solution.test();
     } else if (number == 344) {
         P0344_ReverseString Solution;
+        Solution.test();
+    } else if (number == 541) {
+        P0541_ReverseStringII Solution;
         Solution.test();
     } else if (number == 557) {
         P0557_ReverseWordsInA_StringIII Solution;

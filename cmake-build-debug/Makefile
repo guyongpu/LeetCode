@@ -5549,6 +5549,33 @@ src/P0260_SingleNumberIII.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0260_SingleNumberIII.cpp.s
 .PHONY : src/P0260_SingleNumberIII.cpp.s
 
+src/P0268_MissingNumber.obj: src/P0268_MissingNumber.cpp.obj
+
+.PHONY : src/P0268_MissingNumber.obj
+
+# target to build an object file
+src/P0268_MissingNumber.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0268_MissingNumber.cpp.obj
+.PHONY : src/P0268_MissingNumber.cpp.obj
+
+src/P0268_MissingNumber.i: src/P0268_MissingNumber.cpp.i
+
+.PHONY : src/P0268_MissingNumber.i
+
+# target to preprocess a source file
+src/P0268_MissingNumber.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0268_MissingNumber.cpp.i
+.PHONY : src/P0268_MissingNumber.cpp.i
+
+src/P0268_MissingNumber.s: src/P0268_MissingNumber.cpp.s
+
+.PHONY : src/P0268_MissingNumber.s
+
+# target to generate assembly for a file
+src/P0268_MissingNumber.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0268_MissingNumber.cpp.s
+.PHONY : src/P0268_MissingNumber.cpp.s
+
 src/P0292_NimGame.obj: src/P0292_NimGame.cpp.obj
 
 .PHONY : src/P0292_NimGame.obj
@@ -5602,6 +5629,33 @@ src/P0344_ReverseString.s: src/P0344_ReverseString.cpp.s
 src/P0344_ReverseString.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0344_ReverseString.cpp.s
 .PHONY : src/P0344_ReverseString.cpp.s
+
+src/P0541_ReverseStringII.obj: src/P0541_ReverseStringII.cpp.obj
+
+.PHONY : src/P0541_ReverseStringII.obj
+
+# target to build an object file
+src/P0541_ReverseStringII.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0541_ReverseStringII.cpp.obj
+.PHONY : src/P0541_ReverseStringII.cpp.obj
+
+src/P0541_ReverseStringII.i: src/P0541_ReverseStringII.cpp.i
+
+.PHONY : src/P0541_ReverseStringII.i
+
+# target to preprocess a source file
+src/P0541_ReverseStringII.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0541_ReverseStringII.cpp.i
+.PHONY : src/P0541_ReverseStringII.cpp.i
+
+src/P0541_ReverseStringII.s: src/P0541_ReverseStringII.cpp.s
+
+.PHONY : src/P0541_ReverseStringII.s
+
+# target to generate assembly for a file
+src/P0541_ReverseStringII.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0541_ReverseStringII.cpp.s
+.PHONY : src/P0541_ReverseStringII.cpp.s
 
 src/P0557_ReverseWordsInA_StringIII.obj: src/P0557_ReverseWordsInA_StringIII.cpp.obj
 
@@ -6269,12 +6323,18 @@ help:
 	@echo ... src/P0260_SingleNumberIII.obj
 	@echo ... src/P0260_SingleNumberIII.i
 	@echo ... src/P0260_SingleNumberIII.s
+	@echo ... src/P0268_MissingNumber.obj
+	@echo ... src/P0268_MissingNumber.i
+	@echo ... src/P0268_MissingNumber.s
 	@echo ... src/P0292_NimGame.obj
 	@echo ... src/P0292_NimGame.i
 	@echo ... src/P0292_NimGame.s
 	@echo ... src/P0344_ReverseString.obj
 	@echo ... src/P0344_ReverseString.i
 	@echo ... src/P0344_ReverseString.s
+	@echo ... src/P0541_ReverseStringII.obj
+	@echo ... src/P0541_ReverseStringII.i
+	@echo ... src/P0541_ReverseStringII.s
 	@echo ... src/P0557_ReverseWordsInA_StringIII.obj
 	@echo ... src/P0557_ReverseWordsInA_StringIII.i
 	@echo ... src/P0557_ReverseWordsInA_StringIII.s

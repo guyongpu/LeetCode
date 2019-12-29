@@ -2721,6 +2721,32 @@ CMakeFiles/LeetCode.dir/src/P0557_ReverseWordsInA_StringIII.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0557_ReverseWordsInA_StringIII.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0557_ReverseWordsInA_StringIII.cpp -o CMakeFiles\LeetCode.dir\src\P0557_ReverseWordsInA_StringIII.cpp.s
 
+CMakeFiles/LeetCode.dir/src/P0541_ReverseStringII.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0541_ReverseStringII.cpp.obj: ../src/P0541_ReverseStringII.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_206) "Building CXX object CMakeFiles/LeetCode.dir/src/P0541_ReverseStringII.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0541_ReverseStringII.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0541_ReverseStringII.cpp
+
+CMakeFiles/LeetCode.dir/src/P0541_ReverseStringII.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0541_ReverseStringII.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0541_ReverseStringII.cpp > CMakeFiles\LeetCode.dir\src\P0541_ReverseStringII.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0541_ReverseStringII.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0541_ReverseStringII.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0541_ReverseStringII.cpp -o CMakeFiles\LeetCode.dir\src\P0541_ReverseStringII.cpp.s
+
+CMakeFiles/LeetCode.dir/src/P0268_MissingNumber.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/src/P0268_MissingNumber.cpp.obj: ../src/P0268_MissingNumber.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_207) "Building CXX object CMakeFiles/LeetCode.dir/src/P0268_MissingNumber.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\src\P0268_MissingNumber.cpp.obj -c E:\OneDrive\CodingInterview\LeetCode\src\P0268_MissingNumber.cpp
+
+CMakeFiles/LeetCode.dir/src/P0268_MissingNumber.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/src/P0268_MissingNumber.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\OneDrive\CodingInterview\LeetCode\src\P0268_MissingNumber.cpp > CMakeFiles\LeetCode.dir\src\P0268_MissingNumber.cpp.i
+
+CMakeFiles/LeetCode.dir/src/P0268_MissingNumber.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/src/P0268_MissingNumber.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\OneDrive\CodingInterview\LeetCode\src\P0268_MissingNumber.cpp -o CMakeFiles\LeetCode.dir\src\P0268_MissingNumber.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/main.cpp.obj" \
@@ -2927,7 +2953,9 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/src/P0238_ProductOfArrayExceptSelf.cpp.obj" \
 "CMakeFiles/LeetCode.dir/src/P0292_NimGame.cpp.obj" \
 "CMakeFiles/LeetCode.dir/src/P0344_ReverseString.cpp.obj" \
-"CMakeFiles/LeetCode.dir/src/P0557_ReverseWordsInA_StringIII.cpp.obj"
+"CMakeFiles/LeetCode.dir/src/P0557_ReverseWordsInA_StringIII.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0541_ReverseStringII.cpp.obj" \
+"CMakeFiles/LeetCode.dir/src/P0268_MissingNumber.cpp.obj"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -3137,11 +3165,13 @@ LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0238_ProductOfArrayExceptSelf.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0292_NimGame.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0344_ReverseString.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0557_ReverseWordsInA_StringIII.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0541_ReverseStringII.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/src/P0268_MissingNumber.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/build.make
 LeetCode.exe: CMakeFiles/LeetCode.dir/linklibs.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/objects1.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_206) "Linking CXX executable LeetCode.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\OneDrive\CodingInterview\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_208) "Linking CXX executable LeetCode.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LeetCode.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
