@@ -204,6 +204,7 @@ CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0238_ProductOfArrayExceptSelf.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0260_SingleNumberIII.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0292_NimGame.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0344_ReverseString.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0557_ReverseWordsInA_StringIII.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0980_UniquePathsIII.h
 
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0000_CommonHead.h
@@ -409,6 +410,7 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0238_ProductOfArr
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0260_SingleNumberIII.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0292_NimGame.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0344_ReverseString.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0557_ReverseWordsInA_StringIII.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0980_UniquePathsIII.h
 
 CMakeFiles/LeetCode.dir/src/P0001_TwoSum.cpp.obj: ../src/P0001_TwoSum.cpp
@@ -1064,6 +1066,9 @@ CMakeFiles/LeetCode.dir/src/P0292_NimGame.cpp.obj: ../src/P0292_NimGame.h
 
 CMakeFiles/LeetCode.dir/src/P0344_ReverseString.cpp.obj: ../src/P0344_ReverseString.cpp
 CMakeFiles/LeetCode.dir/src/P0344_ReverseString.cpp.obj: ../src/P0344_ReverseString.h
+
+CMakeFiles/LeetCode.dir/src/P0557_ReverseWordsInA_StringIII.cpp.obj: ../src/P0557_ReverseWordsInA_StringIII.cpp
+CMakeFiles/LeetCode.dir/src/P0557_ReverseWordsInA_StringIII.cpp.obj: ../src/P0557_ReverseWordsInA_StringIII.h
 
 CMakeFiles/LeetCode.dir/src/P0980_UniquePathsIII.cpp.obj: ../src/P0980_UniquePathsIII.cpp
 CMakeFiles/LeetCode.dir/src/P0980_UniquePathsIII.cpp.obj: ../src/P0980_UniquePathsIII.h

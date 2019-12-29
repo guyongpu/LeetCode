@@ -618,6 +618,9 @@ int Test_Problem(int number) {
     } else if (number == 344) {
         P0344_ReverseString Solution;
         Solution.test();
+    } else if (number == 557) {
+        P0557_ReverseWordsInA_StringIII Solution;
+        Solution.test();
     } else if (number == 980) {
         P0980_UniquePathsIII Solution;
         Solution.test();

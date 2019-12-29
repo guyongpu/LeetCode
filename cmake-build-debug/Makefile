@@ -5603,6 +5603,33 @@ src/P0344_ReverseString.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0344_ReverseString.cpp.s
 .PHONY : src/P0344_ReverseString.cpp.s
 
+src/P0557_ReverseWordsInA_StringIII.obj: src/P0557_ReverseWordsInA_StringIII.cpp.obj
+
+.PHONY : src/P0557_ReverseWordsInA_StringIII.obj
+
+# target to build an object file
+src/P0557_ReverseWordsInA_StringIII.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0557_ReverseWordsInA_StringIII.cpp.obj
+.PHONY : src/P0557_ReverseWordsInA_StringIII.cpp.obj
+
+src/P0557_ReverseWordsInA_StringIII.i: src/P0557_ReverseWordsInA_StringIII.cpp.i
+
+.PHONY : src/P0557_ReverseWordsInA_StringIII.i
+
+# target to preprocess a source file
+src/P0557_ReverseWordsInA_StringIII.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0557_ReverseWordsInA_StringIII.cpp.i
+.PHONY : src/P0557_ReverseWordsInA_StringIII.cpp.i
+
+src/P0557_ReverseWordsInA_StringIII.s: src/P0557_ReverseWordsInA_StringIII.cpp.s
+
+.PHONY : src/P0557_ReverseWordsInA_StringIII.s
+
+# target to generate assembly for a file
+src/P0557_ReverseWordsInA_StringIII.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0557_ReverseWordsInA_StringIII.cpp.s
+.PHONY : src/P0557_ReverseWordsInA_StringIII.cpp.s
+
 src/P0980_UniquePathsIII.obj: src/P0980_UniquePathsIII.cpp.obj
 
 .PHONY : src/P0980_UniquePathsIII.obj
@@ -6248,6 +6275,9 @@ help:
 	@echo ... src/P0344_ReverseString.obj
 	@echo ... src/P0344_ReverseString.i
 	@echo ... src/P0344_ReverseString.s
+	@echo ... src/P0557_ReverseWordsInA_StringIII.obj
+	@echo ... src/P0557_ReverseWordsInA_StringIII.i
+	@echo ... src/P0557_ReverseWordsInA_StringIII.s
 	@echo ... src/P0980_UniquePathsIII.obj
 	@echo ... src/P0980_UniquePathsIII.i
 	@echo ... src/P0980_UniquePathsIII.s
