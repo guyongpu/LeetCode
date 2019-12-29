@@ -1292,6 +1292,12 @@
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0292_NimGame.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0344_ReverseString.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0344_ReverseString.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="E:/OneDrive/CodingInterview/LeetCode/src/P0980_UniquePathsIII.cpp">
 			<Option target="LeetCode"/>
 		</Unit>

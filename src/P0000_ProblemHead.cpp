@@ -615,6 +615,9 @@ int Test_Problem(int number) {
     } else if (number == 292) {
         P0292_NimGame Solution;
         Solution.test();
+    } else if (number == 344) {
+        P0344_ReverseString Solution;
+        Solution.test();
     } else if (number == 980) {
         P0980_UniquePathsIII Solution;
         Solution.test();
