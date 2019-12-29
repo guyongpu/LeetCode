@@ -201,6 +201,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/LeetCode.dir/src/P0236_LowestCommonAncestorOfA_BinaryTree.cpp.obj"
   "CMakeFiles/LeetCode.dir/src/P0237_DeleteNodeInA_LinkedList.cpp.obj"
   "CMakeFiles/LeetCode.dir/src/P0238_ProductOfArrayExceptSelf.cpp.obj"
+  "CMakeFiles/LeetCode.dir/src/P0292_NimGame.cpp.obj"
   "LeetCode.pdb"
   "LeetCode.exe"
   "LeetCode.exe.manifest"

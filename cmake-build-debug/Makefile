@@ -5549,6 +5549,33 @@ src/P0260_SingleNumberIII.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0260_SingleNumberIII.cpp.s
 .PHONY : src/P0260_SingleNumberIII.cpp.s
 
+src/P0292_NimGame.obj: src/P0292_NimGame.cpp.obj
+
+.PHONY : src/P0292_NimGame.obj
+
+# target to build an object file
+src/P0292_NimGame.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0292_NimGame.cpp.obj
+.PHONY : src/P0292_NimGame.cpp.obj
+
+src/P0292_NimGame.i: src/P0292_NimGame.cpp.i
+
+.PHONY : src/P0292_NimGame.i
+
+# target to preprocess a source file
+src/P0292_NimGame.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0292_NimGame.cpp.i
+.PHONY : src/P0292_NimGame.cpp.i
+
+src/P0292_NimGame.s: src/P0292_NimGame.cpp.s
+
+.PHONY : src/P0292_NimGame.s
+
+# target to generate assembly for a file
+src/P0292_NimGame.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0292_NimGame.cpp.s
+.PHONY : src/P0292_NimGame.cpp.s
+
 src/P0980_UniquePathsIII.obj: src/P0980_UniquePathsIII.cpp.obj
 
 .PHONY : src/P0980_UniquePathsIII.obj
@@ -6188,6 +6215,9 @@ help:
 	@echo ... src/P0260_SingleNumberIII.obj
 	@echo ... src/P0260_SingleNumberIII.i
 	@echo ... src/P0260_SingleNumberIII.s
+	@echo ... src/P0292_NimGame.obj
+	@echo ... src/P0292_NimGame.i
+	@echo ... src/P0292_NimGame.s
 	@echo ... src/P0980_UniquePathsIII.obj
 	@echo ... src/P0980_UniquePathsIII.i
 	@echo ... src/P0980_UniquePathsIII.s

@@ -202,6 +202,7 @@ CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0236_LowestCommonAncestorOfA_Binar
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0237_DeleteNodeInA_LinkedList.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0238_ProductOfArrayExceptSelf.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0260_SingleNumberIII.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0292_NimGame.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0980_UniquePathsIII.h
 
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0000_CommonHead.h
@@ -405,6 +406,7 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0236_LowestCommon
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0237_DeleteNodeInA_LinkedList.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0238_ProductOfArrayExceptSelf.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0260_SingleNumberIII.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0292_NimGame.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0980_UniquePathsIII.h
 
 CMakeFiles/LeetCode.dir/src/P0001_TwoSum.cpp.obj: ../src/P0001_TwoSum.cpp
@@ -414,6 +416,8 @@ CMakeFiles/LeetCode.dir/src/P0002_AddTwoNumbers.cpp.obj: ../src/P0000_CommonHead
 CMakeFiles/LeetCode.dir/src/P0002_AddTwoNumbers.cpp.obj: ../src/P0002_AddTwoNumbers.cpp
 CMakeFiles/LeetCode.dir/src/P0002_AddTwoNumbers.cpp.obj: ../src/P0002_AddTwoNumbers.h
 
+CMakeFiles/LeetCode.dir/src/P0003_LongestSubstringWithoutRepeatingCharacters.cpp.obj: ../src/P0003_LongestSubstringWithoutRepeatingCharacters.cpp
+CMakeFiles/LeetCode.dir/src/P0003_LongestSubstringWithoutRepeatingCharacters.cpp.obj: ../src/P0003_LongestSubstringWithoutRepeatingCharacters.h
 
 CMakeFiles/LeetCode.dir/src/P0004_MedianOfTwoSortedArrays.cpp.obj: ../src/P0004_MedianOfTwoSortedArrays.cpp
 CMakeFiles/LeetCode.dir/src/P0004_MedianOfTwoSortedArrays.cpp.obj: ../src/P0004_MedianOfTwoSortedArrays.h
@@ -1052,6 +1056,9 @@ CMakeFiles/LeetCode.dir/src/P0238_ProductOfArrayExceptSelf.cpp.obj: ../src/P0238
 
 CMakeFiles/LeetCode.dir/src/P0260_SingleNumberIII.cpp.obj: ../src/P0260_SingleNumberIII.cpp
 CMakeFiles/LeetCode.dir/src/P0260_SingleNumberIII.cpp.obj: ../src/P0260_SingleNumberIII.h
+
+CMakeFiles/LeetCode.dir/src/P0292_NimGame.cpp.obj: ../src/P0292_NimGame.cpp
+CMakeFiles/LeetCode.dir/src/P0292_NimGame.cpp.obj: ../src/P0292_NimGame.h
 
 CMakeFiles/LeetCode.dir/src/P0980_UniquePathsIII.cpp.obj: ../src/P0980_UniquePathsIII.cpp
 CMakeFiles/LeetCode.dir/src/P0980_UniquePathsIII.cpp.obj: ../src/P0980_UniquePathsIII.h

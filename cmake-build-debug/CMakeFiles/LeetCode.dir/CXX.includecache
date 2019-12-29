@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-E:/OneDrive/CodingInterview/LeetCode/src/P0238_ProductOfArrayExceptSelf.cpp
-P0238_ProductOfArrayExceptSelf.h
-E:/OneDrive/CodingInterview/LeetCode/src/P0238_ProductOfArrayExceptSelf.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0292_NimGame.cpp
+P0292_NimGame.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0292_NimGame.h
 
-E:/OneDrive/CodingInterview/LeetCode/src/P0238_ProductOfArrayExceptSelf.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0292_NimGame.h
 iostream
 -
-vector
+map
 -
 
