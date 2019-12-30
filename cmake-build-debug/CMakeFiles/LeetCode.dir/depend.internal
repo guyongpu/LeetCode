@@ -204,6 +204,7 @@ CMakeFiles/LeetCode.dir/main.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0238_ProductOfArrayExceptSelf.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0260_SingleNumberIII.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0263_UglyNumber.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0264_UglyNumberII.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0268_MissingNumber.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0292_NimGame.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0344_ReverseString.h
@@ -413,6 +414,7 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0238_ProductOfArrayExceptSelf.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0260_SingleNumberIII.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0263_UglyNumber.h
+ E:/OneDrive/CodingInterview/LeetCode/src/P0264_UglyNumberII.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0268_MissingNumber.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0292_NimGame.h
  E:/OneDrive/CodingInterview/LeetCode/src/P0344_ReverseString.h
@@ -1070,6 +1072,9 @@ CMakeFiles/LeetCode.dir/src/P0260_SingleNumberIII.cpp.obj
 CMakeFiles/LeetCode.dir/src/P0263_UglyNumber.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0263_UglyNumber.cpp
  E:/OneDrive/CodingInterview/LeetCode/src/P0263_UglyNumber.h
+CMakeFiles/LeetCode.dir/src/P0264_UglyNumberII.cpp.obj
+ E:/OneDrive/CodingInterview/LeetCode/src/P0264_UglyNumberII.cpp
+ E:/OneDrive/CodingInterview/LeetCode/src/P0264_UglyNumberII.h
 CMakeFiles/LeetCode.dir/src/P0268_MissingNumber.cpp.obj
  E:/OneDrive/CodingInterview/LeetCode/src/P0268_MissingNumber.cpp
  E:/OneDrive/CodingInterview/LeetCode/src/P0268_MissingNumber.h

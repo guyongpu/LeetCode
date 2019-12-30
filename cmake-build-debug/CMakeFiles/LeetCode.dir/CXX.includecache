@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-E:/OneDrive/CodingInterview/LeetCode/src/P0263_UglyNumber.cpp
-P0263_UglyNumber.h
-E:/OneDrive/CodingInterview/LeetCode/src/P0263_UglyNumber.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0264_UglyNumberII.cpp
+P0264_UglyNumberII.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0264_UglyNumberII.h
 
-E:/OneDrive/CodingInterview/LeetCode/src/P0263_UglyNumber.h
+E:/OneDrive/CodingInterview/LeetCode/src/P0264_UglyNumberII.h
 iostream
 -
 vector

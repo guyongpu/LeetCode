@@ -203,6 +203,7 @@ CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0237_DeleteNodeInA_LinkedList.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0238_ProductOfArrayExceptSelf.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0260_SingleNumberIII.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0263_UglyNumber.h
+CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0264_UglyNumberII.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0268_MissingNumber.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0292_NimGame.h
 CMakeFiles/LeetCode.dir/main.cpp.obj: ../src/P0344_ReverseString.h
@@ -412,6 +413,7 @@ CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0237_DeleteNodeIn
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0238_ProductOfArrayExceptSelf.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0260_SingleNumberIII.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0263_UglyNumber.h
+CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0264_UglyNumberII.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0268_MissingNumber.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0292_NimGame.h
 CMakeFiles/LeetCode.dir/src/P0000_ProblemHead.cpp.obj: ../src/P0344_ReverseString.h
@@ -1069,6 +1071,9 @@ CMakeFiles/LeetCode.dir/src/P0260_SingleNumberIII.cpp.obj: ../src/P0260_SingleNu
 
 CMakeFiles/LeetCode.dir/src/P0263_UglyNumber.cpp.obj: ../src/P0263_UglyNumber.cpp
 CMakeFiles/LeetCode.dir/src/P0263_UglyNumber.cpp.obj: ../src/P0263_UglyNumber.h
+
+CMakeFiles/LeetCode.dir/src/P0264_UglyNumberII.cpp.obj: ../src/P0264_UglyNumberII.cpp
+CMakeFiles/LeetCode.dir/src/P0264_UglyNumberII.cpp.obj: ../src/P0264_UglyNumberII.h
 
 CMakeFiles/LeetCode.dir/src/P0268_MissingNumber.cpp.obj: ../src/P0268_MissingNumber.cpp
 CMakeFiles/LeetCode.dir/src/P0268_MissingNumber.cpp.obj: ../src/P0268_MissingNumber.h

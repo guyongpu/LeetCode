@@ -615,6 +615,9 @@ int Test_Problem(int number) {
     }else if (number == 263) {
         P0263_UglyNumber Solution;
         Solution.test();
+    }else if (number == 264) {
+        P0264_UglyNumberII Solution;
+        Solution.test();
     }else if (number == 268) {
         P0268_MissingNumber Solution;
         Solution.test();

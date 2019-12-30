@@ -207,6 +207,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/LeetCode.dir/src/P0541_ReverseStringII.cpp.obj"
   "CMakeFiles/LeetCode.dir/src/P0268_MissingNumber.cpp.obj"
   "CMakeFiles/LeetCode.dir/src/P0263_UglyNumber.cpp.obj"
+  "CMakeFiles/LeetCode.dir/src/P0264_UglyNumberII.cpp.obj"
   "LeetCode.pdb"
   "LeetCode.exe"
   "LeetCode.exe.manifest"
