@@ -5549,6 +5549,33 @@ src/P0260_SingleNumberIII.cpp.s:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0260_SingleNumberIII.cpp.s
 .PHONY : src/P0260_SingleNumberIII.cpp.s
 
+src/P0263_UglyNumber.obj: src/P0263_UglyNumber.cpp.obj
+
+.PHONY : src/P0263_UglyNumber.obj
+
+# target to build an object file
+src/P0263_UglyNumber.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0263_UglyNumber.cpp.obj
+.PHONY : src/P0263_UglyNumber.cpp.obj
+
+src/P0263_UglyNumber.i: src/P0263_UglyNumber.cpp.i
+
+.PHONY : src/P0263_UglyNumber.i
+
+# target to preprocess a source file
+src/P0263_UglyNumber.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0263_UglyNumber.cpp.i
+.PHONY : src/P0263_UglyNumber.cpp.i
+
+src/P0263_UglyNumber.s: src/P0263_UglyNumber.cpp.s
+
+.PHONY : src/P0263_UglyNumber.s
+
+# target to generate assembly for a file
+src/P0263_UglyNumber.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/src/P0263_UglyNumber.cpp.s
+.PHONY : src/P0263_UglyNumber.cpp.s
+
 src/P0268_MissingNumber.obj: src/P0268_MissingNumber.cpp.obj
 
 .PHONY : src/P0268_MissingNumber.obj
@@ -6323,6 +6350,9 @@ help:
 	@echo ... src/P0260_SingleNumberIII.obj
 	@echo ... src/P0260_SingleNumberIII.i
 	@echo ... src/P0260_SingleNumberIII.s
+	@echo ... src/P0263_UglyNumber.obj
+	@echo ... src/P0263_UglyNumber.i
+	@echo ... src/P0263_UglyNumber.s
 	@echo ... src/P0268_MissingNumber.obj
 	@echo ... src/P0268_MissingNumber.i
 	@echo ... src/P0268_MissingNumber.s

@@ -612,6 +612,9 @@ int Test_Problem(int number) {
     } else if (number == 260) {
         P0260_SingleNumberIII Solution;
         Solution.test();
+    }else if (number == 263) {
+        P0263_UglyNumber Solution;
+        Solution.test();
     }else if (number == 268) {
         P0268_MissingNumber Solution;
         Solution.test();

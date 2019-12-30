@@ -205,6 +205,7 @@
 #include "P0237_DeleteNodeInA_LinkedList.h"
 #include "P0238_ProductOfArrayExceptSelf.h"
 #include "P0260_SingleNumberIII.h"
+#include "P0263_UglyNumber.h"
 #include "P0268_MissingNumber.h"
 #include "P0292_NimGame.h"
 #include "P0344_ReverseString.h"

@@ -205,6 +205,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "E:/OneDrive/CodingInterview/LeetCode/src/P0237_DeleteNodeInA_LinkedList.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0237_DeleteNodeInA_LinkedList.cpp.obj"
   "E:/OneDrive/CodingInterview/LeetCode/src/P0238_ProductOfArrayExceptSelf.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0238_ProductOfArrayExceptSelf.cpp.obj"
   "E:/OneDrive/CodingInterview/LeetCode/src/P0260_SingleNumberIII.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0260_SingleNumberIII.cpp.obj"
+  "E:/OneDrive/CodingInterview/LeetCode/src/P0263_UglyNumber.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0263_UglyNumber.cpp.obj"
   "E:/OneDrive/CodingInterview/LeetCode/src/P0268_MissingNumber.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0268_MissingNumber.cpp.obj"
   "E:/OneDrive/CodingInterview/LeetCode/src/P0292_NimGame.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0292_NimGame.cpp.obj"
   "E:/OneDrive/CodingInterview/LeetCode/src/P0344_ReverseString.cpp" "E:/OneDrive/CodingInterview/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/src/P0344_ReverseString.cpp.obj"
